@@ -1,0 +1,69 @@
+[
+ {
+  "path": "boardbook/meetings/2026-09-29_769461_intergovernmental-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=769461",
+  "final_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=769461",
+  "status": 200,
+  "content_type": "text/html",
+  "bytes": 40753,
+  "error": "",
+  "fetched_at": "2026-10-25T22:05:10Z",
+  "title": "agenda"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-29_769461_intergovernmental-committee-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=769461",
+  "final_url": "https://meetings.boardbook.org/Documents/CustomMinutesForMeeting/915?meeting=769461",
+  "status": 200,
+  "content_type": "text/html",
+  "bytes": 32842,
+  "error": "",
+  "fetched_at": "2026-10-25T22:05:12Z",
+  "title": "minutes"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-29_769461_intergovernmental-committee-meeting/minutes_14593879.pdf",
+  "url": "/Documents/DownloadPDF/14593879?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14593879?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 92625,
+  "error": "",
+  "fetched_at": "2026-10-25T22:05:13Z",
+  "title": "minutes pdf"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-29_769461_intergovernmental-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=769461",
+  "final_url": "https://meetings.boardbook.org/Documents/CustomPublicNoticeForMeeting/915?meeting=769461",
+  "status": 200,
+  "content_type": "text/html",
+  "bytes": 32873,
+  "error": "",
+  "fetched_at": "2026-10-25T22:05:14Z",
+  "title": "public_notice"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-29_769461_intergovernmental-committee-meeting/public_notice_14474584.pdf",
+  "url": "/Documents/DownloadPDF/14474584?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14474584?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 212843,
+  "error": "",
+  "fetched_at": "2026-10-25T22:05:16Z",
+  "title": "public_notice pdf"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-29_769461_intergovernmental-committee-meeting/attachments/14496318_PPS_Lobby_Training_Sept_2026.pdf",
+  "url": "/Documents/DownloadPDF/14496318?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14496318?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 677822,
+  "error": "",
+  "fetched_at": "2026-10-25T22:05:17Z",
+  "title": "PPS Lobby Training Sept 2026",
+  "found_on": "3. Legislative Training with the Oregon School Board Association"
+ }
+]

@@ -1,0 +1,507 @@
+​ oard Policy 3.30.080-P: PPS Climate Crisis Response, Climate​
+B
+​Justice and Sustainable Practices Policy​
+
+​ ontents​
+C
+​Summary of Revisions – pp. 1-4​
+ ​Revisions in Context of Full Policy – pp. 5-11​
+
+
+
+​Summary of Revisions​
+​In the introduction:​
+
+        ​ urrent language:​
+        C
+        ​Our goal is for all students to be environmentally literate, and to understand the​
+         ​connections between their daily actions and the natural world​​by using community-based​
+          ​learning and civic action as a context for meeting academic goals described in the​
+           ​Graduate Portrait​​.​
+
+        ​ evise to:​
+        R
+        ​Our goal is for all students to be environmentally literate, and to understand the​
+         ​connections between their daily actions and the natural world​​, as well as the larger​
+          ​social, economic, and infrastructural systems that drive environmental change, climate​
+           ​disruption, and public health. The District supports students’ environmental literacy​​by​
+            ​using community-based learning and civic action as a context for meeting academic​
+             ​goals described in the​​Graduate Portrait​​.​
+
+
+​In Pillar 1, under Goal 1.3:​
+
+        ​ urrent language:​
+        C
+        ​1. Increase shade trees, green spaces, and de-pave projects, with highest priority in​
+         ​low-canopy neighborhood​​s​.​
+
+        ​ evise to:​
+        R
+        ​1. Increase shade trees, green spaces, and de-pave projects, with highest priority in​
+         ​low-canopy neighborhoods​​and Portland’s urban heat​​islands​​.​
+
+
+​In Pillar 2: Improve Health and Wellness, Goal 2.1:​
+
+        ​ urrent language:​
+        C
+        ​Goal 2.1: PPS will address climate-based impacts on health, safety, and wellness​
+         ​of its students and employees.​
+
+
+                                                                                               ​9/22/26​
+     ​1.​ ​Include climate change impacts, such as flooding, landslides, and wildfires, as​
+            ​risks in district real property asset assessment and management.​
+      ​2.​ ​Where possible, prioritize foods that are local, organic, seasonal, plant-based,​
+             ​minimally processed and/or minimally packaged, while meeting requirements of​
+              ​the USDA Child Nutrition Programs.​
+
+​ evise to:​
+R
+​Goal 2.1: PPS will address​​environmental health​​and​​climate-based impacts on​
+ ​health, safety, and wellness of its students and employees.​
+     ​1.​ ​Include climate change impacts, such as flooding, landslides, and wildfires, as​
+               ​risks in district real property asset assessment and management.​
+      ​2.​ ​Establish and regularly update emergency response plans for climate-related​
+                ​extreme events to prevent foreseeable facility damage and protect student and​
+                 ​staff safety. Develop public plans for ice storms and snow, wildfire smoke, and​
+                  ​flooding; maintain and improve current heat illness/extreme heat plans.​
+                   ​Protocols should include pre-event building preparation (such as shutting off​
+                    ​water mains and preparing HVAC systems for extreme conditions) and clear​
+                     ​communication with families and staff.​
+       ​3.​ ​Address excessive heat and cold in buildings through measures such as​
+                      ​installing new HVAC systems, restoring operable windows that were sealed up in​
+                       ​past decades, optimizing window restrictors to balance safety with effective heat​
+                        ​relief, adjusting window-use policies to allow overnight cooling during heat events​
+                         ​while maintaining security, expanding shade structures and trees, deploying​
+                          ​temporary heating and cooling systems, and other adaptive strategies that​
+                           ​protect health and learning. Generators for heating and cooling systems should​
+                            ​be electric and avoid fossil fuels to the maximum extent practicable.​
+        ​4.​ ​To protect health, equity, and learning, continuously improve indoor air quality by​
+                             ​pairing ventilation and in-room filtration. Use energy-efficient ways to increase​
+                              ​ventilation to a goal of 6 effective air changes per hour; use quiet, effective​
+                               ​in-room filtration strategies to provide more clean air and increase effective air​
+                                ​changes per hour beyond 6 and closer to 12. Do not purchase technologies​
+                                 ​marketed for air cleaning that lack the scientific evidence for safety and​
+                                  ​effectiveness that ventilation and filtration have. Examples include electronic air​
+                                   ​cleaning technologies and chemical room-fogging systems marketed as air​
+                                    ​cleaners, whether stand-alone or for installation in HVAC systems. Issue​
+                                     ​guidance to turn these features off when present in air purifiers.​
+         ​5.​ ​Transition air quality monitoring from a complaint-based system to installation of​
+                                      ​continuous, real-time, in-room sensors that provide publicly-available readings,​
+                                       ​including carbon dioxide, temperature, humidity, and PM​​2.5​​. Interim targets for​
+                                        ​parameters: <1000 ppm carbon dioxide, >60 degrees Fahrenheit, heat index <80​
+                                         ​degrees Fahrenheit, PM​​2.5​ ​under 5 µg/m³; long-term​​goals: <750 ppm carbon​
+                                          ​dioxide, 68-74 degrees Fahrenheit, strive for measuring airflows every 5 years.​
+                                           ​Use monitoring results as an opportunity for education and communication with​
+                                            ​staff, students, and community to deepen understanding of how indoor air quality​
+
+
+                                                                                                                  ​9/22/26​
+                  i​mpacts​​transmission of respiratory infections, asthma and allergy incidence,​
+                   ​cardiopulmonary health, cognitive performance, and student learning and​
+                    ​attendance​​; support timely action when parameters​​fall outside targets; and​
+                     ​reinforce practices that maintain healthy classroom environments.​
+            ​6.​ ​Where possible, prioritize foods that are local, organic, seasonal, plant-based,​
+                      ​minimally processed and/or minimally packaged, while meeting requirements of​
+                       ​the USDA Child Nutrition Programs.​
+
+
+
+
+​Under Glossary of Definitions, add the following definitions:​
+
+​ irflows:​​Volumes of outdoor air, total air, and air​​recirculated through MERV-rated filters per​
+A
+​unit time delivered to each room via the HVAC system measured via test, adjust, balance​
+ ​methods, and volumes of clean air per unit time delivered by in-room air filtration. Typically in​
+  ​cubic feet per minute, which can also be converted to air changes per hour or per-person rates.​
+
+​ ffective air changes per hour:​​A measure of how many​​times in one hour ventilation and​
+E
+​filtration systems deliver a volume of air equal to the size of the room. Effective air changes per​
+ ​hour include outdoor air from ventilation, recirculated air filtered through MERV-rated filters in​
+  ​HVAC systems, and in-room filtered air.​
+
+​ lectronic air cleaning technologies:​​Devices or features​​that use electricity, electric fields,​
+E
+​UV light, or other additive technologies to produce ions, charged airborne particles, activated​
+ ​metal catalysts, or other reactive compounds. Examples include bipolar ionization, corona​
+  ​discharge, electrostatic precipitators, ionizers, needle point discharge, ozone, photocatalytic​
+   ​oxidation, plasma, and reactive oxygen species. These technologies can unintentionally alter​
+    ​room chemistry and produce harmful contaminants, such as ultrafine particles, formaldehyde,​
+     ​and other volatile organic compounds.​
+
+I​n-room filtration:​​The process of moving air through​​mechanical fibrous filters in air purifiers​
+ ​located inside classrooms and other occupied school spaces in order to remove airborne​
+  ​particles and aerosols. Air purifiers that can provide in-room filtration have a measurable clean​
+   ​air delivery rate (the volume of clean air the device supplies per unit time) and include portable​
+    ​floor models, wall-mounted filters, table-top units, and furniture- or ceiling-integrated units.​
+     ​These devices may operate via electronic / digital control panels needing active management​
+      ​(daily turning on by staff or students) or with mechanical switch-based designs that can be​
+       ​paired with external timers or motion sensors to enable automatic operation.​
+
+​ M​​2.5​​:​​Fine particulate matter in air; a mix of inhalable​​solid particles and liquid droplets with​
+P
+​diameters of 2.5 micrometers or smaller. Sources of PM2.5 include vehicle exhaust, wildfires,​
+ ​wood burning for winter home heating, dust, mold, combustion from school boilers and heating​
+  ​equipment, cooking operations in school kitchens, and secondary formation from indoor​
+   ​chemical reactions.​
+
+
+                                                                                                  ​9/22/26​
+​ rban heat islands:​​Areas within cities that lack​​adequate vegetation and become significantly​
+U
+​hotter due to concrete and asphalt absorbing, retaining, and re-releasing heat.​
+
+​(See also:​​EPA EnviroAtlas Urban Heat Islands and​​Vulnerable Communities in Portland, OR​​)​
+
+​ entilation:​​The process of supplying and removing​​air within a building to maintain indoor air​
+V
+​quality; includes both outdoor air brought in through mechanical or natural ventilation systems​
+ ​and indoor air recirculated through MERV 13 or higher-rated filters to remove respiratory​
+  ​aerosols, particulates, and other filterable air pollutants.​
+
+
+
+
+                                                                                            ​9/22/26​
+​Revisions in Context of Full Policy​
+
+I​n response to the human-caused climate crisis currently underway and the direct harm being​
+ ​done to our District, society, and planet, Portland Public Schools (PPS) is committing to​
+  ​immediately mobilize resources for climate action. To this end, the District commits to reducing​
+   ​greenhouse gas (GHG) emissions and minimizing other negative environmental impacts;​
+    ​improving our school communities’ health and wellness; and building a culture of learning,​
+     ​responsibility, and sustainability centered on our values of racial equity and climate justice.​
+
+​ limate change disproportionately impacts the vulnerable members of our community.​
+C
+​Implementation of this policy will prioritize serving people with disabilities, communities of color,​
+ ​and other vulnerable populations.​
+
+​ he District aims to educate and empower students as leaders in the just transition to a​
+T
+​sustainable city and restorative society. Our goal is for all students to be environmentally literate,​
+ ​and to understand the connections between their daily actions and the natural world​​, as well as​
+  ​the larger social, economic, and infrastructural systems that drive environmental change,​
+   ​climate disruption, and public health. The District supports students’ environmental literacy​​by​
+    ​using community-based learning and civic action as a context for meeting academic goals​
+     ​described in the​​Graduate Portrait​​.​
+
+​ he District shall prioritize investments that achieve the greatest emissions reduction, while​
+T
+​integrating climate action into our curriculum and developing a culture of environmental​
+ ​stewardship and climate justice throughout our organization. Other efforts which have a lower​
+  ​impact on emissions and require major changes in infrastructure can be implemented over the​
+   ​longer term.​
+
+​Our two overarching objectives are:​
+
+       ​ missions Reduction:​​PPS will reduce its greenhouse​​gas emissions by 50 percent by​
+       E
+       ​2030, using the 2018-2019 school year baseline, and reach net zero emissions by 2040.​
+
+       ​ or the sake of emissions tracking, PPS will use a Scope 1 and Scope 2 analysis, which​
+       F
+       ​includes all emissions associated with the following: district-operated buses and fleet​
+        ​vehicles, and building energy use from both natural gas and electricity. In addition to​
+         ​Scope 1 and Scope 2, PPS will also track emissions associated with waste disposal​
+          ​(food waste, recycling, and landfill-bound garbage), which is defined as part of a Scope​
+           ​3 analysis.​
+
+       ​ ngagement, Resilience, and Wellness:​​The District​​will take steps to prepare schools​
+       E
+       ​for the effects of climate change, and will ensure staff and students learn about and​
+        ​engage in climate solutions, climate resiliency, and climate justice practices.​
+
+
+
+
+                                                                                               ​9/22/26​
+​ s the District works to meet these climate and sustainability goals and targets, it will maximize,​
+A
+​minimize, and take other actions to reduce carbon emissions and increase sustainable practices​
+ ​when alternatives exist that meet District standards, are aligned with carbon-reduction targets,​
+  ​are cost competitive over time, and available technology exists.​
+
+I​t should be noted that these goals are based on the following assumptions: technology in the​
+ ​electric vehicle market will advance significantly; the cost of electric school buses will come​
+  ​down significantly over the next 10-20 years; the District will continue to pass voter-approved​
+   ​bonds on a regular cycle to support infrastructure investment; and the District will allocate​
+    ​general fund budget to help reach these goals.​
+
+​ e will align our work with the U.S. Department of Education’s Green Ribbon School Pillars. In​
+W
+​accordance with those pillars, PPS is adopting the following goals:​
+
+​ illar 1: Reduce Environmental Impact and Costs​
+P
+​Goal 1.1: PPS will design and construct new low-carbon schools and renovations that are​
+ ​energy-efficient, resilient, and adaptable.​
+     ​1.​ ​Use appropriate industry standards (e.g. LEED Gold, Net-Zero ready, Oregon’s Energy​
+                 ​Ready Commercial Code) when designing new and modernized buildings.​
+      ​2.​ ​Prohibit the installation of fossil fuel infrastructure (gas-fired equipment) in all new​
+                  ​buildings.​
+       ​3.​ ​Phase out fossil fuel infrastructure (gas-fired equipment) in all existing buildings by 2050.​
+        ​4.​ ​Increase energy efficiency, maximize the use of renewable energy sources, and​
+                   ​minimize the use of fossil fuels.​
+         ​5.​ ​Limit the amount of refrigerants used. Manage existing refrigerants with best available​
+                    ​technology.​
+          ​6.​ ​Transition to building materials produced with less carbon and that are more sustainable.​
+           ​7.​ ​Design, renovate, and construct new facilities to improve resiliency to climate-related​
+                     ​emergencies.​
+
+​ oal 1.2: PPS will maximize reductions in Green House Gas emissions from district​
+G
+​operations, maintenance, and facilities management.​
+    ​1.​ ​Maximize efficiency in fuel, electricity, and water use.​
+     ​2.​ ​Establish standardized systems for waste prevention practices, including recycling and​
+            ​food waste reduction at campuses.​
+      ​3.​ ​Minimize disposable materials.​
+
+​ oal 1.3: PPS will maximize the carbon sequestration potential and other environmental​
+G
+​benefits of green school yards and increase the ability of school grounds to adapt to​
+ ​climate extremes.​
+      ​1.​ ​Increase shade trees, green spaces, and de-pave projects, with highest priority in​
+              ​low-canopy neighborhoods​​and Portland’s urban heat​​islands​​.​
+       ​2.​ ​Maximize onsite stormwater management in compliance with city code.​
+        ​3.​ ​Establish green school yard plans to care for school grounds.​
+
+
+                                                                                                 ​9/22/26​
+    ​4.​ ​Phase out gas-powered equipment used for grounds maintenance.​
+
+​ oal 1.4: PPS will minimize greenhouse gas emissions from student and staff​
+G
+​transportation, including transitioning to electric or low-emission vehicles.​
+     ​1.​ ​Establish school-based infrastructure and support for staff and students to walk, bike,​
+             ​bus or telecommute, in order to reduce single-occupant car commuting.​
+      ​2.​ ​Transition PPS and contracted vehicle fleet to electric or low emissions or renewable​
+              ​fuels. Work with industry, utilities, and the state and federal governments to reduce the​
+               ​costs of shifting towards electric or low-emission vehicles.​
+       ​3.​ ​Educate and communicate to students, parents and staff about benefits of and​
+                ​opportunities to reduce single-occupant car commuting and idling.​
+
+​ oal 1.5: PPS will reduce the demand for new materials and resources, and procure​
+G
+​materials, products, and services in a manner that integrates climate considerations,​
+ ​fiscal responsibility, and equity priorities.​
+      ​1.​ ​Where applicable, use best practices related to Environmentally Preferable Purchasing​
+              ​for centralized, formally solicited purchases, and provide tools and guidance to schools​
+               ​to support sustainable, climate-preferred product and services purchasing.​
+       ​2.​ ​Transition to increased electronic communication and reduce paper copying and​
+                ​maximize recycled content in paper used.​
+        ​3.​ ​PPS will produce a report at least annually of PPS investments in fossil fuels with​
+                 ​information that, in light of state-mandated investments, is reasonably accessible and​
+                  ​available to it. Investments in state investment funds will be reported, recognizing that​
+                   ​the Oregon State Treasury controls the decision-making for state investment funds.​
+
+​ illar 2: Improve Health and Wellness​
+P
+​Goal 2.1: PPS will address​​environmental health and​​climate-based impacts on health,​
+ ​safety, and wellness of its students and employees.​
+     ​1.​ ​Include climate change impacts, such as flooding, landslides, and wildfires, as risks in​
+             ​district real property asset assessment and management.​
+      ​2.​ ​Establish and regularly update emergency response plans for climate-related extreme​
+              ​events to prevent foreseeable facility damage and protect student and staff safety.​
+               ​Develop public plans for ice storms and snow, wildfire smoke, and flooding; maintain and​
+                ​improve current heat illness/extreme heat plans. Protocols should include pre-event​
+                 ​building preparation (such as shutting off water mains and preparing HVAC systems for​
+                  ​extreme conditions) and clear communication with families and staff.​
+       ​3.​ ​Address excessive heat and cold in buildings through measures such as installing new​
+                   ​HVAC systems, restoring operable windows that were sealed up in past decades,​
+                    ​optimizing window restrictors to balance safety with effective heat relief, adjusting​
+                     ​window-use policies to allow overnight cooling during heat events while maintaining​
+                      ​security, expanding shade structures and trees, deploying temporary heating and cooling​
+                       ​systems, and other adaptive strategies that protect health and learning. Generators for​
+                        ​heating and cooling systems should be electric and avoid fossil fuels to the maximum​
+                         ​extent practicable.​
+
+
+                                                                                                      ​9/22/26​
+    ​4.​ ​To protect health, equity, and learning, continuously improve indoor air quality by pairing​
+            ​ventilation and in-room filtration. Use energy-efficient ways to increase ventilation to a​
+             ​goal of 6 effective air changes per hour; use quiet, effective in-room filtration strategies​
+              ​to provide more clean air and increase effective air changes per hour beyond 6 and​
+               ​closer to 12. Do not purchase technologies marketed for air cleaning that lack the​
+                ​scientific evidence for safety and effectiveness that ventilation and filtration have.​
+                 ​Examples include electronic air cleaning technologies and chemical room-fogging​
+                  ​systems marketed as air cleaners, whether stand-alone or for installation in HVAC​
+                   ​systems. Issue guidance to turn these features off when present in air purifiers.​
+     ​5.​ ​Transition air quality monitoring from a complaint-based system to installation of​
+                    ​continuous, real-time, in-room sensors that provide publicly-available readings, including​
+                     ​carbon dioxide, temperature, humidity, and PM​​2.5​​.​ ​Interim targets for parameters: <1000​
+                      ​ppm carbon dioxide, >60 degrees Fahrenheit, heat index <80 degrees Fahrenheit, PM​​2.5​
+                       ​under 5 µg/m³; long-term goals: <750 ppm carbon dioxide, 68-74 degrees Fahrenheit,​
+                        ​strive for measuring airflows every 5 years. Use monitoring results as an opportunity for​
+                         ​education and communication with staff, students, and community to deepen​
+                          ​understanding of how indoor air quality impacts​​transmission​​of respiratory infections,​
+                           ​asthma and allergy incidence, cardiopulmonary health, cognitive performance, and​
+                            ​student learning and attendance​​; support timely action​​when parameters fall outside​
+                             ​targets; and reinforce practices that maintain healthy classroom environments.​
+      ​6.​ ​Where possible, prioritize foods that are local, organic, seasonal, plant-based, minimally​
+                              ​processed and/or minimally packaged, while meeting requirements of the USDA Child​
+                               ​Nutrition Programs.​
+
+​ oal 2.2: PPS will support frontline student communities to build resilience from climate​
+G
+​change induced stresses and support preparation for and recovery from these events.​
+    ​1.​ ​PPS will coordinate with state, regional, and local jurisdictions and community-based​
+           ​organizations to communicate with and support PPS students and families during​
+            ​climate-related events and natural disasters, such as wildfires, flooding, drought, heat​
+             ​waves, extreme winter storms, extreme wind events. The District will make available its​
+              ​facilities, as appropriate, during community response efforts to climate events.​
+     ​2.​ ​Incorporate climate justice priorities and climate resiliency design to inform long-term​
+               ​facility planning. Plans should prioritize serving people with disabilities and frontline​
+                ​communities.​
+
+​ illar 3: Provide Effective Environmental and Sustainability Education​
+P
+​Goal 3.1: PPS will empower staff as allies for a healthy climate.​
+     ​1.​ ​Provide learning opportunities for staff on climate science/climate justice.​
+      ​2.​ ​Continuously collaborate with staff to utilize sustainability practices in the performance of​
+            ​their work and provide information, support, and tools to help implement those practices.​
+
+​ oal 3.2: With guidance from frontline students and communities, PPS will develop​
+G
+​curricular learning opportunities, so PPS graduates know the causes and consequences​
+
+
+
+
+                                                                                                           ​9/22/26​
+​ f climate change, understand climate justice, and have opportunities to practice climate​
+o
+​solutions.​
+     ​1.​ ​Develop and deliver curriculum and resources to help students understand, prepare for,​
+             ​and respond to climate change impacts.​
+      ​2.​ ​Teaching and learning about climate change will recognize and support the emotional​
+              ​and other impacts of climate change on individuals.​
+       ​3.​ ​Provide opportunities for students to probe the underlying causes of the climate crisis​
+               ​and the structural racism embedded in climate change due to actions by majority white​
+                ​countries with disproportionate negative burdens and impacts on people of color, and to​
+                 ​understand the dynamic nature of complex systems and how they change, and​
+                  ​opportunities for them to practice using systems thinking to inform their choices.​
+
+​ oal 3.3: PPS staff will collaborate with students to create opportunities to engage youth​
+G
+​in hands-on climate learning, preparation, and practice on a regular basis at all PPS​
+ ​schools.​
+     ​1.​ ​Support development of youth leadership and engagement opportunities around climate​
+              ​solutions, prioritizing opportunities for students from frontline communities.​
+      ​2.​ ​Support student-led climate justice, climate action, and climate resiliency initiatives.​
+       ​3.​ ​Treat the grounds and garden of each school as a learning space and involve students​
+               ​in nature-based grounds improvements and design. Support opportunities for students in​
+                ​every PPS elementary school to learn in a designated outdoor learning space.​
+        ​4.​ ​Support students in their ongoing and critical role as climate response, climate justice,​
+                 ​and sustainability advocates.​
+
+                           ​CLIMATE CRISIS RESPONSE COMMITTEE​
+
+​ o monitor effective implementation, transparency, and tracking of progress, PPS will establish a​
+T
+​committee of no more than nine persons that is made up of a majority of members who identify​
+ ​as people of color, and two members who are current PPS students. The Board shall approve​
+  ​the Charter for and members of the Committee. The Committee will convene no less than​
+   ​quarterly and will report to the Board on an annual basis the progress the District is making​
+    ​under the policy directives. The Committee informs and advises the Board but does not have​
+     ​decision-making authority.​
+
+                                       ​Glossary of Definitions​
+
+​ cope 1 Emissions:​​direct greenhouse (GHG) emissions​​that occur from sources that are​
+S
+​controlled or owned by an organization (e.g., emissions associated with fuel combustion in​
+ ​boilers, furnaces, water heaters, vehicles).​
+
+​ cope 2 Emissions:​​indirect GHG emissions associated​​with the purchase of electricity, steam,​
+S
+​heat, or cooling. Although scope 2 emissions physically occur at the facility where they are​
+ ​generated, they are accounted for in an organization’s GHG inventory because they are a result​
+  ​of the organization’s energy use.​
+
+
+                                                                                                ​9/22/26​
+​ cope 3 Emissions:​​the result of activities from assets​​not owned or controlled by the reporting​
+S
+​organization, but that the organization indirectly impacts in its value chain. Scope 3 emissions​
+ ​include all sources not within an organization’s scope 1 and 2 boundary. The scope 3 emissions​
+  ​for one organization are the scope 1 and 2 emissions of another organization. Scope 3 emission​
+   ​sources include emissions both upstream and downstream of the organization’s activities.​
+
+​(Scope emissions defined by​​EPA Center for Corporate​​Climate Leadership Home​​)​
+
+​ irflows:​​Volumes of outdoor air, total air, and air​​recirculated through MERV-rated filters per​
+A
+​unit time delivered to each room via the HVAC system measured via test, adjust, balance​
+ ​methods, and volumes of clean air per unit time delivered by in-room air filtration. Typically in​
+  ​cubic feet per minute, which can also be converted to air changes per hour or per-person rates.​
+
+​ ffective air changes per hour:​​A measure of how many​​times in one hour ventilation and​
+E
+​filtration systems deliver a volume of air equal to the size of the room. Effective air changes per​
+ ​hour include outdoor air from ventilation, recirculated air filtered through MERV-rated filters in​
+  ​HVAC systems, and in-room filtered air.​
+
+​ lectronic air cleaning technologies:​​Devices or features​​that use electricity, electric fields,​
+E
+​UV light, or other additive technologies to produce ions, charged airborne particles, activated​
+ ​metal catalysts, or other reactive compounds. Examples include bipolar ionization, corona​
+  ​discharge, electrostatic precipitators, ionizers, needle point discharge, ozone, photocatalytic​
+   ​oxidation, plasma, and reactive oxygen species. These technologies can unintentionally alter​
+    ​room chemistry and produce harmful contaminants, such as ultrafine particles, formaldehyde,​
+     ​and other volatile organic compounds.​
+
+​ easible:​​capable of being done or carried out. Feasibility​​will include the following factors:​
+F
+​economics/available funding and appropriate trade-offs (i.e. the district will not spend general​
+ ​funds on energy efficiency if it is in lieu of incremental staffing in schools).​
+
+​ rontline Communities:​​Communities that experience​​continuing injustice—including people of​
+F
+​color, immigrants, people with lower incomes, those in rural areas, and indigenous people—and​
+ ​face a legacy of systemic, largely racialized, inequity that influences their living and working​
+  ​places, the quality of their air and water, and their economic opportunities.​
+
+I​n-room filtration:​​The process of moving air through​​mechanical fibrous filters in air purifiers​
+ ​located inside classrooms and other occupied school spaces in order to remove airborne​
+  ​particles and aerosols. Air purifiers that can provide in-room filtration have a measurable clean​
+   ​air delivery rate (the volume of clean air the device supplies per unit time) and include portable​
+    ​floor models, wall-mounted filters, table-top units, and furniture- or ceiling-integrated units.​
+     ​These devices may operate via electronic / digital control panels needing active management​
+      ​(daily turning on by staff or students) or with mechanical switch-based designs that can be​
+       ​paired with external timers or motion sensors to enable automatic operation.​
+
+
+                                                                                               ​9/22/26​
+​ M​​2.5​​:​​Fine particulate matter in air; a mix of inhalable​​solid particles and liquid droplets with​
+P
+​diameters of 2.5 micrometers or smaller. Sources of PM2.5 include vehicle exhaust, wildfires,​
+ ​wood burning for winter home heating, dust, mold, combustion from school boilers and heating​
+  ​equipment, cooking operations in school kitchens, and secondary formation from indoor​
+   ​chemical reactions.​
+
+​ ystems Thinking:​​a holistic approach to analysis​​that focuses on the way that a system's​
+S
+​constituent parts interrelate and how systems work over time.​
+
+​ rban heat islands:​​Areas within cities that lack​​adequate vegetation and become significantly​
+U
+​hotter due to concrete and asphalt absorbing, retaining, and re-releasing heat.​
+
+​(See also:​​EPA EnviroAtlas Urban Heat Islands and​​Vulnerable Communities in Portland, OR​​)​
+
+​ entilation:​​The process​​of supplying and removing air within a building to maintain indoor air​
+V
+​quality; includes both outdoor air brought in through mechanical or natural ventilation systems​
+ ​and indoor air recirculated through MERV 13 or higher-rated filters to remove respiratory​
+  ​aerosols, particulates, and other filterable air pollutants.​
+
+
+
+
+                                                                                                  ​9/22/26​
+

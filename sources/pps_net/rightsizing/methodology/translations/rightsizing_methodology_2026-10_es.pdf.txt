@@ -1,0 +1,243 @@
+        RIGHTSIZE. RIGHT SUPPORTS. RIGHT FOR STUDENTS.
+
+
+
+
+        Methodology
+        How Portland Public Schools developed the proposed changes:
+        the data behind the model, the criteria the district weighed, and
+        how those criteria were applied region by region.
+
+
+
+ Resumen
+
+ Los cambios propuestos fueron desarrollados por los líderes del distrito y el personal de
+ planificación del distrito, guiándose por un conjunto de criterios que reflejan lo que el
+ distrito trata de lograr: escuelas lo suficientemente grandes como para ofrecer programas
+ estables, con recursos adecuados, edificios que se usen correctamente y comunidades
+ escolares que se mantengan unidas, en la medida de lo posible, durante los cambios.
+
+
+ Estos criterios suelen generar fuerzas en diferentes direcciones. Mantener a la comunidad
+ escolar unida puede requerir un cambio más amplio en los límites. Consolidar un pequeño
+ programa de inmersión prolongar los viajes de algunos estudiantes. Por esa razón, se
+ sopesaron los criterios entre sí en lugar de aplicarlos como categorías fijas, y el equilibrio
+ alcanzado varía de una zona de la ciudad a otra, ya que las condiciones difieren.
+
+
+ Se elaboraron dos escenarios, que difieren principalmente en cuántas escuelas se cierran.
+ Un escenario que cierra menos escuelas afecta a menos familias y modifica menos límites,
+ pero deja más escuelas con una inscripción por debajo de la necesaria para ofrecer una
+ programación estable y con todos los recursos. Un escenario que cierra más escuelas hace
+ lo opuesto.
+
+
+
+Portland Public Schools · pps.net/rightsizing                     How the proposed changes were developed
+ Conjuntos de datos y estructura
+
+ El modelo usa los siguientes conjuntos de datos estructurados en cuatro variables de
+ entrada principales y una salida unificada.
+
+
+    DATA SOURCE              ORIGIN / FORMAT           DESCRIPTION & OPERATIONAL PURPOSE
+
+
+     1.Proyecciones          Centro de Investigación   Las proyecciones de inscripción oficial a 10 años se
+     básicas                 Demográfica de la         discriminaron por escuela, grupo (tipo de
+                             Universidad Estatal de    programa/residencia), grado (PK a 12.º) y año
+                             Portland                  Año de referencia: 2025-26 (inscripción real)
+                                                       Proyecciones hasta 2031-32
+
+                                                       Medidas de política definidas por el usuario (p. ej.,
+     2.Configuració          Administración de la
+                                                       “Fusionar la Escuela A con la Escuela B” o “Transicionar
+     n del escenario         Oficina Central de las
+                                                       la Escuela C a una K-5”) que especifican porcentajes de
+                             Escuelas Públicas de
+                                                       traslados, niveles escolares, año de implementación y
+                             Portland
+                                                       si la implementación será gradual o inmediata
+
+                                                       Matriz desagregada que muestra cómo los
+     3.Proporciones          Promedios históricos
+                                                       estudiantes inscriptos en escuelas y programas
+     históricas              de 3 años de las PPS
+                                                       específicos se redistribuyen naturalmente dentro de
+                                                       los límites de su vecindario, lo que permite cierres de
+                                                       1 escuela que afectan a muchas escuelas
+    4.Datos sobre la                                   Cifras estandarizadas sobre capacidad de los
+                             Operaciones de las
+      capacidad de                                     edificios, cantidad de aulas, superficie en pies
+                             Instalaciones de las
+      las                                              cuadrados y tasas de utilización de referencia, según
+                             PPS
+      instalaciones                                    el modelo de Utilización del Distrito.
+
+                                                       Ubicación de almacenamiento centralizada que
+     5. Salida               Tabla de resultados
+                                                       alimenta paneles de Power BI para su visualización
+     unificada
+                                                       en tiempo real y el análisis comparativo de
+                                                       escenarios. Todas las salidas provienen de la misma
+                                                       fuente, lo que garantiza la precisión de los informes.
+
+
+
+
+Portland Public Schools · pps.net/rightsizing                                                  Data Sets and Structure
+  Metodología
+
+  Las Portland Public Schools (PPS) están abordando la disminución prolongada de las
+  inscripciones, lo que ha generado experiencias educativas diversas para los estudiantes
+  durante este proceso de reestructuración. La meta es crear escuelas que sean capaces de
+  hacer frente a las fluctuaciones en la inscripción y proporcionar de manera constante
+  entornos de aprendizaje más equitativos para los estudiantes. Estas decisiones incluyen:
+
+
+                                                         Transicionar escuelas K8 a escuelas
+             Cierre de escuelas                          K5 y asignar a los estudiantes de los
+                                                         grados intermedios a las escuelas
+                                                         intermedias existentes
+
+
+             Consolidar los programas de                 Rediseñar los límites de los
+             Inmersión en Dos Idiomas (DLI)              vecindarios
+
+
+
+             Cierre de programas de                      Traslado de programas para ubicarlos
+             enfoque                                     junto con otros programas
+
+
+
+
+  Para entender la escala de cambio requerida, hemos modelado dos escenarios, uno en el
+  cual la mitad de nuestras escuelas llegan a niveles de inscripción sostenibles, y otro en el
+  cual el setenta por ciento lo hará para 2031-32
+
+
+
+
+Portland Public Schools · pps.net/rightsizing                                            Methodology
+  Esquema de criterios
+
+  Para identificar qué escuelas se verían afectadas, las PPS sopesaron múltiples factores. Si
+  bien los criterios considerados se sostuvieron en las distintas regiones, prioridades
+  diferentes surgieron según la ubicación. Se enumeran a continuación.
+
+
+
+     Criterios                                  Meta
+
+     Consolidar los programas de                  No más de un programa de DLI del mismo idioma por
+     Inmersión                                    región
+     en Dos Idiomas de modo que
+     cada recorrido lingüístico sea
+     sostenible
+
+
+     Umbral de inscripción                        Para fines del año escolar 2031-32
+     sostenible de modo                           Escuelas primarias: 360 estudiantes
+      que cada escuela pueda ofrecer              Escuelas intermedias y escuelas K8: 500 estudiantes
+     experiencias de aprendizaje estables
+                                                  Escuelas secundarias: 1,100 estudiantes
+     y comparables
+
+     Minimizar la cantidad de                     Si un establecimiento escolar se cierra tratar de que los
+     escuelas receptoras en caso de               estudiantes se trasladen juntos a un mismo establecimiento
+     cierre                                       nuevo cuando sea posible, y no trasladarlos a más de dos
+     para mantener unidas a las                   escuelas nuevas.
+     comunidades escolares
+
+     Minimizar los cambios de límites             Apoyar el mantenimiento de cohortes de estudiantes que
+                                                  avancen juntos por el sistema y minimizar las
+     a la menor cantidad de
+                                                  perturbaciones en los vecindarios locales
+     estudiantes posible
+
+
+     Dar cuenta de las mejoras                    Usar los edificios escolares que hayan recibido mejoras
+     edilicias                                    recientes o tengan mejoras planificadas en la medida de lo
+     de modo que los estudiantes                  posible
+     aprendan en un entorno físico de la
+     mayor calidad
+
+
+
+
+Portland Public Schools · pps.net/rightsizing                                                  Criteria Framework
+  Criteria Framework
+
+
+     Criterios                                  Meta
+
+     Reducir los límites                        Para promover rutas más seguras a las escuelas y minimizar las
+     de modo que los estudiantes                distancia entre los estudiantes y sus escuelas, identificar el
+     puedan acceder a escuelas                  porcentaje de estudiantes que viven dentro de 1.0 milla de
+     cerca del lugar donde viven                una escuela primaria y de 1.5 millas de una escuela intermedia.
+
+     Optimizar el uso de las                    Usar los edificios de manera eficiente para respaldar la
+     instalaciones existentes                   programación académica y la viabilidad operativa a largo
+     de modo que los edificios se               plazo
+     puedan adaptar a un                        Entre el 70% y el 100%
+     crecimiento futuro y a la
+     programación académica
+     Revisar los datos
+     demográficos de las                        ¿Los cambios que están experimentando los estudiantes
+                                                reflejan los datos demográficos generales de nuestro distrito?
+     escuelas
+    para describir quiénes se
+    benefician y quiénes se ven
+    afectados por los cambios s
+
+     Minimizar las asignaciones                 Aumentar el número de grupos de estudiantes que se trasladan
+     divididas                                  juntos de un nivel escolar al siguiente, por ejemplo, todos los
+     para que las cohortes de                   estudiantes de una escuela intermedia se trasladan a la misma
+     estudiantes puedan avanzar                 escuela secundaria
+     por [cut out text]
+
+
+
+
+Portland Public Schools · pps.net/rightsizing                                                        Criteria Framework
+  Criterios de aplicación
+
+  El equipo de datos y modelado incluyó todas las escuelas y los programas del distrito. A
+  medida que se modelaron los cambios, se fueron considerando por región. Cada región se
+  formó en función de dos zonas de asistencia a escuelas secundarias adyacentes. Las cuatro
+  regiones incluyen Ida B. Wells y Lincoln en el oeste, Jefferson y Roosevelt en el norte, Grant
+  y MacDaniel en el noreste, y Cleveland y Franklin en el sudeste. Los factores principales que
+  impulsaron el desarrollo de los escenarios fueron estabilizar las escuelas primarias e
+  intermedias, establecer recorridos claros de inmersión en dos idiomas y reducir la cantidad
+  de patrones de asignación divididos. Después, cada una de esas escuelas se comparó con
+  las demás escuelas de la misma región usando los criterios anteriores. El resultado es un
+  conjunto de recomendaciones delineado no solo por la comparación entre la inscripción
+  actual de una escuela y su umbral sostenible, sino por el conjunto completo de prioridades
+  que el distrito se comprometió a sopesar.
+
+
+
+
+      Factores que se mantuvieron iguales durante todo el modelado:
+      cantidad de plazas de kínder disponibles para la inmersión en dos idiomas, idiomas
+      ofrecidos en los programas de inmersión en dos idiomas, plazas disponibles en
+      ACCESS, Benson, da Vinci y Winterhaven, y no se incluyen las escuelas o los
+      programas con requisitos de ingreso específicos, como DART.
+
+
+
+
+  Supuestos de inscripción de los escenarios
+
+  En cada escenario, la implementación comienza con el año escolar 2027-2028 y finaliza con
+  todos los cambios completados para el inicio del año escolar 2028-2029. Los escenarios
+  suponen que la cantidad de estudiantes proyectada por PSU estará inscripta en las PPS
+  durante todos los años.
+
+
+
+
+Portland Public Schools · pps.net/rightsizing             Applying Criteria · Scenario Enrollment Assumptions
+

@@ -67,5 +67,10 @@ Resolution 7391 - Adoption of the Minutes
 9. 9:05 pm - Other Business, Committee Referrals, and Future Agenda Items
 10. 9:10 pm - Adjourn
 11. Superintendent's Report
+Attachments:
+(
+1
+)
+Superintendent Board Report 10.20.26
 Web Viewer
 << Back to the Public Page for Portland Public Schools

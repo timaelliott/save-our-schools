@@ -1,0 +1,249 @@
+      RIGHTSIZE. RIGHT SUPPORTS. RIGHT FOR STUDENTS.
+
+
+
+
+      Methodology
+      How Portland Public Schools developed the proposed changes:
+      the data behind the model, the criteria the district weighed, and
+      how those criteria were applied region by region.
+
+
+
+Guudmar
+
+Isbedellada lasoo jeediyey waxa diyaariyey hogaamiyeyaasha degmada iyo shaqaalaha
+qorshaynta degmada, iyada oo lagu saleeyey shuruudo ka turjumaya waxa ay degmadu
+doonayso inay xaqiijiso: dugsiyo xajmigoodu ku filan yahay inay bixiyaan barnaamijyo
+xasilan, oo khayraadku ku filan yahay, dhismeyaal si wacan loo adeegsado, iyo ilaalinta isku
+duubnida bulshooyinka dugsiga intii suuragal ah wakhtiga isbedelka.
+
+
+Shuruudahani badanaa waxa ay u jihaystaan jihooyin kala duwan. Isku haynta bulshada
+dugsigu waxa ay u baahan kartaa isbeddel xuduudda dugsiga ah oo ka ballaadhan sidii
+hore. Isku-darka darka barnaamij isdhexgelin oo yar waxa uu dheerayn karaa safarka ardayda
+qaar. Sababtaas awgeed, shuruudaha waa la isku miisaamay halkii loo dabbiqi lahaa sidii
+hormayn sugan, isku dheellitirka la gaadhayna waa ay ku kala duwan yihiin daafaha
+magaaladu, maadaama oo duruufuhu kala duwan yihiin.
+
+
+Laba sinaariyo ayaa la sameeyey, kuwaas oo farqigooda ugu muhiimsani uu yahay inta dugsi
+ee ay xidhayaan. Sinaariyada xidha tiro dugsiyo ah oo ka yar ta kale waxa ay saameysaa tiro
+qoysas ah oo ka yar ta kale waxa ay beddeshaa xuduudo dugsi oo ka yar ta kale, balse waxa
+ay keentaa in dugsiyo badan ay gaadhi waayaan heerkii isdiiwaangelinta ee dugsi uu ku
+bixin kari lahaa barnaamijyo xasilan, oo khayraadku u dhan yihiin. Sinaariyada xidha dugsiyo
+badani iyadu waxa ay samaysaa taas caksigeeda.
+
+
+Portland Public Schools · pps.net/rightsizing                  How the proposed changes were developed
+ Kooxaha iyo Qaabdhismeedka Xogta
+
+ Nidaamku waxa uu adeegsadaa kooxaha xogta ee soo socda kuwaas oo loo
+ qaabeeyey afar xog-gelinood oo aasaasi ah iyo hal xog-helid oo midaysan.
+
+
+ Khayraadka Xogta            Asalka / Qaabka        Sharaxaadda & Ujeeddada Hawlgalka
+
+                                                    Saadaalaha isdiiwaangelinta rasmiga ah ee muddo 10-
+     1. Saadaalaha           Xarunta
+                                                    sano ah oo lagu kala saaray dugsiyada, kooxaha (nooca
+     Bud-dhigga ah           Cilmibaadhista
+                                                    barnaamijka/deganaanshiyaha), fasalka (PK-12), iyo
+                             Bulshada Jaamacadda
+                                                    sanadkaSanadka bud-dhigga ah: 2025-26 (isdiiwaangelin
+                             Gobolka Portland
+                                                    dhab ah)Saadaalaha illaa 2031-32
+
+
+                                                    Tallaabooyinka siyaasadda ee adeegsaduhu-qeexay
+     2. Qaabaynta            Maamulka Xafiiska      (sida, "Dusiga A Dhexgeli Dugsiga B" ama "U
+     Sinaariyada             Dhexe ee Dugsiyada     Wareejinta Dugsiga C K-5") taas oo faahfaahinaysa
+                             Dadweynaha Portland    boqolleyda la wareejinayo, heerarka fasallada, sanadka
+                                                    dhaqangelinta, iyo in si tallaabo-tallaabo ah loo
+                                                    dhaqangelinayo iyo in halmar la dhaqangelinayo
+                                                    Shax faahfaahsan oo muujinaysa sida ardayda ka
+     3. Saamiyada            Celcelisyada
+                                                    diiwaangashan dugsiyo iyo barnaamijyo gaar ah
+     Taariikhiga ah          Taariikhiga ah ee 3-
+                                                    caadi ahaan dib loogu baahiyo xuduudaha
+                             Sano ee PPS
+                                                    xaafadahoda, taas oo taageeraysa xidhitaanada 1-
+                                                    iyo-wixii ka badan
+
+                                                    Tirooyin awoodda-qaad ee dhismaha ah oo
+     4. Xogta                Hawlgallada
+                                                    jaango'an, tirada fasallada, cabbirka masaaxadda oo
+     Awoodda-qaad            Xarumaha PPS
+                                                    ah fuudh isku wareeg ah, iyo heerarka adeegsiga
+     ee Xarunta
+                                                    tixraaca ah ee ku jira nidaamka Adeegsiga Degmada.
+                                                    Keyd dhexe oo xogta lagu kaydiyo oo quudiya
+     5. Xog-Helid            Jadwalka Natiijada     dashboards ka Power BI si loo sameeyo muuqaal-
+     Midaysan                                       sameyn wakhtiga dhabta ah iyo falanqayn siinaariyo
+                                                    isbarbardhigeed. Dhammaan xog-heliddu waxa ay ka
+                                                    timaadda isla hal khayraad si loo xaqiijiyo saxnaanta
+                                                    warbixinta.
+
+
+
+
+Portland Public Schools · pps.net/rightsizing                                             Data Sets and Structure
+  Habraaca
+
+  Dugsiyada Dadweynaha Portland (PPS) waxa ay wax ka qabanaysaa isdiiwaangelinta sii
+  yaraanaysa ee dabadheeraatay taas oo keentay kala duwanaanta khibradaha waxbarasho ee
+  ardayda iyada oo u maraysa hannaanta isku-jaangoynta. Yoolku waa in la abuuro dugsiyo
+  awood u leh inay xamilaan isbedbedellada isdiiwaangelinta isla markaana si joogto ah u
+  siiya bay'ado waxbarasho oo loo siman yahay ardayda. Go'aanadan waxa kamid ah:
+
+
+                                                      U wareejinta dugsiyada K8 dugsiyada
+             Xidhitaanka dugsiyo                      K5 iyo u qoondeynta ardayda
+                                                      fasallada dhexe dugsiyada dhexe ee
+                                                      jira
+
+
+             Isku darka barnaamijyada                 Wax ka beddelka xuduudaha dugsiga
+             Isdhexgelinta Laba                       ee xaafadaha
+             Luuqadood (DLI)
+
+
+             Barnaamijyada diiradda                   U wareejinta barnaamijyada si loogu
+             gaarka ah saara xiritaanka               raadiyo barnaamijyo kale
+
+
+
+
+  Si loo fahmo baaxadda isbeddelka loo baahan yahay, waxa aanu dejinay laba sinaariyo, mid
+  kala badh dugsiyadeenu ay gaadhaan heerar isdiiwaangelin oo la joogteyn karo, iyo mid
+  boqolkiiba toddobaatan ay sidaas sameeyaan ugu dambeyn 2031-32
+
+
+
+
+Portland Public Schools · pps.net/rightsizing                                       Methodology
+  Habaca Shuruudahara
+
+  Si ay u go'aamiso dugsiyada ay saameyntu soo gaadhi doonto, PPS waxa ay miisaantay
+  dhawr qodob. In kasta oo shuruudda la tixgeliyey ay ka wada jireen dhammaan aagagga
+  haddana mudnaano kala duwan ayaa soo baxay iyada oo ku xidhan goobta. Waxa ay ku liis
+  gareysan yihiin hoos.
+
+
+     Shuruudda                                  Yoolka
+
+
+     Isku-darka Barnaamijyada                     Looma ogola wax ka badan hal barnaamij DLI isku- luuqad
+     Isdhexgelinta Laba Luuqadood                 ah aaggiiba
+     si dhabbo luuqadeed oo kasta
+     loo joogteyn karo
+
+     Xadka Isdiiwaangelinta La
+                                                  Marka la gaadho sanad dugsiyeedka 2031-32
+     Joogteyn Karo si dugsi waliba
+                                                  Dugsiyada Hoose: 360 arday
+     uu u bixin karo khibrado
+     waxbarsaho oo xasilan oo isku                Dugsiyada dhexe iyo dugsiyada K8: 500 oo arday
+     dhigmi kara                                  Dugsiyada sare: 1,100 oo arday
+
+
+     Yareynta Tirada Dugsiyada
+                                                  Haddii goob dugsi la xidho isku day inaad ardayda isku
+     Ardayda Loo Wareejinayo                      raaciso hal goob oo cusub marka ay suuragalka tahay hana
+     Xidhitaanka awgii si loo ilaaliyo            u wareejin wax ka badan laba goobood oo cusub.
+     isku duubnida bulshooyinka
+     dugsiyada
+
+     Yareynta Isbedellada
+                                                  Taageer joogteynta kooxaha ardayda ah ee si wadajir ah u
+     Xuduudaha Dugsiga si looga
+     dhigo tirada ugu yar ee arday ah             dhex soconaya nidaaamka iyo yareynta rabashka ku
+     ee suuragal ah                               imanaya xaafadaha deegaanka
+
+
+
+     Tixgeli Horumarinada Xarumaha                Adeegso dhismeyaasha dugsiyada ee dhawaan
+     si ardaydu ay wax ugu bartaan                horumarinada lagu sameeyey ama loo qorsheeyey
+     bay'adda deegaan ee ugu tayada               horumarino illaa intii suuragal ah
+
+     saraysa
+
+
+
+
+Portland Public Schools · pps.net/rightsizing                                                 Criteria Framework
+  Habaca Shuruudahara
+
+
+    CRITERIA                                    GOAL
+
+                                                Si aad u dardargeliso dhabbooyin ammaan ah oo loo maro
+    Isku Dhawee Xuduudaha
+                                                dugsiga isla markaana aad u yareyso masaafadda u dhaxaysa
+    Dugsiyeed si ardaydu ay u
+                                                ardayda iyo dugsiyadooda, ogow boqolleyda ardayda ah ee
+    heli karaan dugsiyada u dhaw
+                                                ku nool meel dugsiga hoose u jirta 1.0 mayl iyo kuwa ku nool
+    halka ay ku nool yihiin                     meel dugsiga dhexe u jirta 1.5 mayl.
+
+    Sida Ugu Wacan U Adeegsiga                  U adeegso dhismeyaasha si tashiil leh oo taageera
+    Xarumaha Hadda Jira si                      barnaamijyada waxbarasheed iyo habsami u shaqaynta
+    dhismeyaashu ay u qaabili                   muddada-dheer
+    karaan koboca iyo                           Inta u dhaxaysa 70% iyo 100%
+    barnaamijyada waxbarasheed
+    ee mustaqbalka
+
+   Dib U Eeg Tirakoobka
+                                                Miyaa ardayda wajahaysa isbedelladu ka turjumayaan guud
+   Bulshada Dugsiga si aad u                    ahaan tirakoobka bulshada degmada
+   sharraxdo cidda ka dheefaysa
+   iyo cidda carqalad kala
+   kulmaysa isbedellada
+
+   Yaree Kala Qaybinta Ardayda     Kordhi tirada kooxaha ardayda ee si wadajir ah uga soo gudbaya
+   Marka La Wareejinayo si kooxaha hal heer fasal una gudbaya ka xiga, tusaale ahaan u wareegitaanka
+   ardaydu ay u dhex socon karaan dhammaan ardayda hal dugsi dhexe ee isla dugsigooda sare
+
+
+
+
+Portland Public Schools · pps.net/rightsizing                                                       Criteria Framework
+  Dabaqaadda Shuruudda
+
+  Kooxda xogta iyo qaabaynta waxa ay ku dareen dhammaan dugsiyada iyo barnaamijyada ee guud
+  ahaan degmada. Markii isbedellada la qaabaynayey aag walba gaarkiisa ayaa loo tixgeliyey. Aag
+  walba waxa la sameeyey iyada oo lagu salaynayo laba aag xaadiritaan oo dugsiga sare ah oo isku
+  xiga. Afarta aag waxa kamid ah Ida B. Wells iyo Lincoln oo dhinaca galbeed ah, Jefferson iyo
+  Roosevelt oo dhinaca waqooyi ah, Grant iyo MacDaniel oo dhinaca waqooyi bari ah, iyo Cleveland
+  iyo Franklin oo dhinaca koonfur bari ah. Hagayaashii aasaasiga ah ee diyaarinta sinaariyadu waxa ay
+  ahaayeen in la xasiliyo dugsiyada hoose iyo dhexe, la aasaaso dhabbooyin isdhexgelinta laba
+  luuqadood ah oo waadax ah, iyo in la yareeyo qaababka kala qaybinta ardayda marka la wareejinayo.
+  Midkasta oo kamid ah dugsiyadaasi ayaa kadib waxa la barbardhigay dugsiyada kale ee ku yaalla isla
+  aag iyada oo la adeegsanayo shuruudda sare. Natiijadu waa koox talooyin ah oo aan keliya ku
+  salaysneyn sida isdiiwaangelinta hadda ee dugsigu tahay marka loo barbardhigo xadkiisa sii
+  joogteynta, balse sidoo kale ku salaysan dhammaan mudnaanaha degmada ka go'an inay miisaanto.
+
+
+
+
+      Qodobada sidoodii sii ahaaday muddadii qaabaynta: tirada kuraasta ee rawdada
+      ee loo heli karo isdhexgelinta laba luuqadood, luuqadaha lagu bixiyo barnaamijyada
+      isdhexgelinta laba luuqadood, kuraasta laga heli karo ACCESS, Benson, da Vinci, iyo
+      Winterhaven, iyo in aan lagu darin dugsiyada ama barnaamijyada leh shuruudo
+      gelitaan oo gaar ah sida DART.
+
+
+
+
+  Qiyaasaha Isdiiwaangelinta ee Sinaariyada
+
+  Sinaariyo kasta dhaqangelintu waxa ay bilaabmaysaa sanad dugsiyeedka 2027-2028 waxana
+  ay dhammaanaysaa iyada oo dhammaan isbedelladii la dhamaystiray marka la gaadho
+  bilawga sanad-dugsiyeedka 2028-2029. Sinaariyooyinku waxa ay qiyaasayaan in saadaasha
+  ardayda ee PSU ay iska diiwaangelin doonaan PPS dhammaan sanadada.
+
+
+
+
+Portland Public Schools · pps.net/rightsizing                 Applying Criteria · Scenario Enrollment Assumptions
+

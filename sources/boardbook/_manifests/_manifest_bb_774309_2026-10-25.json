@@ -1,0 +1,35 @@
+[
+ {
+  "path": "boardbook/meetings/2026-10-27_774309_intergovernmental-affairs-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=774309",
+  "final_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=774309",
+  "status": 200,
+  "content_type": "text/html",
+  "bytes": 40061,
+  "error": "",
+  "fetched_at": "2026-10-25T22:05:05Z",
+  "title": "agenda"
+ },
+ {
+  "path": "boardbook/meetings/2026-10-27_774309_intergovernmental-affairs-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=774309",
+  "final_url": "https://meetings.boardbook.org/Documents/CustomPublicNoticeForMeeting/915?meeting=774309",
+  "status": 200,
+  "content_type": "text/html",
+  "bytes": 32897,
+  "error": "",
+  "fetched_at": "2026-10-25T22:05:06Z",
+  "title": "public_notice"
+ },
+ {
+  "path": "boardbook/meetings/2026-10-27_774309_intergovernmental-affairs-committee-meeting/public_notice_14594892.pdf",
+  "url": "/Documents/DownloadPDF/14594892?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14594892?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 206897,
+  "error": "",
+  "fetched_at": "2026-10-25T22:05:08Z",
+  "title": "public_notice pdf"
+ }
+]

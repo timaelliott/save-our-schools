@@ -1,0 +1,264 @@
+[
+ {
+  "file": "sources/pps_net/rightsizing/rightsize_landing_2026-10-25.html",
+  "url": "https://www.pps.net/about/portland-public-schools-information/rightsize/rightsize",
+  "title": "Rightsize rightsize_landing page snapshot",
+  "fetched": "2026-10-25",
+  "method": "curl from the repository owner's computer",
+  "bytes": 147046,
+  "sha256": "adc50467750ad6fca1d787aecc5415bcb1b6a7a822a7125f34a1e65f1a13cc73"
+ },
+ {
+  "file": "sources/pps_net/rightsizing/calendar_2026-10-25.html",
+  "url": "https://www.pps.net/about/portland-public-schools-information/rightsize/calendar",
+  "title": "Rightsize calendar page snapshot",
+  "fetched": "2026-10-25",
+  "method": "curl from the repository owner's computer",
+  "bytes": 106493,
+  "sha256": "92a83d6b1285b56b87bc0ed41bba226c5df4e0dc53ca6ffb458fb8f4a0f58b69"
+ },
+ {
+  "file": "sources/pps_net/rightsizing/dashboard_2026-10-25.html",
+  "url": "https://www.pps.net/about/portland-public-schools-information/rightsize/dashboard",
+  "title": "Rightsize dashboard page snapshot",
+  "fetched": "2026-10-25",
+  "method": "curl from the repository owner's computer",
+  "bytes": 76101,
+  "sha256": "667c083a52f18c8578a121a0f31290d08ebf8790af81c14be721b256b1cb0cc2"
+ },
+ {
+  "file": "sources/pps_net/rightsizing/feeder_patterns_2026-10-25.html",
+  "url": "https://www.pps.net/about/portland-public-schools-information/rightsize/feeder-patterns",
+  "title": "Rightsize feeder_patterns page snapshot",
+  "fetched": "2026-10-25",
+  "method": "curl from the repository owner's computer",
+  "bytes": 80282,
+  "sha256": "df3ad2b2732cf183c4b80ad81637627b226bcaae5dbd841023e68ec1bdd06757"
+ },
+ {
+  "file": "sources/pps_net/rightsizing/faq_2026-10-25.html",
+  "url": "https://www.pps.net/about/portland-public-schools-information/rightsize/frequently-asked-questions",
+  "title": "Rightsize faq page snapshot",
+  "fetched": "2026-10-25",
+  "method": "curl from the repository owner's computer",
+  "bytes": 126901,
+  "sha256": "ab3e30900e20d527c29c69f8759b03a7c1a4efb5034741c749112d5dfcc687dd"
+ },
+ {
+  "file": "sources/pps_net/rightsizing/how_could_your_school_be_impacted_2026-10-25.html",
+  "url": "https://www.pps.net/about/portland-public-schools-information/rightsize/how-could-your-school-be-impacted",
+  "title": "Rightsize how_could_your_school_be_impacted page snapshot",
+  "fetched": "2026-10-25",
+  "method": "curl from the repository owner's computer",
+  "bytes": 77059,
+  "sha256": "78402c76bdb88ce0c5e59817858e869f14ee1186105163d0e055c795feb95177"
+ },
+ {
+  "file": "sources/pps_net/rightsizing/presentations_2026-10-25.html",
+  "url": "https://www.pps.net/about/portland-public-schools-information/rightsize/rightsizing-presentations",
+  "title": "Rightsize presentations page snapshot",
+  "fetched": "2026-10-25",
+  "method": "curl from the repository owner's computer",
+  "bytes": 114317,
+  "sha256": "5174c5743a27dbfbc6a897c68d2aca12bdc0e3282aaed84150e701e27a589b5a"
+ },
+ {
+  "file": "sources/pps_net/rightsizing/scenarios_2026-10-25.html",
+  "url": "https://www.pps.net/about/portland-public-schools-information/rightsize/scenarios",
+  "title": "Rightsize scenarios page snapshot",
+  "fetched": "2026-10-25",
+  "method": "curl from the repository owner's computer",
+  "bytes": 109383,
+  "sha256": "ea0ca332db227f47f737c301ebd0be80e2600f45335f7b18b3e02feddf0f6953"
+ },
+ {
+  "file": "sources/pps_net/rightsizing/segc_documents_2026-10-25.html",
+  "url": "https://www.pps.net/about/portland-public-schools-information/rightsize/segc-documents",
+  "title": "Rightsize segc_documents page snapshot",
+  "fetched": "2026-10-25",
+  "method": "curl from the repository owner's computer",
+  "bytes": 81271,
+  "sha256": "37803579da4d7b4550c595769cbbbceaf465d8f920da5a6669c0ae0f96554c14"
+ },
+ {
+  "file": "sources/pps_net/rightsizing/timeline_2026-10-25.html",
+  "url": "https://www.pps.net/about/portland-public-schools-information/rightsize/timeline",
+  "title": "Rightsize timeline page snapshot",
+  "fetched": "2026-10-25",
+  "method": "curl from the repository owner's computer",
+  "bytes": 85743,
+  "sha256": "544f050943720e0bb27de3aa2b5dbef56a2c3350ec6cd432b3b955788fe17d4d"
+ },
+ {
+  "file": "sources/pps_net/rightsizing/videos_2026-10-25.html",
+  "url": "https://www.pps.net/about/portland-public-schools-information/rightsize/videos",
+  "title": "Rightsize videos page snapshot",
+  "fetched": "2026-10-25",
+  "method": "curl from the repository owner's computer",
+  "bytes": 84922,
+  "sha256": "0675a9d30d1af8c758dd507a925a144270294332e783862f687175ad07ac22bf"
+ },
+ {
+  "file": "sources/pps_net/rightsizing/what_we_heard_2026-10-25.html",
+  "url": "https://www.pps.net/about/portland-public-schools-information/rightsize/what-we-heard",
+  "title": "Rightsize what_we_heard page snapshot",
+  "fetched": "2026-10-25",
+  "method": "curl from the repository owner's computer",
+  "bytes": 79443,
+  "sha256": "ec4910eeb010cbf269031c729db258486543ca34d42f12cae7d20c3c4af77eb8"
+ },
+ {
+  "file": "sources/pps_net/rightsizing/resolutions/res7307_drive_copy.pdf",
+  "url": "https://drive.google.com/file/d/1ABr_bYnjm9SkT3OkXxZWO0aQ_s3VgVCx/view",
+  "drive_id": "1ABr_bYnjm9SkT3OkXxZWO0aQ_s3VgVCx",
+  "drive_filename": "Reso 7307 - Adopting Guiding Principles and Workplan in the Rightsizing Process for Portland Public Schools .pdf",
+  "title": "Resolution 7307 (Drive copy linked from the Documents & Presentations page)",
+  "found_on": "https://www.pps.net/about/portland-public-schools-information/rightsize/rightsizing-presentations",
+  "fetched": "2026-10-25",
+  "method": "curl drive.usercontent.google.com from the repository owner's computer",
+  "bytes": 76575,
+  "sha256": "0ae2e7ea74046a3d27447648576a46b05bff030d097467b69326b6a57f16218a"
+ },
+ {
+  "file": "sources/pps_net/rightsizing/resolutions/res7296_revised_drive_copy.pdf",
+  "url": "https://drive.google.com/file/d/1GStdeD1K17aIrGlMpx9XsS85xlrht6Ob/view",
+  "drive_id": "1GStdeD1K17aIrGlMpx9XsS85xlrht6Ob",
+  "drive_filename": "Resolution 7296 - to Direct the Superintendent to Begin a -REVISED .pdf",
+  "title": "Resolution 7296 REVISED (Drive copy linked from the Documents & Presentations page)",
+  "found_on": "https://www.pps.net/about/portland-public-schools-information/rightsize/rightsizing-presentations",
+  "fetched": "2026-10-25",
+  "method": "curl drive.usercontent.google.com from the repository owner's computer",
+  "bytes": 52880,
+  "sha256": "bf55cb2d158b711edf18085d0c75693f1a2750aed0156f72b3573611d333959d"
+ },
+ {
+  "file": "sources/pps_net/rightsizing/methodology/translations/rightsizing_kpis_2026-10_es.pdf",
+  "url": "https://drive.google.com/file/d/1_2MLN9WksUkroWDKMtYLYJNQvX_rOYV0/view",
+  "drive_id": "1_2MLN9WksUkroWDKMtYLYJNQvX_rOYV0",
+  "drive_filename": "Rightsizing_KPIs_Spanish.pdf",
+  "title": "Rightsizing KPIs (es translation)",
+  "found_on": "https://www.pps.net/about/portland-public-schools-information/rightsize/scenarios",
+  "fetched": "2026-10-25",
+  "method": "curl drive.usercontent.google.com from the repository owner's computer",
+  "bytes": 803893,
+  "sha256": "c91b1b6f43227e96e5ee05e5a99f1d949b795f77264ff07a85a1910271bbede1"
+ },
+ {
+  "file": "sources/pps_net/rightsizing/methodology/translations/rightsizing_kpis_2026-10_vi.pdf",
+  "url": "https://drive.google.com/file/d/1bf35rf9GtsHcuQDu71PKH_8YGsNJOGKX/view",
+  "drive_id": "1bf35rf9GtsHcuQDu71PKH_8YGsNJOGKX",
+  "drive_filename": "Rightsizing_KPIs_Vietnamese.pdf",
+  "title": "Rightsizing KPIs (vi translation)",
+  "found_on": "https://www.pps.net/about/portland-public-schools-information/rightsize/scenarios",
+  "fetched": "2026-10-25",
+  "method": "curl drive.usercontent.google.com from the repository owner's computer",
+  "bytes": 949191,
+  "sha256": "1a359ab49e508b71e04440ce37734ac5ce74fcfd82f7c1d57c2e2f3cfb8741b5"
+ },
+ {
+  "file": "sources/pps_net/rightsizing/methodology/translations/rightsizing_kpis_2026-10_zh.pdf",
+  "url": "https://drive.google.com/file/d/1yaOMKLlxpOZ0N5dGzFcwaZEXXXC9E0dk/view",
+  "drive_id": "1yaOMKLlxpOZ0N5dGzFcwaZEXXXC9E0dk",
+  "drive_filename": "Rightsizing_KPIs_Chinese.pdf",
+  "title": "Rightsizing KPIs (zh translation)",
+  "found_on": "https://www.pps.net/about/portland-public-schools-information/rightsize/scenarios",
+  "fetched": "2026-10-25",
+  "method": "curl drive.usercontent.google.com from the repository owner's computer",
+  "bytes": 2753140,
+  "sha256": "f6d66b0644874422af676ce762de7b0c0866165871e2c93703754b18fd420c37"
+ },
+ {
+  "file": "sources/pps_net/rightsizing/methodology/translations/rightsizing_kpis_2026-10_so.pdf",
+  "url": "https://drive.google.com/file/d/1LcMHP-8My3T04G3ab8jF8ooCeksZPLua/view",
+  "drive_id": "1LcMHP-8My3T04G3ab8jF8ooCeksZPLua",
+  "drive_filename": "Rightsizing_KPIs_Somali.pdf",
+  "title": "Rightsizing KPIs (so translation)",
+  "found_on": "https://www.pps.net/about/portland-public-schools-information/rightsize/scenarios",
+  "fetched": "2026-10-25",
+  "method": "curl drive.usercontent.google.com from the repository owner's computer",
+  "bytes": 787609,
+  "sha256": "381672678cd6cbcf393e71e55b3a0fe820b92fc464eaa9907a120369047075d4"
+ },
+ {
+  "file": "sources/pps_net/rightsizing/methodology/translations/rightsizing_kpis_2026-10_ru.pdf",
+  "url": "https://drive.google.com/file/d/1f6Fg57vkT-aP3KqwnSQHLbDGRQzoywUg/view",
+  "drive_id": "1f6Fg57vkT-aP3KqwnSQHLbDGRQzoywUg",
+  "drive_filename": "Rightsizing_KPIs_Russian.pdf",
+  "title": "Rightsizing KPIs (ru translation)",
+  "found_on": "https://www.pps.net/about/portland-public-schools-information/rightsize/scenarios",
+  "fetched": "2026-10-25",
+  "method": "curl drive.usercontent.google.com from the repository owner's computer",
+  "bytes": 894617,
+  "sha256": "ae4c4704c2b14d7dbeb77c59e13c6e2d147a342e1cfccbf952e178d5c0ae78f5"
+ },
+ {
+  "file": "sources/pps_net/rightsizing/methodology/translations/rightsizing_methodology_2026-10_es.pdf",
+  "url": "https://drive.google.com/file/d/1Mac7TvGjq2rqJyfKCAXLuf2kzBHVtUiR/view",
+  "drive_id": "1Mac7TvGjq2rqJyfKCAXLuf2kzBHVtUiR",
+  "drive_filename": "Rightsizing_Methodology_Spanish.pdf",
+  "title": "Rightsizing Methodology (es translation)",
+  "found_on": "https://www.pps.net/about/portland-public-schools-information/rightsize/scenarios",
+  "fetched": "2026-10-25",
+  "method": "curl drive.usercontent.google.com from the repository owner's computer",
+  "bytes": 600360,
+  "sha256": "7485153769b2efb0fb20d5fc3bfc6ce0e01e386bb61644e1abc1a54a8d3eb086"
+ },
+ {
+  "file": "sources/pps_net/rightsizing/methodology/translations/rightsizing_methodology_2026-10_vi.pdf",
+  "url": "https://drive.google.com/file/d/1ZbAOr4FfZeXiZxuD0B9pO6y_8ZXHTpuT/view",
+  "drive_id": "1ZbAOr4FfZeXiZxuD0B9pO6y_8ZXHTpuT",
+  "drive_filename": "Rightsizing_Methodology_Vietnamese.pdf",
+  "title": "Rightsizing Methodology (vi translation)",
+  "found_on": "https://www.pps.net/about/portland-public-schools-information/rightsize/scenarios",
+  "fetched": "2026-10-25",
+  "method": "curl drive.usercontent.google.com from the repository owner's computer",
+  "bytes": 678357,
+  "sha256": "a2aaec09a515d84cad655ced63633d5154f650c8188dd8301e7aa2fcef25981d"
+ },
+ {
+  "file": "sources/pps_net/rightsizing/methodology/translations/rightsizing_methodology_2026-10_zh.pdf",
+  "url": "https://drive.google.com/file/d/13oIj8j28PEtglu91_6SHzj88m6V6Vc2h/view",
+  "drive_id": "13oIj8j28PEtglu91_6SHzj88m6V6Vc2h",
+  "drive_filename": "Rightsizing_Methodology_Chinese.pdf",
+  "title": "Rightsizing Methodology (zh translation)",
+  "found_on": "https://www.pps.net/about/portland-public-schools-information/rightsize/scenarios",
+  "fetched": "2026-10-25",
+  "method": "curl drive.usercontent.google.com from the repository owner's computer",
+  "bytes": 2138766,
+  "sha256": "aafb69985b2a03e49d1e03e8815778c1d756469af27ad5faab2eec0c3fe23b48"
+ },
+ {
+  "file": "sources/pps_net/rightsizing/methodology/translations/rightsizing_methodology_2026-10_so.pdf",
+  "url": "https://drive.google.com/file/d/16xm5FwvtvFFXkMZ0G3iOuhFyYiQsUU7b/view",
+  "drive_id": "16xm5FwvtvFFXkMZ0G3iOuhFyYiQsUU7b",
+  "drive_filename": "Rightsizing_Methodology_Somali.pdf",
+  "title": "Rightsizing Methodology (so translation)",
+  "found_on": "https://www.pps.net/about/portland-public-schools-information/rightsize/scenarios",
+  "fetched": "2026-10-25",
+  "method": "curl drive.usercontent.google.com from the repository owner's computer",
+  "bytes": 563096,
+  "sha256": "5fc836a983f504df2bd9c1ff279c6bfbea88a462f5c89bd09c26fa4d83694826"
+ },
+ {
+  "file": "sources/pps_net/rightsizing/methodology/translations/rightsizing_methodology_2026-10_ru.pdf",
+  "url": "https://drive.google.com/file/d/10lwx7OkapbVVGTQ8wD7obMDG2H5cLP43/view",
+  "drive_id": "10lwx7OkapbVVGTQ8wD7obMDG2H5cLP43",
+  "drive_filename": "Rightsizing_Methodology_Russian.pdf",
+  "title": "Rightsizing Methodology (ru translation)",
+  "found_on": "https://www.pps.net/about/portland-public-schools-information/rightsize/scenarios",
+  "fetched": "2026-10-25",
+  "method": "curl drive.usercontent.google.com from the repository owner's computer",
+  "bytes": 658464,
+  "sha256": "c9941ac232623c2a564758ebce99ddcdd51027b98db7f5b272f414e7011041eb"
+ },
+ {
+  "file": "sources/pps_net/rightsizing/rightsize_calendar_164_2026-10-25.ics",
+  "url": "https://www.pps.net/fs/calendar-manager/events.ics?calendar_ids%5B%5D=164",
+  "title": "Rightsizing engagement calendar (Finalsite calendar 164) iCal export",
+  "found_on": "https://www.pps.net/about/portland-public-schools-information/rightsize/rightsize",
+  "fetched": "2026-10-25",
+  "method": "curl from the repository owner's computer",
+  "bytes": 17254,
+  "sha256": "7978c33c713de3ae16324d8b6f4e1799908b41fa11fae7864212c37c88e5376c"
+ }
+]

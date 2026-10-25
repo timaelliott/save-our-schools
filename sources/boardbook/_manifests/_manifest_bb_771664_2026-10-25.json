@@ -1,0 +1,59 @@
+[
+ {
+  "path": "boardbook/meetings/2026-10-13_771664_teaching-learning-and-enrollment-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=771664",
+  "final_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=771664",
+  "status": 200,
+  "content_type": "text/html",
+  "bytes": 43388,
+  "error": "",
+  "fetched_at": "2026-10-25T22:06:53Z",
+  "title": "agenda"
+ },
+ {
+  "path": "boardbook/meetings/2026-10-13_771664_teaching-learning-and-enrollment-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=771664",
+  "final_url": "https://meetings.boardbook.org/Documents/CustomPublicNoticeForMeeting/915?meeting=771664",
+  "status": 200,
+  "content_type": "text/html",
+  "bytes": 32919,
+  "error": "",
+  "fetched_at": "2026-10-25T22:06:54Z",
+  "title": "public_notice"
+ },
+ {
+  "path": "boardbook/meetings/2026-10-13_771664_teaching-learning-and-enrollment-committee-meeting/public_notice_14533563.pdf",
+  "url": "/Documents/DownloadPDF/14533563?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14533563?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 207956,
+  "error": "",
+  "fetched_at": "2026-10-25T22:06:56Z",
+  "title": "public_notice pdf"
+ },
+ {
+  "path": "boardbook/meetings/2026-10-13_771664_teaching-learning-and-enrollment-committee-meeting/attachments/14549009_TLE_Presentation_DLI_Programs.pdf",
+  "url": "/Documents/DownloadPDF/14549009?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14549009?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 1685242,
+  "error": "",
+  "fetched_at": "2026-10-25T22:06:57Z",
+  "title": "TLE Presentation: DLI Programs",
+  "found_on": "3. Rightsizing: Dual Language Immersion Design"
+ },
+ {
+  "path": "boardbook/meetings/2026-10-13_771664_teaching-learning-and-enrollment-committee-meeting/attachments/14535647_TLE_Presentation_Middle_Grades.pdf",
+  "url": "/Documents/DownloadPDF/14535647?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14535647?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 880582,
+  "error": "",
+  "fetched_at": "2026-10-25T22:06:59Z",
+  "title": "TLE Presentation: Middle Grades",
+  "found_on": "4. Rightsizing: Middle Grades Learning"
+ }
+]

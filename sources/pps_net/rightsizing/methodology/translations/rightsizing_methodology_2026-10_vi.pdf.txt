@@ -1,0 +1,248 @@
+        RIGHTSIZE. RIGHT SUPPORTS. RIGHT FOR STUDENTS.
+
+
+
+
+        Methodology
+        How Portland Public Schools developed the proposed changes:
+        the data behind the model, the criteria the district weighed, and
+        how those criteria were applied region by region.
+
+
+
+ Tổng quan
+
+ Những thay đổi được đề xuất do các lãnh đạo học khu và nhân viên lập kế hoạch của học
+ khu xây dựng dựa trên một bộ tiêu chí phản ánh các mục tiêu mà học khu đang hướng đến:
+ các trường học có quy mô đủ lớn để cung cấp các chương trình ổn định và có đủ nguồn lực,
+ các tòa nhà được sử dụng hiệu quả và các cộng đồng trường học được duy trì gắn kết nhiều
+ nhất có thể trong quá trình thay đổi.
+
+
+ Các tiêu chí này đôi khi kéo theo các hướng trái ngược nhau. Việc duy trì một cộng đồng
+ trường học gắn kết có thể đòi hỏi thay đổi ranh giới khu vực tuyển sinh trên phạm vi lớn hơn.
+ Việc gộp một chương trình hòa nhập quy mô nhỏ có thể làm tăng thêm thời gian đi lại cho
+ một số học sinh. Vì lý do đó, các tiêu chí được cân nhắc đồng thời thay vì được áp dụng theo
+ một thứ tự cố định và sự cân bằng giữa các tiêu chí khác nhau tùy theo từng khu vực trong
+ thành phố do điều kiện ở mỗi khu vực khác nhau.
+
+
+ Hai phương án đã được xây dựng, chủ yếu khác nhau về số lượng trường học sẽ đóng cửa.
+ Một phương án đóng cửa ít trường học hơn sẽ ảnh hưởng đến ít gia đình hơn và làm thay đổi
+ ít ranh giới khu vực tuyển sinh hơn nhưng sẽ để lại nhiều trường học có số lượng ghi danh
+ thấp hơn mức mà một trường học có thể cung cấp các chương trình ổn định với đầy đủ
+ nguồn lực. Một phương án đóng cửa nhiều trường học hơn sẽ có tác động ngược lại.
+
+Portland Public Schools · pps.net/rightsizing                 How the proposed changes were developed
+ Bộ Dữ Liệu và Cấu Trúc
+
+ Mô hình sử dụng các bộ dữ liệu sau được cấu trúc thành bốn đầu vào chính và một
+ đầu ra thống nhất.
+
+
+    Nguồn dữ liệu           Nguồn gốc/ định dạng   Mô tả & Mục đích vận hành
+
+
+       1.Dự báo cơ           Trung Tâm Nghiên      Dự báo ghi danh chính thức trong 10 năm được phân
+         sở                  Cứu Dân Số của Đại    theo trường học, nhóm (loại chương trình/cư trú), lớp
+                             Học Portland State    (PK–12) và năm. Năm cơ sở: 2025-26 (số học sinh ghi
+                                                   danh thực tế) Dự báo đến năm 2031-32
+
+
+
+                                                   Các thay đổi chính sách do người dùng xác định (ví dụ:
+     2. Cơ Cấu               Ban Quản Trị Văn
+                                                   “Gộp Trường A vào Trường B” hoặc “Chuyển Trường C
+     Phương Án               Phòng Trung Tâm của
+                                                   sang K-5”) nêu rõ tỷ lệ chuyển đổi, phạm vi lớp, năm
+                             Sở Học Chánh
+                                                   thực hiện và thời điểm thực hiện theo từng giai đoạn
+                             Portland
+                                                   hoặc ngay lập tức
+
+     3. Tỷ Lệ Trước          Các Mức Trung Bình    Ma trận chi tiết thể hiện cách học sinh ghi danh tại
+     Đây                     Trong 3 Năm Trước     các trường học và chương trình cụ thể được phân bổ
+                             Đây của PPS           một cách tự nhiên theo các ranh giới khu vực nơi các
+                                                   em cư trú, hỗ trợ việc đóng cửa từ một đến nhiều
+                                                   trường
+                                                   Các số liệu được chuẩn hóa về sức chứa của tòa nhà,
+     4. Dữ Liệu về           Bộ Phận Vận Hành Cơ
+                                                   số lượng phòng học, diện tích tính theo feet vuông và
+     Sức Chứa Cơ             Sở Vật Chất của PPS
+                                                   tỷ lệ sử dụng ban đầu từ mô hình Sử Dụng của Học
+     Sở Vật Chất
+                                                   Khu
+
+                                                   Địa điểm lưu trữ tập trung cung cấp dữ liệu cho các
+     5. Đầu Ra               Bảng Kết Quả
+                                                   bảng điều khiển Power BI để trực quan hóa theo thời
+     Thống Nhất
+                                                   gian thực và phân tích so sánh các phương án. Tất cả
+                                                   đầu ra đều xuất phát từ cùng một nguồn nhằm bảo
+                                                   đảm tính chính xác của báo cáo.
+
+
+
+
+Portland Public Schools · pps.net/rightsizing                                            Data Sets and Structure
+  Phương Pháp Luận
+
+  Sở Học Chánh Portland (PPS) đang giải quyết tình trạng số lượng ghi danh giảm kéo dài,
+  dẫn đến những trải nghiệm giáo dục khác nhau đối với học sinh thông qua quá trình điều
+  chỉnh quy mô này. Mục tiêu là xây dựng các trường học có khả năng ứng phó với những
+  biến động về số lượng ghi danh và liên tục cung cấp môi trường học tập công bằng hơn
+  cho học sinh. Các quyết định này bao gồm:
+
+
+                                                     Chuyển các trường K-8 thành các
+             Đóng cửa các trường học                 trường K-5 và phân bổ học sinh các
+                                                     lớp trung học cơ sở vào các trường
+                                                     trung học cơ sở hiện có
+
+
+             Gộp các chương trình Hòa Nhập           Điều chỉnh lại ranh giới khu vực
+             Song Ngữ (DLI)
+
+
+
+             Đóng cửa các chương                     Chuyển các chương trình sang địa
+             trình chuyên biệt.                      điểm chung với các chương trình khác
+
+
+
+
+  Để hiểu quy mô thay đổi cần thiết, chúng tôi đã xây dựng mô hình cho hai phương án, một
+  phương án có một nửa số trường học đạt mức ghi danh bền vững và một phương án có 70
+  phần trăm số trường học đạt được mức này vào năm 2031-32.
+
+
+
+
+Portland Public Schools · pps.net/rightsizing                                           Methodology
+  Khung Tiêu Chí
+
+  Để xác định những trường học nào sẽ chịu ảnh hưởng, PPS đã cân nhắc nhiều yếu tố. Mặc
+  dù các tiêu chí được áp dụng chung trên toàn bộ các khu vực, các ưu tiên khác nhau vẫn
+  xuất hiện tùy theo từng địa điểm. Các tiêu chí được liệt kê dưới đây.
+
+
+
+     Tiêu chí                                   Mục tiêu
+
+
+     Gộp các Chương Trình                         Không quá một Chương Trình DLI cùng ngôn ngữ trong mỗi
+                                                  khu vực
+    Hòa Nhập Song Ngữ để mỗi lộ trình
+    ngôn ngữ có thể duy trì bền vững
+
+
+
+                                                  Vào năm học 2031-32
+     Ngưỡng Ghi Danh Bền Vững
+                                                  Các trường tiểu học: 360 học sinh
+      để mọi trường học có thể mang lại           Các trường trung học cơ sở và các Trường K-8:
+     các trải nghiệm học tập ổn định và           500 học sinh
+     tương đương                                  Các trường trung học phổ thông: 1,100 học
+                                                  sinh
+
+     Giảm Thiểu Số Lượng Trường                   Nếu một cơ sở trường học đóng cửa, cố gắng giữ học sinh
+     Tiếp Nhận Học Sinh từ Một                    chuyển cùng nhau đến một địa điểm mới nếu có thể và
+     Trường Đóng                                  không chuyển các em đến quá hai địa điểm mới.
+     Cửa để duy trì sự gắn kết của các cộng
+     đồng trường học
+
+     Giảm Thiểu Thay Đổi Ranh Giới                Hỗ trợ duy trì các nhóm học sinh cùng nhau trong suốt quá
+                                                  trình học tập và giảm thiểu sự xáo trộn đối với khu vực lân
+     để số lượng học sinh bị ảnh
+                                                  cận
+     hưởng là ít nhất có thể
+
+
+     Tính Đến Các Cải Tiến Cơ Sở                  Sử dụng các tòa nhà trường học đã được cải tiến gần đây
+     Vật Chất                                     hoặc đã có kế hoạch cải tiến trong phạm vi tối đa có thể
+     để học sinh được học tập trong môi
+     trường cơ sở vật chất có chất lượng
+     cao nhất
+
+
+
+Portland Public Schools · pps.net/rightsizing                                                   Criteria Framework
+  Khung Tiêu Chí
+
+
+    Tiêu chí                                    Mục tiêu
+
+     Giảm Khoảng Cách Đến
+                                                Để thúc đẩy các tuyến đường đến trường an toàn hơn và giảm
+     Trường
+                                                thiểu khoảng cách từ nhà học sinh đến trường học, xác định tỷ
+     để học sinh có thể tiếp cận
+                                                lệ học sinh sống trong phạm vi 1.0 dặm từ trường tiểu học và
+     các trường học gần nơi các
+                                                1.5 dặm từ trường trung
+     em sinh sống
+
+     Tối Ưu Hóa Việc Sử Dụng                    Sử dụng hiệu quả các tòa nhà hỗ trợ các chương trình học tập
+     Các Cơ Sở Vật Chất Hiện                    và khả năng vận hành trong dài hạn
+     Có để các tòa nhà có thể đáp
+                                                Từ 70% đến 100%
+     ứng sự tăng trưởng và các
+     chương trình học tập trong
+     tương lai
+
+     Xem Xét Nhân Khẩu Học                      Những học sinh chịu ảnh hưởng bởi các thay đổi có phản ánh
+     Sinh                                       đặc điểm nhân khẩu học tổng thể của học khu không
+     để mô tả những ai được
+     hưởng lợi và chịu ảnh hưởng
+     bất lợi từ các thay đổi
+
+     Giảm Thiểu Tình Trạng Phân
+                                                Tăng số lượng các nhóm học sinh cùng nhau chuyển từ lớp này lên
+     Tách Tuyến Chuyển
+                                                lớp tiếp theo, ví dụ tất cả học sinh tại một trường trung học cơ sở
+     Tiếp để các nhóm học sinh có
+                                                cùng chuyển lên một trường trung học phổ thông
+     thể cùng nhau tiếp tục
+     chuyển qua [xxx]
+
+
+
+
+Portland Public Schools · pps.net/rightsizing                                                        Criteria Framework
+  Áp Dụng Các Tiêu Chí
+
+  Nhóm phụ trách dữ liệu và mô hình hóa đã đưa tất cả các trường học và chương trình trong
+  toàn học khu vào phân tích. Khi mô hình hóa các thay đổi, nhóm đã xem xét theo từng khu
+  vực. Mỗi khu vực được hình thành dựa trên hai khu vực tuyển sinh trường trung học phổ
+  thông liền kề. Bốn khu vực bao gồm Ida B. Wells và Lincoln ở phía tây, Jefferson và
+  Roosevelt ở phía bắc, Grant và MacDaniel ở phía đông bắc và Cleveland và Franklin ở phía
+  đông nam. Các yếu tố chính để xây dựng phương án là ổn định các trường tiểu học và
+  trường trung học cơ sở, thiết lập các lộ trình hòa nhập song ngữ rõ ràng và giảm số lượng
+  các mô hình phân tách tuyến chuyển tiếp. Sau đó, từng trường trong số đó được so sánh với
+  các trường khác trong cùng khu vực dựa trên các tiêu chí nêu trên. Kết quả là một tập hợp
+  các khuyến nghị được định hình không chỉ bởi sự so sánh giữa số lượng ghi danh hiện tại
+  của một trường và ngưỡng bền vững của trường đó mà còn bởi toàn bộ các ưu tiên mà học
+  khu đã cam kết cân nhắc.
+
+
+
+      Các yếu tố giữ nguyên trong suốt quá trình mô hình hóa gồm: số lượng chỗ học
+      mẫu giáo dành cho chương trình hòa nhập song ngữ, các ngôn ngữ giảng dạy trong
+      chương trình này, số chỗ học tại ACCESS, Benson, da Vinci và Winterhaven; đồng
+      thời không bao gồm các trường hoặc chương trình có yêu cầu tuyển sinh riêng biệt
+      như DART.
+
+
+
+
+  Các Giả Định về Ghi Danh Theo Phương Án
+
+  Trong mỗi phương án, việc thực hiện bắt đầu từ năm học 2027-2028 và kết thúc với tất cả
+  các thay đổi được hoàn tất vào đầu năm học 2028-2029. Các phương án giả định rằng số
+  học sinh theo dự báo của PSU sẽ ghi danh tại PPS trong tất cả các năm.
+
+
+
+
+Portland Public Schools · pps.net/rightsizing            Applying Criteria · Scenario Enrollment Assumptions
+

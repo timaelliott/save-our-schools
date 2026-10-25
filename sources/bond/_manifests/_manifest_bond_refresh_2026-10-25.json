@@ -1,0 +1,75 @@
+[
+ {
+  "file": "sources/bond/bac/2026/2026-10-28_Q4_public_notice_agenda.pdf",
+  "url": "https://bond.pps.net/fs/resource-manager/view/6e59ff5e-96ec-4595-876c-a5544127dd2a",
+  "final_url": "https://resources.finalsite.net/images/v1792612382/ppsnet/acwcgruzs4qmjqloquc8/BACQ42026PublicNoticeandAgenda.pdf",
+  "title": "BAC Q4 2026: Public Notice and Agenda (meeting Oct 28, 2026)",
+  "found_on": "https://bond.pps.net/about/oversight-and-accountability/bond-accountability-committee-bac",
+  "fetched": "2026-10-25",
+  "bytes": 199058,
+  "sha256": "f96eaa8103d22d60a0e302589a3def8509d5ad3ab0ad3b657a18dc07518fc9e4"
+ },
+ {
+  "file": "sources/bond/bac/2026/2026-10-28_Q4_meeting_presentation.pdf",
+  "url": "https://bond.pps.net/fs/resource-manager/view/d09e9a76-3e5d-4eea-a672-94ce8b237e4e",
+  "final_url": "https://resources.finalsite.net/images/v1792612732/ppsnet/vs3pkqbqnue8l9lpfjc5/BACQ42026Meeting.pdf",
+  "title": "BAC Q4 2026: Meeting Presentation",
+  "found_on": "https://bond.pps.net/about/oversight-and-accountability/bond-accountability-committee-bac",
+  "fetched": "2026-10-25",
+  "bytes": 4696055,
+  "sha256": "1cd11b7179af78bf1825f8c5be1fa463c6bf9c7d1ed9a480650602c0b4961a00"
+ },
+ {
+  "file": "sources/bond/bac/2026/2026-10-28_Q4_packet_Q3_2026_minutes_draft.pdf",
+  "url": "https://bond.pps.net/fs/resource-manager/view/2e0624e9-e322-4142-932b-399cb78263e7",
+  "final_url": "https://resources.finalsite.net/images/v1792612826/ppsnet/nuqbq1xll3ci5pr2e5mm/DRAFTBAC2026Q3MeetingMinutes1.pdf",
+  "title": "BAC Q4 2026: Q3 2026 Meeting Minutes (DRAFT, for approval)",
+  "found_on": "https://bond.pps.net/about/oversight-and-accountability/bond-accountability-committee-bac",
+  "fetched": "2026-10-25",
+  "bytes": 140357,
+  "sha256": "4b4088769064304e05077944b89b9baab26db7f0a2035ae162b6c5aa84be2379"
+ },
+ {
+  "file": "sources/bond/pages/home_2026-10-25.html",
+  "url": "https://bond.pps.net",
+  "title": "bond.pps.net home page snapshot",
+  "fetched": "2026-10-25",
+  "bytes": 92220,
+  "sha256": "246fca34b929beba5a56aa52583634119c525bb7e0a2ea2e90e6d63f4ebb62a7"
+ },
+ {
+  "file": "sources/bond/pages/oversight_and_accountability_2026-10-25.html",
+  "url": "https://bond.pps.net/about/oversight-and-accountability",
+  "title": "bond.pps.net oversight_and_accountability page snapshot",
+  "fetched": "2026-10-25",
+  "bytes": 59869,
+  "sha256": "f07a396db456b48be23b4ead6df6576ab69d2b6253752f1d3e2b7288d1873579"
+ },
+ {
+  "file": "sources/bond/pages/bond_accountability_committee_2026-10-25.html",
+  "url": "https://bond.pps.net/about/oversight-and-accountability/bond-accountability-committee-bac",
+  "title": "bond.pps.net bond_accountability_committee page snapshot",
+  "fetched": "2026-10-25",
+  "bytes": 175687,
+  "sha256": "2e815ce7570ee52e0316df25ce7f6681c6e3949ff4845812c7aa59498a4f2b9b"
+ },
+ {
+  "file": "sources/bond/pages/current_modernizations_2026-10-25.html",
+  "url": "https://bond.pps.net/current-modernizations",
+  "title": "bond.pps.net current_modernizations page snapshot",
+  "fetched": "2026-10-25",
+  "bytes": 58477,
+  "sha256": "5c8d65acd46878e246c9deabf0cf62b346ddf016620b4e5035e8e87ddb370536"
+ },
+ {
+  "file": "sources/bond/pages/seismic_improvements_2026-10-25.html",
+  "url": "https://bond.pps.net/seismic-improvements",
+  "title": "bond.pps.net seismic_improvements page snapshot",
+  "fetched": "2026-10-25",
+  "bytes": 88942,
+  "sha256": "0ded45ea60a6566e62d807fd56bda076648d54d2110cb3e57a24aff9d4af5e23"
+ },
+ {
+  "note": "Also linked and fetched 2026-10-25 but not stored again because they are byte-identical to archived copies: BAC Q4 2026 \"Bond Audit Report for FY 24-25 and FY 25-26\" (https://bond.pps.net/fs/resource-manager/view/aae94b55-2655-4d36-b3b3-69760eac511c, sha256 fa533f26...) = sources/bond/audits/2026_bond_performance_audit_year7_8.pdf; seismic page link https://bond.pps.net/fs/resource-manager/view/f838dcba-95e3-43be-bf72-c0da1898eae6 (PPSSeismicandSeismicRiskAssessmentV203.pdf, sha256 cb4e10dc...) = BoardBook 3991109. Method: curl from the repository owner's computer."
+ }
+]

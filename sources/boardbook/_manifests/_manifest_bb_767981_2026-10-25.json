@@ -1,0 +1,93 @@
+[
+ {
+  "path": "boardbook/meetings/2026-09-22_767981_policy-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=767981",
+  "final_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=767981",
+  "status": 200,
+  "content_type": "text/html",
+  "bytes": 44570,
+  "error": "",
+  "fetched_at": "2026-10-25T22:06:04Z",
+  "title": "agenda"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-22_767981_policy-committee-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=767981",
+  "final_url": "https://meetings.boardbook.org/Documents/CustomMinutesForMeeting/915?meeting=767981",
+  "status": 200,
+  "content_type": "text/html",
+  "bytes": 32801,
+  "error": "",
+  "fetched_at": "2026-10-25T22:06:05Z",
+  "title": "minutes"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-22_767981_policy-committee-meeting/minutes_14591905.pdf",
+  "url": "/Documents/DownloadPDF/14591905?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14591905?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 109780,
+  "error": "",
+  "fetched_at": "2026-10-25T22:06:06Z",
+  "title": "minutes pdf"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-22_767981_policy-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=767981",
+  "final_url": "https://meetings.boardbook.org/Documents/CustomPublicNoticeForMeeting/915?meeting=767981",
+  "status": 200,
+  "content_type": "text/html",
+  "bytes": 32823,
+  "error": "",
+  "fetched_at": "2026-10-25T22:06:07Z",
+  "title": "public_notice"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-22_767981_policy-committee-meeting/public_notice_14440344.pdf",
+  "url": "/Documents/DownloadPDF/14440344?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14440344?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 207671,
+  "error": "",
+  "fetched_at": "2026-10-25T22:06:09Z",
+  "title": "public_notice pdf"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-22_767981_policy-committee-meeting/attachments/14440450_Draft_2026-27_Policy_Committee_Work_Plan.pdf",
+  "url": "/Documents/DownloadPDF/14440450?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14440450?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 719679,
+  "error": "",
+  "fetched_at": "2026-10-25T22:06:10Z",
+  "title": "Draft 2026-27 Policy Committee Work Plan",
+  "found_on": "3. Discussion: 2026-27 Committee Work Plan"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-22_767981_policy-committee-meeting/attachments/14457228_Revisions_proposed_to_Board_Policy_3.30.080-P_by_SAIFOS.pdf",
+  "url": "/Documents/DownloadPDF/14457228?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14457228?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 195038,
+  "error": "",
+  "fetched_at": "2026-10-25T22:06:12Z",
+  "title": "Revisions proposed to Board Policy 3.30.080-P by SAIFOS",
+  "found_on": "3. Discussion: 2026-27 Committee Work Plan"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-22_767981_policy-committee-meeting/attachments/14439713_SBS_screen_policy_Sept_16.pdf",
+  "url": "/Documents/DownloadPDF/14439713?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14439713?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 236810,
+  "error": "",
+  "fetched_at": "2026-10-25T22:06:13Z",
+  "title": "SBS screen policy Sept 16",
+  "found_on": "4. Discussion: Schools Beyond Screens Digital Device and Screen Use Policy Draft"
+ }
+]

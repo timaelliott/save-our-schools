@@ -1,0 +1,69 @@
+[
+ {
+  "path": "boardbook/meetings/2026-09-23_768451_facilities-improvement-and-oversight-committee-mee/agenda.html",
+  "url": "/Public/Agenda/915?meeting=768451",
+  "final_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=768451",
+  "status": 200,
+  "content_type": "text/html",
+  "bytes": 42389,
+  "error": "",
+  "fetched_at": "2026-10-25T22:05:52Z",
+  "title": "agenda"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-23_768451_facilities-improvement-and-oversight-committee-mee/minutes.html",
+  "url": "/Public/Minutes/915?meeting=768451",
+  "final_url": "https://meetings.boardbook.org/Documents/CustomMinutesForMeeting/915?meeting=768451",
+  "status": 200,
+  "content_type": "text/html",
+  "bytes": 32914,
+  "error": "",
+  "fetched_at": "2026-10-25T22:05:53Z",
+  "title": "minutes"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-23_768451_facilities-improvement-and-oversight-committee-mee/minutes_14593808.pdf",
+  "url": "/Documents/DownloadPDF/14593808?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14593808?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 101804,
+  "error": "",
+  "fetched_at": "2026-10-25T22:05:55Z",
+  "title": "minutes pdf"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-23_768451_facilities-improvement-and-oversight-committee-mee/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=768451",
+  "final_url": "https://meetings.boardbook.org/Documents/CustomPublicNoticeForMeeting/915?meeting=768451",
+  "status": 200,
+  "content_type": "text/html",
+  "bytes": 32936,
+  "error": "",
+  "fetched_at": "2026-10-25T22:05:56Z",
+  "title": "public_notice"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-23_768451_facilities-improvement-and-oversight-committee-mee/public_notice_14454714.pdf",
+  "url": "/Documents/DownloadPDF/14454714?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14454714?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 204279,
+  "error": "",
+  "fetched_at": "2026-10-25T22:05:58Z",
+  "title": "public_notice pdf"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-23_768451_facilities-improvement-and-oversight-committee-mee/attachments/14454647_FIO_September_Meeting_Presentation.pdf",
+  "url": "/Documents/DownloadPDF/14454647?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14454647?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 6057147,
+  "error": "",
+  "fetched_at": "2026-10-25T22:05:59Z",
+  "title": "FIO September Meeting Presentation",
+  "found_on": "4. Update: Facility Improvement Wins"
+ }
+]

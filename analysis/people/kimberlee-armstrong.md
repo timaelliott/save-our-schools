@@ -4,6 +4,8 @@ Evidence base: 176 transcript quotes in `quotes_all.jsonl` (140 high, 33 medium,
 
 ## Roles, tenure
 
+- **Chiefs for Change member.** Asked at the Oct 6, 2026 meeting (by Chase-Miller, per KATU; the speaker is not named on the recording) about "Chiefs for Change and your involvement" [YT:zOUH2Jq7Owo@4:17:40](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=15460s); she told the Board the group had not influenced her closure recommendations, and the group's CEO told KATU it gave neither PPS nor Salem-Keizer closure guidance [NEWS:NEWS-20261022-katu-1](https://katu.com/news/project-education/chiefs-for-change-membership-raises-questions-as-portland-salem-weigh-school-closures-keizer-consolidation-students-teachers-parents-education-local-community).
+
 - Superintendent; hired June 2024 (OPB headline URL in `_roster_from_web.md`). "I've been in the chair for 22 months" (Apr 28, 2026) [YT:j9PzUvPpSVA@3:39:21](https://www.youtube.com/watch?v=j9PzUvPpSVA&t=13161s).
 - Contract extension approved Sept 1, 2026, 5–2 (Res. 7371; La Forte and Engelsman no by elimination) [YT:5RMfvT-sAPU@3:32:04](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=12724s) [MTG:2026-09-01/761703](https://meetings.boardbook.org/Public/Agenda/915?meeting=761703). The board agreed in Sept 2026 that her evaluation template would include a rightsizing focus [MTG:2026-09-16/767447](https://meetings.boardbook.org/Public/Agenda/915?meeting=767447).
 - Signed the April 13, 2026 rightsizing letter with Dr. Jon Franco (roster).

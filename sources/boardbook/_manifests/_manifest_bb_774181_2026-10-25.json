@@ -1,0 +1,71 @@
+[
+ {
+  "path": "boardbook/meetings/2026-10-27_774181_audit-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=774181",
+  "final_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=774181",
+  "status": 200,
+  "content_type": "text/html",
+  "bytes": 46905,
+  "error": "",
+  "fetched_at": "2026-10-25T22:04:56Z",
+  "title": "agenda"
+ },
+ {
+  "path": "boardbook/meetings/2026-10-27_774181_audit-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=774181",
+  "final_url": "https://meetings.boardbook.org/Documents/CustomPublicNoticeForMeeting/915?meeting=774181",
+  "status": 200,
+  "content_type": "text/html",
+  "bytes": 32819,
+  "error": "",
+  "fetched_at": "2026-10-25T22:04:57Z",
+  "title": "public_notice"
+ },
+ {
+  "path": "boardbook/meetings/2026-10-27_774181_audit-committee-meeting/public_notice_14594890.pdf",
+  "url": "/Documents/DownloadPDF/14594890?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14594890?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 209319,
+  "error": "",
+  "fetched_at": "2026-10-25T22:04:59Z",
+  "title": "public_notice pdf"
+ },
+ {
+  "path": "boardbook/meetings/2026-10-27_774181_audit-committee-meeting/attachments/14594896_10272026_Audit_Committee_Meeting.pdf",
+  "url": "/Documents/DownloadPDF/14594896?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14594896?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 926326,
+  "error": "",
+  "fetched_at": "2026-10-25T22:05:00Z",
+  "title": "10272026 Audit Committee Meeting",
+  "found_on": "4. Audit Committee Roles and Responsibilities"
+ },
+ {
+  "path": "boardbook/meetings/2026-10-27_774181_audit-committee-meeting/attachments/14594897_Audit_Committee_Liaison_Annual_Support_Plan.pdf",
+  "url": "/Documents/DownloadPDF/14594897?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14594897?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 54615,
+  "error": "",
+  "fetched_at": "2026-10-25T22:05:02Z",
+  "title": "Audit Committee Liaison Annual Support Plan",
+  "found_on": "4. Audit Committee Roles and Responsibilities"
+ },
+ {
+  "path": "boardbook/meetings/2026-10-27_774181_audit-committee-meeting/attachments/14594907_2026_Communications_to_TCWG_-_Planning.pdf",
+  "url": "/Documents/DownloadPDF/14594907?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14594907?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 157428,
+  "error": "",
+  "fetched_at": "2026-10-25T22:05:03Z",
+  "title": "2026 Communications to TCWG - Planning",
+  "found_on": "8. Other Audit Updates"
+ }
+]
