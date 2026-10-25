@@ -5,9 +5,9 @@
   "format": "MP4, H.264 720x1280 (vertical) with AAC audio, 1:53 (113.4 s)",
   "bytes": 22112508,
   "sha256": "24dcda7c8c5b2ad2a8ad6a2fb977280e8d66eb2cab905f19b3f4412e43b32a41",
-  "post_date": "Not recorded. The video carries no creation date in its metadata. It was supplied by the repository owner on 2026-10-25. Content: she says she has been at listening sessions and PTA meetings, met the superintendent 'this week', and expects a Spanish DLI and SPED deep dive at 'the next Teaching, Learning, and Enrollment Committee meeting'. It refers to Scenarios A and B, released Oct 5, 2026.",
-  "platform": "Not recorded (a self-recorded social-media style video).",
-  "provenance": "Chat attachment from the repository owner, 2026-10-25 (original file name vfl.mp4). Not downloaded by an agent.",
+  "post_date": "2026-10-25 (per the repository owner). Not in the file metadata. In the video she refers to being chastised \"yesterday\" (2026-10-24) and to meeting the superintendent \"this week\".",
+  "platform": "Instagram reel",
+  "provenance": "Posted on Instagram 2026-10-25 at https://www.instagram.com/reel/De7rnYuSVIk/. The MP4 (original file name vfl.mp4) and transcript were supplied in chat by the repository owner on 2026-10-25; the reel was not fetched by an agent. Post date and URL recorded 2026-10-25 from the owner.",
   "rights": "Public statement by an elected official; archived for research.",
   "transcript": {
    "raw": "audio/social/la-forte_video-statement_scenarios-a-b-e.transcript.txt",
@@ -17,6 +17,7 @@
    "machine_check_provenance": "Local speech-to-text (faster-whisper small.en, int8 CPU) run on the video's audio 2026-10-25 to verify the owner's transcript and supply timestamps. It agrees with the owner's transcript apart from minor wording.",
    "corrected": "analysis/audio_transcripts/la-forte_video-statement_scenarios-a-b-e.txt",
    "citation": "[AUDIO:social/la-forte_video-statement_scenarios-a-b-e@H:MM:SS] (turn start, approximate)"
-  }
+  },
+  "url": "https://www.instagram.com/reel/De7rnYuSVIk/"
  }
 ]

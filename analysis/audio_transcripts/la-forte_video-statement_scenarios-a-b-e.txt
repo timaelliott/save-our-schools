@@ -1,6 +1,6 @@
 # Virginia La Forte (PPS Board, Zone 5): self-recorded video statement on the rightsizing scenarios (vertical phone video, 1:53)
 # Cite: [AUDIO:social/la-forte_video-statement_scenarios-a-b-e@H:MM:SS]
-# Video: sources/audio/social/la-forte_video-statement_scenarios-a-b-e.mp4 (supplied by the repository owner 2026-10-25; platform and post date not recorded)
+# Video: sources/audio/social/la-forte_video-statement_scenarios-a-b-e.mp4 (Instagram reel posted 2026-10-25, https://www.instagram.com/reel/De7rnYuSVIk/; file supplied by the repository owner the same day)
 # Words: the repository owner's transcript (sources/audio/social/la-forte_video-statement_scenarios-a-b-e.transcript.txt), unchanged.
 # Timestamps: approximate turn starts from a local speech-to-text pass on the video (faster-whisper small.en, 2026-10-25; .whisper-check.txt).
 #   The two transcripts agree except for small wording ("meaning to post" vs "a meeting to post"; "the impacts that will have" vs "we'll have").
