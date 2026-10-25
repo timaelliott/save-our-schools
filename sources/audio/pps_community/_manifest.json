@@ -1,0 +1,66 @@
+[
+ {
+  "path": "audio/pps_community/2026-10-24_school-impact-conversation_west-region.mp3",
+  "session": "PPS School Impact Conversation: West Region",
+  "date": "2026-10-24",
+  "place": "Ida B. Wells High School (per speakers in the recording)",
+  "duration": "02:04:38.83",
+  "format": "MP3, 48 kHz mono, ~96 kb/s",
+  "bytes": 89746317,
+  "sha256": "352b0c1fc34af4d1c72105fa36eaadad9a873caad9c37cfe098cdf762e94a645",
+  "provenance": "Room recording made by parent attendee Piet van Zoen on 2026-10-24 (three WAV files from one recorder, joined, noise-cleaned and mixed to mono in Audacity), supplied by him on 2026-10-25. Not downloaded by an agent.",
+  "edits": {
+   "what": "Students' and young children's names covered by a 1 kHz tone of the same length; nothing else changed, total length unchanged.",
+   "spans_seconds": [
+    [
+     1067.82,
+     1068.38
+    ],
+    [
+     1976.66,
+     1978.08
+    ],
+    [
+     2000.96,
+     2002.4
+    ],
+    [
+     2689.22,
+     2689.72
+    ],
+    [
+     4845.98,
+     4847.95
+    ],
+    [
+     4863.45,
+     4864.1
+    ],
+    [
+     4870.78,
+     4871.7
+    ],
+    [
+     5079.08,
+     5079.6
+    ],
+    [
+     5834.82,
+     5836.34
+    ]
+   ],
+   "how": "Times from re-transcribing each spot with Whisper word timestamps; bleeped with ffmpeg (original muted inside the spans, tone mixed in)."
+  },
+  "rights": "Recorded by an attendee at a public PPS community meeting. Archived for research; quote briefly with attribution.",
+  "transcript": {
+   "raw_export": "audio/pps_community/2026-10-24_school-impact-conversation_west-region.transcript.json",
+   "raw_sha256": "9e20a58e1ea2c6524e4bad5ab559ab3ed08e1030f59b64424f2b497a52b5de37",
+   "raw_provenance": "Whisper large-v3-turbo (mlx-whisper, run locally by the contributor) with sherpa-onnx pyannote speaker segmentation; 1604 segments. Students' and young children's names replaced with [student's name removed] / [name removed] before archiving (9 segments); otherwise as produced. Machine output: not verified word for word.",
+   "added_at": "2026-10-25",
+   "corrected": "analysis/audio_transcripts/2026-10-24_pps-impact-conversation_west-region.txt",
+   "turns": "analysis/audio_transcripts/turns_2026-10-24_pps-impact-conversation-west.csv",
+   "corrections_log": "analysis/audio_transcripts/corrections_2026-10-24_pps-impact-conversation-west.csv",
+   "citation": "[AUDIO:pps_community/2026-10-24_school-impact-conversation_west-region@H:MM:SS] (turn start)"
+  }
+ }
+]

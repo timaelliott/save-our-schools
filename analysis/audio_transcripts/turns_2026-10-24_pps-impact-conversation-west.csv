@@ -1,0 +1,67 @@
+start,label,role,evidence,confidence
+0:00:00,Before the start,Room and facilitators before the session opens,Logistics announcements before the welcome,medium
+0:00:42,PPS panel (introductions),"Opening and self-introductions: Superintendent Kimberlee Armstrong, Directors Christy Splitt (Zone 1) and Patte Sullivan (Zone 3), Margaret Calvert, Isaac Cardona, Jon Franco, Nichole Watson, Angela Freeman",Each introduces themselves by name in this turn; several voices,high
+0:02:24,Jon Franco (PPS Senior Chief of Operations),"Senior Chief of Operations, PPS; runs the session",Introduces himself as senior chief of operations at 0:01:42 and goes straight on to the agenda; same automatic speaker id (8) as this turn,medium
+0:03:24,Nichole Watson (PPS),"Sr. Director, Family & Community Engagement, PPS; manages the speaker list",Self-identifies at 0:02:10 and again at 1:07:26 (Village Table); Franco says at 0:03:13 that Nichole will facilitate the mic,high
+0:03:29,Margaret Calvert (PPS),"Executive Director, School Planning & Modernization, PPS; presents the West region slides",Called up by name at 0:03:24 and presents; says she was Jefferson's principal in 2012,high
+0:12:22,Jon Franco (PPS Senior Chief of Operations),"Senior Chief of Operations, PPS",Same automatic speaker id (8) as 0:02:24; explains the timer and hands over to the superintendent,medium
+0:13:11,Kimberlee Armstrong (Superintendent),"Superintendent, PPS","Handed ""over to Dr."" at 0:13:06; says ""I report to the school board"" and that she will give her final recommendation Nov 17",high
+0:17:47,Student 1 (4th grader),Student speaker (fourth grade),Self-describes as a fourth grader,high
+0:18:22,Nichole Watson (PPS),"Sr. Director, Family & Community Engagement, PPS",Calls the first four names from the speaker list and mentions interpretation services,medium
+0:19:39,Commenter 1 (Skyline parent),Member of the public: Skyline K-8 parent,Called first from the list; self-identifies as from Skyline,high
+0:21:03,Commenter 2 (MLC parent),Member of the public: parent of a 7th grader at MLC; SEPTSA member,Self-identifies,high
+0:27:01,Commenter 3 (Rieke / Robert Gray parent),Member of the public: on the speaker list as from Rieke and Robert Gray,Third name called at 0:19:23 and the next to speak; refers to an email to Director Splitt,medium
+0:28:36,Kimberlee Armstrong (Superintendent),"Superintendent, PPS",Answers the well-resourced-school question; same automatic speaker id (25) as her later turns; refers to the staffing plan coming with the final recommendation,medium
+0:30:48,Commenter 4 (Maplewood parent),Member of the public: parent of a Maplewood 3rd grader and a Wells 9th grader,Self-identifies; called at 0:19:23,high
+0:32:52,Nichole Watson (PPS),"Sr. Director, Family & Community Engagement, PPS",Reads the next names from the speaker list,high
+0:33:19,Student 2 (Maplewood 5th grader),Student speaker,Self-describes as a fifth grader at Maplewood,high
+0:34:45,Nichole Watson (PPS),"Sr. Director, Family & Community Engagement, PPS",Reads the next names,high
+0:35:00,Commenter 5 (Bridlemile teacher),Member of the public: kindergarten teacher at Bridlemile,Self-identifies,high
+0:38:09,Margaret Calvert (PPS),"Executive Director, School Planning & Modernization, PPS",Answers why 360/500/1100; refers back to the 2011 high school redesign she presented; same automatic speaker id (16) as 0:12:09,medium
+0:42:17,Audience,Members of the audience speaking from the floor,"""Answer the question"" from the floor",medium
+0:42:25,Jon Franco (PPS Senior Chief of Operations),"Senior Chief of Operations, PPS",Same automatic speaker id (8); uses Sellwood and the Southeast process as examples,medium
+0:44:13,Commenter 6 (Stevenson school counselor),Member of the public: Stevenson Elementary school counselor (on leave),Self-identifies,high
+0:49:48,Commenter 7 (Maplewood parent),Member of the public: parent of a Maplewood kindergartner; change-management background,Self-identifies,high
+0:51:21,Kimberlee Armstrong (Superintendent),"Superintendent, PPS","Asked by name (""Dr. Armstrong, I'd like to give you the opportunity"") and answers; ""I've been to 25 community listening sessions""",high
+0:54:45,Commenter 7 (Maplewood parent),Member of the public,Continues her comment,medium
+0:55:43,Kimberlee Armstrong (Superintendent),"Superintendent, PPS","""I've been vocal about that. It's phases.""",medium
+0:55:53,Commenter 7 (Maplewood parent),Member of the public,Continues and signs off with her name,medium
+0:56:31,Commenter 8 (Skyline / Lincoln parent),Member of the public: representing Skyline and Lincoln,Self-identifies,high
+0:58:35,Nichole Watson (PPS),"Sr. Director, Family & Community Engagement, PPS",Reads the next names,high
+0:59:14,Commenter 9 (Skyline parent),Member of the public: parent of an 8th grader at Skyline K-8,Self-identifies,high
+1:02:17,Commenter 10 (MLC parent),Member of the public: MLC parent and alum,Self-identifies; called at 0:58:35,high
+1:05:11,Commenter 11 (Maplewood Village Table rep),Member of the public: Maplewood parent and Village Table rep,Self-identifies,high
+1:07:26,Nichole Watson (PPS),"Sr. Director, Family & Community Engagement, PPS","""Nicole Watson here""; explains the Village Table",high
+1:09:30,Commenter 11 (Maplewood Village Table rep),Member of the public,Back-and-forth with Watson,medium
+1:09:53,Nichole Watson (PPS),"Sr. Director, Family & Community Engagement, PPS",Back-and-forth,medium
+1:10:14,Commenter 11 (Maplewood Village Table rep),Member of the public,Back-and-forth,medium
+1:10:18,Nichole Watson (PPS),"Sr. Director, Family & Community Engagement, PPS","""Let me give that to the team to answer""",medium
+1:10:23,Commenter 11 (Maplewood Village Table rep),Member of the public,Back-and-forth,medium
+1:10:34,Margaret Calvert (PPS),"Executive Director, School Planning & Modernization, PPS",Answers on PSU housing assumptions; same automatic speaker ids (12/16) as her earlier turns,medium
+1:13:06,Commenter 11 (Maplewood Village Table rep),Member of the public,Follow-up question,medium
+1:13:42,Commenter 12 (SW Portland real estate agent),Member of the public,Self-identifies as a real estate agent in Southwest Portland,high
+1:15:09,Commenter 13 (Stevenson parent),Member of the public: Stevenson parent,Self-identifies; called at 0:59:00,high
+1:16:58,Kimberlee Armstrong (Superintendent),"Superintendent, PPS",Answers on cohorts and forecasting; same automatic speaker id (20) as 0:13:11,medium
+1:18:31,Jon Franco (PPS Senior Chief of Operations),"Senior Chief of Operations, PPS","Same automatic speaker id (8); ""I've been a principal and a teacher""; Southeast guiding coalition",medium
+1:19:44,Commenter 13 (Stevenson parent),Member of the public,Follows up,medium
+1:20:26,Nichole Watson (PPS),"Sr. Director, Family & Community Engagement, PPS",Introduces the next student speaker and Councilor Green,medium
+1:21:09,Student 3 (Ida B. Wells student),Student speaker,Self-describes as a current student at Wells,high
+1:24:18,Commenter 14 (MLC parent),Member of the public: MLC parent; historian,Self-identifies,high
+1:27:49,Mitch Green (Portland City Councilor),"Portland City Councilor, District 4",Self-identifies,high
+1:30:46,Kimberlee Armstrong (Superintendent),"Superintendent, PPS","Asks Green a question back (""what happens if they don't?""); same automatic speaker ids (20/25/94) as her other turns",medium
+1:31:50,Mitch Green (Portland City Councilor),"Portland City Councilor, District 4",Answers her question,high
+1:32:30,Commenter 15 (Maplewood / Jackson family),Member of the public: Maplewood and Jackson family,Self-identifies,high
+1:36:42,Nichole Watson (PPS),"Sr. Director, Family & Community Engagement, PPS",Time check and next names,medium
+1:37:31,Commenter 16 (Maplewood parent),Member of the public: Maplewood parent,Self-identifies; called at 1:37:01,high
+1:40:15,Margaret Calvert (PPS),"Executive Director, School Planning & Modernization, PPS",Responds on enrollment numbers; same automatic speaker id (16),medium
+1:40:41,Audience,Members of the audience,"Chanting ""308"" from the floor",medium
+1:40:57,Margaret Calvert (PPS),"Executive Director, School Planning & Modernization, PPS",Continues; same automatic speaker id (16),medium
+1:41:21,Commenter 16 (Maplewood parent),Member of the public,Responds,medium
+1:41:51,Student 4 (MLC senior),Student speaker,"Self-describes (""I'm a senior now""); called as representing MLC at 1:37:01",high
+1:44:56,Commenter 17 (Maplewood parent),Member of the public: Maplewood and Jackson parent; attorney in child welfare,Self-identifies,high
+1:59:26,Audience,Members of the audience,"""Let her speak"" from the floor",medium
+1:59:40,Nichole Watson (PPS),"Sr. Director, Family & Community Engagement, PPS",Manages the speaker list and closes it,high
+2:00:20,Audience member,Member of the audience (MLC),Objects from the floor that MLC had too few speakers,medium
+2:00:38,Commenter 18 (Stevenson parent),Member of the public: Stevenson parent speaking on behalf of Markham,Self-identifies,high
+2:02:27,Kimberlee Armstrong (Superintendent),"Superintendent, PPS","Closes with next steps: ""I will submit a final recommendation"" Nov 17",high
+2:03:33,Audience members (after the close),Members of the audience speaking after the session ended,Informal comments after the close,medium

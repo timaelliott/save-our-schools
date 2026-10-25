@@ -50,7 +50,7 @@ and how board members and senior staff think and change positions over time. Rou
 - `sources/youtube/transcripts/`: per-video raw auto-captions (primary source; never edit)
 - `analysis/transcripts_corrected/`: same transcripts with caption name mis-hearings fixed in [brackets]; read and
   quote from these (`tools/caption_fixes.py` regenerates them; `corrections.csv` logs every change)
-- `sources/audio/` + `analysis/audio_transcripts/`: radio interviews with speaker-labeled corrected transcripts
+- `sources/audio/` + `analysis/audio_transcripts/`: radio interviews and parent recordings of PPS community meetings (`pps_community/`), with speaker-labeled corrected transcripts
 - `sources/correspondence/`: letters/emails to the Board from public officials, verbatim, with `_manifest.json`
 - `sources/staffing/`: PPS staffing/enrollment workbooks (Sept 2026 "Board Request": fall 2026 K-8 counts by school and grade) with tab CSVs
 - PDF text: `<file>.pdf.txt` next to each PDF (pages separated by form feed \f). Scanned PDFs also have
