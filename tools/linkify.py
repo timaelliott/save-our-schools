@@ -78,7 +78,8 @@ def url_for(tag):
         stem, _, at = body.partition("@")
         if at.startswith("L"):  # transcript-only interview: line in the raw transcript
             return GH + "sources/audio/" + stem + ".transcript.txt#" + at
-        return GH + "sources/audio/" + stem + ".mp3"
+        ext = ".mp4" if (ROOT / "sources/audio" / (stem + ".mp4")).exists() else ".mp3"
+        return GH + "sources/audio/" + stem + ext
     if kind == "LTR":
         m = re.match(r"(\S+)(?:\s+L(\d+))?", body)
         return m and GH + f"sources/correspondence/{m.group(1)}.txt" + (f"#L{m.group(2)}" if m.group(2) else "")

@@ -1,0 +1,13 @@
+# Virginia La Forte (PPS Board, Zone 5): self-recorded video statement on the rightsizing scenarios (vertical phone video, 1:53)
+# Cite: [AUDIO:social/la-forte_video-statement_scenarios-a-b-e@H:MM:SS]
+# Video: sources/audio/social/la-forte_video-statement_scenarios-a-b-e.mp4 (supplied by the repository owner 2026-10-25; platform and post date not recorded)
+# Words: the repository owner's transcript (sources/audio/social/la-forte_video-statement_scenarios-a-b-e.transcript.txt), unchanged.
+# Timestamps: approximate turn starts from a local speech-to-text pass on the video (faster-whisper small.en, 2026-10-25; .whisper-check.txt).
+#   The two transcripts agree except for small wording ("meaning to post" vs "a meeting to post"; "the impacts that will have" vs "we'll have").
+# Speaker: Virginia La Forte, alone on camera, speaking in the first person about her board vote [high].
+
+[0:00:00] Virginia La Forte: Hi, I've been meaning to post, but I've been very busy with real people in real life at listening sessions, PTA meetings, on the phone, and I was even chastised a little bit yesterday by a fellow elected official for not being open about where I stand on these scenarios right now. So I'm gonna tell you.
+[0:00:19] Virginia La Forte: Scenario A, I'm a hard no. It is too many buildings. I don't believe that the City of Portland can absorb that sort of sweeping change to our neighborhood infrastructure. without really damaging the, I don't know if livability is the word I'm looking for, but what makes Portland great.
+[0:00:41] Virginia La Forte: So Scenario B, I am not convinced that we've captured the right buildings, and I've asked for a lot more information on the Spanish DLI hub model and asked the district to make their case about why this is best for our, native-speaking students and to make that case.
+[0:01:02] Virginia La Forte: So we are actually going to do a deep dive at the next Teaching, Learning, and Enrollment Committee meeting on that with data. And I've also asked for a deep dive on SPED and the impacts that will have. What does that look like in this new, in this new scenario for our students? Those are the big questions, I think, that we need to answer before forming any final opinions.
+[0:01:25] Virginia La Forte: I met with the superintendent for an hour and a half this week to share feedback, give some ideas, and I am convinced that we're gonna see some changes. I don't even know if I would call it Scenario B. I hope we call it a Scenario E, maybe Scenario E for engagement, because we've had so much engagement with families. I'm taking it seriously. I know some others are as well, and I can't wait to see it. I'll keep you posted.
