@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Maplewood Beat Both Estimates</title>
-<meta name="description" content="Dot plot of PPS K-5 enrollment: Oct 2025 vs Oct 1, 2026, and PSU's 2026-27 forecast vs Oct 1, 2026 actual.">
+<meta name="description" content="Scatter plot of PPS K-5 schools: change from Oct 2025 to Oct 1, 2026 enrollment vs. Oct 1, 2026 actual minus PSU's 2026-27 forecast.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500&family=Public+Sans:wght@400;500;600;700&display=swap">
@@ -12,8 +12,8 @@
 <style>
 :root {
   color-scheme: light;
-  --fg: #1b1f27; --muted: #586174; --faint: #8a93a3; --bg: #ffffff; --panel: #f7f9fc; --line: #e2e6ec; --grid: #edf0f4;
-  --up: #1f5fbf; --down: #c2410c; --start: #9aa3b2; --hi: #fff4d6; --hi-line: #e3b341;
+  --fg: #1b1f27; --muted: #586174; --faint: #8a93a3; --bg: #ffffff; --panel: #f7f9fc; --line: #e2e6ec; --grid: #eef1f5;
+  --blue: #1f5fbf; --orange: #c2410c; --gray: #8f98a8; --q-good: #eaf2ff;
   --sans: "Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
   --serif: "Newsreader", Georgia, serif;
 }
@@ -22,136 +22,143 @@ body { margin: 0; color: var(--fg); font-family: var(--sans); }
 .wrap { max-width: 980px; margin: 0 auto; padding: 28px 16px 40px; box-sizing: border-box; }
 h1 { font-family: var(--serif); font-weight: 400; font-size: clamp(28px, 5vw, 40px); line-height: 1.1; margin: 0 0 10px; text-wrap: balance; }
 .lede { font-size: 16px; line-height: 1.5; margin: 0 0 18px; max-width: 68ch; }
-.lede b { font-weight: 700; }
-.kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 210px), 1fr)); gap: 12px; margin: 0 0 22px; }
+.kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 210px), 1fr)); gap: 12px; margin: 0 0 20px; }
 .kpi { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 14px 16px; }
 .kpi .n { font-family: var(--serif); font-size: 34px; line-height: 1; }
-.kpi .n.up { color: var(--up); }
+.kpi .n.up { color: var(--blue); }
 .kpi .l { font-size: 13px; color: var(--muted); margin-top: 6px; line-height: 1.4; }
-.controls { display: flex; flex-wrap: wrap; gap: 10px 18px; align-items: center; margin: 0 0 10px; }
+.controls { display: flex; flex-wrap: wrap; gap: 10px 18px; align-items: center; margin: 0 0 8px; }
 .seg { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; padding: 2px; gap: 2px; background: #fff; }
 .seg button { font: inherit; font-size: 13.5px; border: 0; background: transparent; color: var(--muted); padding: 7px 12px; border-radius: 6px; cursor: pointer; min-height: 36px; }
 .seg button[aria-pressed="true"] { background: var(--fg); color: #fff; }
-.seg button:focus-visible { outline: 2px solid var(--up); outline-offset: 1px; }
-.legend { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 13px; color: var(--muted); margin: 4px 0 8px; }
+.seg button:focus-visible { outline: 2px solid var(--blue); outline-offset: 1px; }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 13px; color: var(--muted); margin: 4px 0 6px; }
 .legend span { display: inline-flex; align-items: center; gap: 6px; }
-.dot { width: 11px; height: 11px; border-radius: 50%; display: inline-block; box-sizing: border-box; }
+.sw { width: 11px; height: 11px; border-radius: 50%; display: inline-block; box-sizing: border-box; }
 .chart { position: relative; }
 .chart svg { display: block; overflow: visible; }
 .chart text { font-family: var(--sans); }
-.tip { position: absolute; pointer-events: none; background: #fff; border: 1px solid var(--line); border-radius: 6px; box-shadow: 0 6px 18px rgba(20,30,50,.14); padding: 8px 10px; font-size: 13px; line-height: 1.45; min-width: 160px; }
+.tip { position: absolute; pointer-events: none; background: #fff; border: 1px solid var(--line); border-radius: 6px; box-shadow: 0 6px 18px rgba(20,30,50,.14); padding: 8px 10px; font-size: 13px; line-height: 1.45; min-width: 170px; z-index: 2; }
 .tip b { font-weight: 600; }
-.note { font-size: 12.5px; color: var(--muted); line-height: 1.5; margin-top: 18px; max-width: 75ch; }
+.note { font-size: 12.5px; color: var(--muted); line-height: 1.5; margin-top: 16px; max-width: 75ch; }
 .note p { margin: 0 0 6px; }
 </style>
 </head>
 <body>
 <div class="wrap">
   <h1>Maplewood beat both estimates</h1>
-  <p class="lede">Of PPS’s 45 K-5 schools, Maplewood had the <b>second-largest enrollment gain</b> from last fall (+17) and beat PSU’s forecast by <b>16 students</b>, one of the larger misses in the district. PPS still proposes to close it in both scenarios.</p>
+  <p class="lede">Each dot is a PPS K-5 school. Up means it gained students from last fall; right means it enrolled more than PSU forecast. Maplewood is in the top-right corner: it grew and beat the forecast. Only 7 of 45 K-5 schools did both.</p>
   <div class="kpis">
-    <div class="kpi"><div class="n up" id="k1">+17</div><div class="l">Maplewood, Oct 2025 → Oct 1, 2026 (287 → 304). Only 10 of 45 K-5 schools grew.</div></div>
-    <div class="kpi"><div class="n up" id="k2">+16</div><div class="l">Maplewood above PSU’s 2026-27 forecast (288 forecast, 304 actual).</div></div>
-    <div class="kpi"><div class="n" id="k3">304</div><div class="l">Maplewood today, more than Hayhurst (286) or Rieke (254), the two schools meant to absorb it.</div></div>
+    <div class="kpi"><div class="n up">+17</div><div class="l">Maplewood students vs. last fall (287 → 304). Second-largest gain of 45 K-5 schools.</div></div>
+    <div class="kpi"><div class="n up">+16</div><div class="l">Maplewood above PSU’s 2026-27 forecast (288 forecast, 304 actual).</div></div>
+    <div class="kpi"><div class="n">7 of 45</div><div class="l">K-5 schools that both grew and beat the forecast. Maplewood is one, and PPS proposes to close it.</div></div>
   </div>
   <div class="controls">
-    <div class="seg" role="group" aria-label="Comparison">
-      <button type="button" data-view="yoy" aria-pressed="true">2025 → 2026 enrollment</button>
-      <button type="button" data-view="psu" aria-pressed="false">PSU forecast vs. actual</button>
-    </div>
     <div class="seg" role="group" aria-label="Schools shown">
       <button type="button" data-set="all" aria-pressed="true">All K-5 (45)</button>
       <button type="button" data-set="sw" aria-pressed="false">Southwest</button>
     </div>
   </div>
-  <div class="legend" id="legend"></div>
+  <div class="legend">
+    <span><i class="sw" style="background:var(--blue)"></i>Maplewood</span>
+    <span><i class="sw" style="background:#fff;border:2px solid var(--orange)"></i>Proposed for closure (A and/or B)</span>
+    <span><i class="sw" style="background:var(--gray)"></i>Other K-5 schools</span>
+  </div>
   <div class="chart" id="chart"></div>
   <div class="note">
-    <p><b>Sources.</b> Oct 1, 2026 actuals: PPS, “2026-2027 October 1st Enrollment” by grade and program. Oct 2025 counts and the 2026-27 forecast: PSU Population Research Center, <i>Enrollment Forecasts 2026-27 to 2035-36</i>, Table 5.5 (historic 2025-26 and forecast 2026-27 columns). Closure status: PPS Scenario A/B family guides, Oct 2026.</p>
-    <p>K-5 elementary schools only (K-8s, middle and high schools excluded). Schools with language-immersion programs are shown as one total. “Southwest” is the Wells-cluster elementaries plus the Lincoln-cluster schools west of the river (PPS’s West region). Data: <code>analysis/data/psu_2026-27_forecast_vs_oct1_2026_actual.csv</code>.</p>
+    <p><b>How to read it.</b> Horizontal: Oct 1, 2026 enrollment minus PSU’s forecast for 2026-27 (students). Vertical: Oct 1, 2026 enrollment minus Oct 2025 enrollment (students). Hover or tap a dot for its numbers.</p>
+    <p><b>Sources.</b> Oct 1, 2026: PPS, “2026-2027 October 1st Enrollment” by grade and program. Oct 2025 counts and the 2026-27 forecast: PSU Population Research Center, <i>Enrollment Forecasts 2026-27 to 2035-36</i>, Table 5.5. Closure status: PPS Scenario A/B family guides, Oct 2026. K-5 elementary schools only; immersion schools shown as one total. “Southwest” is PPS’s West region (Lincoln and Wells clusters). Data: <code>analysis/data/psu_2026-27_forecast_vs_oct1_2026_actual.csv</code>.</p>
   </div>
 </div>
 <script>
-const DATA = [{"s":"Abernethy","r":"Cleveland/Franklin (SE)","a25":269,"f":250,"a26":266,"cA":false,"cB":false},{"s":"Arleta","r":"Cleveland/Franklin (SE)","a25":230,"f":216,"a26":221,"cA":false,"cB":false},{"s":"Atkinson","r":"Cleveland/Franklin (SE)","a25":366,"f":357,"a26":370,"cA":false,"cB":false},{"s":"Buckman","r":"Cleveland/Franklin (SE)","a25":283,"f":263,"a26":239,"cA":true,"cB":true},{"s":"Creston","r":"Cleveland/Franklin (SE)","a25":213,"f":199,"a26":222,"cA":true,"cB":true},{"s":"Duniway","r":"Cleveland/Franklin (SE)","a25":362,"f":362,"a26":358,"cA":false,"cB":false},{"s":"Glencoe","r":"Cleveland/Franklin (SE)","a25":339,"f":326,"a26":312,"cA":false,"cB":false},{"s":"Grout","r":"Cleveland/Franklin (SE)","a25":327,"f":306,"a26":297,"cA":false,"cB":false},{"s":"Kelly","r":"Cleveland/Franklin (SE)","a25":411,"f":412,"a26":404,"cA":false,"cB":false},{"s":"Lent","r":"Cleveland/Franklin (SE)","a25":256,"f":253,"a26":254,"cA":false,"cB":false},{"s":"Lewis","r":"Cleveland/Franklin (SE)","a25":259,"f":243,"a26":241,"cA":true,"cB":false},{"s":"Llewellyn","r":"Cleveland/Franklin (SE)","a25":345,"f":333,"a26":332,"cA":false,"cB":false},{"s":"Marysville","r":"Cleveland/Franklin (SE)","a25":307,"f":294,"a26":282,"cA":true,"cB":true},{"s":"Richmond","r":"Cleveland/Franklin (SE)","a25":512,"f":505,"a26":520,"cA":false,"cB":false},{"s":"Whitman","r":"Cleveland/Franklin (SE)","a25":194,"f":197,"a26":215,"cA":false,"cB":false},{"s":"Woodmere","r":"Cleveland/Franklin (SE)","a25":227,"f":222,"a26":206,"cA":true,"cB":true},{"s":"Woodstock","r":"Cleveland/Franklin (SE)","a25":367,"f":353,"a26":352,"cA":false,"cB":false},{"s":"Alameda","r":"Grant/McDaniel (NE)","a25":513,"f":503,"a26":502,"cA":false,"cB":false},{"s":"Clark","r":"Grant/McDaniel (NE)","a25":364,"f":363,"a26":305,"cA":false,"cB":false},{"s":"Irvington","r":"Grant/McDaniel (NE)","a25":259,"f":249,"a26":259,"cA":true,"cB":true},{"s":"Rigler","r":"Grant/McDaniel (NE)","a25":289,"f":301,"a26":300,"cA":false,"cB":false},{"s":"Rose City Park","r":"Grant/McDaniel (NE)","a25":417,"f":398,"a26":393,"cA":true,"cB":false},{"s":"Scott","r":"Grant/McDaniel (NE)","a25":476,"f":496,"a26":492,"cA":false,"cB":false},{"s":"Sunrise (formerly Lee)","r":"Grant/McDaniel (NE)","a25":251,"f":254,"a26":234,"cA":false,"cB":false},{"s":"Vestal","r":"Grant/McDaniel (NE)","a25":283,"f":288,"a26":287,"cA":false,"cB":false},{"s":"Beach","r":"Jefferson/Roosevelt (North)","a25":288,"f":285,"a26":269,"cA":true,"cB":true},{"s":"Boise-Eliot/Humboldt","r":"Jefferson/Roosevelt (North)","a25":294,"f":310,"a26":285,"cA":false,"cB":false},{"s":"Chief Joseph","r":"Jefferson/Roosevelt (North)","a25":242,"f":242,"a26":231,"cA":false,"cB":false},{"s":"Dr. Martin Luther King Jr.","r":"Jefferson/Roosevelt (North)","a25":319,"f":314,"a26":332,"cA":false,"cB":false},{"s":"James John","r":"Jefferson/Roosevelt (North)","a25":365,"f":361,"a26":347,"cA":true,"cB":true},{"s":"Peninsula","r":"Jefferson/Roosevelt (North)","a25":239,"f":252,"a26":220,"cA":true,"cB":true},{"s":"Rosa Parks","r":"Jefferson/Roosevelt (North)","a25":160,"f":161,"a26":173,"cA":false,"cB":false},{"s":"Sabin","r":"Jefferson/Roosevelt (North)","a25":269,"f":258,"a26":236,"cA":true,"cB":true},{"s":"Sitton","r":"Jefferson/Roosevelt (North)","a25":345,"f":340,"a26":328,"cA":false,"cB":false},{"s":"Woodlawn","r":"Jefferson/Roosevelt (North)","a25":323,"f":320,"a26":321,"cA":false,"cB":false},{"s":"Ainsworth","r":"Lincoln/Wells (West)","a25":560,"f":555,"a26":527,"cA":false,"cB":false},{"s":"Bridlemile","r":"Lincoln/Wells (West)","a25":423,"f":413,"a26":383,"cA":false,"cB":false},{"s":"Capitol Hill","r":"Lincoln/Wells (West)","a25":325,"f":319,"a26":291,"cA":false,"cB":false},{"s":"Chapman","r":"Lincoln/Wells (West)","a25":330,"f":336,"a26":319,"cA":false,"cB":false},{"s":"Forest Park","r":"Lincoln/Wells (West)","a25":264,"f":259,"a26":234,"cA":false,"cB":false},{"s":"Hayhurst","r":"Lincoln/Wells (West)","a25":290,"f":283,"a26":286,"cA":false,"cB":false},{"s":"Maplewood","r":"Lincoln/Wells (West)","a25":287,"f":288,"a26":304,"cA":true,"cB":true},{"s":"Markham","r":"Lincoln/Wells (West)","a25":339,"f":325,"a26":336,"cA":false,"cB":false},{"s":"Rieke","r":"Lincoln/Wells (West)","a25":264,"f":255,"a26":254,"cA":false,"cB":false},{"s":"Stephenson","r":"Lincoln/Wells (West)","a25":281,"f":267,"a26":280,"cA":true,"cB":false}];
+const DATA = [{"s":"Abernethy","r":"Cleveland/Franklin (SE)","a25":269,"f":250,"a26":266,"cA":false,"cB":false},{"s":"Arleta","r":"Cleveland/Franklin (SE)","a25":230,"f":216,"a26":221,"cA":false,"cB":false},{"s":"Atkinson","r":"Cleveland/Franklin (SE)","a25":366,"f":357,"a26":370,"cA":false,"cB":false},{"s":"Buckman","r":"Cleveland/Franklin (SE)","a25":283,"f":263,"a26":239,"cA":true,"cB":true},{"s":"Creston","r":"Cleveland/Franklin (SE)","a25":213,"f":199,"a26":222,"cA":true,"cB":true},{"s":"Duniway","r":"Cleveland/Franklin (SE)","a25":362,"f":362,"a26":358,"cA":false,"cB":false},{"s":"Glencoe","r":"Cleveland/Franklin (SE)","a25":339,"f":326,"a26":312,"cA":false,"cB":false},{"s":"Grout","r":"Cleveland/Franklin (SE)","a25":327,"f":306,"a26":297,"cA":false,"cB":false},{"s":"Kelly","r":"Cleveland/Franklin (SE)","a25":411,"f":412,"a26":404,"cA":false,"cB":false},{"s":"Lent","r":"Cleveland/Franklin (SE)","a25":256,"f":253,"a26":254,"cA":false,"cB":false},{"s":"Lewis","r":"Cleveland/Franklin (SE)","a25":259,"f":243,"a26":241,"cA":true,"cB":false},{"s":"Llewellyn","r":"Cleveland/Franklin (SE)","a25":345,"f":333,"a26":332,"cA":false,"cB":false},{"s":"Marysville","r":"Cleveland/Franklin (SE)","a25":307,"f":294,"a26":282,"cA":true,"cB":true},{"s":"Richmond","r":"Cleveland/Franklin (SE)","a25":512,"f":505,"a26":520,"cA":false,"cB":false},{"s":"Whitman","r":"Cleveland/Franklin (SE)","a25":194,"f":197,"a26":215,"cA":false,"cB":false},{"s":"Woodmere","r":"Cleveland/Franklin (SE)","a25":227,"f":222,"a26":206,"cA":true,"cB":true},{"s":"Woodstock","r":"Cleveland/Franklin (SE)","a25":367,"f":353,"a26":352,"cA":false,"cB":false},{"s":"Alameda","r":"Grant/McDaniel (NE)","a25":513,"f":503,"a26":502,"cA":false,"cB":false},{"s":"Clark","r":"Grant/McDaniel (NE)","a25":364,"f":363,"a26":305,"cA":false,"cB":false},{"s":"Irvington","r":"Grant/McDaniel (NE)","a25":259,"f":249,"a26":259,"cA":true,"cB":true},{"s":"Rigler","r":"Grant/McDaniel (NE)","a25":289,"f":301,"a26":300,"cA":false,"cB":false},{"s":"Rose City Park","r":"Grant/McDaniel (NE)","a25":417,"f":398,"a26":393,"cA":true,"cB":false},{"s":"Scott","r":"Grant/McDaniel (NE)","a25":476,"f":496,"a26":492,"cA":false,"cB":false},{"s":"Sunrise (formerly Lee)","r":"Grant/McDaniel (NE)","a25":251,"f":254,"a26":234,"cA":false,"cB":false},{"s":"Vestal","r":"Grant/McDaniel (NE)","a25":283,"f":288,"a26":287,"cA":false,"cB":false},{"s":"Beach","r":"Jefferson/Roosevelt (North)","a25":288,"f":285,"a26":269,"cA":true,"cB":true},{"s":"Boise-Eliot/Humboldt","r":"Jefferson/Roosevelt (North)","a25":294,"f":310,"a26":285,"cA":false,"cB":false},{"s":"Chief Joseph","r":"Jefferson/Roosevelt (North)","a25":242,"f":242,"a26":231,"cA":false,"cB":false},{"s":"Dr. Martin Luther King Jr.","r":"Jefferson/Roosevelt (North)","a25":319,"f":314,"a26":332,"cA":false,"cB":false},{"s":"James John","r":"Jefferson/Roosevelt (North)","a25":365,"f":361,"a26":347,"cA":true,"cB":true},{"s":"Peninsula","r":"Jefferson/Roosevelt (North)","a25":239,"f":252,"a26":220,"cA":true,"cB":true},{"s":"Rosa Parks","r":"Jefferson/Roosevelt (North)","a25":160,"f":161,"a26":173,"cA":false,"cB":false},{"s":"Sabin","r":"Jefferson/Roosevelt (North)","a25":269,"f":258,"a26":236,"cA":true,"cB":true},{"s":"Sitton","r":"Jefferson/Roosevelt (North)","a25":345,"f":340,"a26":328,"cA":false,"cB":false},{"s":"Woodlawn","r":"Jefferson/Roosevelt (North)","a25":323,"f":320,"a26":321,"cA":false,"cB":false},{"s":"Ainsworth","r":"Lincoln/Wells (West)","a25":560,"f":555,"a26":527,"cA":false,"cB":false},{"s":"Bridlemile","r":"Lincoln/Wells (West)","a25":423,"f":413,"a26":383,"cA":false,"cB":false},{"s":"Capitol Hill","r":"Lincoln/Wells (West)","a25":325,"f":319,"a26":291,"cA":false,"cB":false},{"s":"Chapman","r":"Lincoln/Wells (West)","a25":330,"f":336,"a26":319,"cA":false,"cB":false},{"s":"Forest Park","r":"Lincoln/Wells (West)","a25":264,"f":259,"a26":234,"cA":false,"cB":false},{"s":"Hayhurst","r":"Lincoln/Wells (West)","a25":290,"f":283,"a26":286,"cA":false,"cB":false},{"s":"Maplewood","r":"Lincoln/Wells (West)","a25":287,"f":288,"a26":304,"cA":true,"cB":true},{"s":"Markham","r":"Lincoln/Wells (West)","a25":339,"f":325,"a26":336,"cA":false,"cB":false},{"s":"Rieke","r":"Lincoln/Wells (West)","a25":264,"f":255,"a26":254,"cA":false,"cB":false},{"s":"Stephenson","r":"Lincoln/Wells (West)","a25":281,"f":267,"a26":280,"cA":true,"cB":false}].map(d => ({ ...d, x: d.a26 - d.f, y: d.a26 - d.a25, close: d.cA || d.cB }));
 const WEST = 'Lincoln/Wells (West)';
-const state = { view: 'yoy', set: 'all' };
+let set = 'all';
 const fmt = d3.format('+d');
 const chart = document.getElementById('chart');
 const tip = document.createElement('div'); tip.className = 'tip'; tip.hidden = true; chart.appendChild(tip);
+const short = s => s.replace('Dr. Martin Luther King Jr.', 'MLK Jr.').replace('Sunrise (formerly Lee)', 'Sunrise').replace('Boise-Eliot/Humboldt', 'Boise-Eliot');
 
-function rows() {
-  const from = state.view === 'yoy' ? 'a25' : 'f';
-  return DATA.filter(d => state.set === 'all' || d.r === WEST)
-    .map(d => ({ ...d, from: d[from], to: d.a26, delta: d.a26 - d[from] }))
-    .sort((a, b) => b.delta - a.delta || b.to - a.to);
-}
-function legend() {
-  const L = document.getElementById('legend'); L.textContent = '';
-  const fromName = state.view === 'yoy' ? 'Oct 2025' : 'PSU forecast for 2026-27';
-  const items = [
-    ['<span class="dot" style="border:2px solid var(--start);background:#fff"></span>', fromName],
-    ['<span class="dot" style="background:var(--up)"></span>', 'Oct 1, 2026 actual, higher'],
-    ['<span class="dot" style="background:var(--down)"></span>', 'Oct 1, 2026 actual, lower'],
-    ['<span style="width:7px;height:7px;background:var(--fg);display:inline-block;transform:rotate(45deg);margin:0 2px"></span>', 'Proposed for closure (A and/or B)']
-  ];
-  items.forEach(([sw, t]) => { const s = document.createElement('span'); s.innerHTML = sw; s.appendChild(document.createTextNode(t)); L.appendChild(s); });
-}
 function draw() {
-  legend();
-  const R = rows();
   chart.querySelectorAll('svg').forEach(n => n.remove());
-  const W = chart.clientWidth;
-  const narrow = W < 560;
-  const labelW = narrow ? 128 : 190, deltaW = 64, rowH = narrow ? 22 : 21, top = 26, bottom = 8;
-  const H = top + R.length * rowH + bottom;
+  const R = DATA.filter(d => set === 'all' || d.r === WEST);
+  const W = chart.clientWidth, narrow = W < 560;
+  const H = Math.round(Math.min(Math.max(W * 0.72, narrow ? 460 : 380), 640));
+  const m = { t: 18, r: 16, b: 52, l: 56 };
+  const ext = (k) => { const v = R.map(d => d[k]); const lo = Math.min(-5, d3.min(v)), hi = Math.max(5, d3.max(v)); const pad = (hi - lo) * 0.08; return [lo - pad, hi + pad]; };
+  const x = d3.scaleLinear().domain(ext('x')).nice().range([m.l, W - m.r]);
+  const y = d3.scaleLinear().domain(ext('y')).nice().range([H - m.b, m.t]);
   const svg = d3.select(chart).insert('svg', '.tip').attr('width', '100%').attr('viewBox', `0 0 ${W} ${H}`).attr('role', 'img')
-    .attr('aria-label', state.view === 'yoy' ? 'K-5 enrollment, Oct 2025 to Oct 1, 2026, by school' : 'K-5 enrollment, PSU 2026-27 forecast vs Oct 1, 2026 actual, by school');
-  const lo = d3.min(R, d => Math.min(d.from, d.to)), hi = d3.max(R, d => Math.max(d.from, d.to));
-  const x = d3.scaleLinear().domain([Math.floor((lo - 10) / 50) * 50, Math.ceil((hi + 10) / 50) * 50]).range([labelW, W - deltaW - 6]);
-  const y = (i) => top + i * rowH + rowH / 2;
+    .attr('aria-label', 'Scatter plot: K-5 schools by change versus forecast (horizontal) and change from last year (vertical). Maplewood is in the top-right quadrant.');
+  // top-right quadrant shading
+  svg.append('rect').attr('x', x(0)).attr('y', m.t).attr('width', W - m.r - x(0)).attr('height', y(0) - m.t).attr('fill', 'var(--q-good)');
+  // grid
+  x.ticks(narrow ? 5 : 8).forEach(t => svg.append('line').attr('x1', x(t)).attr('x2', x(t)).attr('y1', m.t).attr('y2', H - m.b).attr('stroke', 'var(--grid)'));
+  y.ticks(narrow ? 5 : 8).forEach(t => svg.append('line').attr('x1', m.l).attr('x2', W - m.r).attr('y1', y(t)).attr('y2', y(t)).attr('stroke', 'var(--grid)'));
+  // zero axes
+  svg.append('line').attr('x1', x(0)).attr('x2', x(0)).attr('y1', m.t).attr('y2', H - m.b).attr('stroke', '#9aa3b2').attr('stroke-width', 1.5);
+  svg.append('line').attr('x1', m.l).attr('x2', W - m.r).attr('y1', y(0)).attr('y2', y(0)).attr('stroke', '#9aa3b2').attr('stroke-width', 1.5);
+  // tick labels
+  const fs = 11.5;
+  x.ticks(narrow ? 5 : 8).forEach(t => svg.append('text').attr('x', x(t)).attr('y', H - m.b + 16).attr('text-anchor', 'middle').attr('font-size', fs).attr('fill', 'var(--faint)').text(t > 0 ? '+' + t : t));
+  y.ticks(narrow ? 5 : 8).forEach(t => svg.append('text').attr('x', m.l - 8).attr('y', y(t) + 4).attr('text-anchor', 'end').attr('font-size', fs).attr('fill', 'var(--faint)').text(t > 0 ? '+' + t : t));
+  svg.append('text').attr('x', (m.l + W - m.r) / 2).attr('y', H - 10).attr('text-anchor', 'middle').attr('font-size', 12.5).attr('fill', 'var(--muted)').text('2026 actual vs. PSU forecast (students) →');
+  svg.append('text').attr('transform', `translate(14 ${(m.t + H - m.b) / 2}) rotate(-90)`).attr('text-anchor', 'middle').attr('font-size', 12.5).attr('fill', 'var(--muted)').text('2026 vs. 2025 enrollment (students) →');
+  // quadrant labels
+  const count = (fx, fy) => R.filter(d => fx(d.x) && fy(d.y)).length;
+  const q = [
+    [W - m.r - 8, m.t + 16, 'end', narrow ? 'Grew & beat' : 'Grew and beat forecast', count(v => v > 0, v => v > 0), 'var(--blue)'],
+    [m.l + 8, m.t + 16, 'start', narrow ? 'Grew, below' : 'Grew, below forecast', count(v => v < 0, v => v > 0), 'var(--muted)'],
+    [W - m.r - 8, H - m.b - 10, 'end', narrow ? 'Shrank, beat' : 'Shrank, beat forecast', count(v => v > 0, v => v < 0), 'var(--muted)'],
+    [m.l + 8, H - m.b - 10, 'start', narrow ? 'Shrank & below' : 'Shrank and below forecast', count(v => v < 0, v => v < 0), 'var(--muted)']
+  ];
+  q.forEach(([qx, qy, anc, label, n, col]) => svg.append('text').attr('x', qx).attr('y', qy).attr('text-anchor', anc).attr('font-size', narrow ? 11.5 : 12.5).attr('font-weight', 600).attr('fill', col).text(`${label} (${n})`));
+  // points: others first, Maplewood last
+  const order = R.slice().sort((a, b) => (a.s === 'Maplewood') - (b.s === 'Maplewood') || a.close - b.close);
   const g = svg.append('g');
-  x.ticks(narrow ? 4 : 7).forEach(t => {
-    g.append('line').attr('x1', x(t)).attr('x2', x(t)).attr('y1', top - 6).attr('y2', H - bottom).attr('stroke', 'var(--grid)');
-    g.append('text').attr('x', x(t)).attr('y', top - 12).attr('text-anchor', 'middle').attr('font-size', 11.5).attr('fill', 'var(--faint)').text(t);
-  });
-  g.append('text').attr('x', W - 4).attr('y', top - 12).attr('text-anchor', 'end').attr('font-size', 11.5).attr('fill', 'var(--faint)').text('change');
-  R.forEach((d, i) => {
+  order.forEach(d => {
     const isM = d.s === 'Maplewood';
-    const row = g.append('g').attr('class', 'row').style('cursor', 'default');
-    if (isM) row.append('rect').attr('x', 0).attr('y', y(i) - rowH / 2).attr('width', W).attr('height', rowH).attr('fill', 'var(--hi)').attr('stroke', 'var(--hi-line)').attr('rx', 4);
-    row.append('rect').attr('x', 0).attr('y', y(i) - rowH / 2).attr('width', W).attr('height', rowH).attr('fill', 'transparent');
-    const name = narrow ? d.s.replace('Dr. Martin Luther King Jr.', 'MLK Jr.').replace('Boise-Eliot/Humboldt', 'Boise-Eliot').replace('Sunrise (formerly Lee)', 'Sunrise') : d.s;
-    const lab = row.append('text').attr('x', labelW - 12).attr('y', y(i) + 4).attr('text-anchor', 'end').attr('font-size', 12.5)
-      .attr('font-weight', isM ? 700 : 400).attr('fill', isM ? 'var(--fg)' : '#3b4252').text(name);
-    if (d.cA || d.cB) row.append('rect').attr('x', labelW - 9).attr('y', y(i) - 3.5).attr('width', 7).attr('height', 7).attr('transform', `rotate(45 ${labelW - 5.5} ${y(i)})`).attr('fill', 'var(--fg)');
-    const col = d.delta >= 0 ? 'var(--up)' : 'var(--down)';
-    row.append('line').attr('x1', x(d.from)).attr('x2', x(d.to)).attr('y1', y(i)).attr('y2', y(i)).attr('stroke', col).attr('stroke-width', isM ? 3 : 2).attr('stroke-opacity', isM ? 1 : .55);
-    row.append('circle').attr('cx', x(d.from)).attr('cy', y(i)).attr('r', isM ? 5.5 : 4.5).attr('fill', '#fff').attr('stroke', 'var(--start)').attr('stroke-width', 2);
-    row.append('circle').attr('cx', x(d.to)).attr('cy', y(i)).attr('r', isM ? 6 : 5).attr('fill', col);
-    row.append('text').attr('x', W - 4).attr('y', y(i) + 4).attr('text-anchor', 'end').attr('font-size', 12.5).attr('font-weight', isM ? 700 : 500)
-      .attr('fill', col).attr('font-variant-numeric', 'tabular-nums').text(d.delta === 0 ? '0' : fmt(d.delta));
-    row.on('pointerenter pointermove', (ev) => {
+    const c = g.append('circle').attr('cx', x(d.x)).attr('cy', y(d.y)).attr('r', isM ? 8 : 5.5)
+      .attr('fill', isM ? 'var(--blue)' : d.close ? '#fff' : 'var(--gray)').attr('fill-opacity', isM || d.close ? 1 : .75)
+      .attr('stroke', isM ? '#fff' : d.close ? 'var(--orange)' : '#fff').attr('stroke-width', isM ? 2.5 : d.close ? 2.2 : 1).style('cursor', 'default');
+    c.on('pointerenter pointermove', (ev) => {
       const [mx, my] = d3.pointer(ev, chart);
-      const fromName = state.view === 'yoy' ? 'Oct 2025' : 'PSU forecast';
-      tip.innerHTML = '';
-      const h = document.createElement('div'); h.innerHTML = '<b></b>'; h.firstChild.textContent = d.s; tip.appendChild(h);
-      [[fromName, d.from], ['Oct 1, 2026', d.to], ['Change', fmt(d.delta)]].forEach(([k, v]) => { const r = document.createElement('div'); r.textContent = k + ': ' + v; tip.appendChild(r); });
-      if (d.cA || d.cB) { const r = document.createElement('div'); r.style.color = 'var(--down)'; r.textContent = 'Proposed closure: ' + (d.cA && d.cB ? 'Scenarios A and B' : d.cA ? 'Scenario A' : 'Scenario B'); tip.appendChild(r); }
+      tip.textContent = '';
+      const h = document.createElement('div'); const b = document.createElement('b'); b.textContent = d.s; h.appendChild(b); tip.appendChild(h);
+      [['Oct 2025', d.a25], ['PSU forecast 2026-27', d.f], ['Oct 1, 2026', d.a26], ['vs. last year', fmt(d.y)], ['vs. forecast', fmt(d.x)]]
+        .forEach(([k, v]) => { const r = document.createElement('div'); r.textContent = k + ': ' + v; tip.appendChild(r); });
+      if (d.close) { const r = document.createElement('div'); r.style.color = 'var(--orange)'; r.textContent = 'Proposed closure: ' + (d.cA && d.cB ? 'Scenarios A and B' : d.cA ? 'Scenario A' : 'Scenario B'); tip.appendChild(r); }
       tip.hidden = false;
       const tw = tip.offsetWidth, th = tip.offsetHeight;
       let left = mx + 14; if (left + tw > chart.clientWidth) left = mx - tw - 14; left = Math.max(0, left);
-      let tp = my - th - 10; if (tp < 0) tp = my + 14;
-      tip.style.left = left + 'px'; tip.style.top = tp + 'px';
+      let top = my - th - 10; if (top < 0) top = my + 14;
+      tip.style.left = left + 'px'; tip.style.top = top + 'px';
     }).on('pointerleave', () => { tip.hidden = true; });
   });
+  // labels: Maplewood always; top-right quadrant schools; all schools in Southwest view
+  const lab = R.filter(d => d.s === 'Maplewood' || (d.x > 0 && d.y > 0) || set === 'sw');
+  const placed = [];
+  lab.sort((a, b) => (b.s === 'Maplewood') - (a.s === 'Maplewood')).forEach(d => {
+    const isM = d.s === 'Maplewood';
+    const txt = isM ? 'Maplewood' : short(d.s);
+    const size = isM ? 14 : 11.5;
+    const w = txt.length * size * 0.56, h = size + 2;
+    const px = x(d.x), py = y(d.y);
+    const cands = [[10, 4, 'start'], [-10, 4, 'end'], [0, -12, 'middle'], [0, 18, 'middle'], [10, -10, 'start'], [-10, -10, 'end'], [10, 16, 'start'], [-10, 16, 'end']];
+    for (const [dx, dy, anc] of cands) {
+      const lx = anc === 'start' ? px + dx : anc === 'end' ? px + dx - w : px - w / 2;
+      const box = [lx, py + dy - size, lx + w, py + dy + 2];
+      if (box[0] < m.l || box[2] > W - m.r || box[1] < m.t || box[3] > H - m.b) continue;
+      if (placed.some(p => !(box[2] < p[0] || box[0] > p[2] || box[3] < p[1] || box[1] > p[3]))) continue;
+      placed.push(box);
+      svg.append('text').attr('x', px + dx).attr('y', py + dy).attr('text-anchor', anc).attr('font-size', size).attr('font-weight', isM ? 700 : 500)
+        .attr('fill', isM ? 'var(--blue)' : d.close ? 'var(--orange)' : '#3b4252').attr('paint-order', 'stroke').attr('stroke', '#fff').attr('stroke-width', 3).text(txt);
+      break;
+    }
+  });
 }
-document.querySelectorAll('[data-view]').forEach(b => b.addEventListener('click', () => {
-  state.view = b.dataset.view;
-  document.querySelectorAll('[data-view]').forEach(x => x.setAttribute('aria-pressed', x === b));
-  draw();
-}));
 document.querySelectorAll('[data-set]').forEach(b => b.addEventListener('click', () => {
-  state.set = b.dataset.set;
+  set = b.dataset.set;
   document.querySelectorAll('[data-set]').forEach(x => x.setAttribute('aria-pressed', x === b));
   draw();
 }));
