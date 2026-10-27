@@ -1,0 +1,21 @@
+year,Bridlemile,Capitol Hill,Hayhurst,Maplewood,Markham,Rieke,Stephenson,count_basis,source
+2007-08,468,354,144,308,349,322,320,Oct 1,analysis/data/psu_forecast_vs_actual_by_school.csv (actual columns from PSU forecast reports)
+2008-09,464,321,143,331,360,348,327,Oct 1,analysis/data/psu_forecast_vs_actual_by_school.csv (actual columns from PSU forecast reports)
+2009-10,480,357,158,342,376,371,335,Oct 1,analysis/data/psu_forecast_vs_actual_by_school.csv (actual columns from PSU forecast reports)
+2010-11,463,351,165,350,376,356,324,Oct 1,analysis/data/psu_forecast_vs_actual_by_school.csv (actual columns from PSU forecast reports)
+2011-12,472,371,185,335,384,416,335,Oct 1,analysis/data/psu_forecast_vs_actual_by_school.csv (actual columns from PSU forecast reports)
+2012-13,457,403,172,327,383,388,329,Oct 1,analysis/data/psu_forecast_vs_actual_by_school.csv (actual columns from PSU forecast reports)
+2013-14,450,405,182,333,393,388,320,Oct 1,analysis/data/psu_forecast_vs_actual_by_school.csv (actual columns from PSU forecast reports)
+2014-15,442,460,256,329,386,388,308,Oct 1,analysis/data/psu_forecast_vs_actual_by_school.csv (actual columns from PSU forecast reports)
+2015-16,480,437,277,359,377,402,322,Oct 1,analysis/data/psu_forecast_vs_actual_by_school.csv (actual columns from PSU forecast reports)
+2016-17,511,448,340,384,418,410,340,Oct 1,[PPS:pps_net/data-and-reporting/2025-26/10yr_enrollment_history_detail.pdf p.1]
+2017-18,535,442,374,378,456,386,352,Oct 1,[PPS:pps_net/data-and-reporting/2025-26/10yr_enrollment_history_detail.pdf p.1]
+2018-19,518,443,390,383,445,379,347,Oct 1,[PPS:pps_net/data-and-reporting/2025-26/10yr_enrollment_history_detail.pdf p.1]
+2019-20,508,416,396,374,430,368,371,Oct 1,[PPS:pps_net/data-and-reporting/2025-26/10yr_enrollment_history_detail.pdf p.1]
+2020-21,437,346,380,347,416,329,322,Oct 1,[PPS:pps_net/data-and-reporting/2025-26/10yr_enrollment_history_detail.pdf p.1]
+2021-22,435,324,351,291,424,313,320,Oct 1,[PPS:pps_net/data-and-reporting/2025-26/10yr_enrollment_history_detail.pdf p.1]
+2022-23,458,333,350,310,426,300,307,Oct 1,[PPS:pps_net/data-and-reporting/2025-26/10yr_enrollment_history_detail.pdf p.1]
+2023-24,446,361,335,301,402,288,310,Oct 1,[PPS:pps_net/data-and-reporting/2025-26/10yr_enrollment_history_detail.pdf p.1]
+2024-25,419,318,314,295,341,278,285,Oct 1,[PPS:pps_net/data-and-reporting/2025-26/10yr_enrollment_history_detail.pdf p.1]
+2025-26,423,325,290,287,339,264,281,Oct 1,[PPS:pps_net/data-and-reporting/2025-26/10yr_enrollment_history_detail.pdf p.1]
+2026-27,381,290,290,303,327,254,281,Sept 22 preliminary,[PPS:staffing/2026-09-22_board-request/board_request_as_of_2026-09-22.xlsx#26-27 As of 923 Counts]

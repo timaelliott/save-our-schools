@@ -1,0 +1,328 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SW Portland K-5 Enrollment</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500&family=Public+Sans:wght@400;500;600&display=swap">
+<style>
+  /* Layout: one centered column; header, four figure tiles, a wide line chart, two charts side by side, the table, notes. Light only. */
+  :root {
+    color-scheme: light;
+    --ink: #1d2326;
+    --ink-muted: #5c676c;
+    --paper: #f5f8f7;
+    --panel: #ffffff;
+    --line: #dde3e4;
+    --grid: #edf1f1;
+    --axis: #b9c3c5;
+    --accent: #0b6e69;
+    --accent-soft: #e8f3f1;
+    --accent-soft-2: #dcecea;
+    --down: #a8432e;
+    --font-display: "Newsreader", Georgia, "Times New Roman", serif;
+    --font-body: "Public Sans", "Helvetica Neue", Arial, sans-serif;
+    --radius: 8px;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font: 15px/1.5 var(--font-body);
+  }
+  .wrap {
+    max-width: 72rem;
+    margin-inline: auto;
+    padding-block: 2rem 3rem;
+    padding-left: max(16px, env(safe-area-inset-left, 0px));
+    padding-right: max(16px, env(safe-area-inset-right, 0px));
+    display: grid;
+    gap: 1.25rem;
+  }
+  .head { display: grid; gap: .35rem; max-width: 58rem; }
+  .eyebrow { font-size: .75rem; letter-spacing: .07em; text-transform: uppercase; color: var(--accent); font-weight: 600; }
+  h1 { font-family: var(--font-display); font-weight: 400; font-size: clamp(1.7rem, 3.5vw, 2.4rem); line-height: 1.15; margin: 0; text-wrap: balance; }
+  .lede { margin: .25rem 0 0; max-width: 64ch; line-height: 1.6; }
+  .lede b { font-weight: 600; }
+  .tiles { display: grid; gap: .75rem; grid-template-columns: repeat(auto-fit, minmax(min(100%, 13rem), 1fr)); }
+  .tile { background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); padding: .9rem 1.1rem; display: grid; gap: .2rem; align-content: start; }
+  .tile-label { font-size: .8rem; color: var(--ink-muted); }
+  .tile-num { font-family: var(--font-display); font-size: 2.1rem; line-height: 1.1; font-variant-numeric: tabular-nums; }
+  .tile-note { font-size: .8rem; color: var(--ink-muted); }
+  .down { color: var(--down); }
+  .card { background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); padding: 1.1rem 1.25rem; display: grid; gap: .6rem; min-width: 0; }
+  .card h2 { margin: 0; font-size: 1.05rem; font-weight: 600; }
+  .note { margin: 0; color: var(--ink-muted); font-size: .82rem; line-height: 1.5; }
+  .row { display: grid; gap: 1.25rem; grid-template-columns: repeat(auto-fit, minmax(min(100%, 22rem), 1fr)); }
+  .chart { position: relative; min-width: 0; }
+  .chart svg { display: block; overflow: visible; }
+  .chart text { fill: var(--ink-muted); font-size: 11px; font-family: var(--font-body); }
+  #lines { min-height: 300px; }
+  #total, #change { min-height: 220px; }
+  .legend { display: flex; flex-wrap: wrap; gap: .4rem; }
+  .chip { display: inline-flex; align-items: center; gap: .4rem; font: inherit; font-size: .8rem; color: var(--ink); background: var(--panel); border: 1px solid var(--line); border-radius: 999px; padding: .2rem .7rem .2rem .5rem; cursor: pointer; }
+  .chip:hover { border-color: var(--axis); }
+  .chip:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .chip[aria-pressed="true"] { border-color: var(--ink); box-shadow: inset 0 0 0 1px var(--ink); }
+  .chip i { width: .7rem; height: .7rem; border-radius: 50%; display: inline-block; }
+  .tip { position: absolute; pointer-events: none; z-index: 2; background: #fff; border: 1px solid var(--line); border-radius: var(--radius); box-shadow: 0 4px 14px rgba(20, 40, 40, .12); padding: .35rem .6rem; font-size: .78rem; font-variant-numeric: tabular-nums; min-width: 10rem; opacity: 0; }
+  .tip-h { color: var(--ink-muted); margin-bottom: .2rem; }
+  .tip-r { display: grid; grid-template-columns: .6rem 1fr auto; gap: .45rem; align-items: center; line-height: 1.5; }
+  .tip-r i { width: .55rem; height: .55rem; border-radius: 50%; }
+  .tip-r.is-focus { font-weight: 600; }
+  .tablewrap { overflow: auto; border: 1px solid var(--line); border-radius: var(--radius); }
+  table { border-collapse: collapse; width: 100%; font-size: .82rem; font-variant-numeric: tabular-nums; }
+  th, td { padding: .45rem .7rem; text-align: right; white-space: nowrap; border-bottom: 1px solid var(--grid); }
+  th:first-child, td:first-child { text-align: left; }
+  thead th { position: sticky; top: 0; background: var(--paper); color: var(--ink-muted); font-weight: 500; border-bottom: 1px solid var(--line); }
+  .is-maple { background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+  thead th.is-maple { background: var(--accent-soft-2); }
+  .is-total { border-left: 1px solid var(--line); font-weight: 600; }
+  tbody tr:hover td { background: var(--paper); }
+  tbody tr:hover td.is-maple { background: var(--accent-soft-2); }
+  ul.notes, ul.sources { margin: 0; padding-left: 1.1rem; display: grid; gap: .35rem; font-size: .82rem; line-height: 1.5; max-width: 75ch; }
+  ul.notes { color: var(--ink-muted); }
+  a { color: var(--accent); }
+  .foot { font-size: .75rem; color: var(--ink-muted); }
+  @media (prefers-reduced-motion: no-preference) { .chip { transition: border-color .15s; } }
+</style>
+</head>
+<body>
+<main class="wrap">
+  <header class="head">
+    <div class="eyebrow">Portland Public Schools · Southwest elementaries</div>
+    <h1>Southwest Portland K-5 enrollment since 2007</h1>
+    <p class="lede" id="lede"></p>
+  </header>
+
+  <section class="tiles" aria-label="Headline figures">
+    <div class="tile"><div class="tile-label">Wells-cluster K-5, this fall</div><div class="tile-num" id="t-wells"></div><div class="tile-note">Seven schools, preliminary count</div></div>
+    <div class="tile"><div class="tile-label">Change from the cluster's peak</div><div class="tile-num down" id="t-drop"></div><div class="tile-note" id="t-peak"></div></div>
+    <div class="tile"><div class="tile-label">Maplewood, this fall</div><div class="tile-num" id="t-maple"></div><div class="tile-note" id="t-maple-prev"></div></div>
+    <div class="tile"><div class="tile-label">Maplewood vs. 2019-20</div><div class="tile-num down" id="t-maple-chg"></div><div class="tile-note">Smallest drop of the seven Wells schools</div></div>
+  </section>
+
+  <section class="card" id="by-school">
+    <h2>K-5 enrollment by school</h2>
+    <p class="note">Oct 1 counts. Select a school to bring its line forward; hover the chart for every school's count that year.</p>
+    <div class="legend" id="legend"></div>
+    <div class="chart" id="lines"></div>
+  </section>
+
+  <div class="row">
+    <section class="card" id="cluster-total">
+      <h2>Wells-cluster total</h2>
+      <p class="note">Bridlemile, Capitol Hill, Hayhurst, Maplewood, Markham, Rieke and Stephenson.</p>
+      <div class="chart" id="total"></div>
+    </section>
+    <section class="card" id="change-card">
+      <h2>Change since 2019-20</h2>
+      <p class="note">From the last pre-pandemic count to this fall's preliminary count.</p>
+      <div class="chart" id="change"></div>
+    </section>
+  </div>
+
+  <section class="card" id="table">
+    <h2>All counts</h2>
+    <p class="note">Oct 1 counts; this fall is the preliminary Sept 22 count.</p>
+    <div class="tablewrap"><table><thead><tr id="thead"></tr></thead><tbody id="tbody"></tbody></table></div>
+  </section>
+
+  <section class="card" id="notes">
+    <h2>Notes</h2>
+    <ul class="notes">
+      <li>The 2016 boundary change took effect in 2017-18. It moved small areas from Maplewood, Rieke and Bridlemile to Hayhurst, and from Capitol Hill to Stephenson.</li>
+      <li>This fall's figures are PPS's preliminary Sept 22, 2026 counts from the staffing workbook prepared for the Board. Earlier years are Oct 1 counts.</li>
+    </ul>
+    <h2>Sources</h2>
+    <ul class="sources">
+      <li><a href="https://github.com/timaelliott/save-our-schools/blob/main/analysis/data/psu_forecast_vs_actual_by_school.csv" target="_blank" rel="noopener">PSU Population Research Center enrollment forecasts, history columns</a> (2007-08 to 2015-16)</li>
+      <li><a href="https://github.com/timaelliott/save-our-schools/blob/main/sources/pps_net/data-and-reporting/2025-26/10yr_enrollment_history_detail.pdf" target="_blank" rel="noopener">PPS 10-year enrollment history, 2025-26 edition</a> (2016-17 to 2025-26)</li>
+      <li><a href="https://github.com/timaelliott/save-our-schools/blob/main/sources/staffing/2026-09-22_board-request/board_request_as_of_2026-09-22.xlsx" target="_blank" rel="noopener">PPS staffing workbook, Sept 22, 2026</a> (2026-27)</li>
+      <li>Data file: <a href="https://github.com/timaelliott/save-our-schools/blob/main/analysis/data/sw_wells_k5_enrollment_2007-2026.csv" target="_blank" rel="noopener">sw_wells_k5_enrollment_2007-2026.csv</a></li>
+    </ul>
+    <p class="foot">Compiled from the save-our-schools archive, Oct 27, 2026.</p>
+  </section>
+</main>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<script>
+  const ROWS = [{"year":"2007-08","Bridlemile":468,"Capitol Hill":354,"Hayhurst":144,"Maplewood":308,"Markham":349,"Rieke":322,"Stephenson":320,"basis":"Oct 1"},{"year":"2008-09","Bridlemile":464,"Capitol Hill":321,"Hayhurst":143,"Maplewood":331,"Markham":360,"Rieke":348,"Stephenson":327,"basis":"Oct 1"},{"year":"2009-10","Bridlemile":480,"Capitol Hill":357,"Hayhurst":158,"Maplewood":342,"Markham":376,"Rieke":371,"Stephenson":335,"basis":"Oct 1"},{"year":"2010-11","Bridlemile":463,"Capitol Hill":351,"Hayhurst":165,"Maplewood":350,"Markham":376,"Rieke":356,"Stephenson":324,"basis":"Oct 1"},{"year":"2011-12","Bridlemile":472,"Capitol Hill":371,"Hayhurst":185,"Maplewood":335,"Markham":384,"Rieke":416,"Stephenson":335,"basis":"Oct 1"},{"year":"2012-13","Bridlemile":457,"Capitol Hill":403,"Hayhurst":172,"Maplewood":327,"Markham":383,"Rieke":388,"Stephenson":329,"basis":"Oct 1"},{"year":"2013-14","Bridlemile":450,"Capitol Hill":405,"Hayhurst":182,"Maplewood":333,"Markham":393,"Rieke":388,"Stephenson":320,"basis":"Oct 1"},{"year":"2014-15","Bridlemile":442,"Capitol Hill":460,"Hayhurst":256,"Maplewood":329,"Markham":386,"Rieke":388,"Stephenson":308,"basis":"Oct 1"},{"year":"2015-16","Bridlemile":480,"Capitol Hill":437,"Hayhurst":277,"Maplewood":359,"Markham":377,"Rieke":402,"Stephenson":322,"basis":"Oct 1"},{"year":"2016-17","Bridlemile":511,"Capitol Hill":448,"Hayhurst":340,"Maplewood":384,"Markham":418,"Rieke":410,"Stephenson":340,"basis":"Oct 1"},{"year":"2017-18","Bridlemile":535,"Capitol Hill":442,"Hayhurst":374,"Maplewood":378,"Markham":456,"Rieke":386,"Stephenson":352,"basis":"Oct 1"},{"year":"2018-19","Bridlemile":518,"Capitol Hill":443,"Hayhurst":390,"Maplewood":383,"Markham":445,"Rieke":379,"Stephenson":347,"basis":"Oct 1"},{"year":"2019-20","Bridlemile":508,"Capitol Hill":416,"Hayhurst":396,"Maplewood":374,"Markham":430,"Rieke":368,"Stephenson":371,"basis":"Oct 1"},{"year":"2020-21","Bridlemile":437,"Capitol Hill":346,"Hayhurst":380,"Maplewood":347,"Markham":416,"Rieke":329,"Stephenson":322,"basis":"Oct 1"},{"year":"2021-22","Bridlemile":435,"Capitol Hill":324,"Hayhurst":351,"Maplewood":291,"Markham":424,"Rieke":313,"Stephenson":320,"basis":"Oct 1"},{"year":"2022-23","Bridlemile":458,"Capitol Hill":333,"Hayhurst":350,"Maplewood":310,"Markham":426,"Rieke":300,"Stephenson":307,"basis":"Oct 1"},{"year":"2023-24","Bridlemile":446,"Capitol Hill":361,"Hayhurst":335,"Maplewood":301,"Markham":402,"Rieke":288,"Stephenson":310,"basis":"Oct 1"},{"year":"2024-25","Bridlemile":419,"Capitol Hill":318,"Hayhurst":314,"Maplewood":295,"Markham":341,"Rieke":278,"Stephenson":285,"basis":"Oct 1"},{"year":"2025-26","Bridlemile":423,"Capitol Hill":325,"Hayhurst":290,"Maplewood":287,"Markham":339,"Rieke":264,"Stephenson":281,"basis":"Oct 1"},{"year":"2026-27","Bridlemile":381,"Capitol Hill":290,"Hayhurst":290,"Maplewood":303,"Markham":327,"Rieke":254,"Stephenson":281,"basis":"Sept 22 preliminary"}];
+  const SCHOOLS = ['Bridlemile', 'Capitol Hill', 'Hayhurst', 'Maplewood', 'Markham', 'Rieke', 'Stephenson'];
+  const COLORS = {
+    'Bridlemile': '#5f78b0', 'Capitol Hill': '#b4527a', 'Hayhurst': '#6f9131', 'Maplewood': '#0b6e69',
+    'Markham': '#cc7426', 'Rieke': '#7a5aa8', 'Stephenson': '#3f93bf',
+  };
+  const fmt = d3.format(',');
+  let focus = 'Maplewood';
+
+  const TOTALS = ROWS.map((r) => ({ year: r.year, total: d3.sum(SCHOOLS, (s) => r[s]) }));
+  const BASE = ROWS.find((r) => r.year === '2019-20');
+  const LAST = ROWS[ROWS.length - 1];
+  const PREV = ROWS[ROWS.length - 2];
+  const CHANGE = SCHOOLS.map((s) => ({ school: s, pct: Math.round((LAST[s] / BASE[s] - 1) * 100) }));
+  const PEAK = TOTALS.reduce((a, b) => (b.total > a.total ? b : a));
+  const LAST_T = TOTALS[TOTALS.length - 1];
+  const dropPct = Math.round((1 - LAST_T.total / PEAK.total) * 100);
+  const mapleChg = Math.round((LAST.Maplewood / BASE.Maplewood - 1) * 100);
+
+  const set = (id, text) => { document.getElementById(id).textContent = text; };
+  set('t-wells', fmt(LAST_T.total));
+  set('t-drop', `−${dropPct}%`);
+  set('t-peak', `Peak ${fmt(PEAK.total)} in ${PEAK.year}`);
+  set('t-maple', fmt(LAST.Maplewood));
+  set('t-maple-prev', `Last fall: ${fmt(PREV.Maplewood)}`);
+  set('t-maple-chg', `${mapleChg}%`);
+  const lede = document.getElementById('lede');
+  const b = (t) => { const e = document.createElement('b'); e.textContent = t; return e; };
+  lede.append('The seven elementaries that feed Ida B. Wells enrolled ', b(fmt(LAST_T.total)),
+    ` students this fall, ${dropPct}% below their ${PEAK.year} peak of ${fmt(PEAK.total)}. Since 2019-20, Maplewood has held up best of the seven (${mapleChg}%), and it is the only one that grew this fall.`);
+
+  const textWidth = (svg, s) => { const t = svg.append('text').text(s); const w = t.node().getComputedTextLength(); t.remove(); return w; };
+
+  function drawLegend() {
+    const el = document.getElementById('legend');
+    el.innerHTML = '';
+    SCHOOLS.forEach((s) => {
+      const btn = document.createElement('button');
+      btn.type = 'button';
+      btn.className = 'chip';
+      btn.setAttribute('aria-pressed', String(s === focus));
+      const i = document.createElement('i');
+      i.style.background = COLORS[s];
+      btn.append(i, s);
+      btn.addEventListener('click', () => { focus = focus === s ? null : s; drawLegend(); drawLines(); });
+      el.appendChild(btn);
+    });
+  }
+
+  function drawLines() {
+    const el = document.getElementById('lines');
+    el.innerHTML = '';
+    const W = Math.max(el.clientWidth, 300);
+    const H = W < 520 ? 300 : 360;
+    const years = ROWS.map((r) => r.year);
+    const svg = d3.select(el).append('svg').attr('width', '100%').attr('viewBox', `0 0 ${W} ${H}`);
+    const yMax = d3.max(ROWS, (r) => d3.max(SCHOOLS, (s) => r[s]));
+    const y = d3.scaleLinear([100, Math.ceil(yMax / 100) * 100], [H - 28, 10]);
+    const left = textWidth(svg, fmt(y.domain()[1])) + 10;
+    const x = d3.scalePoint(years, [left + 6, W - 10]);
+    y.ticks(6).forEach((t) => {
+      svg.append('line').attr('x1', left).attr('x2', W - 4).attr('y1', y(t)).attr('y2', y(t)).attr('stroke', '#edf1f1');
+      svg.append('text').attr('x', left - 6).attr('y', y(t)).attr('dy', '0.32em').attr('text-anchor', 'end').text(fmt(t));
+    });
+    const step = W < 520 ? 4 : (W < 820 ? 2 : 1);
+    years.forEach((yr, i) => {
+      if (i % step !== 0 && i !== years.length - 1) return;
+      svg.append('text').attr('x', x(yr)).attr('y', H - 8).attr('text-anchor', 'middle').text(yr.slice(2));
+    });
+    svg.append('line').attr('x1', left).attr('x2', W - 4).attr('y1', H - 28).attr('y2', H - 28).attr('stroke', '#b9c3c5');
+    const order = SCHOOLS.filter((s) => s !== focus).concat(focus ? [focus] : []);
+    order.forEach((s) => {
+      const line = d3.line().x((r) => x(r.year)).y((r) => y(r[s]));
+      svg.append('path').datum(ROWS).attr('d', line).attr('fill', 'none')
+        .attr('stroke', COLORS[s]).attr('stroke-width', s === focus ? 3 : 1.75)
+        .attr('stroke-opacity', !focus || s === focus ? 1 : 0.28)
+        .attr('stroke-linecap', 'round').attr('stroke-linejoin', 'round');
+    });
+    if (focus) svg.append('circle').attr('cx', x(LAST.year)).attr('cy', y(LAST[focus])).attr('r', 4).attr('fill', COLORS[focus]);
+    const rule = svg.append('line').attr('y1', 10).attr('y2', H - 28).attr('stroke', '#b9c3c5').attr('stroke-dasharray', '3 3').style('opacity', 0);
+    const tip = d3.select(el).append('div').attr('class', 'tip');
+    svg.append('rect').attr('x', left).attr('y', 0).attr('width', W - left).attr('height', H - 28).attr('fill', 'transparent')
+      .on('mousemove', (ev) => {
+        const [mx] = d3.pointer(ev);
+        const i = Math.max(0, Math.min(years.length - 1, Math.round((mx - x(years[0])) / x.step())));
+        const r = ROWS[i];
+        rule.attr('x1', x(r.year)).attr('x2', x(r.year)).style('opacity', 1);
+        tip.html('');
+        tip.append('div').attr('class', 'tip-h').text(r.year + (r.basis !== 'Oct 1' ? ' (preliminary)' : ''));
+        SCHOOLS.map((s) => [s, r[s]]).sort((a, c) => c[1] - a[1]).forEach(([s, v]) => {
+          const row = tip.append('div').attr('class', 'tip-r' + (s === focus ? ' is-focus' : ''));
+          row.append('i').style('background', COLORS[s]);
+          row.append('span').text(s);
+          row.append('span').text(fmt(v));
+        });
+        const tw = tip.node().offsetWidth;
+        const px = (x(r.year) / W) * el.clientWidth;
+        tip.style('left', `${px + 12 + tw > el.clientWidth ? px - tw - 12 : px + 12}px`).style('top', '8px').style('opacity', 1);
+      })
+      .on('mouseleave', () => { rule.style('opacity', 0); tip.style('opacity', 0); });
+  }
+
+  function drawTotal() {
+    const el = document.getElementById('total');
+    el.innerHTML = '';
+    const W = Math.max(el.clientWidth, 280);
+    const H = 240;
+    const svg = d3.select(el).append('svg').attr('width', '100%').attr('viewBox', `0 0 ${W} ${H}`);
+    const y = d3.scaleLinear([0, Math.ceil(PEAK.total / 500) * 500], [H - 26, 18]);
+    const left = textWidth(svg, fmt(y.domain()[1])) + 10;
+    const x = d3.scaleBand(TOTALS.map((d) => d.year), [left, W - 4]).padding(0.22);
+    y.ticks(4).forEach((t) => {
+      svg.append('line').attr('x1', left).attr('x2', W - 4).attr('y1', y(t)).attr('y2', y(t)).attr('stroke', '#edf1f1');
+      svg.append('text').attr('x', left - 6).attr('y', y(t)).attr('dy', '0.32em').attr('text-anchor', 'end').text(fmt(t));
+    });
+    svg.selectAll('rect.b').data(TOTALS).join('rect').attr('class', 'b')
+      .attr('x', (d) => x(d.year)).attr('width', x.bandwidth())
+      .attr('y', (d) => y(d.total)).attr('height', (d) => y(0) - y(d.total)).attr('rx', 3)
+      .attr('fill', (d) => (d === LAST_T ? '#0b6e69' : (d === PEAK ? '#8fb9b5' : '#c9dad8')))
+      .append('title').text((d) => `${d.year}: ${fmt(d.total)}`);
+    [PEAK, LAST_T].forEach((d) => {
+      svg.append('text').attr('x', x(d.year) + x.bandwidth() / 2).attr('y', y(d.total) - 5)
+        .attr('text-anchor', 'middle').style('fill', '#1d2326').style('font-weight', 600).text(fmt(d.total));
+    });
+    const step = W < 420 ? 5 : 3;
+    TOTALS.forEach((d, i) => {
+      if (d !== LAST_T && (i % step !== 0 || i >= TOTALS.length - 2)) return;
+      svg.append('text').attr('x', x(d.year) + x.bandwidth() / 2).attr('y', H - 8).attr('text-anchor', 'middle').text(d.year.slice(2));
+    });
+  }
+
+  function drawChange() {
+    const el = document.getElementById('change');
+    el.innerHTML = '';
+    const data = CHANGE.slice().sort((a, b2) => a.pct - b2.pct);
+    const W = Math.max(el.clientWidth, 280);
+    const rowH = 28;
+    const H = data.length * rowH + 8;
+    const svg = d3.select(el).append('svg').attr('width', '100%').attr('viewBox', `0 0 ${W} ${H}`);
+    const nameW = d3.max(data, (d) => textWidth(svg, d.school)) + 10;
+    const x = d3.scaleLinear([d3.min(data, (d) => d.pct) * 1.05, 0], [nameW, W - 44]);
+    data.forEach((d, i) => {
+      const yy = i * rowH + 4;
+      const isM = d.school === 'Maplewood';
+      svg.append('text').attr('x', nameW - 8).attr('y', yy + rowH / 2 - 2).attr('dy', '0.32em').attr('text-anchor', 'end')
+        .style('fill', isM ? '#0b6e69' : '#5c676c').style('font-weight', isM ? 600 : 400).text(d.school);
+      svg.append('rect').attr('x', x(d.pct)).attr('y', yy + 3).attr('width', x(0) - x(d.pct)).attr('height', rowH - 10).attr('rx', 3)
+        .attr('fill', isM ? '#0b6e69' : '#e3b3a8');
+      svg.append('text').attr('x', x(0) + 6).attr('y', yy + rowH / 2 - 2).attr('dy', '0.32em')
+        .style('fill', isM ? '#0b6e69' : '#1d2326').style('font-weight', isM ? 600 : 400).text(`${d.pct}%`);
+    });
+    svg.append('line').attr('x1', x(0)).attr('x2', x(0)).attr('y1', 0).attr('y2', H).attr('stroke', '#b9c3c5');
+  }
+
+  function drawTable() {
+    const head = document.getElementById('thead');
+    const body = document.getElementById('tbody');
+    const th = (t, cls) => { const e = document.createElement('th'); e.textContent = t; if (cls) e.className = cls; return e; };
+    head.append(th('Year'), ...SCHOOLS.map((s) => th(s, s === 'Maplewood' ? 'is-maple' : '')), th('Wells total', 'is-total'));
+    ROWS.forEach((r, i) => {
+      const tr = document.createElement('tr');
+      const td = (t, cls) => { const e = document.createElement('td'); e.textContent = t; if (cls) e.className = cls; return e; };
+      tr.append(td(r.year + (r.basis !== 'Oct 1' ? '*' : '')), ...SCHOOLS.map((s) => td(fmt(r[s]), s === 'Maplewood' ? 'is-maple' : '')), td(fmt(TOTALS[i].total), 'is-total'));
+      body.appendChild(tr);
+    });
+  }
+
+  drawLegend();
+  drawTable();
+  const drawCharts = () => { drawLines(); drawTotal(); drawChange(); };
+  drawCharts();
+  let resizeTimer;
+  window.addEventListener('resize', () => { clearTimeout(resizeTimer); resizeTimer = setTimeout(drawCharts, 150); });
+</script>
+</body>
+</html>
