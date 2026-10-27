@@ -1,0 +1,640 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Wells Cluster Housing Growth</title>
+<meta name="description" content="New housing permitted in the Ida B. Wells attendance area, 2005 to Sep 2026, Raleigh Crest, pending projects and homes near each Wells-cluster elementary.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500&family=Public+Sans:wght@400;500;600;700&display=swap">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<style>
+:root {
+  color-scheme: light;
+  --font-anthropic-sans: "Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-anthropic-serif: "Newsreader", Georgia, "Times New Roman", serif;
+  --color-fg: #1b1f27; --color-fg-muted: #586174; --color-bg: #ffffff; --color-panel: #fbfcfd;
+  --color-border-line: #e2e6ec; --color-ok: #2e7d4f; --color-warn: #b7791f; --color-bad: #c2410c;
+  --cds-gap-xs: 4px; --cds-gap-sm: 8px; --cds-gap-md: 16px; --cds-gap-lg: 24px; --cds-gap-xl: 32px;
+  --cds-pad-xs: 4px; --cds-pad-sm: 8px; --cds-pad-md: 12px; --cds-pad-lg: 18px;
+  --cds-radius: 8px; --cds-border: 1px solid var(--color-border-line);
+  --cds-font-size-caption: 12.5px; --cds-font-size-body: 15px; --cds-font-size-heading: 17px; --cds-font-size-title: 30px;
+  --cds-font-weight-medium: 600; --cds-dur-slow: .3s;
+  --cds-chart-axis: #9aa3b2; --cds-chart-grid: #e8ebf0; --cds-chart-muted: #c6ccd6;
+  --cds-surface-popover: #ffffff; --cds-shadow-popover: 0 6px 20px rgba(20,30,50,.14); --cds-text-secondary: var(--color-fg-muted);
+}
+html { background: var(--color-bg); }
+body { margin: 0; background: var(--color-bg); color: var(--color-fg); font-family: var(--font-anthropic-sans); }
+#dash-root { max-width: 1200px; margin: 0 auto; padding: 28px 16px 40px; box-sizing: border-box; }
+.export-foot { max-width: 1200px; margin: 0 auto; padding: 0 16px 32px; box-sizing: border-box; font-size: 12.5px; color: var(--color-fg-muted); line-height: 1.5; }
+.export-foot ul { margin: 6px 0 0; padding-left: 18px; }
+</style>
+</head>
+<body>
+<div id="dash-root">
+<style>
+.swh { display: flex; flex-direction: column; gap: var(--cds-gap-xl); font-family: var(--font-anthropic-sans); }
+.swh-head { display: flex; flex-direction: column; gap: var(--cds-gap-sm); max-width: 70ch; }
+.swh-title { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-title); margin: 0; text-wrap: balance; }
+.swh-take { font-size: var(--cds-font-size-body); color: var(--color-fg); margin: 0; line-height: 1.5; }
+.swh-sub { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); margin: 0; }
+.swh-kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 13rem), 1fr)); gap: var(--cds-gap-md); }
+.swh-kpi { background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); padding: var(--cds-pad-lg); display: flex; flex-direction: column; gap: var(--cds-gap-xs); min-width: 0; }
+.swh-kpi-label { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+.swh-kpi-num { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-title); font-variant-numeric: tabular-nums; line-height: 1.1; }
+.swh-kpi-note { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); line-height: 1.4; }
+.swh-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 26rem), 1fr)); gap: var(--cds-gap-md); }
+.swh-card { background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); padding: var(--cds-pad-lg); display: flex; flex-direction: column; gap: var(--cds-gap-sm); min-width: 0; }
+.swh-card h2 { font-size: var(--cds-font-size-heading); font-weight: var(--cds-font-weight-medium); margin: 0; text-wrap: balance; }
+.swh-note { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); margin: 0; line-height: 1.45; }
+.swh-chart { position: relative; width: 100%; min-height: 300px; }
+.swh-chart.tall { min-height: 420px; }
+.swh-chart.short { min-height: 230px; }
+.swh-chart svg { display: block; overflow: visible; }
+.swh-chart text { fill: var(--color-fg-muted); font-size: var(--cds-font-size-caption); font-family: var(--font-anthropic-sans); }
+.swh-chart .lbl-strong { fill: var(--color-fg); }
+.swh-legend { display: flex; flex-wrap: wrap; gap: var(--cds-gap-xs) var(--cds-gap-md); font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+.swh-legend span { display: inline-flex; align-items: center; gap: 6px; }
+.swh-legend i { width: 10px; height: 10px; border-radius: 2px; display: inline-block; }
+.swh-toggle { display: inline-flex; gap: 2px; padding: 2px; border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); align-self: flex-start; }
+.swh-toggle button { font: inherit; font-size: var(--cds-font-size-caption); background: transparent; color: var(--color-fg-muted); border: 0; border-radius: calc(var(--cds-radius) - 2px); padding: var(--cds-pad-xs) var(--cds-pad-sm); cursor: pointer; }
+.swh-toggle button[aria-pressed="true"] { background: var(--color-bg); color: var(--color-fg); box-shadow: 0 0 0 1px var(--color-border-line); }
+.swh-toggle button:focus-visible { outline: 2px solid var(--color-fg); outline-offset: 1px; }
+.swh-tip { position: absolute; pointer-events: none; background: var(--cds-surface-popover); border: 1px solid var(--cds-border); border-radius: var(--cds-radius); box-shadow: var(--cds-shadow-popover); padding: var(--cds-pad-xs) var(--cds-pad-sm); font-size: var(--cds-font-size-caption); z-index: 5; min-width: 10rem; max-width: 16rem; }
+.swh-tip .t-head { color: var(--cds-text-secondary); margin-bottom: 2px; }
+.swh-tip .t-row { display: flex; align-items: center; gap: 6px; font-variant-numeric: tabular-nums; }
+.swh-tip .t-row b { margin-left: auto; font-weight: var(--cds-font-weight-medium); }
+.swh-tip i { width: 8px; height: 8px; border-radius: 2px; display: inline-block; flex: none; }
+.swh-tablewrap { max-height: 26rem; overflow: auto; border-top: 1px solid var(--color-border-line); }
+.swh-table { width: 100%; border-collapse: collapse; font-size: var(--cds-font-size-caption); font-variant-numeric: tabular-nums; }
+.swh-table th { position: sticky; top: 0; background: var(--color-panel); text-align: left; font-weight: var(--cds-font-weight-medium); padding: var(--cds-pad-xs) var(--cds-pad-sm); border-bottom: 1px solid var(--color-border-line); white-space: nowrap; }
+.swh-table th button { font: inherit; color: inherit; background: none; border: 0; padding: 0; cursor: pointer; }
+.swh-table td { padding: var(--cds-pad-xs) var(--cds-pad-sm); border-bottom: 1px solid var(--color-border-line); vertical-align: top; }
+.swh-table td.num, .swh-table th.num { text-align: right; }
+.swh-table tr.hl td { background: color-mix(in srgb, var(--color-fg) 6%, transparent); font-weight: var(--cds-font-weight-medium); }
+.swh-search { font: inherit; font-size: var(--cds-font-size-caption); padding: var(--cds-pad-xs) var(--cds-pad-sm); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); background: var(--color-bg); color: var(--color-fg); max-width: 18rem; width: 100%; }
+.swh-methods { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); line-height: 1.55; max-width: 80ch; display: flex; flex-direction: column; gap: var(--cds-gap-xs); }
+.swh-methods h2 { font-size: var(--cds-font-size-heading); font-weight: var(--cds-font-weight-medium); color: var(--color-fg); margin: 0 0 var(--cds-gap-xs); }
+.swh-methods p { margin: 0; }
+[data-dash-source-state=refreshing] { opacity: .5; transition: opacity var(--cds-dur-slow); }
+[data-dash-source-state=empty] { color: transparent; }
+.swh-fail { display: flex; align-items: center; justify-content: center; gap: 6px; min-height: inherit; color: var(--color-fg-muted); font-size: var(--cds-font-size-caption); }
+.swh-fail::before { content: ""; width: .375rem; height: .375rem; border-radius: 50%; background: var(--color-bad); }
+.swh .lbl-num b, .swh-take b { font-weight: var(--cds-font-weight-medium); }
+.swh-controls { display: flex; flex-wrap: wrap; align-items: center; gap: var(--cds-gap-sm) var(--cds-gap-lg); padding: var(--cds-pad-sm) var(--cds-pad-md); background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); }
+.swh-check { display: inline-flex; align-items: center; gap: var(--cds-gap-xs); font-size: var(--cds-font-size-body); cursor: pointer; }
+.swh-check input { width: 1rem; height: 1rem; margin: 0; accent-color: var(--color-fg); cursor: pointer; }
+.swh-controls .swh-note { flex: 1 1 18rem; }
+</style>
+
+<div class="swh">
+  <header class="swh-head" id="top">
+    <h1 class="swh-title">Wells cluster housing growth</h1>
+    <p class="swh-take" id="takeaway">
+      The Ida B. Wells attendance area is getting <b class="kpi-m dash-skeleton" data-source="kpi" data-field="share_recent_txt" data-where="mode=houses">—</b> of Portland’s new <span class="noun">houses</span>, up from <b class="kpi-m dash-skeleton" data-source="kpi" data-field="share_prior_txt" data-where="mode=houses">—</b> in 2015–2024. It permitted <b class="kpi-m dash-skeleton" data-source="kpi" data-field="count_2025" data-where="mode=houses">—</b> in 2025, and with Raleigh Crest it is on track for about <b class="kpi-m dash-skeleton" data-source="kpi" data-field="forecast_per_year" data-where="mode=houses">—</b> a year in 2027–2030.
+    </p>
+    <p class="swh-sub">Ida B. Wells High School attendance area and its six elementary schools: Capitol Hill, Hayhurst, Maplewood, Markham, Rieke and Stephenson. City of Portland new-unit building permits, Jan 2005 – Sep 2026.</p>
+  </header>
+
+  <div class="swh-controls">
+    <label class="swh-check" for="incl-apts"><input type="checkbox" id="incl-apts"> Include apartments</label>
+    <p class="swh-note">Houses means detached houses, townhouses, ADUs and duplexes. Apartments means buildings of 5 or more units. Every chart, figure and the table follow this setting.</p>
+  </div>
+
+  <section class="swh-kpis" aria-label="Headline figures">
+    <div class="swh-kpi">
+      <span class="swh-kpi-label">Wells area share of Portland’s new <span class="noun">houses</span>, 2025–26</span>
+      <span class="swh-kpi-num kpi-m dash-skeleton" data-source="kpi" data-field="share_recent_txt" data-where="mode=houses">—</span>
+      <span class="swh-kpi-note">vs <span class="kpi-m" data-source="kpi" data-field="share_prior_txt" data-where="mode=houses">—</span> average share, 2015–2024</span>
+    </div>
+    <div class="swh-kpi">
+      <span class="swh-kpi-label">Wells area <span class="noun">houses</span> permitted, 2025</span>
+      <span class="swh-kpi-num kpi-m dash-skeleton" data-source="kpi" data-field="count_2025" data-where="mode=houses">—</span>
+      <span class="swh-kpi-note">Most since <span class="kpi-m" data-source="kpi" data-field="last_higher_year" data-where="mode=houses">—</span></span>
+    </div>
+    <div class="swh-kpi">
+      <span class="swh-kpi-label"><span class="Noun">Houses</span> per year, 2027–2030 forecast</span>
+      <span class="swh-kpi-num kpi-m dash-skeleton" data-source="kpi" data-field="forecast_per_year" data-where="mode=houses">—</span>
+      <span class="swh-kpi-note" id="kpi-record-note"><span class="rec-lead">Recent pace plus Raleigh Crest; most since </span><span class="kpi-m" data-source="kpi" data-field="record_floor_year" data-where="mode=houses">—</span></span>
+    </div>
+    <div class="swh-kpi">
+      <span class="swh-kpi-label">Raleigh Crest (former Alpenrose Dairy)</span>
+      <span class="swh-kpi-num kpi-m dash-skeleton" data-source="kpi" data-field="rc_homes" data-where="mode=houses">—</span>
+      <span class="swh-kpi-note">houses and townhouses approved, about <span class="kpi-m" data-source="kpi" data-field="rc_students" data-where="mode=houses">—</span> PPS students at PSU’s single-family yield; 0.6 mi from Hayhurst ES</span>
+    </div>
+  </section>
+
+  <section class="swh-card" id="trend">
+    <h2>New <span class="noun">houses</span> permitted in the Wells attendance area, 2005–2030</h2>
+    <p class="swh-note">Housing units by year of permit issue, inside the Ida B. Wells HS attendance area. 2026 covers January–September. The 2027–2030 forecast is this dashboard’s own (recent pace plus Raleigh Crest), not one from the city or PSU.</p>
+    <div class="swh-legend" id="trend-legend"></div>
+    <div class="swh-chart" id="trend-chart" data-source="wells_annual forecast"></div>
+  </section>
+
+  <div class="swh-grid">
+    <section class="swh-card" id="share">
+      <h2>Wells area share of Portland’s new <span class="noun">houses</span></h2>
+      <p class="swh-note">Wells-area units as a share of every matching unit permitted citywide. Citywide building has slumped since 2023 while the Wells area picked up.</p>
+      <div class="swh-chart short" id="share-chart" data-source="share"></div>
+    </section>
+    <section class="swh-card" id="elem-share">
+      <h2>Each elementary school’s share of new <span class="noun">houses</span> nearby</h2>
+      <p class="swh-note">Every new unit within 1 mile of a Wells cluster elementary school is counted once, for the nearest school. The pipeline bar is pending permits plus Raleigh Crest.</p>
+      <div class="swh-legend" id="elem-legend"></div>
+      <div class="swh-chart short" id="elem-chart" data-source="elem_share"></div>
+    </section>
+  </div>
+
+  <section class="swh-card" id="schools">
+    <h2>New <span class="noun">houses</span> within 1 mile of each Wells cluster elementary school</h2>
+    <p class="swh-note">Permitted January 2020 – September 2026, plus pending permits and Raleigh Crest. Circles overlap, so one unit can count toward several schools.</p>
+    <div class="swh-legend" id="school-legend"></div>
+    <div class="swh-chart" id="school-chart" data-source="wells_schools"></div>
+  </section>
+
+  <section class="swh-card" id="pending">
+    <h2>Pending projects within 1 mile of a Wells cluster elementary school</h2>
+    <p class="swh-note">Permits filed but not yet issued (application, under review or approved to issue) as of October 2026, plus the Raleigh Crest subdivision.</p>
+    <input class="swh-search" id="pending-search" type="search" placeholder="Search address or school" aria-label="Search pending projects">
+    <div class="swh-tablewrap">
+      <table class="swh-table" id="pending-table" data-source="wells_pending" data-row-key="permit">
+        <thead><tr>
+          <th data-field="address"><button type="button" data-k="address">Address</button></th>
+          <th data-field="units" class="num" aria-sort="descending"><button type="button" data-k="units">Units</button></th>
+          <th data-field="home_type"><button type="button" data-k="home_type">Type</button></th>
+          <th data-field="nearest_school"><button type="button" data-k="nearest_school">Nearest school</button></th>
+          <th data-field="miles" class="num"><button type="button" data-k="miles">Miles</button></th>
+          <th data-field="status"><button type="button" data-k="status">Status</button></th>
+          <th data-field="permit"><button type="button" data-k="permit">Permit</button></th>
+        </tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="swh-methods" id="methods">
+    <h2>How these numbers were made</h2>
+    <p><b>Permits.</b> City of Portland “Residential Building Permits” open data: every permit that creates new housing units, counted in units by calendar year issued, through October 1, 2026.</p>
+    <p><b>Home types.</b> Houses are detached houses, townhouses, ADUs, duplexes and the few units added to existing small buildings. Apartments are new buildings of 5 or more units (apartments and condos).</p>
+    <p><b>Wells area</b> is the Ida B. Wells High School attendance area from the Multnomah County / City of Portland school attendance map (where it is still labeled Wilson HS). PPS may draw its boundary slightly differently.</p>
+    <p><b>Schools.</b> The six Wells cluster elementary schools. Distances are straight-line from each school’s address. Only City of Portland permits are counted, so Hayhurst and Maplewood, near the Washington County line, are somewhat undercounted.</p>
+    <p><b>2027–2030 forecast.</b> The average yearly pace of 2024–2026 (2026 scaled to a full year) for each home type, plus Raleigh Crest’s 263 approved houses and townhouses spread evenly over 2027–2030 (the developer’s target finish is 2030). Pending permits are not added on top, because they are part of the normal pace.</p>
+    <p><b>Students.</b> 0.45 PPS students per new single-family home, from PSU Population Research Center’s 2026–27 PPS enrollment forecast (Table 2.6).</p>
+  </section>
+</div>
+
+<script>
+window.__DASH_DATA = {"wells_annual":[{"year":2005,"houses":177,"apartments":453,"city_houses":1540,"city_apartments":2395,"months_of_data":12},{"year":2006,"houses":132,"apartments":583,"city_houses":1522,"city_apartments":1844,"months_of_data":12},{"year":2007,"houses":131,"apartments":716,"city_houses":1567,"city_apartments":2773,"months_of_data":12},{"year":2008,"houses":91,"apartments":514,"city_houses":852,"city_apartments":2396,"months_of_data":12},{"year":2009,"houses":40,"apartments":0,"city_houses":641,"city_apartments":393,"months_of_data":12},{"year":2010,"houses":37,"apartments":0,"city_houses":532,"city_apartments":632,"months_of_data":12},{"year":2011,"houses":41,"apartments":209,"city_houses":595,"city_apartments":879,"months_of_data":12},{"year":2012,"houses":40,"apartments":119,"city_houses":823,"city_apartments":1713,"months_of_data":12},{"year":2013,"houses":84,"apartments":130,"city_houses":1095,"city_apartments":2619,"months_of_data":12},{"year":2014,"houses":106,"apartments":247,"city_houses":1150,"city_apartments":3941,"months_of_data":12},{"year":2015,"houses":123,"apartments":751,"city_houses":1267,"city_apartments":4550,"months_of_data":12},{"year":2016,"houses":117,"apartments":155,"city_houses":1521,"city_apartments":4193,"months_of_data":12},{"year":2017,"houses":108,"apartments":0,"city_houses":1488,"city_apartments":5944,"months_of_data":12},{"year":2018,"houses":98,"apartments":69,"city_houses":1672,"city_apartments":4605,"months_of_data":12},{"year":2019,"houses":69,"apartments":232,"city_houses":1079,"city_apartments":4569,"months_of_data":12},{"year":2020,"houses":55,"apartments":0,"city_houses":837,"city_apartments":1496,"months_of_data":12},{"year":2021,"houses":62,"apartments":590,"city_houses":1132,"city_apartments":4624,"months_of_data":12},{"year":2022,"houses":75,"apartments":207,"city_houses":1147,"city_apartments":4261,"months_of_data":12},{"year":2023,"houses":81,"apartments":12,"city_houses":1280,"city_apartments":2024,"months_of_data":12},{"year":2024,"houses":86,"apartments":8,"city_houses":1079,"city_apartments":972,"months_of_data":12},{"year":2025,"houses":103,"apartments":136,"city_houses":715,"city_apartments":579,"months_of_data":12},{"year":2026,"houses":101,"apartments":150,"city_houses":775,"city_apartments":647,"months_of_data":9}],"raleigh_crest":[{"item":"Detached house lots","homes":133},{"item":"Attached house (townhouse) lots","homes":130},{"item":"Total homes","homes":263}],"wells_pending":[{"permit":"LU 24-036049","address":"Raleigh Crest (former Alpenrose Dairy), 6149 SW Shattuck Rd","home_type":"Houses","units":263,"status":"Approved subdivision; final plats under review","nearest_school":"Hayhurst ES","miles":0.58},{"permit":"2025-097432-000-00-CO","address":"2423 SW Vermont St","home_type":"Apartments","units":40,"status":"Under Review","nearest_school":"Rieke ES","miles":0.57},{"permit":"2025-076540-000-00-CO","address":"2307 SW Nebraska St","home_type":"Apartments","units":15,"status":"Under Review","nearest_school":"Rieke ES","miles":0.54},{"permit":"2022-166730-000-00-RS","address":"(no address yet)","home_type":"Houses","units":2,"status":"Under Review","nearest_school":"Stephenson ES","miles":0.53},{"permit":"2024-066383-000-00-RS","address":"4593 SW Cameron Rd","home_type":"Houses","units":2,"status":"Under Review","nearest_school":"Hayhurst ES","miles":0.34},{"permit":"2025-021408-000-00-RS","address":"SW Beaverton Hillsdale Hwy","home_type":"Houses","units":2,"status":"Under Review","nearest_school":"Hayhurst ES","miles":0.85},{"permit":"2025-053232-000-00-RS","address":"SW Hamilton St","home_type":"Houses","units":2,"status":"Approved to Issue","nearest_school":"Hayhurst ES","miles":0.77},{"permit":"2026-021624-000-00-RS","address":"1734 SW Troy St","home_type":"Houses","units":2,"status":"Approved to Issue","nearest_school":"Capitol Hill ES","miles":0.27},{"permit":"2026-026123-000-00-RS","address":"SW Troy St","home_type":"Houses","units":2,"status":"Approved to Issue","nearest_school":"Capitol Hill ES","miles":0.27},{"permit":"2026-064352-000-00-RS","address":"5175 SW Maplewood Rd","home_type":"Houses","units":2,"status":"Under Review","nearest_school":"Maplewood ES","miles":0.05},{"permit":"2023-064151-000-00-RS","address":"3353 SW Falcon St","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Capitol Hill ES","miles":0.77},{"permit":"2023-064172-000-00-RS","address":"3353 SW Falcon St","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Capitol Hill ES","miles":0.77},{"permit":"2023-064182-000-00-RS","address":"3353 SW Falcon St","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Capitol Hill ES","miles":0.77},{"permit":"2023-064188-000-00-RS","address":"3353 SW Falcon St","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Capitol Hill ES","miles":0.77},{"permit":"2023-064208-000-00-RS","address":"3353 SW Falcon St","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Capitol Hill ES","miles":0.77},{"permit":"2023-064212-000-00-RS","address":"3353 SW Falcon St","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Capitol Hill ES","miles":0.77},{"permit":"2023-083856-000-00-RS","address":"SW Stephenson St","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Stephenson ES","miles":0.74},{"permit":"2023-083857-000-00-RS","address":"SW Stephenson St","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Stephenson ES","miles":0.74},{"permit":"2023-083858-000-00-RS","address":"SW Stephenson St","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Stephenson ES","miles":0.74},{"permit":"2023-083859-000-00-RS","address":"SW Stephenson St","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Stephenson ES","miles":0.74},{"permit":"2023-083861-000-00-RS","address":"SW Stephenson St","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Stephenson ES","miles":0.74},{"permit":"2023-083862-000-00-RS","address":"SW Stephenson St","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Stephenson ES","miles":0.74},{"permit":"2023-083863-000-00-RS","address":"SW Stephenson St","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Stephenson ES","miles":0.74},{"permit":"2023-083865-000-00-RS","address":"SW Stephenson St","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Stephenson ES","miles":0.74},{"permit":"2023-091106-000-00-RS","address":"1279 SW Taylors Ferry Rd","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Capitol Hill ES","miles":0.26},{"permit":"2023-091107-000-00-RS","address":"1279 SW Taylors Ferry Rd","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Capitol Hill ES","miles":0.26},{"permit":"2024-013050-000-00-RS","address":"SW Boones Ferry Rd","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Stephenson ES","miles":0.48},{"permit":"2024-013078-000-00-RS","address":"SW Boones Ferry Rd","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Stephenson ES","miles":0.48},{"permit":"2024-013091-000-00-RS","address":"SW Boones Ferry Rd","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Stephenson ES","miles":0.5},{"permit":"2024-026907-000-00-RS","address":"6014 SW 18th Dr","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Rieke ES","miles":0.37},{"permit":"2024-027003-000-00-RS","address":"SW 18th Dr","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Rieke ES","miles":0.36},{"permit":"2024-028787-000-00-RS","address":"SW Englewood Dr","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Stephenson ES","miles":0.78},{"permit":"2024-080044-000-00-RS","address":"2374 SW Vermont St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Rieke ES","miles":0.55},{"permit":"2024-080046-000-00-RS","address":"2374 SW Vermont St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Rieke ES","miles":0.55},{"permit":"2024-080048-000-00-RS","address":"2374 SW Vermont St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Rieke ES","miles":0.55},{"permit":"2024-080049-000-00-RS","address":"2374 SW Vermont St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Rieke ES","miles":0.55},{"permit":"2024-080050-000-00-RS","address":"2374 SW Vermont St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Rieke ES","miles":0.55},{"permit":"2024-080052-000-00-RS","address":"2374 SW Vermont St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Rieke ES","miles":0.55},{"permit":"2024-080054-000-00-RS","address":"2374 SW Vermont St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Rieke ES","miles":0.55},{"permit":"2024-080055-000-00-RS","address":"2374 SW Vermont St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Rieke ES","miles":0.55},{"permit":"2024-080057-000-00-RS","address":"2374 SW Vermont St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Rieke ES","miles":0.55},{"permit":"2024-080059-000-00-RS","address":"2374 SW Vermont St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Rieke ES","miles":0.55},{"permit":"2024-080060-000-00-RS","address":"2374 SW Vermont St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Rieke ES","miles":0.55},{"permit":"2024-080061-000-00-RS","address":"2374 SW Vermont St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Rieke ES","miles":0.55},{"permit":"2024-080062-000-00-RS","address":"2374 SW Vermont St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Rieke ES","miles":0.55},{"permit":"2024-080143-000-00-RS","address":"2374 SW Vermont St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Rieke ES","miles":0.55},{"permit":"2024-080155-000-00-RS","address":"2374 SW Vermont St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Rieke ES","miles":0.55},{"permit":"2024-080162-000-00-RS","address":"2374 SW Vermont St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Rieke ES","miles":0.55},{"permit":"2024-080176-000-00-RS","address":"2374 SW Vermont St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Rieke ES","miles":0.55},{"permit":"2024-080178-000-00-RS","address":"2374 SW Vermont St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Rieke ES","miles":0.55},{"permit":"2024-080181-000-00-RS","address":"2374 SW Vermont St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Rieke ES","miles":0.55},{"permit":"2024-080183-000-00-RS","address":"2374 SW Vermont St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Rieke ES","miles":0.55},{"permit":"2024-080186-000-00-RS","address":"2374 SW Vermont St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Rieke ES","miles":0.55},{"permit":"2024-080188-000-00-RS","address":"2374 SW Vermont St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Rieke ES","miles":0.55},{"permit":"2024-080189-000-00-RS","address":"2374 SW Vermont St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Rieke ES","miles":0.55},{"permit":"2024-080193-000-00-RS","address":"2374 SW Vermont St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Rieke ES","miles":0.55},{"permit":"2024-080194-000-00-RS","address":"2374 SW Vermont St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Rieke ES","miles":0.55},{"permit":"2024-080195-000-00-RS","address":"2374 SW Vermont St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Rieke ES","miles":0.55},{"permit":"2024-080199-000-00-RS","address":"2374 SW Vermont St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Rieke ES","miles":0.55},{"permit":"2024-080202-000-00-RS","address":"2374 SW Vermont St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Rieke ES","miles":0.55},{"permit":"2024-080203-000-00-RS","address":"2374 SW Vermont St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Rieke ES","miles":0.55},{"permit":"2024-080204-000-00-RS","address":"2374 SW Vermont St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Rieke ES","miles":0.55},{"permit":"2024-080205-000-00-RS","address":"2374 SW Vermont St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Rieke ES","miles":0.55},{"permit":"2024-103481-000-00-RS","address":"11261 SW Capitol Hwy","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Markham ES","miles":0.44},{"permit":"2024-103484-000-00-RS","address":"11261 SW Capitol Hwy","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Markham ES","miles":0.44},{"permit":"2024-103488-000-00-RS","address":"11261 SW Capitol Hwy","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Markham ES","miles":0.44},{"permit":"2024-103491-000-00-RS","address":"11261 SW Capitol Hwy","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Markham ES","miles":0.44},{"permit":"2024-105537-000-00-RS","address":"SW Eagles Nest Ln","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Rieke ES","miles":0.67},{"permit":"2024-105539-000-00-RS","address":"SW Eagles Nest Ln","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Rieke ES","miles":0.67},{"permit":"2024-105542-000-00-RS","address":"SW Eagles Nest Ln","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Rieke ES","miles":0.67},{"permit":"2025-001450-000-00-RS","address":"SW Iowa St","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Rieke ES","miles":0.57},{"permit":"2025-012257-000-00-RS","address":"4003 SW Vacuna St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Markham ES","miles":0.6},{"permit":"2025-012259-000-00-RS","address":"4003 SW Vacuna St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Markham ES","miles":0.6},{"permit":"2025-012260-000-00-RS","address":"4003 SW Vacuna St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Markham ES","miles":0.6},{"permit":"2025-012261-000-00-RS","address":"4003 SW Vacuna St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Markham ES","miles":0.6},{"permit":"2025-012316-000-00-RS","address":"4003 SW Vacuna St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Markham ES","miles":0.6},{"permit":"2025-012321-000-00-RS","address":"4003 SW Vacuna St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Markham ES","miles":0.6},{"permit":"2025-012323-000-00-RS","address":"4003 SW Vacuna St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Markham ES","miles":0.6},{"permit":"2025-012324-000-00-RS","address":"4003 SW Vacuna St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Markham ES","miles":0.6},{"permit":"2025-012356-000-00-RS","address":"4003 SW Vacuna St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Markham ES","miles":0.6},{"permit":"2025-012364-000-00-RS","address":"4003 SW Vacuna St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Markham ES","miles":0.6},{"permit":"2025-012366-000-00-RS","address":"4003 SW Vacuna St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Markham ES","miles":0.6},{"permit":"2025-012368-000-00-RS","address":"4003 SW Vacuna St","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Markham ES","miles":0.6},{"permit":"2025-022445-000-00-RS","address":"5132 SW Freeman Ct","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Maplewood ES","miles":0.55},{"permit":"2025-022446-000-00-RS","address":"5132 SW Freeman Ct","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Maplewood ES","miles":0.55},{"permit":"2025-022447-000-00-RS","address":"5132 SW Freeman Ct","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Maplewood ES","miles":0.55},{"permit":"2025-022448-000-00-RS","address":"5132 SW Freeman Ct","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Maplewood ES","miles":0.55},{"permit":"2025-025294-000-00-RS","address":"SW Laview Dr","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Rieke ES","miles":0.91},{"permit":"2025-025299-000-00-RS","address":"SW Laview Dr","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Rieke ES","miles":0.91},{"permit":"2025-025300-000-00-RS","address":"SW Laview Dr","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Rieke ES","miles":0.91},{"permit":"2025-025301-000-00-RS","address":"SW Laview Dr","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Rieke ES","miles":0.91},{"permit":"2025-025303-000-00-RS","address":"SW Laview Dr","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Rieke ES","miles":0.91},{"permit":"2025-025304-000-00-RS","address":"SW Laview Dr","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Rieke ES","miles":0.91},{"permit":"2025-040894-000-00-RS","address":"9427 SW View Point Ter","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Capitol Hill ES","miles":1.0},{"permit":"2025-040895-000-00-RS","address":"9427 SW View Point Ter","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Capitol Hill ES","miles":1.0},{"permit":"2025-040896-000-00-RS","address":"9427 SW View Point Ter","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Capitol Hill ES","miles":1.0},{"permit":"2025-040897-000-00-RS","address":"9427 SW View Point Ter","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Capitol Hill ES","miles":1.0},{"permit":"2025-054514-000-00-RS","address":"SW Maplecrest Dr","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Stephenson ES","miles":0.86},{"permit":"2025-073793-000-00-RS","address":"(no address yet)","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Rieke ES","miles":0.82},{"permit":"2025-080818-000-00-RS","address":"11271 SW Capitol Hwy","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Markham ES","miles":0.46},{"permit":"2025-080819-000-00-RS","address":"11271 SW Capitol Hwy","home_type":"Houses","units":1,"status":"Approved to Issue","nearest_school":"Markham ES","miles":0.46},{"permit":"2025-093282-000-00-RS","address":"SW 54th Ave","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Maplewood ES","miles":0.28},{"permit":"2026-019363-000-00-RS","address":"9355 SW Capitol Hwy","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Markham ES","miles":0.64},{"permit":"2026-019368-000-00-RS","address":"9355 SW Capitol Hwy","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Markham ES","miles":0.64},{"permit":"2026-019371-000-00-RS","address":"9355 SW Capitol Hwy","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Markham ES","miles":0.64},{"permit":"2026-019372-000-00-RS","address":"9355 SW Capitol Hwy","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Markham ES","miles":0.64},{"permit":"2026-019375-000-00-RS","address":"9355 SW Capitol Hwy","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Markham ES","miles":0.64},{"permit":"2026-019377-000-00-RS","address":"9355 SW Capitol Hwy","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Markham ES","miles":0.64},{"permit":"2026-021458-000-00-RS","address":"SW Capitol Hill Rd","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Capitol Hill ES","miles":0.4},{"permit":"2026-030537-000-00-RS","address":"4803 SW Dickinson St","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Markham ES","miles":0.11},{"permit":"2026-032736-000-00-RS","address":"10726 SW 63rd Pl","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Markham ES","miles":0.77},{"permit":"2026-046037-000-00-RS","address":"SW Nebraska St","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Rieke ES","miles":0.93},{"permit":"2026-048169-000-00-RS","address":"7705 SW 42nd Ave","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Maplewood ES","miles":0.47},{"permit":"2026-048858-000-00-RS","address":"1822 SW Carolina St","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Rieke ES","miles":0.41},{"permit":"2026-048861-000-00-RS","address":"1822 SW Carolina St","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Rieke ES","miles":0.41},{"permit":"2026-048863-000-00-RS","address":"1822 SW Carolina St","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Rieke ES","miles":0.41},{"permit":"2026-050581-000-00-RS","address":"5721 SW Nebraska St","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Hayhurst ES","miles":0.33},{"permit":"2026-051181-000-00-RS","address":"1765 SW Logan St","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Capitol Hill ES","miles":0.44},{"permit":"2026-051183-000-00-RS","address":"1765 SW Logan St","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Capitol Hill ES","miles":0.44},{"permit":"2026-052504-000-00-RS","address":"10244 SW 40th Ave","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Markham ES","miles":0.4},{"permit":"2026-052506-000-00-RS","address":"10244 SW 40th Ave","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Markham ES","miles":0.4},{"permit":"2026-052509-000-00-RS","address":"10244 SW 40th Ave","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Markham ES","miles":0.4},{"permit":"2026-052510-000-00-RS","address":"10244 SW 40th Ave","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Markham ES","miles":0.4},{"permit":"2026-052511-000-00-RS","address":"10244 SW 40th Ave","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Markham ES","miles":0.4},{"permit":"2026-052514-000-00-RS","address":"10244 SW 40th Ave","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Markham ES","miles":0.4},{"permit":"2026-052516-000-00-RS","address":"10244 SW 40th Ave","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Markham ES","miles":0.4},{"permit":"2026-055754-000-00-RS","address":"SW Beaverton Hillsdale Hwy","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Hayhurst ES","miles":0.49},{"permit":"2026-060365-000-00-RS","address":"5537 SW Florida St","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Hayhurst ES","miles":0.39},{"permit":"2026-060367-000-00-RS","address":"5537 SW Florida St","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Hayhurst ES","miles":0.39},{"permit":"2026-060369-000-00-RS","address":"5537 SW Florida St","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Hayhurst ES","miles":0.39},{"permit":"2026-060370-000-00-RS","address":"5537 SW Florida St","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Hayhurst ES","miles":0.39},{"permit":"2026-060372-000-00-RS","address":"5537 SW Florida St","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Hayhurst ES","miles":0.39},{"permit":"2026-060373-000-00-RS","address":"5537 SW Florida St","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Hayhurst ES","miles":0.39},{"permit":"2026-060645-000-00-RS","address":"7705 SW 42nd Ave","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Maplewood ES","miles":0.47},{"permit":"2026-070566-000-00-RS","address":"7407 SW 36th Ave","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Maplewood ES","miles":0.75},{"permit":"2026-070567-000-00-RS","address":"7407 SW 36th Ave","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Maplewood ES","miles":0.75},{"permit":"2026-070568-000-00-RS","address":"7407 SW 36th Ave","home_type":"Houses","units":1,"status":"Under Review","nearest_school":"Maplewood ES","miles":0.75},{"permit":"2026-075743-000-00-RS","address":"5545 SW Taylors Ferry Rd","home_type":"Houses","units":1,"status":"Application","nearest_school":"Markham ES","miles":0.6},{"permit":"2026-075744-000-00-RS","address":"5545 SW Taylors Ferry Rd","home_type":"Houses","units":1,"status":"Application","nearest_school":"Markham ES","miles":0.6},{"permit":"2026-075745-000-00-RS","address":"5545 SW Taylors Ferry Rd","home_type":"Houses","units":1,"status":"Application","nearest_school":"Markham ES","miles":0.6},{"permit":"2026-075746-000-00-RS","address":"5545 SW Taylors Ferry Rd","home_type":"Houses","units":1,"status":"Application","nearest_school":"Markham ES","miles":0.6},{"permit":"2026-075747-000-00-RS","address":"5545 SW Taylors Ferry Rd","home_type":"Houses","units":1,"status":"Application","nearest_school":"Markham ES","miles":0.6},{"permit":"2026-075748-000-00-RS","address":"5545 SW Taylors Ferry Rd","home_type":"Houses","units":1,"status":"Application","nearest_school":"Markham ES","miles":0.6},{"permit":"2026-075749-000-00-RS","address":"5545 SW Taylors Ferry Rd","home_type":"Houses","units":1,"status":"Application","nearest_school":"Markham ES","miles":0.6},{"permit":"2026-075750-000-00-RS","address":"5545 SW Taylors Ferry Rd","home_type":"Houses","units":1,"status":"Application","nearest_school":"Markham ES","miles":0.6},{"permit":"2026-075751-000-00-RS","address":"5545 SW Taylors Ferry Rd","home_type":"Houses","units":1,"status":"Application","nearest_school":"Markham ES","miles":0.6},{"permit":"2026-075752-000-00-RS","address":"5545 SW Taylors Ferry Rd","home_type":"Houses","units":1,"status":"Application","nearest_school":"Markham ES","miles":0.6},{"permit":"2026-076017-000-00-RS","address":"7400 SW 25th Ave","home_type":"Houses","units":1,"status":"Application","nearest_school":"Capitol Hill ES","miles":0.57},{"permit":"2026-076020-000-00-RS","address":"7400 SW 25th Ave","home_type":"Houses","units":1,"status":"Application","nearest_school":"Capitol Hill ES","miles":0.57},{"permit":"2026-076021-000-00-RS","address":"7400 SW 25th Ave","home_type":"Houses","units":1,"status":"Application","nearest_school":"Capitol Hill ES","miles":0.57},{"permit":"2026-076023-000-00-RS","address":"7400 SW 25th Ave","home_type":"Houses","units":1,"status":"Application","nearest_school":"Capitol Hill ES","miles":0.57},{"permit":"2026-076026-000-00-RS","address":"7400 SW 25th Ave","home_type":"Houses","units":1,"status":"Application","nearest_school":"Capitol Hill ES","miles":0.57},{"permit":"2026-076027-000-00-RS","address":"7400 SW 25th Ave","home_type":"Houses","units":1,"status":"Application","nearest_school":"Capitol Hill ES","miles":0.57},{"permit":"2026-076028-000-00-RS","address":"7400 SW 25th Ave","home_type":"Houses","units":1,"status":"Application","nearest_school":"Capitol Hill ES","miles":0.57},{"permit":"2026-076029-000-00-RS","address":"7400 SW 25th Ave","home_type":"Houses","units":1,"status":"Application","nearest_school":"Capitol Hill ES","miles":0.57}],"wells_schools":[{"school":"Capitol Hill ES","houses":175,"apartments":278,"pending_houses":59,"pending_apartments":55,"raleigh_crest":0,"nearest_built_houses":124,"nearest_built_apartments":226,"nearest_future_houses":27,"nearest_future_apartments":0},{"school":"Hayhurst ES","houses":137,"apartments":121,"pending_houses":22,"pending_apartments":0,"raleigh_crest":263,"nearest_built_houses":77,"nearest_built_apartments":0,"nearest_future_houses":277,"nearest_future_apartments":0},{"school":"Maplewood ES","houses":178,"apartments":133,"pending_houses":27,"pending_apartments":0,"raleigh_crest":263,"nearest_built_houses":117,"nearest_built_apartments":133,"nearest_future_houses":12,"nearest_future_apartments":0},{"school":"Markham ES","houses":130,"apartments":96,"pending_houses":47,"pending_apartments":0,"raleigh_crest":0,"nearest_built_houses":100,"nearest_built_apartments":96,"nearest_future_houses":43,"nearest_future_apartments":0},{"school":"Rieke ES","houses":180,"apartments":241,"pending_houses":63,"pending_apartments":55,"raleigh_crest":0,"nearest_built_houses":137,"nearest_built_apartments":40,"nearest_future_houses":48,"nearest_future_apartments":55},{"school":"Stephenson ES","houses":39,"apartments":0,"pending_houses":34,"pending_apartments":0,"raleigh_crest":0,"nearest_built_houses":20,"nearest_built_apartments":0,"nearest_future_houses":15,"nearest_future_apartments":0}]};
+window.dash = (function () {
+  var raw = window.__DASH_DATA, calcs = {}, cache = {};
+  function get(id) {
+    if (Object.prototype.hasOwnProperty.call(raw, id)) return raw[id];
+    if (calcs[id]) {
+      if (!(id in cache)) cache[id] = calcs[id].fn.apply(null, calcs[id].inputs.map(get));
+      return cache[id];
+    }
+    return undefined;
+  }
+  return {
+    colors: ['#2f5fa7', '#e08a3c', '#3a9d7a', '#b0476a', '#7a5cb8', '#5c9fc9', '#c9a227', '#6b7280'],
+    data: function (id) {
+      var d = get(id);
+      if (d === undefined) return { status: 'missing', data: [], rows: [], columns: [], refreshing: false, meta: [] };
+      var cols = Array.isArray(d) && d.length && typeof d[0] === 'object' ? Object.keys(d[0]) : [];
+      return { status: 'ok', data: d, rows: d, value: d, columns: cols, refreshing: false, meta: [] };
+    },
+    calc: function (id, o) { calcs[id] = o; },
+    loader: function () {},
+    onData: function (fn) {
+      fn();
+      var t, w = window.innerWidth;
+      window.addEventListener('resize', function () {
+        if (window.innerWidth === w) return; w = window.innerWidth;
+        clearTimeout(t); t = setTimeout(fn, 120);
+      });
+    },
+    setLink: function (name) { try { history.replaceState(null, '', '#' + name); } catch (e) {} },
+    params: function () { return {}; }, setParams: function () {}, resetParams: function () {}, refresh: function () {}
+  };
+})();
+</script>
+<script>
+dash.calc('forecast', {
+  inputs: ['wells_annual', 'raleigh_crest'],
+  title: '2027–2030 forecast',
+  description: 'Average yearly pace of 2024–2026 (2026 scaled to 12 months) for houses and apartments, plus Raleigh Crest homes spread evenly over 2027–2030.',
+  fn: (wells_annual, raleigh_crest) => {
+    const recent = wells_annual.filter(d => [2024, 2025, 2026].includes(Number(d.year)));
+    const pace = k => Math.round(recent.reduce((s, d) => s + Number(d[k]) * 12 / Number(d.months_of_data), 0) / recent.length);
+    const total = Number(raleigh_crest.find(d => d.item === 'Total homes').homes);
+    const years = [2027, 2028, 2029, 2030];
+    const base = Math.floor(total / years.length);
+    return years.map((year, i) => ({ year, houses: pace('houses'), apartments: pace('apartments'), raleigh_crest: base + (i < total % years.length ? 1 : 0) }));
+  }
+});
+
+dash.calc('share', {
+  inputs: ['wells_annual'],
+  title: 'Wells area share of city',
+  description: 'Wells-area new units divided by all new units permitted in Portland, by year: houses only, and houses plus apartments.',
+  fn: (wells_annual) => wells_annual.map(d => ({
+    year: Number(d.year),
+    share_houses: Number(d.houses) / Number(d.city_houses),
+    share_all: (Number(d.houses) + Number(d.apartments)) / (Number(d.city_houses) + Number(d.city_apartments))
+  }))
+});
+
+dash.calc('kpi', {
+  inputs: ['wells_annual', 'forecast', 'raleigh_crest'],
+  title: 'Headline figures',
+  description: 'For houses only and for all homes: Wells share of city units (2025–26 vs 2015–24), 2025 count, forecast pace; plus Raleigh Crest homes and students at 0.45 per home.',
+  fn: (wells_annual, forecast, raleigh_crest) => {
+    const yr = d => Number(d.year);
+    const total = Number(raleigh_crest.find(d => d.item === 'Total homes').homes);
+    const first = Math.min(...wells_annual.map(yr));
+    const make = (mode, area, city) => {
+      const sum = (rows, f) => rows.reduce((s, d) => s + f(d), 0);
+      const recent = wells_annual.filter(d => yr(d) >= 2025);
+      const prior = wells_annual.filter(d => yr(d) >= 2015 && yr(d) <= 2024);
+      const share_recent = sum(recent, area) / sum(recent, city);
+      const share_prior = sum(prior, area) / sum(prior, city);
+      const c25 = area(wells_annual.find(d => yr(d) === 2025));
+      const higher = wells_annual.filter(d => yr(d) < 2025 && area(d) > c25).map(yr);
+      const per = Math.round(forecast.reduce((s, d) => s + Number(d.houses) + (mode === 'all' ? Number(d.apartments) : 0) + Number(d.raleigh_crest), 0) / forecast.length);
+      const atOrAbove = wells_annual.filter(d => area(d) >= per).map(yr);
+      return {
+        mode, share_recent, share_prior,
+        share_recent_txt: (share_recent * 100).toFixed(1) + '%',
+        share_prior_txt: (share_prior * 100).toFixed(1) + '%',
+        count_2025: c25,
+        last_higher_year: higher.length ? Math.max(...higher) : first,
+        forecast_per_year: per,
+        record_floor_year: atOrAbove.length ? Math.max(...atOrAbove) : first,
+        record_is_new: atOrAbove.length === 0,
+        rc_homes: total,
+        rc_students: Math.round(total * 0.45)
+      };
+    };
+    return [
+      make('houses', d => Number(d.houses), d => Number(d.city_houses)),
+      make('all', d => Number(d.houses) + Number(d.apartments), d => Number(d.city_houses) + Number(d.city_apartments))
+    ];
+  }
+});
+
+dash.calc('elem_share', {
+  inputs: ['wells_schools'],
+  title: 'Elementary shares',
+  description: 'Each Wells cluster elementary school’s share of new units nearest to it (within 1 mile), permitted 2020–Sep 2026 and pending plus Raleigh Crest, for houses only and for all homes.',
+  fn: (wells_schools) => {
+    const n = (d, k) => Number(d[k]) || 0;
+    const rows = wells_schools.map(d => ({
+      school: d.school,
+      built_houses: n(d, 'nearest_built_houses'),
+      built_all: n(d, 'nearest_built_houses') + n(d, 'nearest_built_apartments'),
+      future_houses: n(d, 'nearest_future_houses'),
+      future_all: n(d, 'nearest_future_houses') + n(d, 'nearest_future_apartments')
+    }));
+    const tot = k => rows.reduce((s, r) => s + r[k], 0);
+    const t = { built_houses: tot('built_houses'), built_all: tot('built_all'), future_houses: tot('future_houses'), future_all: tot('future_all') };
+    return rows.map(r => Object.assign({}, r, {
+      built_houses_share: r.built_houses / t.built_houses,
+      built_all_share: r.built_all / t.built_all,
+      future_houses_share: r.future_houses / t.future_houses,
+      future_all_share: r.future_all / t.future_all
+    }));
+  }
+});
+
+(function () {
+  const fmt = d3.format(',');
+  const pct = d3.format('.0%');
+  const pct1 = d3.format('.1%');
+  const C = dash.colors;
+  const HOUSE = C[0], APT = C[1], RC_COLOR = C[3], PEND_COLOR = C[4];
+  let inclApts = false;
+  const box = document.getElementById('incl-apts');
+  box.checked = false;
+
+  function legend(el, items) {
+    el.textContent = '';
+    items.forEach(it => {
+      const s = document.createElement('span');
+      const i = document.createElement('i');
+      i.style.background = it.color;
+      if (it.opacity) i.style.opacity = it.opacity;
+      s.appendChild(i);
+      s.appendChild(document.createTextNode(it.name));
+      el.appendChild(s);
+    });
+  }
+
+  function tipFor(box) {
+    let t = box.querySelector('.swh-tip');
+    if (!t) { t = document.createElement('div'); t.className = 'swh-tip'; t.hidden = true; box.appendChild(t); }
+    return {
+      show(head, rows, x, y) {
+        t.textContent = '';
+        const h = document.createElement('div'); h.className = 't-head'; h.textContent = head; t.appendChild(h);
+        rows.forEach(r => {
+          const row = document.createElement('div'); row.className = 't-row';
+          if (r.color) { const i = document.createElement('i'); i.style.background = r.color; if (r.opacity) i.style.opacity = r.opacity; row.appendChild(i); }
+          row.appendChild(document.createTextNode(r.name));
+          const b = document.createElement('b'); b.textContent = r.value; row.appendChild(b);
+          t.appendChild(row);
+        });
+        t.hidden = false;
+        const bw = box.clientWidth, tw = t.offsetWidth, th = t.offsetHeight;
+        let left = x + 12; if (left + tw > bw) left = Math.max(0, x - tw - 12);
+        let top = y - th - 8; if (top < 0) top = y + 12;
+        t.style.left = left + 'px'; t.style.top = top + 'px';
+      },
+      hide() { t.hidden = true; }
+    };
+  }
+
+  function measure(svg, texts) {
+    const g = svg.append('g').attr('opacity', 0);
+    let w = 0;
+    texts.forEach(s => { const n = g.append('text').text(s).node(); w = Math.max(w, n.getComputedTextLength()); });
+    g.remove();
+    return w;
+  }
+
+  function stateOf(ids) {
+    const st = ids.map(id => dash.data(id).status);
+    if (st.every(s => s === 'ok')) return 'ok';
+    if (st.some(s => s === 'error' || s === 'connect' || s === 'declined' || s === 'missing')) return 'error';
+    return 'loading';
+  }
+
+  function placeholder(el, state) {
+    el.textContent = '';
+    if (state === 'error') {
+      el.classList.remove('dash-skeleton');
+      const f = document.createElement('div'); f.className = 'swh-fail'; f.textContent = 'Failed to load'; el.appendChild(f);
+    } else {
+      el.classList.add('dash-skeleton');
+    }
+  }
+
+  function drawWords() {
+    document.querySelectorAll('.noun').forEach(el => { el.textContent = inclApts ? 'homes' : 'houses'; });
+    document.querySelectorAll('.Noun').forEach(el => { el.textContent = inclApts ? 'Homes' : 'Houses'; });
+  }
+
+  function drawKpis() {
+    const mode = inclApts ? 'all' : 'houses';
+    const k = dash.data('kpi');
+    const els = document.querySelectorAll('.kpi-m');
+    els.forEach(el => el.setAttribute('data-where', 'mode=' + mode));
+    if (k.status !== 'ok' || !k.data.length) {
+      if (k.status !== 'loading') els.forEach(el => el.classList.remove('dash-skeleton'));
+      return;
+    }
+    const d = k.data.find(r => r.mode === mode);
+    els.forEach(el => {
+      const f = el.getAttribute('data-field');
+      const v = d[f];
+      el.textContent = typeof v === 'number' && f !== 'last_higher_year' && f !== 'record_floor_year' ? fmt(v) : String(v);
+      el.classList.remove('dash-skeleton');
+    });
+    document.querySelector('#kpi-record-note .rec-lead').textContent = d.record_is_new ? 'Recent pace plus Raleigh Crest; more than any year since ' : 'Recent pace plus Raleigh Crest; most since ';
+  }
+
+  function drawTrend() {
+    const el = document.getElementById('trend-chart');
+    const leg = document.getElementById('trend-legend');
+    const s = stateOf(['wells_annual', 'forecast']);
+    if (s !== 'ok') { placeholder(el, s); leg.textContent = ''; return; }
+    el.classList.remove('dash-skeleton');
+    el.textContent = '';
+    const hist = dash.data('wells_annual').data.map(d => ({ year: Number(d.year), months: Number(d.months_of_data), houses: Number(d.houses), apartments: Number(d.apartments), raleigh_crest: 0, fc: false }));
+    const fc = dash.data('forecast').data.map(d => ({ year: Number(d.year), months: 12, houses: Number(d.houses), apartments: Number(d.apartments), raleigh_crest: Number(d.raleigh_crest), fc: true }));
+    const rows = hist.concat(fc).sort((a, b) => a.year - b.year);
+    const keys = inclApts ? ['houses', 'apartments', 'raleigh_crest'] : ['houses', 'raleigh_crest'];
+    const meta = { houses: { name: 'Houses', color: HOUSE }, apartments: { name: 'Apartments', color: APT }, raleigh_crest: { name: 'Raleigh Crest', color: RC_COLOR } };
+    legend(leg, keys.map(k => meta[k]).concat([{ name: '2027–2030 forecast (lighter)', color: 'var(--cds-chart-muted)' }]));
+    const W = el.clientWidth, H = 300;
+    const svg = d3.select(el).append('svg').attr('width', '100%').attr('viewBox', `0 0 ${W} ${H}`).attr('height', H);
+    const stacked = d3.stack().keys(keys)(rows);
+    const ymax = d3.max(rows, r => keys.reduce((s2, k) => s2 + r[k], 0));
+    const y = d3.scaleLinear([0, ymax * 1.08], [H - 24, 20]).nice();
+    const ticks = y.ticks(5);
+    const ml = Math.ceil(measure(svg, ticks.map(fmt))) + 10;
+    const x = d3.scaleBand(rows.map(r => r.year), [ml, W - 4]).padding(0.22);
+    svg.append('g').selectAll('line').data(ticks).join('line').attr('x1', ml).attr('x2', W - 4).attr('y1', d => y(d)).attr('y2', d => y(d)).attr('stroke', 'var(--cds-chart-grid)');
+    svg.append('g').selectAll('text').data(ticks).join('text').attr('x', ml - 8).attr('y', d => y(d)).attr('dy', '0.32em').attr('text-anchor', 'end').text(fmt);
+    const fcStart = x(2027) - x.step() * x.padding() / 2 - 2;
+    svg.append('rect').attr('x', fcStart).attr('y', 14).attr('width', W - 4 - fcStart).attr('height', H - 38).attr('fill', 'var(--color-fg)').attr('opacity', 0.04);
+    svg.append('text').attr('x', fcStart + 6).attr('y', 26).text('Forecast').attr('class', 'lbl-strong');
+    stacked.forEach(layer => {
+      svg.append('g').selectAll('rect').data(layer).join('rect')
+        .attr('x', d => x(d.data.year)).attr('width', x.bandwidth())
+        .attr('y', d => y(d[1])).attr('height', d => Math.max(0, y(d[0]) - y(d[1])))
+        .attr('fill', meta[layer.key].color)
+        .attr('opacity', d => d.data.fc && layer.key !== 'raleigh_crest' ? 0.45 : 1);
+    });
+    const every = W < 520 ? 5 : (W < 820 ? 3 : 1);
+    svg.append('g').selectAll('text').data(rows.filter(r => r.year % every === 0 || r.year === 2026 || r.year === 2030)).join('text')
+      .attr('x', d => x(d.year) + x.bandwidth() / 2).attr('y', H - 6).attr('text-anchor', 'middle')
+      .text(d => (W < 520 ? "'" + String(d.year).slice(2) : String(d.year)) + (d.year === 2026 && W >= 520 ? '*' : ''));
+    svg.append('line').attr('x1', ml).attr('x2', W - 4).attr('y1', y(0)).attr('y2', y(0)).attr('stroke', 'var(--cds-chart-axis)');
+    const tip = tipFor(el);
+    svg.append('g').selectAll('rect').data(rows).join('rect')
+      .attr('x', d => x(d.year) - x.step() * x.padding() / 2).attr('width', x.step()).attr('y', 0).attr('height', H - 24).attr('fill', 'transparent')
+      .on('mousemove', function (ev, d) {
+        const [mx, my] = d3.pointer(ev, el);
+        const items = keys.filter(k => k !== 'raleigh_crest' || d[k] > 0).map(k => ({ name: meta[k].name, value: fmt(d[k]), color: meta[k].color }));
+        if (keys.length > 1) items.push({ name: 'Total', value: fmt(keys.reduce((s2, k) => s2 + d[k], 0)) });
+        tip.show(d.year + (d.fc ? ' · forecast' : d.months < 12 ? ' · Jan–Sep' : ''), items, mx, my);
+      })
+      .on('mouseleave', () => tip.hide());
+  }
+
+  function drawShare() {
+    const el = document.getElementById('share-chart');
+    const s = stateOf(['share']);
+    if (s !== 'ok') { placeholder(el, s); return; }
+    el.classList.remove('dash-skeleton');
+    el.textContent = '';
+    const key = inclApts ? 'share_all' : 'share_houses';
+    const rows = dash.data('share').data.map(d => ({ year: Number(d.year), share: Number(d[key]) }));
+    const W = el.clientWidth, H = 230;
+    const svg = d3.select(el).append('svg').attr('width', '100%').attr('viewBox', `0 0 ${W} ${H}`).attr('height', H);
+    const y = d3.scaleLinear([0, Math.max(0.2, d3.max(rows, d => d.share) * 1.1)], [H - 24, 14]).nice();
+    const ticks = y.ticks(4);
+    const ml = Math.ceil(measure(svg, ticks.map(pct))) + 10;
+    const last = rows[rows.length - 1];
+    const endLabel = pct1(last.share);
+    const mr = Math.ceil(measure(svg, [endLabel])) + 12;
+    const x = d3.scaleLinear([rows[0].year, last.year], [ml, W - mr]);
+    svg.append('g').selectAll('line').data(ticks).join('line').attr('x1', ml).attr('x2', W - mr).attr('y1', d => y(d)).attr('y2', d => y(d)).attr('stroke', 'var(--cds-chart-grid)');
+    svg.append('g').selectAll('text').data(ticks).join('text').attr('x', ml - 8).attr('y', d => y(d)).attr('dy', '0.32em').attr('text-anchor', 'end').text(pct);
+    const xt = W < 480 ? [2005, 2015, 2026] : [2005, 2010, 2015, 2020, 2026];
+    svg.append('g').selectAll('text').data(xt).join('text').attr('x', d => x(d)).attr('y', H - 6).attr('text-anchor', 'middle').text(String);
+    const gid = 'swh-share-grad';
+    const grad = svg.append('defs').append('linearGradient').attr('id', gid).attr('x1', 0).attr('x2', 0).attr('y1', 0).attr('y2', 1);
+    [[0, .26], [.25, .16], [.5, .08], [.75, .03], [1, 0]].forEach(([o, a]) => grad.append('stop').attr('offset', o).attr('style', `stop-color:${HOUSE};stop-opacity:${a}`));
+    svg.append('path').datum(rows).attr('fill', `url(#${gid})`).attr('d', d3.area().x(d => x(d.year)).y0(y(0)).y1(d => y(d.share)));
+    svg.append('path').datum(rows).attr('fill', 'none').attr('stroke', HOUSE).attr('stroke-width', 2).attr('stroke-linecap', 'round').attr('stroke-linejoin', 'round').attr('d', d3.line().x(d => x(d.year)).y(d => y(d.share)));
+    svg.append('circle').attr('cx', x(last.year)).attr('cy', y(last.share)).attr('r', 3.5).attr('fill', HOUSE);
+    svg.append('text').attr('x', x(last.year) + 6).attr('y', y(last.share)).attr('dy', '0.32em').attr('class', 'lbl-strong').text(endLabel);
+    svg.append('line').attr('x1', ml).attr('x2', W - mr).attr('y1', y(0)).attr('y2', y(0)).attr('stroke', 'var(--cds-chart-axis)');
+    const tip = tipFor(el);
+    const dot = svg.append('circle').attr('r', 3.5).attr('fill', HOUSE).attr('opacity', 0);
+    svg.append('rect').attr('x', ml).attr('y', 0).attr('width', W - mr - ml).attr('height', H - 24).attr('fill', 'transparent')
+      .on('mousemove', function (ev) {
+        const [mx, my] = d3.pointer(ev, el);
+        const yr = Math.round(x.invert(mx));
+        const d = rows.find(r => r.year === yr); if (!d) return;
+        dot.attr('cx', x(d.year)).attr('cy', y(d.share)).attr('opacity', 1);
+        tip.show(String(d.year) + (d.year === 2026 ? ' · Jan–Sep' : ''), [{ name: 'Wells area share', value: pct1(d.share) }], mx, my);
+      })
+      .on('mouseleave', () => { tip.hide(); dot.attr('opacity', 0); });
+  }
+
+  function drawElem() {
+    const el = document.getElementById('elem-chart');
+    const leg = document.getElementById('elem-legend');
+    const s = stateOf(['elem_share']);
+    if (s !== 'ok') { placeholder(el, s); leg.textContent = ''; return; }
+    el.classList.remove('dash-skeleton');
+    el.textContent = '';
+    const m = inclApts ? 'all' : 'houses';
+    const rows = dash.data('elem_share').data.map(d => ({ school: d.school, built: Number(d['built_' + m]), future: Number(d['future_' + m]), built_share: Number(d['built_' + m + '_share']), future_share: Number(d['future_' + m + '_share']) }));
+    const color = d3.scaleOrdinal(rows.map(r => r.school), C);
+    legend(leg, rows.map(r => ({ name: r.school, color: color(r.school) })));
+    const unit = inclApts ? ' homes' : ' houses';
+    const bars = [{ key: 'built_share', n: 'built', label: 'Permitted 2020–Sep 2026' }, { key: 'future_share', n: 'future', label: 'Pending + Raleigh Crest' }];
+    const W = el.clientWidth, H = 230;
+    const svg = d3.select(el).append('svg').attr('width', '100%').attr('viewBox', `0 0 ${W} ${H}`).attr('height', H);
+    const x = d3.scaleLinear([0, 1], [0, W]);
+    const tip = tipFor(el);
+    bars.forEach((b, bi) => {
+      const top = 22 + bi * 104;
+      svg.append('text').attr('x', 0).attr('y', top - 8).attr('class', 'lbl-strong').text(b.label + ' · ' + fmt(d3.sum(rows, r => r[b.n])) + unit);
+      let acc = 0;
+      rows.forEach(r => {
+        const w = x(r[b.key]);
+        const g = svg.append('g');
+        g.append('rect').attr('x', x(acc) + 0.5).attr('y', top).attr('width', Math.max(0, w - 1)).attr('height', 44).attr('rx', 3).attr('fill', color(r.school))
+          .on('mousemove', function (ev) { const [mx, my] = d3.pointer(ev, el); tip.show(r.school + ' · ' + b.label, [{ name: inclApts ? 'Homes' : 'Houses', value: fmt(r[b.n]) }, { name: 'Share', value: pct1(r[b.key]) }], mx, my); })
+          .on('mouseleave', () => tip.hide());
+        if (w > 40) g.append('text').attr('x', x(acc) + 6).attr('y', top + 64).text(pct(r[b.key]));
+        acc += r[b.key];
+      });
+    });
+  }
+
+  function drawSchools() {
+    const el = document.getElementById('school-chart');
+    const leg = document.getElementById('school-legend');
+    const s = stateOf(['wells_schools']);
+    if (s !== 'ok') { placeholder(el, s); leg.textContent = ''; return; }
+    el.classList.remove('dash-skeleton');
+    el.textContent = '';
+    const keys = [{ k: 'houses', name: 'Houses (permitted)', color: HOUSE }];
+    if (inclApts) keys.push({ k: 'apartments', name: 'Apartments (permitted)', color: APT });
+    keys.push({ k: 'pending', name: 'Pending permits', color: PEND_COLOR });
+    keys.push({ k: 'raleigh_crest', name: 'Raleigh Crest', color: RC_COLOR });
+    legend(leg, keys);
+    const rows = dash.data('wells_schools').data.map(d => {
+      const o = { school: d.school, houses: Number(d.houses) || 0, apartments: Number(d.apartments) || 0, raleigh_crest: Number(d.raleigh_crest) || 0 };
+      o.pending = (Number(d.pending_houses) || 0) + (inclApts ? (Number(d.pending_apartments) || 0) : 0);
+      o.total = keys.reduce((s2, k) => s2 + o[k.k], 0);
+      return o;
+    }).sort((a, b) => b.total - a.total);
+    const W = el.clientWidth;
+    const H = rows.length * 40 + 30;
+    el.style.minHeight = H + 'px';
+    const svg = d3.select(el).append('svg').attr('width', '100%').attr('viewBox', `0 0 ${W} ${H}`).attr('height', H);
+    const ml = Math.ceil(measure(svg, rows.map(r => r.school))) + 12;
+    const maxTotal = d3.max(rows, r => r.total);
+    const mr = Math.ceil(measure(svg, [fmt(maxTotal)])) + 10;
+    const x = d3.scaleLinear([0, maxTotal], [ml, W - mr]).nice();
+    const y = d3.scaleBand(rows.map(r => r.school), [0, H - 26]).padding(0.28);
+    const ticks = x.ticks(W < 520 ? 3 : 5);
+    svg.append('g').selectAll('line').data(ticks).join('line').attr('x1', d => x(d)).attr('x2', d => x(d)).attr('y1', 0).attr('y2', H - 26).attr('stroke', 'var(--cds-chart-grid)');
+    svg.append('g').selectAll('text').data(ticks).join('text').attr('x', d => x(d)).attr('y', H - 8).attr('text-anchor', 'middle').text(fmt);
+    svg.append('g').selectAll('text').data(rows).join('text').attr('x', ml - 10).attr('y', r => y(r.school) + y.bandwidth() / 2).attr('dy', '0.32em').attr('text-anchor', 'end').attr('class', 'lbl-strong').text(r => r.school);
+    const stacked = d3.stack().keys(keys.map(k => k.k))(rows);
+    stacked.forEach((layer, li) => {
+      svg.append('g').selectAll('rect').data(layer).join('rect')
+        .attr('x', d => x(d[0])).attr('width', d => Math.max(0, x(d[1]) - x(d[0])))
+        .attr('y', d => y(d.data.school)).attr('height', y.bandwidth())
+        .attr('fill', keys[li].color);
+    });
+    svg.append('g').selectAll('text').data(rows).join('text').attr('x', r => x(r.total) + 6).attr('y', r => y(r.school) + y.bandwidth() / 2).attr('dy', '0.32em').text(r => fmt(r.total));
+    const tip = tipFor(el);
+    svg.append('g').selectAll('rect').data(rows).join('rect').attr('x', 0).attr('width', W).attr('y', r => y(r.school) - y.step() * y.padding() / 2).attr('height', y.step()).attr('fill', 'transparent')
+      .on('mousemove', function (ev, r) {
+        const [mx, my] = d3.pointer(ev, el);
+        const items = keys.filter(k => r[k.k] > 0).map(k => ({ name: k.name.replace(' (permitted)', ''), value: fmt(r[k.k]), color: k.color }));
+        items.push({ name: 'Total', value: fmt(r.total) });
+        tip.show(r.school, items, mx, my);
+      })
+      .on('mouseleave', () => tip.hide());
+  }
+
+  let sortKey = 'units', sortDir = -1, query = '';
+  function drawTable() {
+    const table = document.getElementById('pending-table');
+    const tbody = table.querySelector('tbody');
+    const d = dash.data('wells_pending');
+    tbody.textContent = '';
+    if (d.status !== 'ok') {
+      const tr = document.createElement('tr'); const td = document.createElement('td'); td.colSpan = 7;
+      if (d.status === 'loading') td.className = 'dash-skeleton';
+      else { const f = document.createElement('div'); f.className = 'swh-fail'; f.textContent = 'Failed to load'; td.appendChild(f); }
+      tr.appendChild(td); tbody.appendChild(tr); return;
+    }
+    let rows = d.data.filter(r => inclApts || r.home_type !== 'Apartments');
+    if (query) { const q = query.toLowerCase(); rows = rows.filter(r => [r.address, r.nearest_school, r.home_type, r.status, r.permit].join(' ').toLowerCase().includes(q)); }
+    const num = k => k === 'units' || k === 'miles';
+    rows.sort((a, b) => num(sortKey) ? sortDir * (Number(a[sortKey]) - Number(b[sortKey])) : sortDir * String(a[sortKey]).localeCompare(String(b[sortKey])));
+    rows.forEach(r => {
+      const tr = document.createElement('tr');
+      if (String(r.permit).startsWith('LU ')) tr.className = 'hl';
+      [['address', false], ['units', true], ['home_type', false], ['nearest_school', false], ['miles', true], ['status', false], ['permit', false]].forEach(([k, isNum]) => {
+        const td = document.createElement('td');
+        if (isNum) td.className = 'num';
+        td.textContent = k === 'units' ? fmt(Number(r[k])) : String(r[k]);
+        tr.appendChild(td);
+      });
+      tbody.appendChild(tr);
+    });
+    table.querySelectorAll('th').forEach(th => {
+      const k = th.querySelector('button').dataset.k;
+      if (k === sortKey) th.setAttribute('aria-sort', sortDir < 0 ? 'descending' : 'ascending'); else th.removeAttribute('aria-sort');
+    });
+  }
+
+  document.getElementById('pending-table').querySelectorAll('th button').forEach(b => b.addEventListener('click', () => {
+    const k = b.dataset.k;
+    if (k === sortKey) sortDir = -sortDir; else { sortKey = k; sortDir = (k === 'units' || k === 'miles') ? -1 : 1; }
+    drawTable();
+  }));
+  document.getElementById('pending-search').addEventListener('input', e => { query = e.target.value.trim(); drawTable(); });
+
+  function drawAll() {
+    drawWords();
+    drawKpis();
+    drawTrend();
+    drawShare();
+    drawElem();
+    drawSchools();
+    drawTable();
+  }
+  box.addEventListener('change', () => { inclApts = box.checked; drawAll(); });
+  dash.onData(drawAll);
+
+  const named = document.getElementById(location.hash.slice(1));
+  if (named) { named.scrollIntoView(); dash.setLink(named.id); }
+})();
+</script>
+</div>
+<footer class="export-foot"><strong>Sources.</strong> Standalone copy of the “Wells Cluster Housing Growth” dashboard, exported 2026-10-27; data are fixed as of Oct 1, 2026. Data files: <code>analysis/data/wells_housing_growth/</code>.<ul><li><strong>Wells area new units by year</strong>: New housing units permitted inside the Ida B. Wells High School attendance area by year issued, split into houses (detached houses, townhouses, ADUs, duplexes, small additions) and apartments (new buildings of 5+ units), with citywide totals for each, 2005 – Sep 2026. City of Portland 'Residential Building Permits' open data and the county school attendance-area map; data through Oct 1, 2026.</li><li><strong>Homes near Wells elementaries</strong>: Housing units permitted Jan 2020 – Sep 2026 within 1 mile (straight line) of each Wells cluster elementary school, as houses and apartments, plus pending permits and Raleigh Crest within 1 mile, and nearest-school totals used for shares. City of Portland permit data through Oct 1, 2026.</li><li><strong>Pending projects, Wells area</strong>: City of Portland permits creating housing units that were filed but not yet issued (application, under review, approved to issue) as of Oct 2026, within 1 mile of a Wells cluster elementary school, plus the Raleigh Crest subdivision (LU 24-036049).</li><li><strong>Raleigh Crest approved lots</strong>: Lots in the approved Raleigh Crest subdivision on the former Alpenrose Dairy site, from the hearings officer's November 2024 decision on LU 24-036049 (City of Portland permit records).</li></ul></footer>
+</body>
+</html>
