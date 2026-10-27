@@ -10,7 +10,7 @@
   "https://www.youtube.com/watch?v=nkNf4ceJcj8&t=8s"
  ],
  "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=771676",
- "minutes_url": null,
+ "minutes_url": "https://meetings.boardbook.org/Public/Minutes/915?meeting=771676",
  "supplementals_url": null,
  "folder": "sources/boardbook/meetings/2026-10-13_771676_intergovernmental-affairs-committee-meeting",
  "agenda_items": [
@@ -50,6 +50,10 @@
    "attachments": []
   }
  ],
+ "minutes_files": [],
+ "minutes_document_id": "14601958",
+ "minutes_pdf": "sources/boardbook/meetings/2026-10-13_771676_intergovernmental-affairs-committee-meeting/minutes_14601958.pdf",
+ "minutes_download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14601958?org=915",
  "public_notice_files": [],
  "public_notice_document_id": "14533614",
  "public_notice_pdf": "sources/boardbook/meetings/2026-10-13_771676_intergovernmental-affairs-committee-meeting/public_notice_14533614.pdf",

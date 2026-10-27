@@ -1,0 +1,356 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rightsizing Calendar
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+DTSTART:20260308T030000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:PDT
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20261101T010000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:PST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20261027T170958Z
+UID:12a3e273-439b-536c-aeaf-02e846be1305
+DTSTART;TZID=America/Los_Angeles:20260928T170000
+DTEND;TZID=America/Los_Angeles:20260928T190000
+DESCRIPTION: RSVP FORMPlease RSVP for this engagement opportunity or for 
+ other opportunities that work best for you. Your RSVP helps us anticipate 
+ participation and plan for interpretation and other available accessibilit
+ y supports.
+LOCATION:Virtual
+SUMMARY:Black Student Council
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T170958Z
+UID:192b616b-2ddf-5196-895a-b3a98d0cafed
+DTSTART;TZID=America/Los_Angeles:20260930T180000
+DTEND;TZID=America/Los_Angeles:20260930T200000
+DESCRIPTION:An informal\, open-house style opportunity for students\, famil
+ ies\, staff and community members to connect with Board members\, review R
+ ightsizing information and share feedback. RSVP FORMPlease RSVP for this
+  engagement opportunity or for other opportunities that work best for you.
+  Your RSVP helps us anticipate participation and plan for interpretation a
+ nd other available accessibility supports.
+LOCATION:Ida B. Wells High School
+SUMMARY:Board of Education Community Connection
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T170958Z
+UID:ec64300f-7c87-569d-ba35-1a1d5869dc44
+DTSTART;TZID=America/Los_Angeles:20261001T170000
+DTEND;TZID=America/Los_Angeles:20261001T190000
+DESCRIPTION:Register here: www.pps.net/EducatorTownHall A dedicated Right
+ sizing conversation for PPS educators and staff to hear updates\, ask ques
+ tions and share perspectives from their experience supporting students and
+  school communities.Flier for Educator Town Hall
+LOCATION:Virtual via Zoom
+SUMMARY:PPS Educator Town Hall
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T170958Z
+UID:8188b1fa-e581-54ca-86f0-51d0e000f22e
+DTSTART;TZID=America/Los_Angeles:20261001T180000
+DTEND;TZID=America/Los_Angeles:20261001T200000
+DESCRIPTION:Register for virtual event via Zoom A dedicated space for Lati
+ nx families and community members to learn more about Rightsizing\, ask qu
+ estions and share perspectives and priorities with PPS. Latinx Community 
+ Conversation Flyer (English)   
+LOCATION:Virtual via Zoom
+SUMMARY:La voz de la comunidad: familias latinasCommunity Voice: Latino/a/e
+  Families/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T170958Z
+UID:49c70179-324a-5dd7-b2e2-bec4e17fa7e0
+DTSTART;TZID=America/Los_Angeles:20261006T180000
+DTEND;TZID=America/Los_Angeles:20261006T210000
+DESCRIPTION:
+LOCATION:Prophet Education Center
+SUMMARY:PPS Board of Education School Board Meeting
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T170958Z
+UID:95173bc3-aab4-52cf-b1c9-b98561568865
+DTSTART;TZID=America/Los_Angeles:20261009T130000
+DTEND;TZID=America/Los_Angeles:20261009T150000
+DESCRIPTION:An informal\, open-house style opportunity for students\, famil
+ ies\, staff and community members to connect with Board members\, review R
+ ightsizing information and share feedback. RSVP FORMPlease RSVP for this
+  engagement opportunity or for other opportunities that work best for you.
+  Your RSVP helps us anticipate participation and plan for interpretation a
+ nd other available accessibility supports.
+LOCATION:Roosevelt High School
+SUMMARY:Board of Education Community Connection
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T170958Z
+UID:69668e8f-f35e-55cb-bbc0-cf68cd04b575
+DTSTART;TZID=America/Los_Angeles:20261014T180000
+DTEND;TZID=America/Los_Angeles:20261014T193000
+DESCRIPTION:The Village Table Flier RSVP FORMPlease RSVP for this engagem
+ ent opportunity or for other opportunities that work best for you. Your RS
+ VP helps us anticipate participation and plan for interpretation and other
+  available accessibility supports.
+SUMMARY:The Village Table
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T170958Z
+UID:2755cad2-611d-5073-8d77-7bfb8da7d4e6
+DTSTART;TZID=America/Los_Angeles:20261015T180000
+DTEND;TZID=America/Los_Angeles:20261015T200000
+DESCRIPTION:This engagement is designed to center the experiences\, questio
+ ns\, and perspectives of special education families as PPS considers how p
+ otential changes to schools\, programs\, and student pathways may affect s
+ tudents receiving special education services. Families will have an opport
+ unity to learn where we are in the Rightsizing process\, share what is imp
+ ortant for PPS to understand\, and identify considerations that should inf
+ orm future planning and decision-making. RSVP FORMPlease RSVP for this e
+ ngagement opportunity or for other opportunities that work best for you. Y
+ our RSVP helps us anticipate participation and plan for interpretation and
+  other available accessibility supports.
+LOCATION:Kellogg Middle School
+SUMMARY:Community Engagement: Disability Voices
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T170958Z
+UID:0228edef-a12f-5edf-931b-a1b11d12ecdf
+DTSTART;TZID=America/Los_Angeles:20261017T090000
+DTEND;TZID=America/Los_Angeles:20261017T110000
+DESCRIPTION:For families and communities of the Grant/McDaniel region.Join 
+ Superintendent Dr. Armstrong for a regional conversation with school commu
+ nities impacted by the proposed Rightsizing scenarios. This is an opportun
+ ity to ask questions\, explore potential changes and share perspectives\, 
+ concerns and priorities directly with the Superintendent.RSVPFlyers:  Eng
+ lish  |  Español  |  Tiếng Việt  |  中文 (简体)  |  Ру
+ сский  |  Soomaaliga
+LOCATION:Grant HS
+SUMMARY:School Impact Conversation: Northeast Region
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T170958Z
+UID:a7bfaa48-1f62-5a51-bb29-a7aec2c46c47
+DTSTART;TZID=America/Los_Angeles:20261017T110000
+DTEND;TZID=America/Los_Angeles:20261017T140000
+DESCRIPTION:An informal\, open-house style opportunity to explore Rightsizi
+ ng information\, ask questions\, connect with Board members and district s
+ taff\, and share feedback. Drop in at any time. RSVP FORMPlease RSVP for
+  this engagement opportunity or for other opportunities that work best for
+  you. Your RSVP helps us anticipate participation and plan for interpretat
+ ion and other available accessibility supports.
+LOCATION:McDaniel High School
+SUMMARY:Board of Education Community Connection
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T170958Z
+UID:e52488b0-a88c-5eda-a925-c5c84198d6b5
+DTSTART;TZID=America/Los_Angeles:20261019T180000
+DTEND;TZID=America/Los_Angeles:20261019T200000
+DESCRIPTION:A dedicated space for Latinx families and community members to 
+ learn more about Rightsizing\, ask questions and share perspectives and pr
+ iorities with PPS. Latinx Community Conversation Flyer (English) RSVP F
+ ORMPlease RSVP for this engagement opportunity or for other opportunities
+  that work best for you. Your RSVP helps us anticipate participation and p
+ lan for interpretation and other available accessibility support.   
+LOCATION:TBD
+SUMMARY:La voz de la comunidad: familias latinasCommunity Voice: Latino/a/e
+  Families
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T170958Z
+UID:bb888d7f-4e64-5cb1-bd78-d456a72ea206
+DTSTART;TZID=America/Los_Angeles:20261022T180000
+DTEND;TZID=America/Los_Angeles:20261022T200000
+DESCRIPTION: RSVP FORMPlease RSVP for this engagement opportunity or for 
+ other opportunities that work best for you. Your RSVP helps us anticipate 
+ participation and plan for interpretation and other available accessibilit
+ y supports.
+LOCATION:McDaniel High School
+SUMMARY:Community Voice:  Black/African American Community Conversation
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T170958Z
+UID:14a00610-908f-58f8-bf89-203859c7b58a
+DTSTART;TZID=America/Los_Angeles:20261024T090000
+DTEND;TZID=America/Los_Angeles:20261024T110000
+DESCRIPTION:For families and communities of the Cleveland/Franklin region.
+  Schools: Buckman\, Creston\, Lewis\, Marysville\, Sellwood MS\, Woodmere
+ \, Sunnyside Environmental\, Bridger Creative Science\, Spanish (Atkinson)
+ .Join Superintendent Dr. Armstrong for a regional conversation with school
+  communities impacted by the proposed Rightsizing scenarios. This is an op
+ portunity to ask questions\, explore potential changes and share perspecti
+ ves\, concerns and priorities directly with the Superintendent.RSVPFlyers:
+   English  |  Español  |  Tiếng Việt  |  中文 (简体)  | 
+  Русский  |  Soomaaliga
+LOCATION:Cleveland HS @ Marshal Campus
+SUMMARY:School Impact Conversation: Southeast Region
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T170958Z
+UID:3eb91bef-8151-5659-adfd-3f7f3057a846
+DTSTART;TZID=America/Los_Angeles:20261024T130000
+DTEND;TZID=America/Los_Angeles:20261024T150000
+DESCRIPTION:For families and communities of the Jefferson/Roosevelt region.
+  Schools: Beach\, James John\, Peninsula\, Sabin\, Faubion\, Vernon\, Cé
+ sar Chávez\, Spanish DLI\, Mandarin DLI (MLK Jr.)Join Superintendent Dr. 
+ Armstrong for a regional conversation with school communities impacted by 
+ the proposed Rightsizing scenarios. This is an opportunity to ask question
+ s\, explore potential changes and share perspectives\, concerns and priori
+ ties directly with the Superintendent.RSVPFlyers:  English  |  Español
+   |  Tiếng Việt  |  中文 (简体)  |  Русский  |  Soo
+ maaliga
+LOCATION:Jefferson High School
+SUMMARY:School Impact Conversation: North Region
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T170958Z
+UID:ecaeb516-9fef-5092-8393-77a719f64f23
+DTSTART;TZID=America/Los_Angeles:20261024T160000
+DTEND;TZID=America/Los_Angeles:20261024T180000
+DESCRIPTION:For families and communities of the Lincoln/Wells region region
+ . Schools: Maplewood\, Stephenson\, MLC\, OdysseyJoin Superintendent Dr. 
+ Armstrong for a regional conversation with school communities impacted by 
+ the proposed Rightsizing scenarios. This is an opportunity to ask question
+ s\, explore potential changes and share perspectives\, concerns and priori
+ ties directly with the Superintendent.RSVPFlyers:  English  |  Español
+   |  Tiếng Việt  |  中文 (简体)  |  Русский  |  Soo
+ maaliga
+LOCATION:Ida B. Wells High School
+SUMMARY:School Impact Conversation: West Region
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T170958Z
+UID:5c62fec6-d29e-5f27-9c5e-4c23932e8fa0
+DTSTART;TZID=America/Los_Angeles:20261026T180000
+DTEND;TZID=America/Los_Angeles:20261026T200000
+DESCRIPTION:RSVP FORMPlease RSVP for this engagement opportunity or for ot
+ her opportunities that work best for you. Your RSVP helps us anticipate pa
+ rticipation and plan for interpretation and other available accessibility 
+ supports. PPS is creating dedicated opportunities for Native and Indigeno
+ us families\, students and community partners to engage in the rightsizing
+  process\, learn about what is being considered\, ask questions\, and shar
+ e perspectives about how potential changes may impact Native students\, fa
+ milies and communities.Rightsizing engagement with Native and Indigenous c
+ ommunities is coordinated by Dr. Miranda Ryan\, Director of Native Communi
+ ty Engagement and Educational Partnerships\, in collaboration with the Dir
+ ector of Indian Education. Together\, they are working to ensure these con
+ versations are connected to the relationships\, priorities and ongoing wor
+ k of PPS Indian Education and our Native community partners.
+LOCATION:Barbie's Village (935 NE 33rd Ave)
+SUMMARY:Community Voice: Native Families
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T170958Z
+UID:feaab698-2ed9-5e3e-8342-0689bf7b250c
+DTSTART;TZID=America/Los_Angeles:20261027T180000
+DTEND;TZID=America/Los_Angeles:20261027T200000
+DESCRIPTION:An informal\, open-house style opportunity to explore Rightsizi
+ ng information\, ask questions\, connect with Board members and district s
+ taff\, and share feedback. Drop in at any time. RSVP FORMPlease RSVP for
+  this engagement opportunity or for other opportunities that work best for
+  you. Your RSVP helps us anticipate participation and plan for interpretat
+ ion and other available accessibility supports.
+LOCATION:Lincoln High School
+SUMMARY:Board of Education Community Connection
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T170958Z
+UID:afd3ae23-c7ee-5a7a-b47a-f95058f64f4a
+DTSTART;TZID=America/Los_Angeles:20261028T180000
+DTEND;TZID=America/Los_Angeles:20261028T200000
+DESCRIPTION:An informal\, open-house style opportunity to explore Rightsizi
+ ng information\, ask questions\, connect with Board members and district s
+ taff\, and share feedback. Drop in at any time. RSVP FORMPlease RSVP for
+  this engagement opportunity or for other opportunities that work best for
+  you. Your RSVP helps us anticipate participation and plan for interpretat
+ ion and other available accessibility supports.
+LOCATION:Virtual
+SUMMARY:Board of Education Community Connection
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T170958Z
+UID:878b463b-3384-559f-9e52-f27813b4ce56
+DTSTART;TZID=America/Los_Angeles:20261029T180000
+DTEND;TZID=America/Los_Angeles:20261029T200000
+DESCRIPTION:Register here: www.pps.net/EducatorTownHall PPS teachers\, ed
+ ucators and school-based staff are invited to join district leaders for a 
+ conversation about the proposed Rightsizing scenarios.This gathering provi
+ des an opportunity to ask questions\, share perspectives and discuss how p
+ otential changes to schools\, programs\, staffing and student pathways may
+  impact teaching\, learning and school communities.
+LOCATION:Cleveland HS @ Marshall Campus
+SUMMARY:PPS Educator Town Hall
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T170958Z
+UID:514d5b0c-f5de-5f8f-a8f4-7baef97ac34d
+DTSTART;TZID=America/Los_Angeles:20261118T170000
+DTEND;TZID=America/Los_Angeles:20261118T180000
+DESCRIPTION:PPS students are invited to participate in a dedicated student 
+ listening hour from 5:00pm to 6:00pm on both Wednesday\, November 18th and
+  Thursday\, November 19th\, immediately before the general Public Listenin
+ g Sessions. These opportunities are designed to ensure students have space
+  to speak directly with Board Directors about how proposed changes may aff
+ ect their schools\, learning experiences\, relationships and communities.R
+ SVPVirtual Option via Zoom
+LOCATION:Cleveland @ Marshall High School (And Virtual)
+SUMMARY:Board of Education Public Listening Session: Student Listening Hour
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T170958Z
+UID:fa9e8abb-1cec-556e-afc4-96b6bc4de4b0
+DTSTART;TZID=America/Los_Angeles:20261118T180000
+DTEND;TZID=America/Los_Angeles:20261118T200000
+DESCRIPTION:These sessions provide dedicated opportunities for students\, f
+ amilies\, staff\, community members and partners to share their perspectiv
+ es directly with the full Board of Education before rightsizing decisions 
+ are made.Virtual Option via Zoom RSVP FORMPlease RSVP for this engagemen
+ t opportunity or for other opportunities that work best for you. Your RSVP
+  helps us anticipate participation and plan for interpretation and other a
+ vailable accessibility supports.
+LOCATION:Cleveland @ Marshall High School
+SUMMARY:Board of Education Public Listening Sessions
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T170958Z
+UID:3f894387-793c-5457-8981-4bd1e88c7169
+DTSTART;TZID=America/Los_Angeles:20261119T170000
+DTEND;TZID=America/Los_Angeles:20261119T180000
+DESCRIPTION:PPS students are invited to participate in a dedicated student 
+ listening hour from 5:00pm to 6:00pm on both Wednesday\, November 18th and
+  Thursday\, November 19th\, immediately before the general Public Listenin
+ g Sessions. These opportunities are designed to ensure students have space
+  to speak directly with Board Directors about how proposed changes may aff
+ ect their schools\, learning experiences\, relationships and communities.R
+ SVPVirtual Option via Zoom
+LOCATION:Franklin High School (And Virtual)
+SUMMARY:Board of Education Public Listening Session: Student Listening Hour
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T170958Z
+UID:0c87ab27-b81b-578d-954c-3ea20335c7d2
+DTSTART;TZID=America/Los_Angeles:20261119T180000
+DTEND;TZID=America/Los_Angeles:20261119T200000
+DESCRIPTION:These sessions provide dedicated opportunities for students\, f
+ amilies\, staff\, community members and partners to share their perspectiv
+ es directly with the full Board of Education before rightsizing decisions 
+ are made.Virtual Option via Zoom RSVP FORMPlease RSVP for this engagemen
+ t opportunity or for other opportunities that work best for you. Your RSVP
+  helps us anticipate participation and plan for interpretation and other a
+ vailable accessibility supports.
+LOCATION:Franklin High School
+SUMMARY:Board of Education Public Listening Sessions
+END:VEVENT
+END:VCALENDAR

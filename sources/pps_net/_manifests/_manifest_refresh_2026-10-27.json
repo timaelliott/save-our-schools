@@ -1,0 +1,51 @@
+[
+ {
+  "file": "sources/pps_net/rightsizing/rightsize_landing_2026-10-27.html",
+  "url": "https://www.pps.net/about/portland-public-schools-information/rightsize/rightsize",
+  "title": "Rightsize rightsize_landing page snapshot",
+  "fetched": "2026-10-27",
+  "method": "curl from the repository owner's computer",
+  "bytes": 145733,
+  "sha256": "b68a057aa57c098b9c45270bd9472f280439fc7ae42f53fc063d9c1e9404b92f"
+ },
+ {
+  "file": "sources/pps_net/rightsizing/faq_2026-10-27.html",
+  "url": "https://www.pps.net/about/portland-public-schools-information/rightsize/frequently-asked-questions",
+  "title": "Rightsize faq page snapshot",
+  "fetched": "2026-10-27",
+  "method": "curl from the repository owner's computer",
+  "bytes": 125793,
+  "sha256": "51d497a89d33ffa5f3eae947d4a2ac80558c1537d456478dae0b047d6264bffe"
+ },
+ {
+  "file": "sources/pps_net/rightsizing/what_we_heard_2026-10-27.html",
+  "url": "https://www.pps.net/about/portland-public-schools-information/rightsize/what-we-heard",
+  "title": "Rightsize what_we_heard page snapshot",
+  "fetched": "2026-10-27",
+  "method": "curl from the repository owner's computer",
+  "bytes": 79638,
+  "sha256": "71fd5373f1f350a4d641ef029d83340eadb82eac8a14fb5b2575f8ff468365fd"
+ },
+ {
+  "file": "sources/pps_net/rightsizing/rightsize_calendar_164_2026-10-27.ics",
+  "url": "https://www.pps.net/fs/calendar-manager/events.ics?calendar_ids%5B%5D=164",
+  "title": "Rightsizing engagement calendar iCal export (events unchanged from 2026-10-25; timestamps differ)",
+  "fetched": "2026-10-27",
+  "bytes": 17254,
+  "sha256": "ac93b9469266011ea1b86d51ff2fd80bd03ab1d2547ed250c799cbad47915b17"
+ },
+ {
+  "file": "sources/pps_net/rightsizing/engagement/2026-10-13_to_19_engagement_recap_what_we_heard.pdf",
+  "url": "https://drive.google.com/file/d/15saSdSuaG8NtBjwZ2HV2yytVuTTBsDgj/view",
+  "drive_id": "15saSdSuaG8NtBjwZ2HV2yytVuTTBsDgj",
+  "drive_filename": "2026-10-13 What We've Heard Update .pdf",
+  "title": "Rightsizing Engagement Recap: What We Heard, October 13-19, 2026 (Data & Accountability weekly memo)",
+  "found_on": "https://www.pps.net/about/portland-public-schools-information/rightsize/what-we-heard",
+  "fetched": "2026-10-27",
+  "bytes": 477386,
+  "sha256": "f9ab78609c19ef611ba7676bbd028b93c94dddaa4c6b1484410caa6a1add0dba"
+ },
+ {
+  "note": "Also checked 2026-10-27: the scenarios page and the other rightsize pages (calendar, dashboard, feeder patterns, school impact, presentations, SEGC, timeline, videos) are unchanged from the 2026-10-25 snapshots apart from rotating page markup; all 30 Drive PDFs linked from the scenarios page (overview, regional summaries, feeder charts, methodology, KPIs and translations) re-downloaded and byte-identical to the archived copies; bond.pps.net home, BAC, seismic and modernization pages unchanged."
+ }
+]

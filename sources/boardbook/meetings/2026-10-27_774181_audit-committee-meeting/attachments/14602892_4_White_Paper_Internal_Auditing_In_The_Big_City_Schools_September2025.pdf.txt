@@ -1,0 +1,819 @@
+INTERNAL AUDITING
+IN THE GREAT CITY SCHOOLS
+
+
+
+
+                    SEPTEMBER
+
+                   2025
+          CONTENTS
+          1      Introduction                                     10    Fraud
+
+          2      The Internal Audit Function                      11    What Internal Auditors Do Not Do
+
+          3      Internal Audit Reporting Structure               12    Non-Audit Services
+
+          4      Audit Committee Roles,                           13    Follow-up Activities
+                 Responsibilities, and Membership
+                                                                  15    Quality Assurance
+          6      Risk Assessment and Audit Plan
+                                                                  16    Appendices
+          8      Auditing Standards
+
+          10     Data Analytics and Continuous
+                 Monitoring
+
+
+
+
+          About the Council of the Great City Schools
+          The Council of the Great City Schools is the only national organization exclusively representing the needs
+          of urban public schools. Composed of 81 large city school districts, its mission is to promote the cause of
+          urban schools and to advocate for inner-city students through legislation, research, and media relations.
+          The organization also provides a network for school districts sharing common problems to exchange
+          information and collectively address new challenges as they emerge in order to deliver the best possible
+          education for urban youth.
+
+
+                    CHAIR OF THE BOARD                                            IMMEDIATE PAST CHAIR
+                 Sonja Brookins Santelises, CEO                                Marcia Andrews, Board Member
+                  Baltimore City Public Schools                            The School District of Palm Beach County
+
+                          CHAIR-ELECT                                              EXECUTIVE DIRECTOR
+                  Valerie Davis, Board Member                                                Ray Hart
+                  Fresno Unified School District                                Council of the Great City Schools
+
+                   SECRETARY/TREASURER
+                   Jill Baker, Superintendent
+               Long Beach Unified School District
+
+
+
+
+Council of the Great City Schools INTERNAL AUDIT 2025
+INTRODUCTION
+Internal auditing is critical in enhancing an organization's ability to serve the public interest.
+Internal audit adds value by assessing and improving the effectiveness of risk management,
+control, and governance processes.
+
+An internal audit function provides school boards and senior management with an
+independent and objective source of information to help them identify key financial,
+operational, compliance, and technology risks that may hinder the achievement of
+organizational goals and student outcomes.
+
+This white paper is intended to describe leading practices in internal auditing and
+demonstrate the value an internal audit function brings to a school district.
+
+The Council of the Great City Schools and the school internal audit experts who assembled
+this document suggest that strategically deploying internal audit resources helps districts
+effectively address high-risk areas affecting urban school districts. This white paper provides
+important information about the Internal Audit Function, and it describes leading practices
+for school district internal audit functions and the value of each in the following sections:
+
+ • Internal Audit Reporting Structure
+ • Audit Committee Roles, Responsibilities, and Membership
+ • Risk Assessment and Audit Plan
+ • Auditing Standards
+ • Data Analytics and Continuous Monitoring
+ • Fraud
+ • What Internal Auditors Do Not Do
+ • Non-audit Services
+ • Follow-up Activities
+ • Quality Assurance
+
+
+
+The U.S. Government Accountability Office (GAO) and The Institute of Internal Auditors (IIA)
+offer additional resources on internal auditing.
+
+
+
+
+                                                            INTERNAL AUDIT 2025 Council of the Great City Schools | 1
+  THE INTERNAL AUDIT FUNCTION
+  According to The IIA, internal audit is “an independent, objective assurance and advisory service designed to add
+  value and improve an organization’s operations. It helps an organization accomplish its objectives by bringing a
+  systematic, disciplined approach to evaluate and improve the effectiveness of governance, risk management, and
+  control processes.”
+
+  The role and objectives of internal audit functions vary across the nation’s large urban school districts. This variation
+  predominantly occurs because districts have different needs. Some school district internal audit functions primarily
+  focus on traditional accounting and compliance audits. However, a forward-looking internal audit function aligned with
+  updated auditing standards emphasizes adding value and improving operations. While internal audit functions are
+  sometimes confused with external audit functions, the scope of internal auditing is broader. External auditors typically
+  focus on financial statements, whereas internal auditors assess governance structures, risk management procedures,
+  operations, and internal controls. Internal auditors issue recommendations aimed at continuous improvement
+  opportunities, operational effectiveness and efficiency, and improved educational outcomes.
+
+  The focus is on building relationships and working collaboratively with district leadership, departments, and staff to
+  identify opportunities for improvement. Internal auditors may also act as on-staff consultants, advising on a range of
+  issues at management’s request, provided that their independence and objectivity are not compromised. In addition to
+  identifying noncompliance and errors, the internal audit function helps the district navigate challenges, mitigate risks,
+  and optimize its operations to better serve students and the community.
+
+  The IIA Global Internal Audit Standards state that appropriate governance arrangements are essential to make
+  the internal audit function effective. They provide guidance that outlines the requirements for the chief audit
+  executives to work closely with the board to establish the internal audit function, position it independently, and
+  oversee its performance. While the chief audit executive is responsible for these requirements, the board and senior
+  management activities are essential to the internal audit function’s ability to fulfill the purpose of internal auditing.
+  These activities are identified as “essential conditions” and establish a necessary foundation for an effective dialogue
+  between the board, senior management, and the chief audit executive, ultimately enabling an effective internal audit
+  function. The essential conditions for board and senior management support include “ensuring the internal audit
+  function’s unrestricted access to the data, records, information, personnel, and physical properties necessary to fulfill
+  the internal audit mandate.”¹
+
+
+
+  1
+      The Institute of Internal Auditors Global Internal Audit Standards published January 9, 2024.
+
+
+
+2 | Council of the Great City Schools INTERNAL AUDIT 2025
+INTERNAL AUDIT REPORTING STRUCTURE
+The IIA’s International Professional Practices Framework (IPPF) recommends that a Chief Audit Executive (CAE), that
+is, the internal audit function’s executive leader or Director of Internal Audit, report functionally to the organization’s
+board (or through an audit committee) and administratively to the organization’s Chief Executive Officer or other
+appropriate executive.² These reporting lines ensure an auditor’s work is independent, impartial, and objective so
+decision-makers can trust the auditor’s findings and recommendations.
+
+To report functionally to an organization’s board, the CAE should submit the Internal Audit Charter and Annual Risk
+Assessment and Audit Plans to the board or audit committee for approval. The CAE should also communicate all
+results of the internal audit function activity to the board or audit committee. The board or audit committee should
+appoint and/or remove the CAE, and the board should determine the CAE’s salary.
+
+Conversely, administrative reporting entails the relationship within the organization’s management structure that
+facilitates the internal audit department’s day-to-day operations.
+
+Following Generally Accepted Government Auditing Standards (GAGAS), internal auditors who report functionally to
+an entity’s management are considered independent for the purposes of reporting internally if the head of the internal
+audit organization meets the following criteria:³
+
+    • Is accountable to the head or deputy head of the government entity or to those charged with governance who are
+      responsible for overseeing the strategic direction and accountability of the entity;
+    • Reports engagement results both to the head or deputy head of the government entity and to those charged with
+      governance;
+    • Is located organizationally outside the staff or line-management function of the unit under audit (i.e., a manager or
+      employee is not auditing their own team’s work);
+    • Has access to those charged with governance; and
+    • Is sufficiently removed from political pressures to conduct audits and report findings, opinions, and conclusions
+      objectively without fear of political reprisal.
+
+
+
+Leading Practices
+The Council recommends that the Chief Audit Executive and the internal audit function report functionally to the
+school board, ideally through an audit committee. If functional reporting to the school board is not possible, a less
+preferable but acceptable reporting structure entails having the Chief Audit Executive report to the Superintendent
+or Deputy Superintendent, with access to those charged with governance (school board). In either case, the Council
+recommends school districts maintain an independent internal audit function.
+
+Value
+A reporting structure that preserves the internal audit function’s independence adds value to a school district by
+ensuring the auditor’s work is impartial and objective so decision-makers and other key stakeholders can trust internal
+audit findings and recommendations.
+
+
+
+
+2
+     xamples of major urban school districts where the internal auditor reports functionally to the school board include Orange County (Orlando), Columbus, Broward
+    E
+    County, Miami-Dade County, Seattle, and others. (The Council conducted a survey of its members to determine which ones have internal auditors and to whom they
+    reported. See appendix).
+3
+    Government Auditing Standards, 2024 Revision, Section 3.56.
+
+
+
+                                                                                                   INTERNAL AUDIT 2025 Council of the Great City Schools | 3
+  AUDIT COMMITTEE ROLES, RESPONSIBILITIES, AND MEMBERSHIP
+  The primary role of an audit committee is to provide independent review and oversight of the government's financial
+  reporting processes, internal controls, and independent auditors (both internal and external). Audit committees also
+  provide a forum, separate from management, in which auditors and other interested parties can candidly discuss
+  concerns and act as a liaison between the school board and the Chief Audit Executive. Examples of roles and
+  responsibilities of a school district audit committee are included below:
+
+      • Reviewing and approving an Internal Audit Charter;                                      • Reviewing and making recommendations to the
+      • Providing expertise on risks affecting the school                                         school board on matters affecting the adequacy of
+        district and approving an internal audit work plan;                                       internal controls, accounting procedures, technology
+                                                                                                  systems, and financial reporting in accordance with
+      • Ensuring that internal auditors have adequate                                             laws and regulations;
+        resources and unrestricted access to school district
+        personnel, facilities, vendors, data, and documents;                                    • Approving all decisions regarding the appointment or
+                                                                                                  removal of the Chief Audit Executive;
+      • Assisting in preventing management from restricting
+        the scope of internal audits, investigations,4 or risk                                  • Providing input on the Chief Audit Executive’s
+        assessments;                                                                              evaluation;
+
+      • Receiving internal audit reports, investigations, and                                   • Approving the annual salary and compensation
+        other communications deemed necessary by the                                              adjustments of the Chief Audit Executive;
+        Chief Audit Executive;                                                                  • Serving on behalf of the school board to oversee the
+      • Monitoring management’s corrective actions to                                             internal audit function;
+        address reported internal audit findings;                                               • In conjunction with the Chief Audit Executive,
+      • Engaging and overseeing the work of external                                              providing an annual report to the school board;
+        auditors;                                                                               • Performing other oversight responsibilities as
+      • Reviewing audit findings by state, federal, and other                                     assigned by the school board; and
+        external agencies and monitoring the school district’s                                  • Reporting on the audit committee’s activities to the
+        actions to address those findings;                                                        entire school board.
+      • Reviewing the effectiveness of systems for monitoring
+        compliance with laws, board policies, and regulations;
+
+
+  An audit committee can significantly strengthen the independence, integrity, and effectiveness of a school district’s
+  audit activities by providing independent oversight of the internal and external audit work plans and results, assessing
+  audit resources needs, and moderating the auditors’ relationship with the school district. Audit committees also ensure
+  audit results are aired and any recommended improvements or corrective actions are addressed.
+
+  To accommodate the varying needs and circumstances among school districts, membership of the audit committee
+  can be structured in various ways. Examples of audit committee structures include:
+
+      • A committee comprised of individuals who are independent of the school district and possess experience in
+        auditing, finance, information technology, risk management, and governance;
+      • A committee comprised of select school board members;
+      • A committee of the whole school board; and
+      • A combination of board members and community experts.
+
+
+
+
+  4
+      It is critical to distinguish the specialized functions of auditing and investigation. An audit is a collaborative process with district leadership, focused on evaluating
+       systems and processes to ensure compliance with established standards. In contrast, an investigation is an independent, often short-term inquiry into a specific incident
+       to determine facts and assign responsibility. Although internal auditors may initiate investigations in response to fiscal irregularities if appropriately trained and,
+       preferably, certified in investigative practices, tasking an audit team with an investigative mandate is a common organizational misalignment, as the required skill sets
+       and approaches are fundamentally different. For this reason, while the internal audit function is essential for financial oversight, it should not be used, for example, to
+       investigate employee misconduct.
+
+
+
+4 | Council of the Great City Schools INTERNAL AUDIT 2025
+Leading Practices
+To promote the success of an internal audit function,
+the Council recommends that school districts establish
+an audit committee. The committee should ensure that
+individual school board members, the superintendent,
+and other school district staff do not impede, prevent,
+or prohibit internal audit from initiating, carrying out,
+or completing independent and objective audits,
+investigations, and risk assessments. To accomplish
+this, an audit committee should ensure that the internal
+audit function is free of political pressure and other
+impediments to independence.
+
+To effectively oversee the internal audit function, the
+Council recommends that a school district’s audit
+committee be comprised of individuals independent
+of the school district and collectively have auditing,
+finance, information technology, risk management,
+and governance experience. An audit committee of
+experienced professionals with no authority over the
+school district’s operations or decision-making processes
+can shield the internal audit staff from actual or perceived
+pressure that would compromise their objectivity and
+independence. The IIA also supports this structure.
+
+Value
+An audit committee structured with appropriately
+qualified members will help ensure internal auditors can
+conduct their work without fear of retaliation, retribution,
+or political pressure. Thus, the internal audit function will
+be effective, independent, and objective. Consequently,
+audit results will be fair and impartial and can be relied
+upon by the school board, school district management,
+and the public.
+
+
+
+
+                                                                INTERNAL AUDIT 2025 Council of the Great City Schools | 5
+  RISK ASSESSMENT AND AUDIT PLAN
+  The International Professional Practices Framework (IPPF) requires an organization, such as a school district, to “create
+  an internal audit plan that supports the achievement of the organization’s objectives.” It further states that “the chief
+  audit executive must base the internal audit plan on a documented assessment of the organization’s strategies,
+  objectives, and risks.” District internal auditors, following The IIA Standards, must conduct this assessment annually.
+
+  Leading Practices
+  Risk assessments are a collaborative process with district leadership to identify and prioritize potential risks, determine
+  risk-tolerance levels, and align mitigation strategies with strategic goals. Depending on the size and structure of a
+  school district, its internal audit function, and the standards it follows, the Council recommends a comprehensive risk
+  assessment be performed at a minimum of every three years. Regardless of how often an internal audit office conducts
+  it, the risk assessment and audit plan should be modified or updated to reflect new or changing risks affecting the
+  school district.
+
+  The risk assessment process should identify risks that prevent achieving district goals and/or objectives. Once risks are
+  identified, they should be ranked on a low-to-high risk scale. The annual plan should focus the internal audit function’s
+  resources on the highest-risk areas.
+
+  The risk assessment should cover all district departments and processes. This list of auditable items is usually referred
+  to as the audit universe. The audit plan should reference the risk assessment and audit universe and should detail the
+  method by which the planned audit activities were decided upon. Risk ratings are typically based on the likelihood
+  that a risk event will occur and the impact the risk event would have if it did occur. Other factors used to determine an
+  auditable item’s risk level include:
+
+    • Risks to the district’s reputation;
+    • Time since the last audit;
+    • Results of the last audit and whether any findings from that audit are still open;
+    • Results of compliance or monitoring activities performed by other internal departments or external parties;
+    • Perceived qualities of internal controls;
+    • Information system changes;
+    • Process complexity; and
+    • Requests and expectations of the senior management and the governing board.
+
+
+
+6 | Council of the Great City Schools INTERNAL AUDIT 2025
+The audit plan should describe the audit and non-audit            Value
+activities (described below) that will be performed, the
+                                                                  An objective risk assessment by an internal audit
+scope of work, and the resources required to complete
+                                                                  function provides value to the school board and senior
+the job. An audit plan should be flexible enough
+                                                                  management in focusing audit efforts on higher risks
+to accommodate minor mid-plan adjustments. If a
+                                                                  associated with the school district’s various business
+substantial adjustment is needed (e.g., based on a senior
+                                                                  and operational functions. An audit plan based upon
+management request), the school board and/or audit
+                                                                  a comprehensive risk assessment ensures that internal
+committee should approve the changes.
+                                                                  audit resources are strategically allocated to address
+Common and emerging areas for audit and non-audit                 the most significant and likely risks affecting the school
+services that might be included in the plan include:              district. Audit results will provide management with
+                                                                  actionable recommendations to meet its goals and
+• Performance audits (to assess cost-beneficial internal          objectives, and the school board will be provided with
+  controls, efficiency, effectiveness, contract oversight,
+                                                                  valuable information to assist in its governance.
+  and compliance);
+• School internal fund and school-based audits
+  (including, but not limited to, student counts and
+  classifications);
+• Charter school audits and fiscal oversight (the IA
+  function is uniquely qualified to add value in this
+  significant and growing sector);
+• Audits of third-party relationships;
+• Facilities construction and maintenance audits and
+  oversight;
+• Contract audits;
+• Information technology audits, including cybersecurity
+  and emerging technologies;
+• Forensic accounting and investigative audits;
+• Acting as a liaison for external audit entities (if all high-
+  risk areas are covered and sufficient resources are
+  available);
+• Identifying emerging risks (adding value by alerting
+  the school board and management of audit findings
+  and trends occurring at similar entities); and
+• Recurring work such as promoting awareness of fraud
+  policies and internal controls and following up on
+  open findings from previous audits.
+
+
+
+
+                                                                          INTERNAL AUDIT 2025 Council of the Great City Schools | 7
+  AUDITING STANDARDS
+  Auditing standards are guidelines auditors must follow to ensure accuracy, consistency, and reliability. They provide
+  a framework for conducting audits and help ensure they are performed objectively, thoroughly, and in a manner that
+  meets regulatory and professional requirements.
+
+  The U.S. Government Accountability Office (GAO) and The IIA are two reputable organizations recognized for issuing
+  professional auditing standards that provide a framework for conducting audit work with integrity, competence,
+  and consistency.
+
+  Key principles across auditing standards include:
+    • Independence and Objectivity: Auditors must maintain an impartial and unbiased attitude when performing
+      internal audit services and make judgments based on balanced assessments of all relevant circumstances. Auditors
+      must avoid conflicts of interest and must not be unduly influenced by their interests or the interests of others,
+      including senior management and others in positions of authority, or by the political environment or other aspects
+      of their surroundings.
+    • Professional Competence and Due Care: Auditors are expected to have the necessary qualifications and exercise
+      diligence in performing their work. Auditors should also stay updated with changes in auditing standards,
+      regulatory requirements, and industry trends through continuing education and certifications. Specialization and
+      skill enhancement in cybersecurity, data analytics, and forensic accounting are increasingly important in today’s
+      audit environment.
+    • Planning and Supervision: Proper planning and supervision are crucial for effective audits.
+    • Sufficient Evidence: Auditors must gather and document adequate evidence to support their findings and
+      conclusions.
+    • Clear and Accurate Reporting: Findings should be reported clearly, and auditors should communicate whether the
+      information aligns with applicable standards.
+    • Serve Stakeholders and the Public Interest: Public interest is the collective well-being of the community of people
+      and entities the auditors serve. The principle of public interest is fundamental to auditors' responsibilities and
+      critical in governmental environments.
+
+
+
+  Standards generally require that the auditor must:
+
+    • Perform the internal audit services in conformance with the auditing standards;
+    • Maintain independence in both fact and appearance;
+    • Demonstrate integrity in their work and behavior;
+    • Exercise due professional care by assessing the nature, circumstances, and requirements of the services to be
+      provided;
+    • Maintain professional skepticism when planning the audit, performing the audit, and reporting the audit results;
+    • Be aware of their responsibilities for protecting information and demonstrate respect for the confidentiality, privacy,
+      and ownership of information acquired when performing internal audit services; and
+    • Provide adequate quality control.
+
+
+
+
+8 | Council of the Great City Schools INTERNAL AUDIT 2025
+Leading Practices
+The Generally Accepted Government Auditing Standards (GAGAS), issued by the GAO and
+commonly referred to as the “Yellow Book,” articulates requirements for financial audits,
+performance audits, and attestation engagements in government, including school districts,
+which receive federal funds.
+
+The IIA has also issued standards in its International Professional Practices Framework (IPPF),
+commonly referred to as the “Red Book,” which are sometimes implemented along with
+GAGAS's performance audit requirements.
+
+The Council does not promote one set of standards over another, but recommends that each
+school district follow a recognized set of professional auditing standards.
+
+Value
+By following recognized auditing standards, an internal audit function adds value to its district
+by ensuring financial integrity, promoting compliance, increasing accountability, enhancing
+governance, and improving resource management. Senior management and the school board
+will greatly appreciate an internal audit function that follows prescribed auditing standards.
+
+
+
+
+                                                            INTERNAL AUDIT 2025 Council of the Great City Schools | 9
+  DATA ANALYTICS AND CONTINUOUS                                 FRAUD
+  MONITORING                                                    The fundamental nature of fraud comes from the
+  Internal audits can leverage data analytics to mitigate       specific facts of intent, overt acts, materiality, collusion,
+  risks more efficiently and complete tasks more                willful blindness, and pattern of conduct. On the fraud
+  confidently. The Association of Certified Fraud Examiners     spectrum, behavior can range from a suspicious mistake
+  (ACFE), The IIA, and the American Institute of Certified      to criminal conduct. How a suspected fraud is identified,
+  Public Accountants (AICPA) advocate data monitoring           remediated, and presented is of legal concern. There is a
+  and analysis to guide risk assessment. Additionally, data     risk of suspecting fraud without reasonable basis, failing
+  analytics can be employed to complete audit tasks faster      to identify a fraud, and mishandling a suspected fraud.
+  and with greater confidence.
+                                                                The IIA defines internal auditing as an independent,
+  Depending on the maturity of the internal audit function,     objective assurance and consulting activity designed to
+  data analytics can also be used as a risk monitoring tool.    add value and improve an organization’s operations.
+  In this instance, characteristics of high-risk transactions   Its role includes detecting, preventing, and monitoring
+  are built and deployed in the client’s Enterprise Resource    fraud risks and addressing those risks in audits and
+  Plan (ERP). An effective continuous monitoring process        investigations.
+  and a dynamic risk assessment model can position the
+  internal audit function to produce more timely referrals      Leading Practices
+  for suspected fraud, waste, or abuse and more impactful       The Council recommends that fraud risk be considered in
+  audit products addressing contract performance                the organization's risk assessment and individual audits.
+  and controls.                                                 Auditors are advised to consider continuing professional
+                                                                education (CPE) that includes fraud identification and
+  Leading Practices                                             analysis. This will arm the auditor with the tools to identify
+  While the degree to which internal audit utilizes data        fraud risk and address their organization’s effectiveness
+  analytics varies among audit organizations, the Council       in mitigating risk during audit work.
+  recommends that high-performing units consider and
+                                                                While the types and variations of fraud schemes are
+  evaluate this technology frequently.
+                                                                many, school districts may be more susceptible to these
+  Value                                                         techniques that their auditors may wish to pay particular
+                                                                attention to:
+  Performing data analysis is an effective way to help
+  auditors be more proactive in detecting transactions           • Benefits fraud;
+  that may need review and for reducing fraud, waste, and        • Overtime fraud;
+  abuse. Data analytics can also guide a school district’s       • Bid-rigging;
+  risk assessment and audit planning processes to ensure
+                                                                 • Falsified invoices;
+  the internal audit function resources are directed toward
+                                                                 • Kickback schemes;
+  areas with the most significant materiality and risk to the
+  district. With appropriate planning and consultation,          • Business email compromise;
+  school districts can employ technology tools that help         • Sale of surplus or untracked assets; and
+  their audit staff provide more efficient audit coverage.       • Overbilling.
+
+
+                                                                Value
+                                                                Evaluating fraud risks during annual risk assessments
+                                                                and individual audit engagements will provide greater
+                                                                assurance to school districts that the risk of fraudulent
+                                                                activity is effectively mitigated.
+
+
+
+
+10 | Council of the Great City Schools INTERNAL AUDIT 2025
+WHAT INTERNAL AUDITORS DO NOT DO
+A common theme throughout this white paper is that maintaining independence is imperative for an effective and
+credible internal audit function. Internal audit functions must avoid even the appearance of a lack of independence
+by refraining from performing certain functions. Internal Auditors cannot be a part of the management of any function
+they audit, which means they should not:
+
+ • Set policy and strategic direction for the school             • Supervise employees other than their own in the
+   district;                                                       performance of normal recurring activities;
+ • Direct or accept responsibility for the actions of school     • Report to the school board on behalf of management;
+   district employees;                                           • Serve as a general counsel;
+ • Accept responsibility for designing, implementing,            • Sign payroll tax returns on behalf of their district;
+   or maintaining internal controls, including the
+   performance of ongoing monitoring activities as part          • Approve vendor invoices for payment other than
+   of the control process;                                         those for their department;
+ • Take responsibility for the district’s financial              • Design a district’s financial management system or
+   statements;                                                     make modifications to the source code underlying
+                                                                   that system; and
+ • Authorize or execute transactions on behalf of any
+   department other than their own;                              • Hire or terminate employees other than for their
+                                                                   department.
+ • Approve district budgets;
+ • Prepare or make changes to source documents;
+ • Assume custody of district assets, including
+   maintenance of bank accounts;
+
+This list is not all-inclusive. In short, internal auditors may not assume the role and duties of management or implement
+anything they will ultimately audit.
+
+In addition, the school district should not expect the internal audit function to:
+
+ • Analyze or reconcile accounts;                                • Establish the value of assets and liabilities;
+ • “Close the books”;                                            • Maintain permanent records, such as loan documents,
+ • Locate invoices, etc., for testing;                             leases, contracts, and other legal documents;
+
+ • Prepare confirmations for mailing;                            • Prepare or maintain minutes of school board
+                                                                   meetings;
+ • Select accounting policies or procedures;
+                                                                 • Establish account coding or classifications;
+ • Prepare financial statements or footnote disclosures;
+                                                                 • Determine retirement plan contributions; and
+ • Determine estimates included in financial statements;
+                                                                 • Implement corrective action plans.
+ • Determine restrictions on assets;
+
+
+Leading Practices
+To ensure internal audit functions avoid even the appearance of a lack of independence, the Council recommends
+that they not engage in activities that are considered management roles and responsibilities or activities they may
+ultimately audit.
+
+Value
+By ensuring that the internal audit function is independent of school district operations, the school board, school
+district management, and the public can ensure that internal audit results can be relied upon as fair and objective.
+
+
+
+
+                                                                        INTERNAL AUDIT 2025 Council of the Great City Schools | 11
+  NON-AUDIT SERVICES
+  Non-audit services are advisory and generally performed at the client's request, which could include the school
+  board, the audit committee, senior management, or the management of a particular unit or function within the district.
+  The Chief Audit Executive should consider accepting non-audit service requests based on the activity’s potential to
+  improve the management of risks, add value, or improve the district’s operations. The IIA International Professional
+  Practices Framework (Red Book) and the Government Accountability Office’s Government Auditing Standards
+  (Yellow Book) recommend that an internal audit function maintain its independence and objectivity and not assume
+  management responsibilities when it provides non-audit advisory services. Both groups also recommend that advisory
+  services be performed free of political pressure or perceived conflicts of interest.
+
+  Leading Practices
+  The Council recommends that the Internal Audit Charter include the nature and extent of non-audit services to be
+  performed by the internal audit function. Accepted non-audit engagements should be included in the annual audit
+  plan. The school board safeguards and protects the objectivity and independence of the internal audit function, in
+  conjunction with the Chief Audit Executive, to ensure requests are suited to and appropriate for the internal audit
+  function. Examples of advisory services that the internal audit function can provide include counsel, advice, facilitation,
+  and training.
+
+  For instance, internal auditors can lend their expertise in analyzing risks and internal controls to advise management on
+  better-informed decision-making. Facilitating benchmarking and identifying leading practices as a non-audit service
+  could enhance operational performance. Internal auditors can also support the school district in promoting ethical
+  behavior and employee awareness of and commitment to internal controls.
+
+  Value
+  Performing non-audit services allows an internal audit function to provide just-in-time advice to school district
+  management in cost-effective ways and improve the district’s governance, risk management, and control processes.
+  Non-audit services can also improve relations with other district departments and provide internal auditors with greater
+  exposure and enriched career opportunities.
+
+
+
+12 | Council of the Great City Schools INTERNAL AUDIT 2025
+FOLLOW-UP ACTIVITIES
+Government Auditing Standards (Yellow Book) and The IIA International Professional Practices Framework (Red Book)
+set standards for monitoring and determining whether management takes corrective action to address audit issues
+and findings or accepts the risk of not acting. The standards also set requirements for reporting the results of follow-up
+activities. Specifically, auditors should:
+
+ • Establish a follow-up process to monitor and ensure management actions have been effectively implemented, or
+   senior management has accepted the risk of not acting; and
+ • Communicate the status of corrective actions taken in response to prior findings. This includes reporting whether
+   the audited entity has taken appropriate steps to address the findings and recommendations or whether
+   management has accepted the risk of not taking corrective action.
+
+
+
+Leading Practices
+The Council recommends that the Chief Audit Executive collaborate with senior management to determine the timing
+and nature of corrective actions to address issues and items identified in the audit findings. Regardless of the methods
+used to monitor and assess the status of these corrective actions, leading internal audit practices use dashboards to
+indicate the nature of audit findings and/or prepare reports highlighting management’s progress toward resolving past
+audit findings and recommendations. Additional leading practices include the following:
+
+ • Develop a Formal Follow-Up Policy: Establish a               • Regularly Communicate Progress: Schedule regular
+   clear policy that defines responsibilities, timelines,         updates to senior management and the school board
+   and procedures for follow-up activities to ensure              on the status of corrective actions. This ensures
+   consistent and effective monitoring of corrective              stakeholders are informed of delays, challenges, or
+   actions.                                                       risk acceptance decisions.
+ • Create a Tracking System: Implement a centralized            • Integrate Follow-Up with Risk Management: Align
+   tracking system to document audit findings,                    follow-up activities with the district’s overall risk
+   management responses, corrective actions, deadlines,           management framework to prioritize and address
+   and status updates. This system should be accessible           high-risk areas identified in audits.
+   to relevant stakeholders to enhance transparency.            • Conduct Periodic Reviews: Periodically review and
+ • Engage Stakeholders: Involve key stakeholders,                 evaluate the follow-up process's effectiveness to
+   such as school administrators, finance officers, and           identify improvement areas and ensure that the
+   board members, in the follow-up process to ensure              process remains aligned with best practices and
+   a comprehensive approach to addressing audit                   changing organizational needs.
+   findings.
+ • Assign Accountability: Designate specific individuals
+   or departments responsible for implementing
+   corrective actions and reporting progress. This
+   accountability helps ensure timely and effective
+   resolution of audit findings.
+
+
+
+
+                                                                      INTERNAL AUDIT 2025 Council of the Great City Schools | 13
+                                                             Value
+                                                             Follow-up activities assure senior management, the
+                                                             school board, and other stakeholders that audit
+                                                             findings are taken seriously, and corrective actions
+                                                             are implemented. Follow-up activities also provide a
+                                                             measure of accountability to the community, ensuring
+                                                             any noted weaknesses are addressed and the district is
+                                                             committed to operating and using public funds efficiently
+                                                             and effectively. The audit follow-up process adds value
+                                                             to a school district in several ways, listed below:
+
+                                                             • Improved Accountability: Ensures management is
+                                                               held accountable for implementing corrective actions,
+                                                               which can help address issues such as financial
+                                                               mismanagement, operational inefficiencies, or non-
+                                                               compliance with policies and regulations.
+                                                             • Enhanced Governance: Provides school boards and
+                                                               senior leadership with timely and accurate information
+                                                               on the status of corrective actions, enabling informed
+                                                               decision-making and better governance oversight.
+                                                             • Risk Mitigation: Helps the district manage risks
+                                                               effectively by ensuring significant risks identified in
+                                                               audits are either mitigated through corrective actions
+                                                               or consciously accepted by senior management.
+                                                             • Continuous Improvement: Fosters a culture of
+                                                               continuous improvement by ensuring lessons learned
+                                                               from past audits are applied to enhance processes,
+                                                               controls, and overall performance.
+                                                             • Resource Optimization: Helps ensure district
+                                                               resources are used efficiently and effectively by
+                                                               addressing any identified weaknesses in internal
+                                                               controls or operational processes, thereby supporting
+                                                               the district’s mission to provide quality education.
+
+
+
+
+14 | Council of the Great City Schools INTERNAL AUDIT 2025
+QUALITY ASSURANCE
+Internal auditing is a value-added proposition providing high-quality deliverables to its stakeholders through
+assurances, advisory services, and analyses. With so many parties invested in the outcome of this important work, it
+must be performed with the utmost quality. Accordingly, successful internal audit departments establish strategies
+and maintain quality assurance and improvement processes. The most effective quality assurance and improvement
+practices include well-understood procedures for performing and supervising internal audit work with fidelity, periodic
+self-assessments, and periodic external peer reviews. A key feature of department procedures involves developing
+performance indicators to measure and monitor performance against department objectives. The value-added
+proposition can be calculated from a quantitative and qualitative perspective.
+
+Leading Practices
+The Council recommends that internal audit departments use balanced scorecards to track key performance indicators
+(KPIs), measure performance, and provide information to stakeholders. Examples of KPIs may include:
+
+ • School district dollars saved or recouped as a result of     • Budgeted hours vs. actual hours;
+   internal audits;                                             • Cycle time from fieldwork to report;
+ • Customer (Board, Management, Auditees) satisfaction          • Completion of mandated coverage;
+   survey results;
+                                                                • Timely disclosure of audit issues;
+ • Adherence to auditing standards;
+                                                                • Percentage of the audit plan completed;
+ • Peer review results;
+                                                                • Risk coverage;
+ • Number and quality of reports over time;
+                                                                • Percentage of staff with professional certifications; and
+ • Percentage of recommendations accepted by
+   management;                                                  • Training hours.
+ • Percentage of recommendations implemented by
+   management;
+
+
+Value
+KPIs for an internal audit function can provide the school board, senior management, and the public with information
+to evaluate whether the internal audit function is meeting its objectives and helping the school district accomplish its
+mission.
+
+
+
+
+                                                                      INTERNAL AUDIT 2025 Council of the Great City Schools | 15
+  APPENDIX                                                      Benchmarking Data
+  Task Force Members                                            The following charts illustrate support for the
+                                                                leading practices identified in this white paper.
+  The Council of the Great City Schools greatly                 The information is based on self-reported data
+  appreciates the work of the Task Force which                  from 31 school districts as of January 2025 and
+  produced this report. Contributing members                    has not been audited.
+  included:
+
+
+
+  Chair                                                                      Percentage of Internal Audit
+                                                                            Departments that Report to the
+  Andrew Medina, CPA, CFE, LPEC, Director of Internal
+                                                                                    School Board
+  Audit & Ethics Officer
+  Seattle Public Schools
+
+                                                                                      No
+  Members
+                                                                                   19%
+    • Linda J. Lindsey, CPA, CGAP, School Board Chief
+      Internal Auditor
+      Orange County Public Schools (Florida)
+    • Connie Brown, CPA, CIA, CRMA, Executive
+      Director, Office of Internal Compliance
+      Atlanta Public Schools (Georgia)
+    • Jon Goodman, CPA, CFE, Chief Auditor
+      Miami-Dade County Public Schools (Florida)
+                                                                                                   Yes
+    • Mayria Porter CFE, CIA, Internal Audit Director                                            81%
+      Jefferson County Public Schools (Kentucky)
+    • MaSheila Rosell-Kirchner, MBA, Internal Audit
+      Manager
+      Cleveland Metropolitan School District (Ohio)
+    • Janise Hansen, CIA
+      Portland Public Schools (Oregon)
+                                                                             Percentage of Districts with an
+    • Amanda O’Hara, Senior Internal Auditor
+      Seattle Public Schools (Washington)
+                                                                                   Audit Committee
+
+
+
+  Staff Lead                                                                        No
+                                                                                 19%
+  Willie Burroughs, Director of Management Services
+  Council of the Great City Schools
+
+
+
+
+                                                                                                 Yes
+                                                                                               81%
+                                                             Data has been reported by individual school districts and has not been audited.
+
+16 | Council of the Great City Schools INTERNAL AUDIT 2025
+              Audit Committee Composition                                             Professional Auditing Standards Followed
+
+
+
+                                                                                               n Red Book
+                     19%                                                                       n Yellow Book
+                                                                                               n Other
+                                                                                               n Both
+                                                                                                                                    3%
+          10%                                                                                                                         3%
+                                                          48%
+
+
+                     23%                                                                     62%                   32%
+
+
+         n Board Member Only
+                                                                                  0       20       40        60       80      100
+         n Mix of Board Members and Community
+            Advisors/Volunteers
+         n Community Advisors Only
+         n No Audit Committee
+
+
+
+
+          Percentage of Districts Completing                                              Percentage of Districts Monitoring
+                  a Risk Assessment                                                        and Validating Recommendation
+                                                                                                   Implementation
+                                No
+                               6%                                                                       No
+                                                                                                     10%
+
+
+
+
+                                    Yes
+                                                                                                             Yes
+                                  94%
+                                                                                                          90%
+
+
+Data has been reported by individual school districts and has not been audited.
+
+                                                                                      INTERNAL AUDIT 2025 Council of the Great City Schools | 17
+1331 Pennsylvania Avenue, NW, Suite 1100N
+          Washington, DC 20004
+        (202) 393-2427 | cgcs.org
+

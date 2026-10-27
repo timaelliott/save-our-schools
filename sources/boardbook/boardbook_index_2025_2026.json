@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T22:03:58Z",
+ "generated": "2026-10-27T17:02:12Z",
  "source": "https://meetings.boardbook.org/public/Organization/915",
  "meetings": [
   {
@@ -28,6 +28,41 @@
      "file": "14594897",
      "name": "Audit Committee Liaison Annual Support Plan",
      "item": "4. Audit Committee Roles and Responsibilities"
+    },
+    {
+     "file": "14602889",
+     "name": "1 Article_Why Professional Skepticism Is Too Important To Leave To Internal Audit Alone",
+     "item": "5. Office of Internal Performance Audit (OIPA) Updates"
+    },
+    {
+     "file": "14602890",
+     "name": "2 Board Policy 1.60.040-P_ District Performance Auditing",
+     "item": "5. Office of Internal Performance Audit (OIPA) Updates"
+    },
+    {
+     "file": "14602891",
+     "name": "3 PPS Audit Committe and Internal Performance Audit Charter and Process",
+     "item": "5. Office of Internal Performance Audit (OIPA) Updates"
+    },
+    {
+     "file": "14602892",
+     "name": "4 White Paper_Internal Auditing In The Big City Schools_September2025",
+     "item": "5. Office of Internal Performance Audit (OIPA) Updates"
+    },
+    {
+     "file": "14602893",
+     "name": "5 Essential Conditions",
+     "item": "5. Office of Internal Performance Audit (OIPA) Updates"
+    },
+    {
+     "file": "14602894",
+     "name": "Communications Protocol",
+     "item": "5. Office of Internal Performance Audit (OIPA) Updates"
+    },
+    {
+     "file": "14602895",
+     "name": "OIPA Overview_10_27_26",
+     "item": "5. Office of Internal Performance Audit (OIPA) Updates"
     },
     {
      "file": "14594907",
@@ -294,6 +329,10 @@
     {
      "t": "Agenda",
      "h": "/Public/Agenda/915?meeting=771676"
+    },
+    {
+     "t": "Minutes",
+     "h": "/Public/Minutes/915?meeting=771676"
     }
    ],
    "items": []
@@ -492,6 +531,10 @@
     {
      "t": "Agenda",
      "h": "/Public/Agenda/915?meeting=770670"
+    },
+    {
+     "t": "Minutes",
+     "h": "/Public/Minutes/915?meeting=770670"
     }
    ],
    "items": [

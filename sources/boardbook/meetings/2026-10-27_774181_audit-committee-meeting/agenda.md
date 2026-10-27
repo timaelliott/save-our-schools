@@ -24,6 +24,17 @@ Attachments:
 10272026 Audit Committee Meeting
 Audit Committee Liaison Annual Support Plan
 5. Office of Internal Performance Audit (OIPA) Updates
+Attachments:
+(
+7
+)
+1 Article_Why Professional Skepticism Is Too Important To Leave To Internal Audit Alone
+2 Board Policy 1.60.040-P_ District Performance Auditing
+3 PPS Audit Committe and Internal Performance Audit Charter and Process
+4 White Paper_Internal Auditing In The Big City Schools_September2025
+5 Essential Conditions
+Communications Protocol
+OIPA Overview_10_27_26
 6. Monthly and Quarterly Financial Statement Review
 7. Status Update on the Annual Comprehensive Financial Report (ACFR) and Single Audit
 8. Other Audit Updates

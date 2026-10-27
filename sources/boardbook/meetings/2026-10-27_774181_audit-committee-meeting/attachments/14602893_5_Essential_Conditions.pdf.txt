@@ -1,0 +1,523 @@
+ Essential Conditions listed were pulled from The Institute of Internal Auditors, Global Internal
+   Audit Standards, Domain III: Governing the Internal Audit Function, pages 39-59.
+
+
+Standard 6.1 Internal Audit Mandate
+ Requirements
+  The chief audit executive must provide the board and senior management
+ with the information necessary to establish the internal audit mandate. In
+ those jurisdictions and industries where the internal audit function’s
+ mandate is prescribed wholly or par ally in laws or regulations, the internal
+ audit charter must include the legal requirements of the mandate. (See also
+  Standard 6.2 Internal Audit Charter and “Applying the Global Internal Audit
+ Standards in the Public Sector.”)
+
+
+ To help the board and senior management determine the scope and types of
+ internal audit services, the chief audit executive must coordinate with other
+ internal and external assurance providers to gain an understanding of each
+ other’s roles and responsibilities. (See also Standard 9.5 Coordination and
+ Reliance.)
+
+
+  The chief audit executive must document or reference the mandate in the
+ internal audit charter, which is approved by the board. (See also Standard 6.2
+ Internal Audit Charter.)
+
+  Periodically, the chief audit executive must assess whether changes in
+ circumstances justify a discussion with the board and senior management
+ about the internal audit mandate. If so, the chief audit executive must
+ discuss the internal audit mandate with the board and senior management
+ to assess whether the authority, role, and responsibilities continue to enable
+ the internal audit function to achieve its strategy and accomplish its
+ objectives.
+
+ Essential Conditions
+ Board
+    •      Discuss with the chief audit executive and senior management the
+           appropriate authority, role, and responsibilities of the internal audit
+           function.
+
+
+                                                                                                1
+ Essential Conditions listed were pulled from The Institute of Internal Auditors, Global Internal
+   Audit Standards, Domain III: Governing the Internal Audit Function, pages 39-59.
+
+
+    •      Approve the internal audit charter, which includes the internal audit
+           mandate and the scope and types of internal audit services.
+ Senior Management
+    •      Participate in discussions with the board and chief audit executive
+           and provide input on expectations for the internal audit function
+           that the board should consider when establishing the internal audit
+           mandate.
+    •      Support the internal audit mandate throughout the organization and
+           promote the authority granted to the internal audit function.
+
+
+
+
+Standard 6.2 Internal Audit Charter
+  Requirements
+   The chief audit executive must develop and maintain an internal audit
+  charter that specifies, at a minimum, the internal audit function’s:
+        • Purpose of Internal Audi ng.
+        • Commitment to adhering to the Global Internal Audit Standards.
+        • Mandate, including scope and types of services to be provided, and the
+          board’s responsibilities and expectations regarding management’s
+          support of the internal audit function. (See also Standard 6.1 Internal
+          Audit Mandate.)
+        • Organizational position and reporting relationships. (See also Standard
+          7.1 Organizational Independence.)
+  The chief audit executive must discuss the proposed charter with the
+  board and senior management to confirm that it accurately reflects their
+  understanding and expectations of the internal audit function.
+
+
+
+
+                                                                                                2
+ Essential Conditions listed were pulled from The Institute of Internal Auditors, Global Internal
+   Audit Standards, Domain III: Governing the Internal Audit Function, pages 39-59.
+
+
+  Essential Conditions
+  Board
+      • Discuss with the chief audit executive and senior management other
+        topics that should be included in the internal audit charter to enable
+        an effective internal audit function.
+      • Approve the internal audit charter.
+      • Review the internal audit charter with the chief audit executive to
+        consider changes affecting the organization, such as the employment
+        of a new chief audit executive or changes in the type, severity, and
+        interdependencies of risks to the organization.
+
+  Senior Management
+       • Communicate with the board and chief audit executive about
+        management’s expectations that should be considered for inclusion
+        in the internal audit charter.
+
+
+
+
+Standard 6.3 Board and Senior Management
+  Support
+  Requirements
+  The chief audit executive must provide the board and senior
+ management with the information needed to support and promote
+ recognition of the internal audit function throughout the organization.
+
+ The chief audit executive must coordinate the internal audit function’s
+ board communications with senior management to support the board’s
+ ability to fulfill its requirements.
+
+  Essential Conditions
+  Board
+      • Champion the internal audit function to enable it to fulfill the Purpose
+        of Internal Audi ng and pursue its strategy and objectives.
+
+
+                                                                                                3
+ Essential Conditions listed were pulled from The Institute of Internal Auditors, Global Internal
+   Audit Standards, Domain III: Governing the Internal Audit Function, pages 39-59.
+
+
+      • Work with senior management to enable the internal audit function’s
+        unrestricted access to the data, records, information, personnel, and
+        physical proper es necessary to fulfill the internal audit mandate.
+      • Support the chief audit executive through regular, direct
+        communications.
+      • Demonstrate support by:
+        – Specifying that the chief audit executive reports to a level within the
+          organization that allows the internal audit function to fulfill the
+          internal audit mandate.
+        – Approving the internal audit charter, internal audit plan, budget, and
+          resource plan.
+        – Making appropriate inquiries of senior management and the chief
+          audit executive to determine whether any restrictions on the internal
+          audit function’s scope, access, authority, or resources limit the
+          function’s ability to carry out its responsibilities effectively.
+        – Meeting periodically with the chief audit executive in sessions
+          without senior management present.
+ Senior Management
+      • Support recognition of the internal audit function throughout the
+        organization.
+      • Work with the board and management throughout the organization to
+        enable the internal audit function’s unrestricted access to the data,
+        records, information, personnel, and physical properties necessary to
+        fulfill the internal audit mandate.
+
+
+
+Standard 7.1 Organizational Independence
+  Requirements
+  The chief audit executive must confirm to the board the organizational
+ independence of the internal audit function at least annually. This includes
+ communicating incidents where independence may have been impaired and
+ the actions or safeguards employed to address the impairment.
+
+                                                                                                4
+Essential Conditions listed were pulled from The Institute of Internal Auditors, Global Internal
+  Audit Standards, Domain III: Governing the Internal Audit Function, pages 39-59.
+
+
+ The chief audit executive must document in the internal audit charter the
+reporting relationships and organizational positioning of the internal audit
+function, as determined by the board. (See also Standard 6.2 Internal
+Audit Charter.)
+
+  The chief audit executive must discuss with the board and senior
+ management any current or proposed roles and responsibilities that have
+ the potential to impair the internal audit function’s independence, either
+ in fact or appearance. The chief audit executive must advise the board and
+ senior management of the types of safeguards to manage actual,
+ potential, or perceived impairments.
+
+  When the chief audit executive has one or more ongoing roles beyond
+ internal auditing, the responsibilities, nature of work, and established
+ safeguards must be documented in the internal audit charter. If those
+ areas of responsibility are subject to internal auditing, alternative
+ processes to obtain assurance must be established, such as contracting
+ with an objective, competent external assurance provider that reports
+ independently to the board.
+
+ When the chief audit executive’s nonaudit responsibilities are
+temporary, assurance for those areas must be provided by an
+independent third party during the temporary assignment and for the
+subsequent 12 months. Also, the chief audit executive must establish a
+plan to transition those responsibilities to management.
+
+ If the governing structure does not support organizational independence,
+the chief audit executive must document the characteristics of the
+governing structure limiting independence and any safeguards that may be
+employed to achieve this principle.
+
+ Essential Conditions
+ Board
+     • Establish a direct reporting relationship with the chief audit executive
+       and the internal audit function to enable the internal audit function to
+       fulfill its mandate.
+
+                                                                                               5
+Essential Conditions listed were pulled from The Institute of Internal Auditors, Global Internal
+  Audit Standards, Domain III: Governing the Internal Audit Function, pages 39-59.
+
+
+     • Authorize the appointment and removal of the chief audit executive.
+     • Provide input to senior management to support the performance
+       evaluation and remuneration of the chief audit executive.
+     • Provide the chief audit executive with opportunities to discuss
+       significant and sensitive matters with the board, including meetings
+       without senior management present.
+     • Require that the chief audit executive be positioned at a level in the
+       organization that enables internal audit services and responsibilities to
+       be performed without interference from management. This
+       positioning provides the organizational authority and status to bring
+       matters directly to senior management and escalate matters to the
+       board when necessary.
+     • Acknowledge the actual or potential impairments to the internal audit
+       function’s independence when approving roles or responsibilities for
+       the chief audit executive that are beyond the scope of internal
+       auditing.
+     • Engage with senior management and the chief audit executive to
+       establish appropriate safeguards if chief audit executive roles and
+       responsibilities impair or appear to impair the internal audit function’s
+       independence.
+     • Engage with senior management to ensure that the internal audit
+       function is free from interference when determining its scope,
+       performing internal audit engagements, and communicating results.
+
+
+ Senior Management
+     • Posi on the internal audit function at a level within the organization
+       that enables it to perform its services and responsibilities without
+       interference, as directed by the board.
+     • Recognize the chief audit executive’s direct reporting relationship with
+       the board.
+     • Engage with the board and the chief audit executive to understand any
+       potential impairments to the internal audit function’s independence
+       caused by nonaudit roles or other circumstances and support the
+
+                                                                                               6
+ Essential Conditions listed were pulled from The Institute of Internal Auditors, Global Internal
+   Audit Standards, Domain III: Governing the Internal Audit Function, pages 39-59.
+
+
+        implementation of appropriate safeguards to manage such
+        impairments.
+      • Provide input to the board on the appointment and removal of the
+        chief audit executive.
+      • Solicit input from the board on the performance evaluation and
+        remuneration of the chief audit executive.
+
+
+Standard 7.2 Chief Audit Executive
+  Qualifications
+  Requirements
+  The chief audit executive must help the board understand the
+  qualifications and competencies of a chief audit executive that are
+  necessary to manage the internal audit function. The chief audit
+  executive facilitates this understanding by providing information and
+  examples of common and leading qualifications and competencies.
+
+   The chief audit executive must maintain and enhance the qualifications and
+  competencies necessary to fulfill the roles and responsibilities expected by
+  the board. (See also Principle 3 Demonstrate Competency and its
+  standards.)
+
+  Essential Conditions
+  Board
+      • Review the requirements necessary for the chief audit executive to
+        manage the internal audit function, as described in Domain IV:
+        Managing the Internal Audit Function.
+      • Approve the chief audit executive’s roles and responsibilities and
+        identify the necessary qualifications, experience, and competencies to
+        carry out these roles and responsibilities.
+      • Engage with senior management to appoint a chief audit executive
+        with the qualifications and competencies necessary to manage the
+        internal audit function effectively and ensure the quality performance
+        of internal audit services.
+
+                                                                                                7
+  Essential Conditions listed were pulled from The Institute of Internal Auditors, Global Internal
+    Audit Standards, Domain III: Governing the Internal Audit Function, pages 39-59.
+
+
+   Senior Management
+       • Engage with the board to determine the chief audit executive’s
+         qualifications, experience, and competencies.
+       • Enable the appointment, development, and remuneration of the chief
+         audit executive through the organization’s human resources processes.
+
+
+
+Standard 8.1 Board Interaction
+   Requirements
+    The chief audit executive must provide the board with the information
+   needed to conduct its oversight responsibilities. This information may
+   be specifically requested by the board or may be, in the judgment of
+   the chief audit executive, valuable for the board to exercise its
+   oversight responsibilities.
+
+   The chief audit executive must report to the board and senior management:
+       • The internal audit plan and budget and subsequent significant revisions
+         to them. (See also Standards 6.3 Board and Senior Management
+         Support and 9.4 Internal Audit Plan.)
+       • Changes potentially affecting the mandate or charter. (See also
+         Standards 6.1 Internal Audit Mandate and 6.2 Internal Audit Charter.)
+       • Potential impairments to independence. (See also Standard 7.1
+         Organizational Independence.)
+       • Results of internal audit services, including conclusions, themes,
+         assurance, advice, insights, and monitoring results. (See also Standards
+         11.3 Communicating Results, 14.5 Engagement Conclusions, and 15.2
+        Confirming the Implementation of Recommendations or Action Plans.)
+         • Results from the quality assurance and improvement program. (See
+              also Standards 8.3 Quality, 8.4 External Quality Assessment, 12.1
+           Internal Quality Assessment, and 12.2 Performance Measurement.)
+   There may be instances when the chief audit executive disagrees with
+  senior management or other stakeholders on the scope, findings, or
+  other aspects of an engagement that may affect the ability of the
+
+                                                                                                 8
+ Essential Conditions listed were pulled from The Institute of Internal Auditors, Global Internal
+   Audit Standards, Domain III: Governing the Internal Audit Function, pages 39-59.
+
+
+  internal audit function to execute its responsibilities. In such cases, the
+  chief audit executive must provide the board with the facts and
+  circumstances to allow the board to consider whether, in its oversight
+  role, it should intervene with senior management or other
+  stakeholders.
+
+
+  Essential Conditions
+   Board
+      • Communicate with the chief audit executive to understand how the
+        internal audit function is fulfilling its mandate.
+      • Communicate the board’s perspective on the organization’s strategies,
+        objectives, and risks to assist the chief audit executive with
+        determining internal audit priori es.
+      • Set expectations with the chief audit executive for:
+        – The frequency with which the board wants to receive
+          communications from the chief audit executive.
+        – The criteria for determining which issues should be escalated to the
+          board, such as significant risks that exceed the board’s risk tolerance.
+        – The process for escalating matters of importance to the board.
+      • Gain an understanding of the effectiveness of the organization’s
+        governance, risk management, and control processes based on the
+        results of internal audit engagements and discussions with senior
+        management.
+      • Discuss with the chief audit executive disagreements with senior
+        management or other stakeholders and provide support as necessary
+        to enable the chief audit executive to perform the responsibilities
+        outlined in the internal audit mandate.
+
+Senior Management
+   • Communicate senior management’s perspective on the organization’s
+     strategies, objectives, and risks to assist the chief audit executive with
+     determining internal audit priori es.
+
+
+
+                                                                                                9
+ Essential Conditions listed were pulled from The Institute of Internal Auditors, Global Internal
+   Audit Standards, Domain III: Governing the Internal Audit Function, pages 39-59.
+
+
+   • Assist the board in understanding the effectiveness of the organization’s
+     governance, risk management, and control processes.
+   • Work with the board and the chief audit executive on the process for
+     escalating matters of importance to the board.
+
+
+Standard 8.2 Resources
+  Requirements
+  The chief audit executive must evaluate whether internal audit resources
+ are sufficient to fulfill the internal audit mandate and achieve the internal
+ audit plan. If not, the chief audit executive must develop a strategy to obtain
+ sufficient resources and inform the board about the impact of insufficient
+ resources and how any resource shortfalls will be addressed.
+
+  Essential Conditions
+  Board
+      • Collaborate with senior management to provide the internal audit
+        function with sufficient resources to fulfill the internal audit mandate
+        and achieve the internal audit plan.
+      • Discuss with the chief audit executive, at least annually, the sufficiency,
+        both in numbers and capabilities, of internal audit resources to fulfill
+        the internal audit mandate and achieve the internal audit plan.
+      • Consider the impact of insufficient resources on the internal audit
+        mandate and plan.
+      • Engage with senior management and the chief audit executive on
+        remedying the situation if the resources are determined to be
+        insufficient.
+
+  Senior Management
+      • Engage with the board to provide the internal audit function with
+        sufficient resources to fulfill the internal audit mandate and achieve
+        the internal audit plan.
+      • Engage with the board and the chief audit executive on any issues of
+        insufficient resources and how to remedy the situation.
+
+                                                                                               10
+ Essential Conditions listed were pulled from The Institute of Internal Auditors, Global Internal
+   Audit Standards, Domain III: Governing the Internal Audit Function, pages 39-59.
+
+
+Standard 8.3 Quality
+  Requirements
+  The chief audit executive must develop, implement, and maintain a
+  quality assurance and improvement program that covers all aspects
+  of the internal audit function. The program includes two types of
+  assessments:
+      • External assessments. (See also Standard 8.4 External Quality
+        Assessment.)
+      • Internal assessments. (See also Standard 12.1 Internal Quality
+        Assessment.)
+   At least annually, the chief audit executive must communicate the results of
+  the internal quality assessment to the board and senior management. The
+  results of the external quality assessments must be reported when
+  completed. In both cases, such communications include:
+      • The internal audit function’s conformance with the Standards and
+        achievement of performance objectives.
+      • If applicable, compliance with laws and/or regulations relevant to
+        internal auditing.
+      • If applicable, plans to address the internal audit function’s deficiencies
+        and opportunities for improvement.
+
+  Essential Conditions
+  Board
+      • Discuss with the chief audit executive the quality assurance and
+        improvement program, as outlined in Domain IV: Managing the
+        Internal Audit Function.
+      • Approve the internal audit function’s performance objectives at least
+        annually. (See also Standard 12.2 Performance Management.)
+      • Assess the effectiveness and efficiency of the internal audit function.
+        Such an assessment includes:
+
+
+
+
+                                                                                               11
+ Essential Conditions listed were pulled from The Institute of Internal Auditors, Global Internal
+   Audit Standards, Domain III: Governing the Internal Audit Function, pages 39-59.
+
+
+              o Reviewing the internal audit function’s performance objectives,
+                including its conformance with the Standards, laws and
+                regulations; ability to meet the internal
+              o audit mandate; and progress towards completion of the
+                internal audit plan.
+              o Considering the results of the internal audit function’s quality
+                assurance and improvement program.
+              o Determining the extent to which the internal audit function’s
+                performance objectives are being met.
+  Senior Management
+ • Provide input on the internal audit function’s performance objectives.
+ • Participate with the board in an annual assessment of the chief audit
+   executive and internal audit function.
+
+
+
+Standard 8.4 External Quality Assessment
+  Requirements
+   The chief audit executive must develop a plan for an external quality
+  assessment and discuss the plan with the board. The external assessment
+  must be performed at least once every five years by a qualified,
+  independent assessor or assessment team. The requirement for an
+  external quality assessment may also be met through a self-assessment
+  with independent validation.
+
+   When selecting the independent assessor or assessment team, the chief
+  audit executive must ensure at least one person holds an active Certified
+  Internal Auditor® designation.
+
+  Essential Conditions
+  Board
+      • Discuss with the chief audit executive the plans to have an external
+        quality assessment of the internal audit function conducted by an
+        independent, qualified assessor or assessment team.
+
+                                                                                               12
+Essential Conditions listed were pulled from The Institute of Internal Auditors, Global Internal
+  Audit Standards, Domain III: Governing the Internal Audit Function, pages 39-59.
+
+
+     • Collaborate with senior management and the chief audit executive to
+       determine the scope and frequency of the external quality assessment.
+     • Consider the responsibilities and regulatory requirements of the
+       internal audit function and the chief audit executive, as described in
+       the internal audit charter, when defining the scope of the external
+       quality assessment.
+     • Review and approve the chief audit executive’s plan for the
+       performance of an external quality assessment. Such approval should
+       cover, at a minimum:
+       – The scope and frequency of assessments.
+       – The competencies and independence of the external assessor or
+         assessment team.
+       – The rationale for choosing to conduct a self-assessment with
+         independent validation instead of an external quality assessment.
+
+     • Require receipt of the complete results of the external quality
+       assessment or self- assessment with independent validation directly
+       from the assessor.
+     • Review and approve the chief audit executive’s action plans to address
+       identified deficiencies and opportunities for improvement, if
+       applicable.
+     • Approve a timeline for completion of the action plans and monitor the
+       chief audit executive’s progress.
+
+
+ Senior Management
+        • Collaborate with the board and the chief audit executive to
+          determine the scope and frequency of the external quality
+          assessment.
+        • Review the results of the external quality assessment, collaborate
+          with the chief audit executive and board to agree on action plans that
+          address identified deficiencies and opportunities for improvement, if
+          applicable, and agree on a timeline for completion of the action
+          plans.
+
+
+                                                                                              13
+

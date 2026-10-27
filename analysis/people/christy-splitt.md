@@ -60,6 +60,8 @@ Analysis: Splitt's general support for consolidation is constant from June 2025.
 
 **Oct 20, 2026 (Oregonian): the six schools.** Her memo, shared with The Oregonian, names the six closures: Creston, Buckman, Woodmere, Sabin, Irvington and Peninsula. Creston would merge with Arleta (not Atkinson), part of Sabin would go to Vernon, part of Woodmere to Lewis, Spanish DLI would stay co-located pending a districtwide committee, and Southwest would get a boundary process among eight elementaries instead of closing Stephenson or Maplewood [NEWS:NEWS-20261020-oregonian-1](https://www.oregonlive.com/education/2026/10/2-portland-public-schools-board-members-pitch-alternatives-to-closing-14-schools.html).
 
+**Oct 27, 2026 (OPB): "Scenario D" revised to five mergers.** Creston with Arleta; Woodmere with Whitman and Lewis; Peninsula and the César Chávez neighborhood program with Rosa Parks; Irvington with Beverly Cleary; Buckman with Sunnyside Environmental and Abernethy. An earlier Sabin-into-King merger was dropped. It adds a policy that closed buildings cannot become charter or private schools, and she says the district has not yet vetted it: "I felt pretty uncomfortable just being a 'no' on Scenarios A and B" [NEWS:NEWS-20261027-opb-1](https://www.opb.org/article/2026/10/27/oregon-portland-public-schools-salem-keizer/).
+
 ## Voting record on key related votes
 
 | Date | Item | Result | Splitt | Source |
