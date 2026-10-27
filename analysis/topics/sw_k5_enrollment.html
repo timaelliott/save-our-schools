@@ -99,7 +99,7 @@
   </header>
 
   <section class="tiles" aria-label="Headline figures">
-    <div class="tile"><div class="tile-label">Wells-cluster K-5, this fall</div><div class="tile-num" id="t-wells"></div><div class="tile-note">Seven schools, preliminary count</div></div>
+    <div class="tile"><div class="tile-label">Wells-cluster K-5, this fall</div><div class="tile-num" id="t-wells"></div><div class="tile-note">Seven schools, Oct 1, 2026 count</div></div>
     <div class="tile"><div class="tile-label">Change from the cluster's peak</div><div class="tile-num down" id="t-drop"></div><div class="tile-note" id="t-peak"></div></div>
     <div class="tile"><div class="tile-label">Maplewood, this fall</div><div class="tile-num" id="t-maple"></div><div class="tile-note" id="t-maple-prev"></div></div>
     <div class="tile"><div class="tile-label">Maplewood vs. 2019-20</div><div class="tile-num down" id="t-maple-chg"></div><div class="tile-note">Smallest drop of the seven Wells schools</div></div>
@@ -120,14 +120,14 @@
     </section>
     <section class="card" id="change-card">
       <h2>Change since 2019-20</h2>
-      <p class="note">From the last pre-pandemic count to this fall's preliminary count.</p>
+      <p class="note">From the last pre-pandemic count to this fall's Oct 1 count.</p>
       <div class="chart" id="change"></div>
     </section>
   </div>
 
   <section class="card" id="table">
     <h2>All counts</h2>
-    <p class="note">Oct 1 counts; this fall is the preliminary Sept 22 count.</p>
+    <p class="note">Oct 1 counts.</p>
     <div class="tablewrap"><table><thead><tr id="thead"></tr></thead><tbody id="tbody"></tbody></table></div>
   </section>
 
@@ -135,13 +135,13 @@
     <h2>Notes</h2>
     <ul class="notes">
       <li>The 2016 boundary change took effect in 2017-18. It moved small areas from Maplewood, Rieke and Bridlemile to Hayhurst, and from Capitol Hill to Stephenson.</li>
-      <li>This fall's figures are PPS's preliminary Sept 22, 2026 counts from the staffing workbook prepared for the Board. Earlier years are Oct 1 counts.</li>
+      <li>This fall's figures are PPS's official Oct 1, 2026 counts, posted Oct 27, 2026. Earlier years are also Oct 1 counts.</li>
     </ul>
     <h2>Sources</h2>
     <ul class="sources">
       <li><a href="https://github.com/timaelliott/save-our-schools/blob/main/analysis/data/psu_forecast_vs_actual_by_school.csv" target="_blank" rel="noopener">PSU Population Research Center enrollment forecasts, history columns</a> (2007-08 to 2015-16)</li>
       <li><a href="https://github.com/timaelliott/save-our-schools/blob/main/sources/pps_net/data-and-reporting/2025-26/10yr_enrollment_history_detail.pdf" target="_blank" rel="noopener">PPS 10-year enrollment history, 2025-26 edition</a> (2016-17 to 2025-26)</li>
-      <li><a href="https://github.com/timaelliott/save-our-schools/blob/main/sources/staffing/2026-09-22_board-request/board_request_as_of_2026-09-22.xlsx" target="_blank" rel="noopener">PPS staffing workbook, Sept 22, 2026</a> (2026-27)</li>
+      <li><a href="https://github.com/timaelliott/save-our-schools/blob/main/sources/pps_net/data-and-reporting/2026-27/enrollment_by_grade_and_program_type.pdf" target="_blank" rel="noopener">PPS 2026-27 October 1st Enrollment by grade and program</a> (2026-27)</li>
       <li>Data file: <a href="https://github.com/timaelliott/save-our-schools/blob/main/analysis/data/sw_wells_k5_enrollment_2007-2026.csv" target="_blank" rel="noopener">sw_wells_k5_enrollment_2007-2026.csv</a></li>
     </ul>
     <p class="foot">Compiled from the save-our-schools archive, Oct 27, 2026.</p>
@@ -150,7 +150,7 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
 <script>
-  const ROWS = [{"year":"2007-08","Bridlemile":468,"Capitol Hill":354,"Hayhurst":144,"Maplewood":308,"Markham":349,"Rieke":322,"Stephenson":320,"basis":"Oct 1"},{"year":"2008-09","Bridlemile":464,"Capitol Hill":321,"Hayhurst":143,"Maplewood":331,"Markham":360,"Rieke":348,"Stephenson":327,"basis":"Oct 1"},{"year":"2009-10","Bridlemile":480,"Capitol Hill":357,"Hayhurst":158,"Maplewood":342,"Markham":376,"Rieke":371,"Stephenson":335,"basis":"Oct 1"},{"year":"2010-11","Bridlemile":463,"Capitol Hill":351,"Hayhurst":165,"Maplewood":350,"Markham":376,"Rieke":356,"Stephenson":324,"basis":"Oct 1"},{"year":"2011-12","Bridlemile":472,"Capitol Hill":371,"Hayhurst":185,"Maplewood":335,"Markham":384,"Rieke":416,"Stephenson":335,"basis":"Oct 1"},{"year":"2012-13","Bridlemile":457,"Capitol Hill":403,"Hayhurst":172,"Maplewood":327,"Markham":383,"Rieke":388,"Stephenson":329,"basis":"Oct 1"},{"year":"2013-14","Bridlemile":450,"Capitol Hill":405,"Hayhurst":182,"Maplewood":333,"Markham":393,"Rieke":388,"Stephenson":320,"basis":"Oct 1"},{"year":"2014-15","Bridlemile":442,"Capitol Hill":460,"Hayhurst":256,"Maplewood":329,"Markham":386,"Rieke":388,"Stephenson":308,"basis":"Oct 1"},{"year":"2015-16","Bridlemile":480,"Capitol Hill":437,"Hayhurst":277,"Maplewood":359,"Markham":377,"Rieke":402,"Stephenson":322,"basis":"Oct 1"},{"year":"2016-17","Bridlemile":511,"Capitol Hill":448,"Hayhurst":340,"Maplewood":384,"Markham":418,"Rieke":410,"Stephenson":340,"basis":"Oct 1"},{"year":"2017-18","Bridlemile":535,"Capitol Hill":442,"Hayhurst":374,"Maplewood":378,"Markham":456,"Rieke":386,"Stephenson":352,"basis":"Oct 1"},{"year":"2018-19","Bridlemile":518,"Capitol Hill":443,"Hayhurst":390,"Maplewood":383,"Markham":445,"Rieke":379,"Stephenson":347,"basis":"Oct 1"},{"year":"2019-20","Bridlemile":508,"Capitol Hill":416,"Hayhurst":396,"Maplewood":374,"Markham":430,"Rieke":368,"Stephenson":371,"basis":"Oct 1"},{"year":"2020-21","Bridlemile":437,"Capitol Hill":346,"Hayhurst":380,"Maplewood":347,"Markham":416,"Rieke":329,"Stephenson":322,"basis":"Oct 1"},{"year":"2021-22","Bridlemile":435,"Capitol Hill":324,"Hayhurst":351,"Maplewood":291,"Markham":424,"Rieke":313,"Stephenson":320,"basis":"Oct 1"},{"year":"2022-23","Bridlemile":458,"Capitol Hill":333,"Hayhurst":350,"Maplewood":310,"Markham":426,"Rieke":300,"Stephenson":307,"basis":"Oct 1"},{"year":"2023-24","Bridlemile":446,"Capitol Hill":361,"Hayhurst":335,"Maplewood":301,"Markham":402,"Rieke":288,"Stephenson":310,"basis":"Oct 1"},{"year":"2024-25","Bridlemile":419,"Capitol Hill":318,"Hayhurst":314,"Maplewood":295,"Markham":341,"Rieke":278,"Stephenson":285,"basis":"Oct 1"},{"year":"2025-26","Bridlemile":423,"Capitol Hill":325,"Hayhurst":290,"Maplewood":287,"Markham":339,"Rieke":264,"Stephenson":281,"basis":"Oct 1"},{"year":"2026-27","Bridlemile":381,"Capitol Hill":290,"Hayhurst":290,"Maplewood":303,"Markham":327,"Rieke":254,"Stephenson":281,"basis":"Sept 22 preliminary"}];
+  const ROWS = [{"year":"2007-08","Bridlemile":468,"Capitol Hill":354,"Hayhurst":144,"Maplewood":308,"Markham":349,"Rieke":322,"Stephenson":320,"basis":"Oct 1"},{"year":"2008-09","Bridlemile":464,"Capitol Hill":321,"Hayhurst":143,"Maplewood":331,"Markham":360,"Rieke":348,"Stephenson":327,"basis":"Oct 1"},{"year":"2009-10","Bridlemile":480,"Capitol Hill":357,"Hayhurst":158,"Maplewood":342,"Markham":376,"Rieke":371,"Stephenson":335,"basis":"Oct 1"},{"year":"2010-11","Bridlemile":463,"Capitol Hill":351,"Hayhurst":165,"Maplewood":350,"Markham":376,"Rieke":356,"Stephenson":324,"basis":"Oct 1"},{"year":"2011-12","Bridlemile":472,"Capitol Hill":371,"Hayhurst":185,"Maplewood":335,"Markham":384,"Rieke":416,"Stephenson":335,"basis":"Oct 1"},{"year":"2012-13","Bridlemile":457,"Capitol Hill":403,"Hayhurst":172,"Maplewood":327,"Markham":383,"Rieke":388,"Stephenson":329,"basis":"Oct 1"},{"year":"2013-14","Bridlemile":450,"Capitol Hill":405,"Hayhurst":182,"Maplewood":333,"Markham":393,"Rieke":388,"Stephenson":320,"basis":"Oct 1"},{"year":"2014-15","Bridlemile":442,"Capitol Hill":460,"Hayhurst":256,"Maplewood":329,"Markham":386,"Rieke":388,"Stephenson":308,"basis":"Oct 1"},{"year":"2015-16","Bridlemile":480,"Capitol Hill":437,"Hayhurst":277,"Maplewood":359,"Markham":377,"Rieke":402,"Stephenson":322,"basis":"Oct 1"},{"year":"2016-17","Bridlemile":511,"Capitol Hill":448,"Hayhurst":340,"Maplewood":384,"Markham":418,"Rieke":410,"Stephenson":340,"basis":"Oct 1"},{"year":"2017-18","Bridlemile":535,"Capitol Hill":442,"Hayhurst":374,"Maplewood":378,"Markham":456,"Rieke":386,"Stephenson":352,"basis":"Oct 1"},{"year":"2018-19","Bridlemile":518,"Capitol Hill":443,"Hayhurst":390,"Maplewood":383,"Markham":445,"Rieke":379,"Stephenson":347,"basis":"Oct 1"},{"year":"2019-20","Bridlemile":508,"Capitol Hill":416,"Hayhurst":396,"Maplewood":374,"Markham":430,"Rieke":368,"Stephenson":371,"basis":"Oct 1"},{"year":"2020-21","Bridlemile":437,"Capitol Hill":346,"Hayhurst":380,"Maplewood":347,"Markham":416,"Rieke":329,"Stephenson":322,"basis":"Oct 1"},{"year":"2021-22","Bridlemile":435,"Capitol Hill":324,"Hayhurst":351,"Maplewood":291,"Markham":424,"Rieke":313,"Stephenson":320,"basis":"Oct 1"},{"year":"2022-23","Bridlemile":458,"Capitol Hill":333,"Hayhurst":350,"Maplewood":310,"Markham":426,"Rieke":300,"Stephenson":307,"basis":"Oct 1"},{"year":"2023-24","Bridlemile":446,"Capitol Hill":361,"Hayhurst":335,"Maplewood":301,"Markham":402,"Rieke":288,"Stephenson":310,"basis":"Oct 1"},{"year":"2024-25","Bridlemile":419,"Capitol Hill":318,"Hayhurst":314,"Maplewood":295,"Markham":341,"Rieke":278,"Stephenson":285,"basis":"Oct 1"},{"year":"2025-26","Bridlemile":423,"Capitol Hill":325,"Hayhurst":290,"Maplewood":287,"Markham":339,"Rieke":264,"Stephenson":281,"basis":"Oct 1"},{"year":"2026-27","Bridlemile":383,"Capitol Hill":291,"Hayhurst":286,"Maplewood":304,"Markham":336,"Rieke":254,"Stephenson":280,"basis":"Oct 1"}];
   const SCHOOLS = ['Bridlemile', 'Capitol Hill', 'Hayhurst', 'Maplewood', 'Markham', 'Rieke', 'Stephenson'];
   const COLORS = {
     'Bridlemile': '#5f78b0', 'Capitol Hill': '#b4527a', 'Hayhurst': '#6f9131', 'Maplewood': '#0b6e69',
