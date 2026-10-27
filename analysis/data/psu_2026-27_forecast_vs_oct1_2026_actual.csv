@@ -1,0 +1,83 @@
+school,type,grades,region_hs_pattern,actual_2025_26,psu_forecast_2026_27,actual_oct1_2026,diff_actual_minus_forecast,pct_diff,scenario_A,scenario_B
+Abernethy,ES,K-5,Cleveland/Franklin (SE),269,250,266,16,6.4,receive students; boundary change,receive students; boundary change
+Arleta,ES,K-5,Cleveland/Franklin (SE),230,216,221,5,2.3,receive students; boundary change,receive students; boundary change
+Atkinson,ES,K-5,Cleveland/Franklin (SE),366,357,370,13,3.6,receive students; boundary change; program moves out,receive students; boundary change; program moves out
+Buckman,ES,K-5,Cleveland/Franklin (SE),283,263,239,-24,-9.1,close; program discontinued,close; program discontinued
+Creston,ES,K-5,Cleveland/Franklin (SE),213,199,222,23,11.6,close; program moves out,close; program moves out
+Duniway,ES,K-5,Cleveland/Franklin (SE),362,362,358,-4,-1.1,receive students; boundary change,middle school pathway change
+Glencoe,ES,K-5,Cleveland/Franklin (SE),339,326,312,-14,-4.3,program moves in,program moves in
+Grout,ES,K-5,Cleveland/Franklin (SE),327,306,297,-9,-2.9,no change,no change
+Kelly,ES,K-5,Cleveland/Franklin (SE),411,412,404,-8,-1.9,receive students; boundary change; middle school pathway change; sped program moves in,receive students; boundary change; middle school pathway change; sped program moves in
+Lent,ES,K-5,Cleveland/Franklin (SE),256,253,254,1,0.4,program moves in; boundary change,program moves in; boundary change
+Lewis,ES,K-5,Cleveland/Franklin (SE),259,243,241,-2,-0.8,close,receive students; boundary change
+Llewellyn,ES,K-5,Cleveland/Franklin (SE),345,333,332,-1,-0.3,receive students; boundary change; middle school pathway change,middle school pathway change
+Marysville,ES,K-5,Cleveland/Franklin (SE),307,294,282,-12,-4.1,close; boundary change,close; boundary change
+Richmond,ES,K-5,Cleveland/Franklin (SE),512,505,520,15,3.0,no change,no change
+Whitman,ES,K-5,Cleveland/Franklin (SE),194,197,215,18,9.1,receive students; boundary change,receive students; boundary change
+Woodmere,ES,K-5,Cleveland/Franklin (SE),227,222,206,-16,-7.2,close,close
+Woodstock,ES,K-5,Cleveland/Franklin (SE),367,353,352,-1,-0.3,program moves in,program moves in
+Cleveland,HS,9-12,Cleveland/Franklin (SE),1451,1418,1406,-12,-0.8,boundary change,boundary change
+Franklin,HS,9-12,Cleveland/Franklin (SE),1780,1725,1747,22,1.3,boundary change,boundary change
+Bridger Creative Science,K8,K-8,Cleveland/Franklin (SE),446,449,403,-46,-10.2,grade change,grade change
+Sunnyside Environmental,K8,K-8,Cleveland/Franklin (SE),485,482,506,24,5.0,grade change; program discontinued; receive students; boundary change,grade change; program discontinued; receive students; boundary change
+Winterhaven,K8,K-8,Cleveland/Franklin (SE),316,315,322,7,2.2,no change,no change
+Brentwood MS (formerly Lane),MS,6-8,Cleveland/Franklin (SE),447,425,409,-16,-3.8,receive students; boundary change,receive students; boundary change
+Hosford,MS,6-8,Cleveland/Franklin (SE),528,522,532,10,1.9,receive students; boundary change,receive students; boundary change
+Kellogg,MS,6-8,Cleveland/Franklin (SE),531,514,542,28,5.4,receive students; boundary change,receive students; boundary change
+Mt Tabor,MS,6-8,Cleveland/Franklin (SE),430,415,416,1,0.2,receive students; boundary change,receive students; boundary change
+Sellwood,MS,6-8,Cleveland/Franklin (SE),564,537,532,-5,-0.9,close,close
+Alameda,ES,K-5,Grant/McDaniel (NE),513,503,502,-1,-0.2,no change,no change
+Clark,ES,K-5,Grant/McDaniel (NE),364,363,305,-58,-16.0,program moves out,program moves out
+Irvington,ES,K-5,Grant/McDaniel (NE),259,249,259,10,4.0,close,close
+Rigler,ES,K-5,Grant/McDaniel (NE),289,301,300,-1,-0.3,program moves in; boundary change,program moves in; boundary change
+Rose City Park,ES,K-5,Grant/McDaniel (NE),417,398,393,-5,-1.3,close; program moves out,no change
+Scott,ES,K-5,Grant/McDaniel (NE),476,496,492,-4,-0.8,receive students; boundary change; program moves out,program moves out
+Sunrise (formerly Lee),ES,K-5,Grant/McDaniel (NE),251,254,234,-20,-7.9,no change,no change
+Vestal,ES,K-5,Grant/McDaniel (NE),283,288,287,-1,-0.3,program moves in,no change
+Grant,HS,9-12,Grant/McDaniel (NE),2074,2015,2017,2,0.1,no change,no change
+McDaniel,HS,9-12,Grant/McDaniel (NE),1629,1588,1565,-23,-1.4,boundary change,boundary change
+Beverly Cleary,K8,K-8,Grant/McDaniel (NE),480,464,450,-14,-3.0,grade change; receive students; boundary change,grade change; receive students; boundary change
+Laurelhurst,K8,K-8,Grant/McDaniel (NE),610,574,583,9,1.6,grade change,grade change
+Beaumont,MS,6-8,Grant/McDaniel (NE),416,415,452,37,8.9,receive students; boundary change; program moves out,receive students; boundary change; program moves out
+Harrison Park,MS,6-8,Grant/McDaniel (NE),419,442,454,12,2.7,receive students; boundary change,receive students; boundary change
+Roseway Heights,MS,6-8,Grant/McDaniel (NE),572,560,589,29,5.2,program moves in,program moves in
+Beach,ES,K-5,Jefferson/Roosevelt (North),288,285,269,-16,-5.6,close; program moves out,close; program moves out
+Boise-Eliot/Humboldt,ES,K-5,Jefferson/Roosevelt (North),294,310,285,-25,-8.1,program moves in,program moves in
+Chief Joseph,ES,K-5,Jefferson/Roosevelt (North),242,242,231,-11,-4.5,receive students; boundary change,receive students; boundary change
+Dr. Martin Luther King Jr.,ES,K-5,Jefferson/Roosevelt (North),319,314,332,18,5.7,receive students; boundary change; program moves out,receive students; boundary change; program moves out
+James John,ES,K-5,Jefferson/Roosevelt (North),365,361,347,-14,-3.9,close; program moves out,close; program moves out
+Peninsula,ES,K-5,Jefferson/Roosevelt (North),239,252,220,-32,-12.7,close,close
+Rosa Parks,ES,K-5,Jefferson/Roosevelt (North),160,161,173,12,7.5,receive students; boundary change,receive students; boundary change
+Sabin,ES,K-5,Jefferson/Roosevelt (North),269,258,236,-22,-8.5,close,close
+Sitton,ES,K-5,Jefferson/Roosevelt (North),345,340,328,-12,-3.5,receive students; boundary change; program moves out,receive students; boundary change; program moves out
+Woodlawn,ES,K-5,Jefferson/Roosevelt (North),323,320,321,1,0.3,no change,no change
+Jefferson,HS,9-12,Jefferson/Roosevelt (North),391,422,378,-44,-10.4,boundary change,boundary change
+Roosevelt,HS,9-12,Jefferson/Roosevelt (North),1419,1339,1342,3,0.2,receive students; boundary change,receive students; boundary change
+Astor,K8,K-8,Jefferson/Roosevelt (North),400,414,418,4,1.0,boundary change,boundary change
+César Chávez,K8,K-8,Jefferson/Roosevelt (North),443,424,420,-4,-0.9,grade change; program consolidation; boundary change,grade change; program consolidation; boundary change
+Faubion,K8,K-8,Jefferson/Roosevelt (North),600,627,570,-57,-9.1,grade change; boundary change,grade change; boundary change
+Vernon,K8,K-8,Jefferson/Roosevelt (North),541,515,492,-23,-4.5,grade change,grade change
+George,MS,6-8,Jefferson/Roosevelt (North),358,377,377,0,0.0,receive students; program moves in; boundary change,receive students; program moves in; boundary change
+Harriet Tubman,MS,6-8,Jefferson/Roosevelt (North),402,440,426,-14,-3.2,receive students; boundary change,receive students; boundary change
+Ockley Green,MS,6-8,Jefferson/Roosevelt (North),460,436,447,11,2.5,receive students; program moves out; boundary change,receive students; program moves out; boundary change
+Ainsworth,ES,K-5,Lincoln/Wells (West),560,555,527,-28,-5.0,no change,no change
+Bridlemile,ES,K-5,Lincoln/Wells (West),423,413,383,-30,-7.3,no change,no change
+Capitol Hill,ES,K-5,Lincoln/Wells (West),325,319,291,-28,-8.8,receive students; boundary change; sped program moves in,no change
+Chapman,ES,K-5,Lincoln/Wells (West),330,336,319,-17,-5.1,no change,no change
+Forest Park,ES,K-5,Lincoln/Wells (West),264,259,234,-25,-9.7,no change,no change
+Hayhurst,ES,K-5,Lincoln/Wells (West),290,283,286,3,1.1,receive students; boundary change,receive students; boundary change
+Maplewood,ES,K-5,Lincoln/Wells (West),287,288,304,16,5.6,close,close
+Markham,ES,K-5,Lincoln/Wells (West),339,325,336,11,3.4,receive students; boundary change; sped program moves in,sped program moves in
+Rieke,ES,K-5,Lincoln/Wells (West),264,255,254,-1,-0.4,receive students; boundary change,receive students; boundary change
+Stephenson,ES,K-5,Lincoln/Wells (West),281,267,280,13,4.9,close,no change
+Ida B. Wells HS,HS,9-12,Lincoln/Wells (West),1574,1555,1554,-1,-0.1,no change,no change
+Lincoln,HS,9-12,Lincoln/Wells (West),1647,1652,1605,-47,-2.8,boundary change,boundary change
+Metropolitan Learning Center (MLC),K12,K-12,Lincoln/Wells (West),275,266,281,15,5.6,grade change; program moves in,grade change; program moves in
+Odyssey,K8,K-8,Lincoln/Wells (West),217,221,209,-12,-5.4,site move,site move
+Skyline,K8,K-8,Lincoln/Wells (West),207,203,211,8,3.9,high school pathway change,high school pathway change
+Jackson,MS,6-8,Lincoln/Wells (West),689,683,698,15,2.2,boundary change,boundary change
+Robert Gray MS,MS,6-8,Lincoln/Wells (West),432,431,417,-14,-3.2,receive students; boundary change,receive students; boundary change
+West Sylvan,MS,6-8,Lincoln/Wells (West),683,653,656,3,0.5,no change,no change
+ACCESS Academy,G28,G28,Multiple areas (citywide),324,315,316,1,0.3,no change,no change
+Benson Polytechnic,HS,9-12,Multiple areas (citywide),1025,1114,1072,-42,-3.8,no change,no change
+da Vinci Arts MS,MS,K-12,Multiple areas (citywide),429,430,426,-4,-0.9,no change,no change
