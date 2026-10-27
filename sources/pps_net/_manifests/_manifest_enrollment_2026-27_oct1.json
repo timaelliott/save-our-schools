@@ -1,0 +1,11 @@
+[
+ {
+  "file": "sources/pps_net/data-and-reporting/2026-27/enrollment_by_grade_and_program_type.pdf",
+  "url": "https://resources.finalsite.net/images/v1793135668/ppsnet/s9ikd5aekeuukcmlecvd/EnrollmentbyGradeandProgram2026-27.pdf",
+  "title": "Portland Public Schools 2026-2027 October 1st Enrollment, by grade and program (Enrollment by Grade and Program 2026-27)",
+  "fetched": "2026-10-27",
+  "method": "curl from the cloud workspace; link supplied by the repository owner",
+  "bytes": 165600,
+  "sha256": "6cfc11b249c8c096dc4b84813abc7fad8ee916270c42c96e6642b843f71b9c18"
+ }
+]
