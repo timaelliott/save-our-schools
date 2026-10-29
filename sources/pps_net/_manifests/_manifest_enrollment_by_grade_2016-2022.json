@@ -1,0 +1,52 @@
+[
+ {
+  "file": "sources/pps_net/data-archives/2016-17/enrollment_by_grade_and_program_type.pdf",
+  "url": "https://www.pps.net/cms/lib/OR01913224/Centricity/Domain/207/Enrollment_by_Grade_and_Program_2016-17.pdf",
+  "title": "Portland Public Schools 2016-17 October enrollment, by grade and program",
+  "fetched": "2026-10-29",
+  "method": "downloaded by the repository owner (Internet Archive copies of the old pps.net document server, file name as given); copied from the owner's computer (C:/pps-research). The url field is the presumed original location from the file name, not verified",
+  "original_filename": "Enrollment_by_Grade_and_Program_2016-17.pdf",
+  "bytes": 101473,
+  "sha256": "f1720545b1f938ef83057d580eee2db79cf0e5f328be8b3ac48b9aa57ce41412"
+ },
+ {
+  "file": "sources/pps_net/data-archives/2017-18/enrollment_by_grade_and_program_type.pdf",
+  "url": "https://www.pps.net/cms/lib/OR01913224/Centricity/Domain/207/Enrollment%20by%20Grade%20and%20Program%202017-18.pdf",
+  "title": "Portland Public Schools 2017-18 October enrollment, by grade and program",
+  "fetched": "2026-10-29",
+  "method": "downloaded by the repository owner (Internet Archive copies of the old pps.net document server, file name as given); copied from the owner's computer (C:/pps-research). The url field is the presumed original location from the file name, not verified",
+  "original_filename": "Enrollment by Grade and Program 2017-18.pdf",
+  "bytes": 179138,
+  "sha256": "b9aebdbe33f037ce713f84d0d4b19342bb3834b264a91faef135cc5d34c653e3"
+ },
+ {
+  "file": "sources/pps_net/data-archives/2018-19/enrollment_by_grade_and_program_type.pdf",
+  "url": "https://www.pps.net/cms/lib/OR01913224/Centricity/Domain/207/Enrollment%20by%20Grade%20and%20Program%202018-19.pdf",
+  "title": "Portland Public Schools 2018-19 October enrollment, by grade and program",
+  "fetched": "2026-10-29",
+  "method": "downloaded by the repository owner (Internet Archive copies of the old pps.net document server, file name as given); copied from the owner's computer (C:/pps-research). The url field is the presumed original location from the file name, not verified",
+  "original_filename": "Enrollment by Grade and Program 2018-19.pdf",
+  "bytes": 180945,
+  "sha256": "69bc1fa00bf6e732a1132ee012117a9a2fa2e020da9cdab31e7a8ebe172a5968"
+ },
+ {
+  "file": "sources/pps_net/data-archives/2019-20/enrollment_by_grade_and_program_type.pdf",
+  "url": "https://www.pps.net/cms/lib/OR01913224/Centricity/Domain/207/Enrollment%20by%20Grade%20and%20Program%202019-20.pdf",
+  "title": "Portland Public Schools 2019-20 October enrollment, by grade and program",
+  "fetched": "2026-10-29",
+  "method": "downloaded by the repository owner (Internet Archive copies of the old pps.net document server, file name as given); copied from the owner's computer (C:/pps-research). The url field is the presumed original location from the file name, not verified",
+  "original_filename": "Enrollment by Grade and Program 2019-20.pdf",
+  "bytes": 178280,
+  "sha256": "38dfad7402e00aa9429e1da94c75b2562172bde1c726be89dc3425c39ff981e7"
+ },
+ {
+  "file": "sources/pps_net/data-archives/2021-22/enrollment_by_grade_and_program_type.pdf",
+  "url": "https://www.pps.net/cms/lib/OR01913224/Centricity/Domain/207/Enrollment%20by%20Grade%20and%20Program%202021-22.pdf",
+  "title": "Portland Public Schools 2021-22 October enrollment, by grade and program",
+  "fetched": "2026-10-29",
+  "method": "downloaded by the repository owner (Internet Archive copies of the old pps.net document server, file name as given); copied from the owner's computer (C:/pps-research). The url field is the presumed original location from the file name, not verified",
+  "original_filename": "Enrollment by Grade and Program 2021-22.pdf",
+  "bytes": 176435,
+  "sha256": "b368221f502fffdcaa07cd7f124f5ea9ed199bd391fe31d089cb1789590a59fc"
+ }
+]
