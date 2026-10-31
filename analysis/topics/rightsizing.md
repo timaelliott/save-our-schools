@@ -135,6 +135,7 @@ Conventions: "PPS states" = what a PPS document says; "minutes record" = adopted
 | 2026-10-05/06 | Scenario release memo; districtwide and regional summaries; maps; Board presentation | [BB:14509719 p.1] [BB:14511742 p.1] |
 | 2026-10-13 | TLE: Dual Language Immersion and Middle Grades (scheduled) | [BB:14511742 p.45] |
 | 2026-10-20 | Board meeting: scenarios (scheduled) | [BB:14511742 p.45] |
+| 2026-11-04 | Board meeting: rightsizing process update (no scenario changes); survey ranks "Strong Neighborhood Schools" first (41%); dates set: FIO Nov 9, TLE Nov 10, Superintendent's recommendation Nov 17, review Dec 1–2, vote Dec 15 | [BB:14615901 p.12] [BB:14615901 p.19] [BB:14615901 p.21] |
 | 2026-11-04 | Board meeting: feedback summary (scheduled) | [BB:14511742 p.45] |
 | 2026-11-09 / 11-10 | FIO and TLE rightsizing (scheduled) | [BB:14511742 p.45] |
 | 2026-11-17 | Board meeting: Superintendent's Recommendation (scheduled) | [BB:14511742 p.45] |
