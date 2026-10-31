@@ -10,7 +10,7 @@
   "https://www.youtube.com/watch?v=zOUH2Jq7Owo"
  ],
  "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=769955",
- "minutes_url": null,
+ "minutes_url": "https://meetings.boardbook.org/Public/Minutes/915?meeting=769955",
  "supplementals_url": "https://meetings.boardbook.org/Meeting/Supplementals/915?meeting=769955",
  "folder": "sources/boardbook/meetings/2026-10-06_769955_regular-meeting",
  "agenda_items": [
@@ -321,6 +321,10 @@
    "attachments": []
   }
  ],
+ "minutes_files": [],
+ "minutes_document_id": "14611218",
+ "minutes_pdf": "sources/boardbook/meetings/2026-10-06_769955_regular-meeting/minutes_14611218.pdf",
+ "minutes_download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14611218?org=915",
  "supplementals_files": [
   {
    "document_id": "14493920",

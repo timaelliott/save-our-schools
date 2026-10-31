@@ -15,15 +15,14 @@ Agenda
 1. Call to Order / Introduction
 2. Public Comment
 To sign-up for public comment email PublicComment@pps.net or call the Board Office @ 503-916-3741.
-3. Bond Performance Updates
-4. Audit Committee Roles and Responsibilities
+3. Audit Committee Roles and Responsibilities
 Attachments:
 (
 2
 )
-10272026 Audit Committee Meeting
 Audit Committee Liaison Annual Support Plan
-5. Office of Internal Performance Audit (OIPA) Updates
+10272026 Audit Committee Meeting (1)
+4. Office of Internal Performance Audit (OIPA) Updates
 Attachments:
 (
 7
@@ -35,15 +34,15 @@ Attachments:
 5 Essential Conditions
 Communications Protocol
 OIPA Overview_10_27_26
-6. Monthly and Quarterly Financial Statement Review
-7. Status Update on the Annual Comprehensive Financial Report (ACFR) and Single Audit
-8. Other Audit Updates
+5. Monthly and Quarterly Financial Statement Review
+6. Status Update on the Annual Comprehensive Financial Report (ACFR) and Single Audit
+7. Other Audit Updates
 Attachments:
 (
 1
 )
 2026 Communications to TCWG - Planning
-9. Other Business and Future Agenda Items
-10. Adjourn
+8. Other Business and Future Agenda Items
+9. Adjourn
 Web Viewer
 << Back to the Public Page for Portland Public Schools

@@ -51,10 +51,10 @@ Attachments:
 (
 4
 )
-Digital Device and Screen Use Policy clean staff proposed 26_10_23.docx
-Digital Device and Screen Use Policy redline staff proposed 26_10_23.docx
 SBS Portland Screen Use Policy Revised DRAFT 10.12 (2)
-Screen Time Policy Board Presentation - Oct.
+Digital Device and Screen Use Policy clean staff proposal corrected
+PPS Screen Time Use Policy redlined staff proposal corrected
+Screen Time Policy Board Presentation - Oct. (1)
 9. Other Business and Future Agenda Items
 10. Adjourn
 Web Viewer

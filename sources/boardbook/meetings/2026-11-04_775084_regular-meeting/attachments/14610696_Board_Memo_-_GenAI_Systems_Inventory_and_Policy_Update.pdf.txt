@@ -1,0 +1,364 @@
+Date: ​ ​     October 11, 2026
+
+To: ​   ​     PPS Board of Education
+
+From: ​​      Dr. Kimberlee Armstrong, Superintendent
+              Dr. Kristin Moon, Director, Educator Professional Learning
+              Russell Adamson, Sr. Director, Office of Technology & Information Services
+              Mark Lancaster, Director, Office of Technology & Information Services
+
+Subject: ​    Response to GenAI Pause as requested at June 23rd BOE Meeting
+
+Executive Summary
+This memorandum serves as the districtwide assessment requested by the Board of Education
+on June 23, 2026 via the Budget Amendment “AI Pause REVISED” within Resolution 7326.
+
+As directed, this response documents the approved applications and software systems currently
+in operation utilizing GenAI across central office and instructional environments, establishes
+updated governance standards, and formalizes our recommendations for future digital literacy
+and technology use.
+
+
+Definitions
+  ●​ Artificial Intelligence (AI): The capability of computer systems or algorithms to imitate
+     intelligent human behavior.
+  ●​ Generative AI (GenAI): Artificial intelligence that is capable of generating new content
+     (such as images or text) in response to a submitted prompt by learning from a large
+     reference database of examples.
+  ●​ Agentic AI: Able to accomplish results with autonomy, used especially in reference to
+     artificial intelligence.
+Resolution Directive Compliance
+Below is the detailed response to the June 23 Board Resolution. Per the Amendment language,
+“This pause shall not apply to cybersecurity, accessibility, or software maintenance functions that
+do not materially expand GenAI capabilities and/or are not student-interactive.”
+
+
+ Resolution Directive                  Status        Detailed Response
+
+ (1) “Pause the execution of any       Compliant     ●​ At the time of the resolution, none of the
+ new contracts, contract                                activity listed was planned
+ amendments, subscriptions, pilot
+ programs, software licenses, or                     ●​ No change since the time of resolution
+ procurement actions primarily
+ related to GenAI technologies”                      ●​ Lumi and Amira contracts expired on
+                                                        June 30, 2026
+
+  (2) “Pause the expansion of          Compliant     ●​ At the time of the resolution, none of the
+ existing GenAI technology                              activity listed was planned
+ implementations beyond their
+                                                     ●​ No change since the time of resolution
+ current scope of work”
+                                                     ●​ Lumi and Amira contracts expired on
+                                                        June 30, 2026
+
+ (3) “Prepare an Inventory of          Listed        ●​ At the time of the resolution, two (2)
+ (approved) Existing                                    GenAI applications were approved -
+ Student-Facing GenAI                                   Lumi and Amira none of the activity
+ Implementations”                                       listed was planned
+
+                                                     ●​ Both the Lumi and Amira contracts
+                                                        expired on June 30, 2026
+
+                                                     ●​ Currently, there are no approved GenAI
+                                                        classroom applications
+
+  (4) “Work to amend all existing      Compliant     ●​ All approved software (instructional or
+ educational technology contracts                       otherwise) has strong FERPA language
+ and data-sharing agreements to                         within every Tech Services Agreement
+ prohibit third-party vendors from
+ collecting or sharing personally                    ●​ NOTE: PPS Academics, OTIS, & Legal
+ identifiable student data unless                       recommend stronger Policy language
+ expressly required by law.”                            to reduce or eliminate unapproved
+                                                        software in the classroom, as it does not
+                                                        follow approved vetting and
+                                                        procurement processes and controls.
+ Resolution Directive                 Status      Detailed Response
+
+ (5) “Provide, within 90 days of adoption of this Resolution, a comprehensive districtwide
+ assessment of all AI systems, contracts, expenditures, pilot programs, data-sharing
+ agreements, risk mitigation measures, and educational impacts; that includes, at a minimum”
+
+(a)​ An inventory of all GenAI        Complete    ●​ Classroom & Instructional - Currently,
+     tools, platforms, software                      there are no approved GenAI classroom
+     products, pilots, and services                  applications
+     currently utilized throughout
+     PPS                                          ●​ Central Office - please see section
+                                                     below titled “Central Office GenAI
+                                                     Inventory”
+
+
+(b) All associated contracts,         Complete    ●​ Classroom & Instructional - Currently,
+    costs, funding sources, and                      there are no approved GenAI classroom
+    renewal dates                                    applications
+
+                                                  ●​ Central Office - this is a significant
+                                                     effort to collect & summarize data. This
+                                                     summary will be delivered in advance of
+                                                     11/4 BOE meeting
+
+
+(c) A description of all student,     Complete    ●​ All approved software (instructional orL
+    employee, and PPS data                           otherwise) has strong FERPA language
+    shared with associated                           as part of every Technology Services
+    vendors                                          Agreement
+
+                                                  ●​ NOTE: PPS Academics, OTIS, & Legal
+                                                     departments recommend stronger
+                                                     Policy or Administrative Directive
+                                                     language to reduce or eliminate
+                                                     unapproved software in the classroom,
+                                                     as it does not follow approved vetting
+                                                     and procurement processes and
+                                                     controls.
+
+
+(d) Recommendations regarding         Complete    ●​ Please see section below titled
+    future implementation,                           “Promoting Balanced Instruction and
+    limitations, or expansion of                     Healthy Technology Use”
+    GenAI technologies within
+    PPS
+Classroom & Instructional Technology Landscape
+Within the instructional scope, there are 54 total core curriculum (Language Arts, Social Studies,
+Mathematics, and Science) applications:
+  ●​ Approved Non-GenAI Core Curriculum Apps: 34
+  ●​ Approved Teacher-Facing GenAI Apps: 20
+  ●​ Approved Instructional (Student-Facing) GenAI apps: 0
+Approved apps utilized for Career and Technical Education (CTE) follow the standard app
+vetting approval process and align directly to industry standards for specific CTE programming.
+
+
+Central Office GenAI Inventory
+PPS has 720 total approved technology tools (this includes the 54 listed above). This inventory
+lists applications with documented GenAI capabilities currently in use by Central Office staff.
+Below are the In compliance with Directive 5b and 5c, all associated costs, renewal dates, and
+descriptions of shared data have been documented.
+
+Productivity Tools
+  ●​ Google Workspace/Gemini & Gemini Notebook
+       ○​ Vendor: Google, Inc. | Office: OTIS
+       ○​ Deployment: 1,926 active staff accounts
+       ○​ Cost & Renewal: Included at $6/user/year with Staff license ($224k total estimate) |
+          Renews 1/26/2027
+       ○​ Data Shared: Employee credentials, email metadata, user-generated prompts,
+          non-sensitive administrative documents.
+       ○​ Links: https://edu.google.com/intl/ALL_us/ai/gemini-for-education/,
+          https://support.google.com/gemininotebook/answer/17004255?hl=en
+  ●​ Smartsheet
+       ○​ Vendor: Smartsheet, Inc. | Office: OTIS
+       ○​ Deployment: 143 active seats (central office)
+       ○​ Cost & Renewal: $165k (General Funds) | Renews 7/15/2027
+       ○​ Data Shared: Administrative project schedules, operational workflows, employee
+          project data.
+       ○​ Links: https://www.smartsheet.com/ai
+  ●​ AXIS3
+       ○​ Vendor: Creatively Focused | Office: Special Education
+       ○​ Deployment: 435 staff accounts
+       ○​ Cost & Renewal: $136k (General Funds) | Renewal TBD
+       ○​ Data Shared: Special education operational workflows and anonymized procedural
+          support metrics.
+       ○​ Links: https://creativelyfocused.net/education-solutions
+
+Infrastructure & Operations
+
+ ●​ CIM Peak Fault Detection and Diagnostics
+      ○​ Vendor: CIM | Office: Facilities Maintenance
+      ○​ Deployment: 5 staff (25 modernized buildings)
+      ○​ Cost & Renewal: Included in enterprise base licensing / TBD
+      ○​ Data Shared: Facility HVAC performance metrics, building sensor telemetry.
+      ○​ Links: https://www.cim.io/solutions/fault-detection-and-diagnostics
+ ●​ Workato Automation Platform / Snowflake / AWS Connect Customer / Catalyst
+    Center
+      ○​ Vendors: Workato, Snowflake, AWS, Cisco | Office: OTIS
+      ○​ Deployment: Back-office network and automation administrators (5-10 staff per
+         system)
+      ○​ Cost & Renewal: Integrated into core enterprise licensing and Capital/General
+         Funds / TBD
+      ○​ Data Shared: System logs, network routing telemetry, back-office API payloads, IT
+         contact center audio/routing metrics.
+
+Cybersecurity & Content Filtering
+
+ ●​ Falcon Complete
+      ○​ Vendor: Crowdstrike, Inc. | Office: OTIS
+      ○​ Cost & Renewal: $419k (Capital Funds) | Renews 4/1/2028
+      ○​ Data Shared: Device telemetry, application execution logs, threat intelligence data.
+      ○​ Links:
+         https://www.crowdstrike.com/en-us/solutions/falcon-complete-for-falcon-guardian/
+ ●​ Inbound Email Security, AI Security Mailbox
+      ○​ Vendor: Abnormal AI, Inc. | Office: OTIS
+      ○​ Cost & Renewal: $133k (Capital Funds) | Renews 12/29/2028
+      ○​ Data Shared: Incoming district email headers, text, and routing metadata for threat
+         analysis.
+      ○​ Links: https://abnormal.ai/platform/inbound-email-security
+ ●​ Securly Filter / Umbrella Secure Access / Security Cloud
+      ○​ Vendors: Securly, Inc., Cisco | Office: OTIS
+      ○​ Cost & Renewal: Securly at $82k (Capital Funds) renewing 11/15/2026. Cisco
+         systems integrated into enterprise infrastructure.
+      ○​ Data Shared: Network traffic destinations, blocked content requests, system web
+         filtering logs.
+      ○​ Links: https://www.securly.com/filter,
+         https://umbrella.cisco.com/products/umbrella-enterprise-security-packages
+Promoting Balanced Instruction & Healthy Tech Use
+I.   Definitions
+
+            A. Screen Time: Screen Time refers to the amount of time a student is expected to
+            view or interact with Device displays, including structured educational technology
+            used for instruction and unstructured or non-instructional media. Screen Time does
+            not include use of assistive technology required to provide a student with access to
+            instruction or PPS services.
+
+            B. Device: As used in this policy, a Device means any PPS-owned, PPS-issued, or
+            PPS-managed laptop, desktop computer, tablet, mobile phone, wearable device,
+            virtual or augmented reality equipment, or other internet-connected hardware used to
+            access PPS systems or instructional content.
+
+            C. Educational Technology: Educational Technology means software, digital
+            applications, online services, websites, platforms, and other digital tools used for
+            instructional, assessment, accessibility, safety, communication, or administrative
+            purposes.
+
+            D. Approved Educational Technology: Approved Educational Technology means
+            Educational Technology that PPS has reviewed and authorized under its educational
+            technology approval process.
+
+II. Objective
+
+         PPS will use educational technology when it supports a defined instructional,
+         accessibility, safety, or operational purpose. Educators should select instructional
+         methods best suited to the learning objective and provide developmentally appropriate
+         opportunities for discussion, handwriting, reading in print, physical activity, collaborative
+         work, creative expression, independent problem-solving, and other screen-free learning.
+         Educational Technology should support, rather than routinely replace, effective
+         educator-led instruction and interpersonal learning.
+
+III. ​   Grade-Level Technology Restrictions
+
+            A. Pre-K Through 8th Grade
+
+                     i. PPS will limit use of PPS-issued Devices during instructional time in
+            accordance with the PPS Screen Time Guidelines for PPS adopted curriculum and
+            assessments:
+          Pre-Kindergarten-Grade 2: Up to 130 minutes per week, inclusive of core instruction
+          and intervention
+
+          Grades 3-5: Up to 225 minutes per week inclusive of core instruction and intervention
+
+          Grades 6-8: Up to 300 minutes per week across all classes
+
+                    ii. Devices will be used to support specific in-class curriculum and
+          learning activities and will not serve the primary instructional medium. PPS will not
+          operate a standard one-to-one take-home Device program for students in Pre-K
+          through Grade 8.
+
+                     iii. Students may take PPS Devices home only to address an identified
+          instructional, accessibility, equity, or academic-support need, as approved by the
+          principal or designee, or as required by an individualized education program (“IEP”),
+          Section 504 plan, or applicable law. PPS will provide the student’s parent or guardian
+          with notice of the take-home arrangement and obtain an acknowledgment of
+          applicable Device-use requirements. Failure to return an acknowledgment will not
+          prevent PPS from providing a Device when the Device is required to provide the
+          student with equal access, appropriate services, or legally required accommodations.
+
+        B. High School
+
+                     i. PPS will limit use of PPS-issued Devices during instructional time in
+          accordance with PPS Screen Time Guidelines. Use must support a defined
+          instructional, assessment, accessibility, safety, or operational purpose. Educators
+          should incorporate appropriate screen-free instruction and activities based on the
+          learning objective and students’ developmental needs.
+
+                ii.   ​ PPS Devices will be issued to each student.
+
+
+IV. ​   Content and Platforms Across All Grade Levels
+
+          A. Streaming Restrictions: Classroom access to streaming media is limited to
+          content that supports an instructional purpose and is selected by an educator through
+          an Approved Educational Technology service. PPS will use industry-standard
+          filtering and monitoring tools to block restricted content across platforms.
+
+          Staff may not require or direct students to create accounts, disclose personal
+          information, upload student work, or use an educational technology service unless the
+          service has been approved through the PPS educational technology review process.
+          Staff may not accept click-through terms on behalf of PPS or use free applications,
+          browser extensions, pilot programs, or artificial intelligence tools unless authorized
+          under that process.
+           B. Responsible Use Policy: Consistent with the Responsible Use Policy, use of PPS
+           Devices, accounts, networks, and systems may be monitored for legitimate
+           educational, safety, security, legal, and operational purposes. Automated alerts or
+           classifications will receive appropriate human review before being used for discipline,
+           grading, special-education decisions, or other material decisions affecting a student.
+           Students using PPS Devices, accounts, or networks will have no expectation of
+           privacy.
+
+V. ​     Operational Accountability
+
+           A. EdTech Audit: PPS will conduct an annual review of all educational technology
+           contracts and, to the extent feasible, conduct an assessment of unapproved digital
+           technology use and report to the Board the results of the review.
+
+           B. Evaluation of Impact of Technology Application Use: PPS will develop a plan
+           for the adoption of digital technology used for instruction.
+
+   VI.   Digital Literacy
+
+   PPS will integrate developmentally appropriate Digital Literacy instruction into the core
+   curriculum for grades K–12. This instruction will focus on:
+
+           A. Evaluating source credibility and detecting misinformation;
+
+           B. Understanding data privacy and the Responsible Use Policy;
+
+           C. The environmental and social impacts of digital technologies;
+
+           D. Safe and respectful use of digital tools;
+
+           E. Skills to critically evaluate digital content;
+
+           F. Developing critical thinking, creativity, communication, collaboration, empathy,
+           judgment, and independent problem-solving skills in a rapidly evolving technological
+           world; and
+
+           G. Maintaining healthy technology habits, including attention management, periodic
+           breaks, ergonomics, and awareness of persuasive or engagement-focused design.
+
+   VI.   Professional Learning
+
+   All PPS staff members will complete annual training about data privacy, security, and
+   responsible use to ensure alignment with this policy, the Children’s Online Privacy Protect Act
+   (COPPA), and the Family Educational Rights and Privacy Act (FERPA).
+  VII.​ Exceptions
+
+   The restrictions and limits provided in Section III of this Administrative Directive and the PPS
+   Screentime Guidelines may be modified to be consistent with students’ IEPs or Section 504
+   Plans based on individual students’ disability-related needs as determined by their IEP or
+   504 teams.
+
+
+Recommendations for Future Implementation
+To ensure PPS remains secure, compliant, and educationally effective, we formally recommend
+the following strategic initiatives:
+
+  1.​ Instructional Staff Professional Development: Cross-functional collaboration between
+      OTIS and Academic teams to design and deliver targeted professional learning. This will
+      focus on literacy, critical thinking, data privacy, and instructional strategies to prepare staff
+      for evolving technological realities. This effort requires funds which need to be sustained
+      over multiple fiscal years.
+
+  2.​ Development and Implementation of Digital Literacy: Student-facing digital literacy
+      lessons that include critical evaluation of technological outputs, ethical use, and
+      understanding bias.
+
+  3.​ Back-Office Modernization: Continue leveraging non-student-interactive AI within
+      approved back-office infrastructure (e.g., cybersecurity, Workday platform evolution,
+      filtering). Restricting administrative modernizations poses a severe risk of reduced central
+      services and unsustainable organic staff growth.
+
+  4.​ Parent & Community Engagement: Deepen partnerships with parent and family
+      advocacy groups (such as Schools Beyond Screens) to amplify shared goals surrounding
+      digital literacy and healthy technology usage outside the traditional school day.
+
+  5.​ Regular Updates to Board, Administrative Directives and AI Guidebook: Brief the
+      Board three times a year on the current state and future roadmap of district technology,
+      updating PPS Administrative Directives and the AI Guidebook on the same schedule.
+

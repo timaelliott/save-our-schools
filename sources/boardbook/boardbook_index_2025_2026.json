@@ -1,13 +1,98 @@
 {
- "generated": "2026-10-27T17:02:12Z",
+ "generated": "2026-10-31T00:15:43Z",
  "source": "https://meetings.boardbook.org/public/Organization/915",
  "meetings": [
+  {
+   "id": "775084",
+   "head": "November 4, 2026 at 6:00 PM - Regular Meeting",
+   "type": "Regular",
+   "loc": "Benson High School",
+   "vids": [],
+   "det": [
+    {
+     "t": "Supplemental Resources",
+     "h": "/Meeting/Supplementals/915?meeting=775084"
+    },
+    {
+     "t": "Public Notice",
+     "h": "/Public/PublicNotice/915?meeting=775084"
+    },
+    {
+     "t": "Agenda",
+     "h": "/Public/Agenda/915?meeting=775084"
+    }
+   ],
+   "items": [
+    {
+     "file": "14611849",
+     "name": "OSAS Focal Students Board Presentation",
+     "item": "6. 7:00 pm - 2025-26 Oregon Statewide Assessment System (OSAS) Results"
+    },
+    {
+     "file": "14611850",
+     "name": "PPS Focal Students",
+     "item": "6. 7:00 pm - 2025-26 Oregon Statewide Assessment System (OSAS) Results"
+    },
+    {
+     "file": "14615681",
+     "name": "Fall 2026 Board Memo OSAS",
+     "item": "6. 7:00 pm - 2025-26 Oregon Statewide Assessment System (OSAS) Results"
+    },
+    {
+     "file": "14615901",
+     "name": "11.04.26 BOE Meeting_Rightsizing",
+     "item": "7. 7:30 pm - Rightsizing"
+    },
+    {
+     "file": "14610696",
+     "name": "Board Memo - GenAI Systems Inventory and Policy Update",
+     "item": "8. 8:30 pm - GenAI Systems Inventory and Policy Update"
+    },
+    {
+     "file": "14610697",
+     "name": "Presentation: Update on AI Pause resolution",
+     "item": "8. 8:30 pm - GenAI Systems Inventory and Policy Update"
+    },
+    {
+     "file": "14609860",
+     "name": "Reso 7392 - Expenditure Contracts",
+     "item": "9.(a) Resolution 7392 - Expenditure Contracts"
+    },
+    {
+     "file": "14609865",
+     "name": "Reso 7393 - Revenue Contracts",
+     "item": "9.(b) Resolution 7393 - Revenue Contracts"
+    },
+    {
+     "file": "14611800",
+     "name": "Resolution 7394 - Adoption of the Minutes",
+     "item": "9.(c) Resolution 7394 - Adoption of the Minutes"
+    },
+    {
+     "file": "14611852",
+     "name": "26-10-28_Resolution_Appointment of Community Budget Review Committee Members",
+     "item": "9.(d) Resolution 7395 - Appointment of Community Budget Review Committee Members"
+    },
+    {
+     "file": "14611853",
+     "name": "26-10-28_Staff Report to the Board",
+     "item": "9.(d) Resolution 7395 - Appointment of Community Budget Review Committee Members"
+    },
+    {
+     "file": "14617866",
+     "name": "Reso 7396 -  to Appoint Members to the Climate Crisis Response Committee 2026-2027",
+     "item": "9.(e) Resolution 7396 - to Appoint Three Members to the 2026-2027 Climate Crisis Response Committee (CCRC)"
+    }
+   ]
+  },
   {
    "id": "774181",
    "head": "October 27, 2026 at 6:30 PM - Audit Committee Meeting",
    "type": "Committee (Audit Committee)",
    "loc": "Dr. Matthew Prophet Education Center - Board Auditorium",
-   "vids": [],
+   "vids": [
+    "https://www.youtube.com/watch?v=Y08divelF5k"
+   ],
    "det": [
     {
      "t": "Public Notice",
@@ -20,54 +105,54 @@
    ],
    "items": [
     {
-     "file": "14594896",
-     "name": "10272026 Audit Committee Meeting",
-     "item": "4. Audit Committee Roles and Responsibilities"
-    },
-    {
      "file": "14594897",
      "name": "Audit Committee Liaison Annual Support Plan",
-     "item": "4. Audit Committee Roles and Responsibilities"
+     "item": "3. Audit Committee Roles and Responsibilities"
+    },
+    {
+     "file": "14607440",
+     "name": "10272026 Audit Committee Meeting (1)",
+     "item": "3. Audit Committee Roles and Responsibilities"
     },
     {
      "file": "14602889",
      "name": "1 Article_Why Professional Skepticism Is Too Important To Leave To Internal Audit Alone",
-     "item": "5. Office of Internal Performance Audit (OIPA) Updates"
+     "item": "4. Office of Internal Performance Audit (OIPA) Updates"
     },
     {
      "file": "14602890",
      "name": "2 Board Policy 1.60.040-P_ District Performance Auditing",
-     "item": "5. Office of Internal Performance Audit (OIPA) Updates"
+     "item": "4. Office of Internal Performance Audit (OIPA) Updates"
     },
     {
      "file": "14602891",
      "name": "3 PPS Audit Committe and Internal Performance Audit Charter and Process",
-     "item": "5. Office of Internal Performance Audit (OIPA) Updates"
+     "item": "4. Office of Internal Performance Audit (OIPA) Updates"
     },
     {
      "file": "14602892",
      "name": "4 White Paper_Internal Auditing In The Big City Schools_September2025",
-     "item": "5. Office of Internal Performance Audit (OIPA) Updates"
+     "item": "4. Office of Internal Performance Audit (OIPA) Updates"
     },
     {
      "file": "14602893",
      "name": "5 Essential Conditions",
-     "item": "5. Office of Internal Performance Audit (OIPA) Updates"
+     "item": "4. Office of Internal Performance Audit (OIPA) Updates"
     },
     {
      "file": "14602894",
      "name": "Communications Protocol",
-     "item": "5. Office of Internal Performance Audit (OIPA) Updates"
+     "item": "4. Office of Internal Performance Audit (OIPA) Updates"
     },
     {
      "file": "14602895",
      "name": "OIPA Overview_10_27_26",
-     "item": "5. Office of Internal Performance Audit (OIPA) Updates"
+     "item": "4. Office of Internal Performance Audit (OIPA) Updates"
     },
     {
      "file": "14594907",
      "name": "2026 Communications to TCWG - Planning",
-     "item": "8. Other Audit Updates"
+     "item": "7. Other Audit Updates"
     }
    ]
   },
@@ -76,7 +161,9 @@
    "head": "October 27, 2026 at 4:30 PM - Policy Committee Meeting",
    "type": "Committee (Policy Committee)",
    "loc": "Dr. Matthew Prophet Education Center",
-   "vids": [],
+   "vids": [
+    "https://www.youtube.com/watch?v=GvsV7fMZrlQ"
+   ],
    "det": [
     {
      "t": "Public Notice",
@@ -134,23 +221,23 @@
      "item": "7. Proposed Revisions to 3.30.080-P: PPS Climate Crisis Response, Climate Justice and Sustainable Practices Policy"
     },
     {
-     "file": "14594659",
-     "name": "Digital Device and Screen Use Policy clean staff proposed 26_10_23.docx",
-     "item": "8. Digital Device and Screen Use Policy"
-    },
-    {
-     "file": "14594674",
-     "name": "Digital Device and Screen Use Policy redline staff proposed 26_10_23.docx",
-     "item": "8. Digital Device and Screen Use Policy"
-    },
-    {
      "file": "14594676",
      "name": "SBS Portland Screen Use Policy Revised DRAFT 10.12  (2)",
      "item": "8. Digital Device and Screen Use Policy"
     },
     {
-     "file": "14594971",
-     "name": "Screen Time Policy Board Presentation - Oct.",
+     "file": "14606553",
+     "name": "Digital Device and Screen Use Policy clean staff proposal corrected",
+     "item": "8. Digital Device and Screen Use Policy"
+    },
+    {
+     "file": "14606555",
+     "name": "PPS Screen Time Use Policy redlined staff proposal corrected",
+     "item": "8. Digital Device and Screen Use Policy"
+    },
+    {
+     "file": "14607992",
+     "name": "Screen Time Policy Board Presentation - Oct.  (1)",
      "item": "8. Digital Device and Screen Use Policy"
     }
    ]
@@ -160,7 +247,9 @@
    "head": "October 27, 2026 at 12:00 PM - Intergovernmental Affairs Committee Meeting",
    "type": "Committee (Intergovernmental Affairs Committee)",
    "loc": "Virtual",
-   "vids": [],
+   "vids": [
+    "https://www.youtube.com/watch?v=7nN8RQAAt8E"
+   ],
    "det": [
     {
      "t": "Public Notice",
@@ -171,7 +260,13 @@
      "h": "/Public/Agenda/915?meeting=774309"
     }
    ],
-   "items": []
+   "items": [
+    {
+     "file": "14605906",
+     "name": "IGA Committe Presentation",
+     "item": "3. Legislative Priorities: Multnomah Education Service District Northwest Regional Service District Salem-Keizer School District"
+    }
+   ]
   },
   {
    "id": "772442",
@@ -353,6 +448,10 @@
     {
      "t": "Agenda",
      "h": "/Public/Agenda/915?meeting=769955"
+    },
+    {
+     "t": "Minutes",
+     "h": "/Public/Minutes/915?meeting=769955"
     }
    ],
    "items": [
@@ -1131,7 +1230,7 @@
    "items": [
     {
      "file": "3988679",
-     "name": "Resolution 7356- 2026–2027 Agreement between Portland Association of Teachers Subsitutes and School District No. 1J, Multnomah County, Oregon",
+     "name": "Resolution 7356- 2026\u20132027 Agreement between Portland Association of Teachers Subsitutes and School District No. 1J, Multnomah County, Oregon",
      "item": "5. 6:50 pm - 2026-2027 Agreement between Portland Association of Substitute Teachers and School District No. 1J, Multnomah County, Oregon (Resolution 7356) Vote - Public Comment Accepted"
     },
     {
@@ -1146,7 +1245,7 @@
     },
     {
      "file": "3997396",
-     "name": "Resolution 7361- 2026–2029 Agreement between Service Employees International Union (SEIU) and School District No. 1J, Multnomah County, Oregon",
+     "name": "Resolution 7361- 2026\u20132029 Agreement between Service Employees International Union (SEIU) and School District No. 1J, Multnomah County, Oregon",
      "item": "6. 6:55 pm - 2026-2029 Agreement between Service Employees International Union and School District No. 1J, Multnomah County, Oregon (Resolution 7361)"
     },
     {
@@ -1428,8 +1527,8 @@
     },
     {
      "file": "3997391",
-     "name": "Resolution 7350 - to Adopt the Superintendent’s Performance Evaluation for 2025-2026",
-     "item": "8.(h) Resolution 7350 - Resolution to Adopt the Superintendent’s Performance Evaluation for 2025-2026"
+     "name": "Resolution 7350 - to Adopt the Superintendent\u2019s Performance Evaluation for 2025-2026",
+     "item": "8.(h) Resolution 7350 - Resolution to Adopt the Superintendent\u2019s Performance Evaluation for 2025-2026"
     }
    ],
    "supp": [],
@@ -1517,17 +1616,17 @@
     {
      "file": "3988301",
      "name": "2026 Board Update DCU Ratification.docx",
-     "item": "4. 6:40 pm - 2026–2027 Agreement between District Council of Unions and School District No. 1J, Multnomah County, Oregon (Resolution 7330) Vote - Public Comment Accepted"
+     "item": "4. 6:40 pm - 2026\u20132027 Agreement between District Council of Unions and School District No. 1J, Multnomah County, Oregon (Resolution 7330) Vote - Public Comment Accepted"
     },
     {
      "file": "3989759",
-     "name": "Resolution 7330 - 2026–2027 Agreement between  DCU  and School District No. 1J, Multnomah County, Oregon",
-     "item": "4. 6:40 pm - 2026–2027 Agreement between District Council of Unions and School District No. 1J, Multnomah County, Oregon (Resolution 7330) Vote - Public Comment Accepted"
+     "name": "Resolution 7330 - 2026\u20132027 Agreement between  DCU  and School District No. 1J, Multnomah County, Oregon",
+     "item": "4. 6:40 pm - 2026\u20132027 Agreement between District Council of Unions and School District No. 1J, Multnomah County, Oregon (Resolution 7330) Vote - Public Comment Accepted"
     },
     {
      "file": "3990452",
      "name": "REDLINE - DCU CBA 2026-28.docx (4)",
-     "item": "4. 6:40 pm - 2026–2027 Agreement between District Council of Unions and School District No. 1J, Multnomah County, Oregon (Resolution 7330) Vote - Public Comment Accepted"
+     "item": "4. 6:40 pm - 2026\u20132027 Agreement between District Council of Unions and School District No. 1J, Multnomah County, Oregon (Resolution 7330) Vote - Public Comment Accepted"
     },
     {
      "file": "3997359",
@@ -1556,13 +1655,13 @@
     },
     {
      "file": "3997354",
-     "name": "Resolution 7323 K–12 Comprehensive Health Education Curriculum Materials Adoption",
-     "item": "8. 7:30 pm - K–12 Comprehensive Health Education Curriculum Materials Adoption (Resolution 7323) Vote - Public Comment Accepted"
+     "name": "Resolution 7323 K\u201312 Comprehensive Health Education Curriculum Materials Adoption",
+     "item": "8. 7:30 pm - K\u201312 Comprehensive Health Education Curriculum Materials Adoption (Resolution 7323) Vote - Public Comment Accepted"
     },
     {
      "file": "3997355",
      "name": "Board Memo - Health Curriculum Adoption",
-     "item": "8. 7:30 pm - K–12 Comprehensive Health Education Curriculum Materials Adoption (Resolution 7323) Vote - Public Comment Accepted"
+     "item": "8. 7:30 pm - K\u201312 Comprehensive Health Education Curriculum Materials Adoption (Resolution 7323) Vote - Public Comment Accepted"
     },
     {
      "file": "3997356",
@@ -1936,13 +2035,13 @@
     },
     {
      "file": "3997333",
-     "name": "Resolution 7316 - 2025–2028 Agreement between  ATU and School District No. 1J, Multnomah County, Oregon",
-     "item": "8. 7:10 pm - 2025–2028 Agreement between Amalgamated Transit Union and School District No. 1J, Multnomah County, Oregon (Resolution 7316) Vote - Public Comment Accepted"
+     "name": "Resolution 7316 - 2025\u20132028 Agreement between  ATU and School District No. 1J, Multnomah County, Oregon",
+     "item": "8. 7:10 pm - 2025\u20132028 Agreement between Amalgamated Transit Union and School District No. 1J, Multnomah County, Oregon (Resolution 7316) Vote - Public Comment Accepted"
     },
     {
      "file": "3997334",
      "name": "REDLINE 2025-2028 PPS-ATU CBA",
-     "item": "8. 7:10 pm - 2025–2028 Agreement between Amalgamated Transit Union and School District No. 1J, Multnomah County, Oregon (Resolution 7316) Vote - Public Comment Accepted"
+     "item": "8. 7:10 pm - 2025\u20132028 Agreement between Amalgamated Transit Union and School District No. 1J, Multnomah County, Oregon (Resolution 7316) Vote - Public Comment Accepted"
     },
     {
      "file": "3997291",
@@ -2230,18 +2329,18 @@
    "items": [
     {
      "file": "3997285",
-     "name": "Resolution 7306 - 2026–2027 Agreement between Portland Association of Teachers and School District No. 1J, Multnomah County, Oregon.docx",
-     "item": "4. 6:45 pm - 2026–2027 Agreement between Portland Association of Teachers and School District No. 1J, Multnomah County, Oregon (Resolution 7306) Vote - Pubic Comment Accepted"
+     "name": "Resolution 7306 - 2026\u20132027 Agreement between Portland Association of Teachers and School District No. 1J, Multnomah County, Oregon.docx",
+     "item": "4. 6:45 pm - 2026\u20132027 Agreement between Portland Association of Teachers and School District No. 1J, Multnomah County, Oregon (Resolution 7306) Vote - Pubic Comment Accepted"
     },
     {
      "file": "3997286",
      "name": "2026 Board Update PAT Ratification.docx",
-     "item": "4. 6:45 pm - 2026–2027 Agreement between Portland Association of Teachers and School District No. 1J, Multnomah County, Oregon (Resolution 7306) Vote - Pubic Comment Accepted"
+     "item": "4. 6:45 pm - 2026\u20132027 Agreement between Portland Association of Teachers and School District No. 1J, Multnomah County, Oregon (Resolution 7306) Vote - Pubic Comment Accepted"
     },
     {
      "file": "3997287",
      "name": "PAT - PPS Tentative Agreement",
-     "item": "4. 6:45 pm - 2026–2027 Agreement between Portland Association of Teachers and School District No. 1J, Multnomah County, Oregon (Resolution 7306) Vote - Pubic Comment Accepted"
+     "item": "4. 6:45 pm - 2026\u20132027 Agreement between Portland Association of Teachers and School District No. 1J, Multnomah County, Oregon (Resolution 7306) Vote - Pubic Comment Accepted"
     },
     {
      "file": "3997259",
@@ -2310,18 +2409,18 @@
     },
     {
      "file": "3988929",
-     "name": "Resolution 7291 - to Amend the District’s Public Contracting Rules",
-     "item": "11. 9:15 pm - Motion to Rescind Resolution 7291, Resolution to Amend the District’s Public Contracting Rules"
+     "name": "Resolution 7291 - to Amend the District\u2019s Public Contracting Rules",
+     "item": "11. 9:15 pm - Motion to Rescind Resolution 7291, Resolution to Amend the District\u2019s Public Contracting Rules"
     },
     {
      "file": "3990018",
      "name": "2026 Portland Public Schools Public Contracting Rules Clean Copy",
-     "item": "11. 9:15 pm - Motion to Rescind Resolution 7291, Resolution to Amend the District’s Public Contracting Rules"
+     "item": "11. 9:15 pm - Motion to Rescind Resolution 7291, Resolution to Amend the District\u2019s Public Contracting Rules"
     },
     {
      "file": "3990318",
      "name": "First Reading Packet - 2026 Public Contracting Rules Revisions with redline - first read 3-10-2026",
-     "item": "11. 9:15 pm - Motion to Rescind Resolution 7291, Resolution to Amend the District’s Public Contracting Rules"
+     "item": "11. 9:15 pm - Motion to Rescind Resolution 7291, Resolution to Amend the District\u2019s Public Contracting Rules"
     },
     {
      "file": "3997261",
@@ -2453,47 +2552,47 @@
     {
      "file": "3988276",
      "name": "Memo-Revisions to Section 7.00.000 Policies-26_04_30",
-     "item": "7. Policies in the Public Comment Period (informational) 1.70.020-P - Policies and Administrative Directives - (Revision) 7.00.000-P - Community Policies — (Revisions and Rescissions) 7.10.010-P Schoo"
+     "item": "7. Policies in the Public Comment Period (informational) 1.70.020-P - Policies and Administrative Directives - (Revision) 7.00.000-P - Community Policies \u2014 (Revisions and Rescissions) 7.10.010-P Schoo"
     },
     {
      "file": "3990292",
      "name": "Staff Memo re Policy Revisions - Section 7.00.000",
-     "item": "7. Policies in the Public Comment Period (informational) 1.70.020-P - Policies and Administrative Directives - (Revision) 7.00.000-P - Community Policies — (Revisions and Rescissions) 7.10.010-P Schoo"
+     "item": "7. Policies in the Public Comment Period (informational) 1.70.020-P - Policies and Administrative Directives - (Revision) 7.00.000-P - Community Policies \u2014 (Revisions and Rescissions) 7.10.010-P Schoo"
     },
     {
      "file": "3990303",
      "name": "1.70.020-P Policies and Administrative Directives Draft Redline",
-     "item": "7. Policies in the Public Comment Period (informational) 1.70.020-P - Policies and Administrative Directives - (Revision) 7.00.000-P - Community Policies — (Revisions and Rescissions) 7.10.010-P Schoo"
+     "item": "7. Policies in the Public Comment Period (informational) 1.70.020-P - Policies and Administrative Directives - (Revision) 7.00.000-P - Community Policies \u2014 (Revisions and Rescissions) 7.10.010-P Schoo"
     },
     {
      "file": "3991326",
      "name": "7.10.010-P School-Site Councils",
-     "item": "7. Policies in the Public Comment Period (informational) 1.70.020-P - Policies and Administrative Directives - (Revision) 7.00.000-P - Community Policies — (Revisions and Rescissions) 7.10.010-P Schoo"
+     "item": "7. Policies in the Public Comment Period (informational) 1.70.020-P - Policies and Administrative Directives - (Revision) 7.00.000-P - Community Policies \u2014 (Revisions and Rescissions) 7.10.010-P Schoo"
     },
     {
      "file": "3991483",
      "name": "7.10.020-P Districtwide Advocacy and Fundraising",
-     "item": "7. Policies in the Public Comment Period (informational) 1.70.020-P - Policies and Administrative Directives - (Revision) 7.00.000-P - Community Policies — (Revisions and Rescissions) 7.10.010-P Schoo"
+     "item": "7. Policies in the Public Comment Period (informational) 1.70.020-P - Policies and Administrative Directives - (Revision) 7.00.000-P - Community Policies \u2014 (Revisions and Rescissions) 7.10.010-P Schoo"
     },
     {
      "file": "3991685",
      "name": "7.10.030-P District Foundation",
-     "item": "7. Policies in the Public Comment Period (informational) 1.70.020-P - Policies and Administrative Directives - (Revision) 7.00.000-P - Community Policies — (Revisions and Rescissions) 7.10.010-P Schoo"
+     "item": "7. Policies in the Public Comment Period (informational) 1.70.020-P - Policies and Administrative Directives - (Revision) 7.00.000-P - Community Policies \u2014 (Revisions and Rescissions) 7.10.010-P Schoo"
     },
     {
      "file": "3991926",
      "name": "7.10.040-P Parental and Family Involvement in Support of Academic Achievement",
-     "item": "7. Policies in the Public Comment Period (informational) 1.70.020-P - Policies and Administrative Directives - (Revision) 7.00.000-P - Community Policies — (Revisions and Rescissions) 7.10.010-P Schoo"
+     "item": "7. Policies in the Public Comment Period (informational) 1.70.020-P - Policies and Administrative Directives - (Revision) 7.00.000-P - Community Policies \u2014 (Revisions and Rescissions) 7.10.010-P Schoo"
     },
     {
      "file": "3992090",
      "name": "7.20.020-P Volunteers",
-     "item": "7. Policies in the Public Comment Period (informational) 1.70.020-P - Policies and Administrative Directives - (Revision) 7.00.000-P - Community Policies — (Revisions and Rescissions) 7.10.010-P Schoo"
+     "item": "7. Policies in the Public Comment Period (informational) 1.70.020-P - Policies and Administrative Directives - (Revision) 7.00.000-P - Community Policies \u2014 (Revisions and Rescissions) 7.10.010-P Schoo"
     },
     {
      "file": "3992235",
      "name": "7.20.040-P Citizen - Community Sponsored Contests",
-     "item": "7. Policies in the Public Comment Period (informational) 1.70.020-P - Policies and Administrative Directives - (Revision) 7.00.000-P - Community Policies — (Revisions and Rescissions) 7.10.010-P Schoo"
+     "item": "7. Policies in the Public Comment Period (informational) 1.70.020-P - Policies and Administrative Directives - (Revision) 7.00.000-P - Community Policies \u2014 (Revisions and Rescissions) 7.10.010-P Schoo"
     }
    ],
    "supp": [],
@@ -2729,47 +2828,47 @@
     {
      "file": "3988452",
      "name": "Memo-Revisons to Secion 7.00.000 Polciies-26_04_30",
-     "item": "14. 9:30 pm - First Reading: 1.70.020-P - Policies and Administrative Directives - (Revision) 7.00.000-P - Community Policies — (Revisions and Rescissions) 7.10.010-P School-Site Councils 7.10.020-P D"
+     "item": "14. 9:30 pm - First Reading: 1.70.020-P - Policies and Administrative Directives - (Revision) 7.00.000-P - Community Policies \u2014 (Revisions and Rescissions) 7.10.010-P School-Site Councils 7.10.020-P D"
     },
     {
      "file": "3989433",
      "name": "Staff Memo re Policy Revisions - Section 7.00.000",
-     "item": "14. 9:30 pm - First Reading: 1.70.020-P - Policies and Administrative Directives - (Revision) 7.00.000-P - Community Policies — (Revisions and Rescissions) 7.10.010-P School-Site Councils 7.10.020-P D"
+     "item": "14. 9:30 pm - First Reading: 1.70.020-P - Policies and Administrative Directives - (Revision) 7.00.000-P - Community Policies \u2014 (Revisions and Rescissions) 7.10.010-P School-Site Councils 7.10.020-P D"
     },
     {
      "file": "3990584",
      "name": "1.70.020-P Policies and Administrative Directives Draft Redline",
-     "item": "14. 9:30 pm - First Reading: 1.70.020-P - Policies and Administrative Directives - (Revision) 7.00.000-P - Community Policies — (Revisions and Rescissions) 7.10.010-P School-Site Councils 7.10.020-P D"
+     "item": "14. 9:30 pm - First Reading: 1.70.020-P - Policies and Administrative Directives - (Revision) 7.00.000-P - Community Policies \u2014 (Revisions and Rescissions) 7.10.010-P School-Site Councils 7.10.020-P D"
     },
     {
      "file": "3991240",
      "name": "7.10.010-P School-Site Councils",
-     "item": "14. 9:30 pm - First Reading: 1.70.020-P - Policies and Administrative Directives - (Revision) 7.00.000-P - Community Policies — (Revisions and Rescissions) 7.10.010-P School-Site Councils 7.10.020-P D"
+     "item": "14. 9:30 pm - First Reading: 1.70.020-P - Policies and Administrative Directives - (Revision) 7.00.000-P - Community Policies \u2014 (Revisions and Rescissions) 7.10.010-P School-Site Councils 7.10.020-P D"
     },
     {
      "file": "3991403",
      "name": "7.10.020-P Districtwide Advocacy and Fundraising",
-     "item": "14. 9:30 pm - First Reading: 1.70.020-P - Policies and Administrative Directives - (Revision) 7.00.000-P - Community Policies — (Revisions and Rescissions) 7.10.010-P School-Site Councils 7.10.020-P D"
+     "item": "14. 9:30 pm - First Reading: 1.70.020-P - Policies and Administrative Directives - (Revision) 7.00.000-P - Community Policies \u2014 (Revisions and Rescissions) 7.10.010-P School-Site Councils 7.10.020-P D"
     },
     {
      "file": "3991857",
      "name": "7.10.030-P District Foundation",
-     "item": "14. 9:30 pm - First Reading: 1.70.020-P - Policies and Administrative Directives - (Revision) 7.00.000-P - Community Policies — (Revisions and Rescissions) 7.10.010-P School-Site Councils 7.10.020-P D"
+     "item": "14. 9:30 pm - First Reading: 1.70.020-P - Policies and Administrative Directives - (Revision) 7.00.000-P - Community Policies \u2014 (Revisions and Rescissions) 7.10.010-P School-Site Councils 7.10.020-P D"
     },
     {
      "file": "3991927",
      "name": "7.10.040-P Parental and Family Involvement in Support of Academic Achievement",
-     "item": "14. 9:30 pm - First Reading: 1.70.020-P - Policies and Administrative Directives - (Revision) 7.00.000-P - Community Policies — (Revisions and Rescissions) 7.10.010-P School-Site Councils 7.10.020-P D"
+     "item": "14. 9:30 pm - First Reading: 1.70.020-P - Policies and Administrative Directives - (Revision) 7.00.000-P - Community Policies \u2014 (Revisions and Rescissions) 7.10.010-P School-Site Councils 7.10.020-P D"
     },
     {
      "file": "3992203",
      "name": "7.20.020-P Volunteers",
-     "item": "14. 9:30 pm - First Reading: 1.70.020-P - Policies and Administrative Directives - (Revision) 7.00.000-P - Community Policies — (Revisions and Rescissions) 7.10.010-P School-Site Councils 7.10.020-P D"
+     "item": "14. 9:30 pm - First Reading: 1.70.020-P - Policies and Administrative Directives - (Revision) 7.00.000-P - Community Policies \u2014 (Revisions and Rescissions) 7.10.010-P School-Site Councils 7.10.020-P D"
     },
     {
      "file": "3992251",
      "name": "7.20.040-P Citizen - Community Sponsored Contests",
-     "item": "14. 9:30 pm - First Reading: 1.70.020-P - Policies and Administrative Directives - (Revision) 7.00.000-P - Community Policies — (Revisions and Rescissions) 7.10.010-P School-Site Councils 7.10.020-P D"
+     "item": "14. 9:30 pm - First Reading: 1.70.020-P - Policies and Administrative Directives - (Revision) 7.00.000-P - Community Policies \u2014 (Revisions and Rescissions) 7.10.010-P School-Site Councils 7.10.020-P D"
     },
     {
      "file": "3990012",
@@ -3073,7 +3172,7 @@
     },
     {
      "file": "3989427",
-     "name": "File_  710010-PSchool-SiteCouncils",
+     "name": "File_ \u00a0710010-PSchool-SiteCouncils",
      "item": "4.(a) 7.10.010-P School-Site Councils"
     },
     {
@@ -3103,27 +3202,27 @@
     },
     {
      "file": "3997093",
-     "name": "File_  710040-PParentalandFamilyInvolvementinSupportofAcademicAchievement",
+     "name": "File_ \u00a0710040-PParentalandFamilyInvolvementinSupportofAcademicAchievement",
      "item": "4.(d) 7.10.040-P Parental and Family Involvement in Support of Academic Achievement"
     },
     {
      "file": "3997094",
-     "name": "File_  7.20.020-P Volunteers Redline 020526",
+     "name": "File_ \u00a07.20.020-P Volunteers Redline 020526",
      "item": "4.(e) 7.20.020-P Volunteers"
     },
     {
      "file": "3997097",
-     "name": "File_  720020-PVolunteers",
+     "name": "File_ \u00a0720020-PVolunteers",
      "item": "4.(e) 7.20.020-P Volunteers"
     },
     {
      "file": "3997099",
-     "name": "File_  Beaverton policy IICC - Volunteers",
+     "name": "File_ \u00a0Beaverton policy IICC - Volunteers",
      "item": "4.(e) 7.20.020-P Volunteers"
     },
     {
      "file": "3997100",
-     "name": "File_  720040-PCitizen-CommunitySponsoredContests",
+     "name": "File_ \u00a0720040-PCitizen-CommunitySponsoredContests",
      "item": "4.(f) 7.20.040-P Citizen - Community Sponsored Contests"
     },
     {
@@ -3370,7 +3469,7 @@
     },
     {
      "file": "3988126",
-     "name": "Resolution 7291 - to Amend the District’s Public Contracting Rules",
+     "name": "Resolution 7291 - to Amend the District\u2019s Public Contracting Rules",
      "item": "8. 7:25 pm - Second Reading: Public Contracting Rules (Resolution 7291) Vote - Public comment accepted"
     },
     {
@@ -3749,62 +3848,62 @@
     },
     {
      "file": "3997080",
-     "name": "File_  7.10.010-P School Site Councils Redline 020426",
+     "name": "File_ \u00a07.10.010-P School Site Councils Redline 020426",
      "item": "4.(a) 7.10.010-P School-Site Councils"
     },
     {
      "file": "3997082",
-     "name": "File_  710010-PSchool-SiteCouncils",
+     "name": "File_ \u00a0710010-PSchool-SiteCouncils",
      "item": "4.(a) 7.10.010-P School-Site Councils"
     },
     {
      "file": "3997083",
-     "name": "File_  7.10.020-P Districtwide Advocacy and Fundraising Redline 020426",
+     "name": "File_ \u00a07.10.020-P Districtwide Advocacy and Fundraising Redline 020426",
      "item": "4.(b) 7.10.020-P Districtwide Advocacy and Fundraising"
     },
     {
      "file": "3997085",
-     "name": "File_  710020-PDistrictwideAdvocacyandFundraising",
+     "name": "File_ \u00a0710020-PDistrictwideAdvocacyandFundraising",
      "item": "4.(b) 7.10.020-P Districtwide Advocacy and Fundraising"
     },
     {
      "file": "3997086",
-     "name": "File_  7.10.030-P District Foundation Redline 021026",
+     "name": "File_ \u00a07.10.030-P District Foundation Redline 021026",
      "item": "4.(c) 7.10.030-P District Foundation"
     },
     {
      "file": "3997088",
-     "name": "File_  710030-PDistrictFoundation",
+     "name": "File_ \u00a0710030-PDistrictFoundation",
      "item": "4.(c) 7.10.030-P District Foundation"
     },
     {
      "file": "3997091",
-     "name": "File_  OSBA Foundation Policy DED G1",
+     "name": "File_ \u00a0OSBA Foundation Policy DED G1",
      "item": "4.(c) 7.10.030-P District Foundation"
     },
     {
      "file": "3997092",
-     "name": "File_  710040-PParentalandFamilyInvolvementinSupportofAcademicAchievement",
+     "name": "File_ \u00a0710040-PParentalandFamilyInvolvementinSupportofAcademicAchievement",
      "item": "4.(d) 7.10.040-P Parental and Family Involvement in Support of Academic Achievement"
     },
     {
      "file": "3997095",
-     "name": "File_  7.20.020-P Volunteers Redline 020526",
+     "name": "File_ \u00a07.20.020-P Volunteers Redline 020526",
      "item": "4.(e) 7.20.020-P Volunteers"
     },
     {
      "file": "3997096",
-     "name": "File_  720020-PVolunteers",
+     "name": "File_ \u00a0720020-PVolunteers",
      "item": "4.(e) 7.20.020-P Volunteers"
     },
     {
      "file": "3997098",
-     "name": "File_  Beaverton policy IICC - Volunteers",
+     "name": "File_ \u00a0Beaverton policy IICC - Volunteers",
      "item": "4.(e) 7.20.020-P Volunteers"
     },
     {
      "file": "3997101",
-     "name": "File_  720040-PCitizen-CommunitySponsoredContests",
+     "name": "File_ \u00a0720040-PCitizen-CommunitySponsoredContests",
      "item": "4.(f) 7.20.040-P Citizen - Community Sponsored Contests"
     }
    ],
@@ -5494,97 +5593,97 @@
     {
      "file": "3988475",
      "name": "Staff Memo_Jefferson Enrollment Scenario",
-     "item": "1. Jefferson High School Enrollment Scenario Proposal Listening Session Visit the Board’s webpage for details on how to provide comment."
+     "item": "1. Jefferson High School Enrollment Scenario Proposal Listening Session Visit the Board\u2019s webpage for details on how to provide comment."
     },
     {
      "file": "3989701",
      "name": "Superintendent's Proposal Together We Rise (2)",
-     "item": "1. Jefferson High School Enrollment Scenario Proposal Listening Session Visit the Board’s webpage for details on how to provide comment."
+     "item": "1. Jefferson High School Enrollment Scenario Proposal Listening Session Visit the Board\u2019s webpage for details on how to provide comment."
     },
     {
      "file": "3990663",
      "name": "A_ Board information item_  increasing enrollment at Jefferson 6.10.25.docx",
-     "item": "1. Jefferson High School Enrollment Scenario Proposal Listening Session Visit the Board’s webpage for details on how to provide comment."
+     "item": "1. Jefferson High School Enrollment Scenario Proposal Listening Session Visit the Board\u2019s webpage for details on how to provide comment."
     },
     {
      "file": "3991349",
      "name": "B_ Resolution 6627 Dec 2022",
-     "item": "1. Jefferson High School Enrollment Scenario Proposal Listening Session Visit the Board’s webpage for details on how to provide comment."
+     "item": "1. Jefferson High School Enrollment Scenario Proposal Listening Session Visit the Board\u2019s webpage for details on how to provide comment."
     },
     {
      "file": "3991466",
      "name": "C_ Resolution 4394 Jan 2011",
-     "item": "1. Jefferson High School Enrollment Scenario Proposal Listening Session Visit the Board’s webpage for details on how to provide comment."
+     "item": "1. Jefferson High School Enrollment Scenario Proposal Listening Session Visit the Board\u2019s webpage for details on how to provide comment."
     },
     {
      "file": "3991697",
      "name": "D_ High School Students Within 1.5 Miles of Grant(2)",
-     "item": "1. Jefferson High School Enrollment Scenario Proposal Listening Session Visit the Board’s webpage for details on how to provide comment."
+     "item": "1. Jefferson High School Enrollment Scenario Proposal Listening Session Visit the Board\u2019s webpage for details on how to provide comment."
     },
     {
      "file": "3991962",
      "name": "E_ High School Students Within 1.5 Miles of Jefferson",
-     "item": "1. Jefferson High School Enrollment Scenario Proposal Listening Session Visit the Board’s webpage for details on how to provide comment."
+     "item": "1. Jefferson High School Enrollment Scenario Proposal Listening Session Visit the Board\u2019s webpage for details on how to provide comment."
     },
     {
      "file": "3992209",
      "name": "F_ High School Students Within 1.5 Miles of McDaniel(2)",
-     "item": "1. Jefferson High School Enrollment Scenario Proposal Listening Session Visit the Board’s webpage for details on how to provide comment."
+     "item": "1. Jefferson High School Enrollment Scenario Proposal Listening Session Visit the Board\u2019s webpage for details on how to provide comment."
     },
     {
      "file": "3992237",
      "name": "G_ High School Students Within 1.5 Miles of N-NE High Schools(2)",
-     "item": "1. Jefferson High School Enrollment Scenario Proposal Listening Session Visit the Board’s webpage for details on how to provide comment."
+     "item": "1. Jefferson High School Enrollment Scenario Proposal Listening Session Visit the Board\u2019s webpage for details on how to provide comment."
     },
     {
      "file": "3992427",
      "name": "H_ High School Students Within 1.5 Miles of Roosevelt(2)",
-     "item": "1. Jefferson High School Enrollment Scenario Proposal Listening Session Visit the Board’s webpage for details on how to provide comment."
+     "item": "1. Jefferson High School Enrollment Scenario Proposal Listening Session Visit the Board\u2019s webpage for details on how to provide comment."
     },
     {
      "file": "3992452",
      "name": "I_ JHS Enrollment Summary",
-     "item": "1. Jefferson High School Enrollment Scenario Proposal Listening Session Visit the Board’s webpage for details on how to provide comment."
+     "item": "1. Jefferson High School Enrollment Scenario Proposal Listening Session Visit the Board\u2019s webpage for details on how to provide comment."
     },
     {
      "file": "3992562",
      "name": "J_ Transit Analysis",
-     "item": "1. Jefferson High School Enrollment Scenario Proposal Listening Session Visit the Board’s webpage for details on how to provide comment."
+     "item": "1. Jefferson High School Enrollment Scenario Proposal Listening Session Visit the Board\u2019s webpage for details on how to provide comment."
     },
     {
      "file": "3992589",
      "name": "K_  Superintendent_s Recommendation v1.2 (Updated 12.02.25)",
-     "item": "1. Jefferson High School Enrollment Scenario Proposal Listening Session Visit the Board’s webpage for details on how to provide comment."
+     "item": "1. Jefferson High School Enrollment Scenario Proposal Listening Session Visit the Board\u2019s webpage for details on how to provide comment."
     },
     {
      "file": "3992671",
      "name": "L_ Jefferson Dual Assignment_ Analysis of Current State & Options",
-     "item": "1. Jefferson High School Enrollment Scenario Proposal Listening Session Visit the Board’s webpage for details on how to provide comment."
+     "item": "1. Jefferson High School Enrollment Scenario Proposal Listening Session Visit the Board\u2019s webpage for details on how to provide comment."
     },
     {
      "file": "3992682",
      "name": "M_ Jefferson Dual Assignment_ Community Engagement Summary",
-     "item": "1. Jefferson High School Enrollment Scenario Proposal Listening Session Visit the Board’s webpage for details on how to provide comment."
+     "item": "1. Jefferson High School Enrollment Scenario Proposal Listening Session Visit the Board\u2019s webpage for details on how to provide comment."
     },
     {
      "file": "3992731",
      "name": "N_ Superintendent Recommended Attendance Areas",
-     "item": "1. Jefferson High School Enrollment Scenario Proposal Listening Session Visit the Board’s webpage for details on how to provide comment."
+     "item": "1. Jefferson High School Enrollment Scenario Proposal Listening Session Visit the Board\u2019s webpage for details on how to provide comment."
     },
     {
      "file": "3992768",
      "name": "O_ Map_DA HS Students by Race",
-     "item": "1. Jefferson High School Enrollment Scenario Proposal Listening Session Visit the Board’s webpage for details on how to provide comment."
+     "item": "1. Jefferson High School Enrollment Scenario Proposal Listening Session Visit the Board\u2019s webpage for details on how to provide comment."
     },
     {
      "file": "3992814",
      "name": "P_ Timeline of Outreach",
-     "item": "1. Jefferson High School Enrollment Scenario Proposal Listening Session Visit the Board’s webpage for details on how to provide comment."
+     "item": "1. Jefferson High School Enrollment Scenario Proposal Listening Session Visit the Board\u2019s webpage for details on how to provide comment."
     },
     {
      "file": "3992825",
      "name": "Q_ Jefferson Rising_ Final Community Engagement Analysis (2025.11.25)",
-     "item": "1. Jefferson High School Enrollment Scenario Proposal Listening Session Visit the Board’s webpage for details on how to provide comment."
+     "item": "1. Jefferson High School Enrollment Scenario Proposal Listening Session Visit the Board\u2019s webpage for details on how to provide comment."
     }
    ],
    "supp": [],
@@ -6475,7 +6574,7 @@
     {
      "file": "3996677",
      "name": "FY25 Audit Update Memo 10-13-2025",
-     "item": "5. Discussion on the Audit Committee's Oversight Role Related to PPS’s External Auditors Annual Comprehensive Financial Report (ACFR) Annual Bond Performance Audits"
+     "item": "5. Discussion on the Audit Committee's Oversight Role Related to PPS\u2019s External Auditors Annual Comprehensive Financial Report (ACFR) Annual Bond Performance Audits"
     },
     {
      "file": "3996678",
@@ -6555,8 +6654,8 @@
     },
     {
      "file": "3996638",
-     "name": "Resolution 7186_ Recognizing Indigenous Peoples’ Day",
-     "item": "3. 6:10 pm - Resolution Recognizing Indigenous People’s Day (Resolution 7186) Vote - Public comment accepted"
+     "name": "Resolution 7186_ Recognizing Indigenous Peoples\u2019 Day",
+     "item": "3. 6:10 pm - Resolution Recognizing Indigenous People\u2019s Day (Resolution 7186) Vote - Public comment accepted"
     },
     {
      "file": "3996669",
@@ -7464,7 +7563,7 @@
     },
     {
      "file": "3996561",
-     "name": "File_  Resolution 6993_Superintendent Evaluation Template with Recommended Edits Document",
+     "name": "File_ \u00a0Resolution 6993_Superintendent Evaluation Template with Recommended Edits Document",
      "item": "7. Additional Protocols A. Strategic Planning B. Superintendent Evaluation C. Board Self-Evaluation"
     }
    ],
@@ -8001,12 +8100,12 @@
     {
      "file": "3988086",
      "name": "Interfund Loan Resolution Staff Report",
-     "item": "11.(s) Resolution 7157 - Authorizing an Interfund Loan from Fund 601 (Workers’ Compensation Fund) to Fund 100 (General Fund)"
+     "item": "11.(s) Resolution 7157 - Authorizing an Interfund Loan from Fund 601 (Workers\u2019 Compensation Fund) to Fund 100 (General Fund)"
     },
     {
      "file": "3990046",
-     "name": "Resolution 7157 - Authorizing an Interfund Loan from Fund 601 Workers’ Compensation Fund to Fund 100 General Fund - as adopted 7-22-25",
-     "item": "11.(s) Resolution 7157 - Authorizing an Interfund Loan from Fund 601 (Workers’ Compensation Fund) to Fund 100 (General Fund)"
+     "name": "Resolution 7157 - Authorizing an Interfund Loan from Fund 601 Workers\u2019 Compensation Fund to Fund 100 General Fund - as adopted 7-22-25",
+     "item": "11.(s) Resolution 7157 - Authorizing an Interfund Loan from Fund 601 (Workers\u2019 Compensation Fund) to Fund 100 (General Fund)"
     }
    ],
    "supp": [
@@ -8376,8 +8475,8 @@
     },
     {
      "file": "3996430",
-     "name": "Resolution 7122 - Superintendent’s Performance Evaluation 2024-25",
-     "item": "14. 8:10 pm - Superintendent’s Evaluation Adoption (Resolution 7122) Vote - Public comment accepted"
+     "name": "Resolution 7122 - Superintendent\u2019s Performance Evaluation 2024-25",
+     "item": "14. 8:10 pm - Superintendent\u2019s Evaluation Adoption (Resolution 7122) Vote - Public comment accepted"
     },
     {
      "file": "3996433",
@@ -8937,8 +9036,8 @@
     },
     {
      "file": "3996391",
-     "name": "Resolution 7110 - Resolution to Affirm the Board of Education’s Commitment to Track and Report Findings, Public Engagement and Recommendation of Seism",
-     "item": "11.(b) Resolution to Affirm the Board of Education’s Commitment to Track and Report Findings, Public Engagement and Recommendation of Seismic Upgrades through the School Facilities Improvement and Ope"
+     "name": "Resolution 7110 - Resolution to Affirm the Board of Education\u2019s Commitment to Track and Report Findings, Public Engagement and Recommendation of Seism",
+     "item": "11.(b) Resolution to Affirm the Board of Education\u2019s Commitment to Track and Report Findings, Public Engagement and Recommendation of Seismic Upgrades through the School Facilities Improvement and Ope"
     },
     {
      "file": "3988281",

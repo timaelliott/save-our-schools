@@ -1,0 +1,993 @@
+<!DOCTYPE html>
+<html lang='en' >
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="copyright" content="2015-2026. Sparq Data Solutions Inc. - All Rights Reserved.">
+    <title>Custom Public Notices for September 8, 2026 at 4:30 PM - Teaching, Learning, and Enrollment Committee Meeting - BoardBook Premier</title>
+<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.0.4/popper.js" type="text/javascript"></script>
+<style>
+    #DisplayHeader h1 {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        margin-bottom: 0;
+        font-size: 18px;
+    }
+
+    #DisplayHeader {
+        color: white;
+        text-shadow: 2px 2px rgba(51,51, 51, 0.5);
+        text-align: center;
+        font-weight: bold;
+    }
+
+    #DisplayHeader {
+        background-color: rgb(13,107,181);
+        background-image: linear-gradient(to top, rgb(27,81,143) 29%, rgb(13,107,181) 79%, rgb(25,120,208) 95%);
+        background-image: -o-linear-gradient(bottom, rgb(27,81,143) 29%, rgb(13,107,181) 79%, rgb(25,120,208) 95%);
+        background-image: -moz-linear-gradient(bottom, rgb(27,81,143) 29%, rgb(13,107,181) 79%, rgb(25,120,208) 95%);
+        background-image: -webkit-linear-gradient(bottom, rgb(27,81,143) 29%, rgb(13,107,181) 79%, rgb(25,120,208) 95%);
+        background-image: -ms-linear-gradient(bottom, rgb(27,81,143) 29%, rgb(13,107,181) 79%, rgb(25,120,208) 95%);
+    }
+</style>
+<script>
+    if (typeof window.useBackupCssUrl !== "function") {
+        window.useBackupCssUrl = function (backupUrl, anotherBackupUrl) {
+            var found = document.querySelectorAll('link[href="' + backupUrl + '"]');
+            if (found && found.length > 0) {
+                console.error('won\'t add duplicate backup css link for ' + backupUrl);
+                return;
+            }
+
+            try {
+                var linkElement = document.createElement('link');
+                linkElement.setAttribute('rel', 'stylesheet');
+                linkElement.setAttribute('type', 'text/css');
+                linkElement.setAttribute('href', backupUrl);
+
+                if (anotherBackupUrl)
+                    linkElement.setAttribute('onerror', "window.useBackupCssUrl('" + anotherBackupUrl + "')");
+
+                document.head.appendChild(linkElement)
+                console.error('added backup css link element to ' + backupUrl);
+            } catch (e) {
+                if (anotherBackupUrl)
+                    anotherBackupUrl = " onerror='window.useBackupCssUrl('" + anotherBackupUrl + "')'";
+                else
+                    anotherBackupUrl = "";
+
+                document.querySelector('head').innerHTML += '<link rel="stylesheet" href="' + backupUrl + '"' + anotherBackupUrl + ' type="text/css"/>';
+                console.error('added backup css link HTML to ' + backupUrl);
+            }
+        };
+    }
+</script>
+
+<script>
+    /*! loadCSS. [c]2017 Filament Group, Inc. MIT License */
+    /* This file is meant as a standalone workflow for
+    - testing support for link[rel=preload]
+    - enabling async CSS loading in browsers that do not support rel=preload
+    - applying rel preload css once loaded, whether supported or not.
+    */
+    (function (w) {
+        "use strict";
+        // rel=preload support test
+        if (!w.loadCSS) {
+            w.loadCSS = function () { };
+        }
+        // define on the loadCSS obj
+        var rp = loadCSS.relpreload = {};
+        // rel=preload feature support test
+        // runs once and returns a function for compat purposes
+        rp.support = (function () {
+            var ret;
+            try {
+                ret = w.document.createElement("link").relList.supports("preload");
+            } catch (e) {
+                ret = false;
+            }
+            return function () {
+                return ret;
+            };
+        })();
+
+        // if preload isn't supported, get an asynchronous load by using a non-matching media attribute
+        // then change that media back to its intended value on load
+        rp.bindMediaToggle = function (link) {
+            // remember existing media attr for ultimate state, or default to 'all'
+            var finalMedia = link.media || "all";
+
+            function enableStylesheet() {
+                link.media = finalMedia;
+            }
+
+            // bind load handlers to enable media
+            if (link.addEventListener) {
+                link.addEventListener("load", enableStylesheet);
+            } else if (link.attachEvent) {
+                link.attachEvent("onload", enableStylesheet);
+            }
+
+            // Set rel and non-applicable media type to start an async request
+            // note: timeout allows this to happen async to let rendering continue in IE
+            setTimeout(function () {
+                link.rel = "stylesheet";
+                link.media = "only x";
+            });
+            // also enable media after 3 seconds,
+            // which will catch very old browsers (android 2.x, old firefox) that don't support onload on link
+            setTimeout(enableStylesheet, 3000);
+        };
+
+        // loop through link elements in DOM
+        rp.poly = function () {
+            // double check this to prevent external calls from running
+            if (rp.support()) {
+                return;
+            }
+            var links = w.document.getElementsByTagName("link");
+            for (var i = 0; i < links.length; i++) {
+                var link = links[i];
+                // qualify links to those with rel=preload and as=style attrs
+                if (link.rel === "preload" && link.getAttribute("as") === "style" && !link.getAttribute("data-loadcss")) {
+                    // prevent rerunning on link
+                    link.setAttribute("data-loadcss", true);
+                    // bind listeners to toggle media back
+                    rp.bindMediaToggle(link);
+                }
+            }
+        };
+
+        // if unsupported, run the polyfill
+        if (!rp.support()) {
+            // run once at least
+            rp.poly();
+
+            // rerun poly on an interval until onload
+            var run = w.setInterval(rp.poly, 500);
+            if (w.addEventListener) {
+                w.addEventListener("load", function () {
+                    rp.poly();
+                    w.clearInterval(run);
+                });
+            } else if (w.attachEvent) {
+                w.attachEvent("onload", function () {
+                    rp.poly();
+                    w.clearInterval(run);
+                });
+            }
+        }
+
+
+        // commonjs
+        if (typeof exports !== "undefined") {
+            exports.loadCSS = loadCSS;
+        }
+        else {
+            w.loadCSS = loadCSS;
+        }
+    }(typeof global !== "undefined" ? global : this));
+</script>
+
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+      onerror="window.useBackupCssUrl('https://cdn1.sparqdata.com/SharedContent/styles/font-awesome.4.7.0.min.css','https://backuplogon.sparqdata.com/SharedContent/styles/font-awesome.4.7.0.min.css')"
+      rel="stylesheet" type="text/css" />
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
+      onerror="window.useBackupCssUrl('https://cdn1.sparqdata.com/SharedContent/styles/bootstrap.4.6.0.min.css','https://backuplogon.sparqdata.com/SharedContent/styles/bootstrap.4.6.0.min.css')"
+      rel="stylesheet" type="text/css" />
+
+<link href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.13.2/themes/smoothness/jquery-ui.css"
+      onerror="window.useBackupCssUrl('https://cdn1.sparqdata.com/SharedContent/styles/jquery-ui.1.13.2.css','https://backuplogon.sparqdata.com/SharedContent/styles/jquery-ui.1.13.2.css')"
+      as="style" onload="this.onload=null;this.rel='stylesheet'"
+      rel="preload" type="text/css" />
+
+<link href="https://cdn1.sparqdata.com/SharedContent/styles/KendoUI.2021.3.914/kendo.default-main.min.css"
+      onerror="window.useBackupCssUrl('https://backuplogon.sparqdata.com/SharedContent/styles/KendoUI.2021.3.914/kendo.default-main.min.css"
+      as="style" onload="this.onload=null;this.rel='stylesheet'"
+      rel="preload" type="text/css" />
+
+<link href="https://cdn1.sparqdata.com/SharedContent/styles/jquery.timepicker.css"
+      onerror="window.useBackupCssUrl('https://backuplogon.sparqdata.com/SharedContent/styles/jquery.timepicker.css')"
+      as="style" onload="this.onload=null;this.rel='stylesheet'"
+      rel="preload" type="text/css" />
+
+<link href="https://cdn1.sparqdata.com/SharedContent/styles/bootstrap-social.css"
+      onerror="window.useBackupCssUrl('https://backuplogon.sparqdata.com/SharedContent/styles/bootstrap-social.css')"
+      as="style" onload="this.onload=null;this.rel='stylesheet'"
+      media="all" rel="preload" type="text/css" />
+
+<link href="https://cdn1.sparqdata.com/SharedContent/styles/Sidebar.2.css"
+      onerror="window.useBackupCssUrl('https://backuplogon.sparqdata.com/SharedContent/styles/Sidebar.2.css')"
+      as="style" onload="this.onload=null;this.rel='stylesheet'"
+      rel="preload" type="text/css" />
+
+<link href="https://cdn1.sparqdata.com/SharedContent/styles/All.27.css"
+      onerror="window.useBackupCssUrl('https://backuplogon.sparqdata.com/SharedContent/styles/All.27.css')"
+      as="style" onload="this.onload=null;this.rel='stylesheet'"
+      media="all" rel="preload" type="text/css" />
+<link href="https://cdn1.sparqdata.com/SharedContent/styles/Screen.1.1.css"
+      onerror="window.useBackupCssUrl('https://backuplogon.sparqdata.com/SharedContent/styles/Screen.1.1.css')"
+      as="style" onload="this.onload=null;this.rel='stylesheet'"
+      media="screen" rel="preload" type="text/css" />
+<link href="https://cdn1.sparqdata.com/SharedContent/styles/Print.1.1.css"
+      onerror="window.useBackupCssUrl('https://backuplogon.sparqdata.com/SharedContent/styles/Print.1.1.css')"
+      media="print" rel="stylesheet" type="text/css" />
+
+<style>
+.fa {
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.fa-2x {
+    font-size: 2em;
+}
+.fa-3x {
+    font-size: 3em;
+}
+.fa-5x {
+    font-size: 5em;
+}
+
+body {
+  margin: 0;
+}
+
+a {
+  background-color: transparent;
+}
+
+img {
+  border: 0;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+:after,
+:before {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+    font-family: sans-serif;
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+}
+
+body {
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+}
+
+.btn {
+    color: #fff;
+}
+a, .btn-link {
+  color: #0d6efd;
+  text-decoration: none;
+}
+a:focus, .btn-link:focus {
+  text-decoration: underline;
+}
+.btn-primary,.bg-primary {
+    background-color: #0d6efd;
+}
+.btn-success,.bg-success {
+    background-color: #198754;
+}
+.btn-secondary,.bg-secondary {
+    background-color: #6c757d;
+}
+.btn-danger,.bg-danger {
+    background-color: #dc3545;
+}
+.btn-warning, .bg-warning {
+    background-color: #ffc107;
+    color: #000;
+}
+.btn-info, .bg-info {
+    background-color: #0dcaf0;
+    color: #000;
+}
+.btn-light, .bg-light {
+    color: #000;
+    background-color: #f8f9fa;
+}
+.btn-dark, .bg-dark {
+    color: #fff;
+    background-color: #212529;
+}
+
+img {
+  vertical-align: middle;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+
+.h1, h1 {
+    font-size: 2.5rem;
+}
+.h2, h2 {
+    font-size: 2rem;
+}
+.h3, h3 {
+    font-size: 1.75rem;
+}
+.h4, h4 {
+    font-size: 1.5rem;
+}
+.h5, h5 {
+    font-size: 1.25rem;
+}
+.h6, h6 {
+    font-size: 1rem;
+}
+
+p {
+  margin: 0 0 10px;
+}
+
+ul {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+ul ul,
+.sparqMenu {
+  margin-bottom: 0;
+}
+
+.list-unstyled {
+  padding-left: 0;
+  list-style: none;
+}
+
+.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@media (min-width:576px) {
+  .container {
+    max-width: 540px;
+  }
+}
+
+@media (min-width:768px) {
+  .container {
+    max-width: 720px;
+  }
+}
+
+@media (min-width:992px) {
+  .container {
+    max-width: 960px;
+  }
+}
+
+@media (min-width:1200px) {
+  .container {
+    max-width: 1140px;
+  }
+}
+
+.float-right {
+  float: right!important;
+}
+
+@-ms-viewport {
+  width: device-width;
+}
+
+.ui-state-highlight {
+  border: 1px solid #fcefa1;
+  background: #fbf9ee;
+  color: #363636;
+}
+
+.ui-state-error {
+  border: 1px solid #cd0a0a;
+  background: #fef1ec;
+  color: #cd0a0a;
+}
+
+.displaymessages .messagelist {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 800px;
+  min-width: 400px;
+  -webkit-box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.15), 0 0 1em rgba(0, 0, 0, 0.3);
+  -moz-box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.15), 0 0 1em rgba(0, 0, 0, 0.3);
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.15), 0 0 1em rgba(0, 0, 0, 0.3);
+}
+
+#sparqUserMenuBar .sparqMenu {
+    min-height: 50px;
+}
+
+#sparqUserMenuBar {
+  font-size: 13px;
+  text-align: right;
+}
+    #sparqUserMenuBar form:not(.displayNone) {
+        display: flex;
+        max-width: calc(100vw - var(--scrollbar-width, 0px));
+        flex-wrap: wrap;
+    }
+    
+    @media (max-width:800px) {
+        #sparqUserMenuBar {
+            display: flex;
+        }
+
+        #sparqUserMenuBar .sparqMenu {
+            min-height: initial;
+        }
+    }
+
+#sparqUserMenuBar .usersImage {
+  height: 50px;
+  margin-top: 0;
+}
+
+#sparqUserMenuBar .sparqMenu li {
+  font-size: 20px;
+}
+
+#sparqUserMenuBar .sparqMenu li .usersName
+{
+    margin-right: 4px;
+}
+
+#sparqUserMenuBar .sparqMenu li.sparq-menu-item:not(.disable) {
+  min-width: 50px;
+}
+
+#sparqUserMenuBar .sparqMenu {
+  text-align: center;
+}
+
+#sparqUserMenuBar .sparqMenu {
+  background-color: transparent;
+}
+
+.sparq-menu-item.sparq-menu-item-nopadding {
+  padding: 0 !important;
+}
+
+.sparqMenuBar,
+.sparqMenuBar .sparqMenu {
+  background-color: rgb(51, 51, 51);
+  color: white;
+}
+
+.sparqMenuBar .mainLogoLink {
+  float: left;
+}
+
+.sparqMenuBar .mainLogo,
+.sparq-menu-item-nopadding .mainLogo {
+  height: 42px;
+  padding: 5px;
+  padding-right: 10px;
+  margin: 0 !important;
+}
+
+.sparqMenu .sparq-menu-link {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.sparqMenu .k-item.k-menu-item.k-state-hover:not(.k-state-disabled),
+.sparqMenu .k-item.k-menu-item.k-state-focused:not(.k-state-disabled) {
+    background-color: #DDD;
+}
+
+.sparqMenu > li.sparq-menu-item > ul, 
+.k-menu > .k-item.k-menu-item > ul {
+    display: none;
+}
+
+.table-striped tbody tr:nth-of-type(odd),
+ul.list-striped > li:nth-child(odd),
+ol.list-striped > li:nth-child(odd) {
+    background-color: #fff;
+    box-shadow: inset 0 0 0 9999px rgba(0, 0, 0, 0.05);
+}
+
+ul.list-striped > li {
+  border-top: 1px solid #ddd;
+  padding: 8px;
+}
+
+body {
+  padding-bottom: 20px;
+}
+
+.body-content {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.messagelist {
+  margin-top: 1em;
+}
+
+#sparqUserMenuBar .sparqMenu select#sparqMenuOrganizationSelect
+{
+    padding-left: 4px;
+    margin-left: -4px;
+}
+#sparqUserMenuBar .sparqMenu select#sparqMenuOrganizationSelect
+,#sparqUserMenuBar .sparqMenu select.sparqMenuOrganizationSelect_partner
+{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+    #sparqUserMenuBar .sparqMenu .usersName, #sparqUserMenuBar .sparqMenu li ul, #sparqUserMenuBar .sparqMenu li ul li, #sparqUserMenuBar .sparqMenu li .singleSchoolName, #sparqUserMenuBar .sparqMenu #sparqMenuOrganizationSelect, #sparqUserMenuBar .sparqMenu .sparqMenuOrganizationSelect_partner, #sparqUserMenuBar .sparqMenu #sparqMenuOrganizationSelect_width_tmp {
+        font-size: 16px;
+    }
+
+#sparqUserMenuBar .organizationSelectForm select, #sparqUserMenuBar .organizationSelectForm select:hover {
+    color: #DDD;
+}
+
+#sparqUserMenuBar .organizationSelectForm select {
+    border-radius: 3px;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+#sparqUserMenuBar #sparqUser-Menu > li.no-padding > .k-link {
+    padding: 0;
+}
+
+.sparq-menu-item.sparq-menu-item-nopadding, .sparq-menu-item.sparq-menu-item-nopadding .k-link {
+    padding: 0 !important;
+}
+
+li.k-item, 
+.k-menu:not(.k-context-menu)>.k-item,
+li.k-item.k-state-hover, 
+li.k-item:hover, 
+.k-menu:not(.k-context-menu)>.k-item.k-state-hover, 
+.k-menu:not(.k-context-menu)>.k-item:hover,
+.k-menu.sparq-menu:not(.k-context-menu) > .k-item,
+.k-menu.sparq-menu:not(.k-context-menu) > .k-item.k-state-hover,
+.k-menu.sparq-menu:not(.k-context-menu) > .k-item:hover
+{
+    color: rgb(51, 51, 51);
+}
+li.k-item .fa, li.k-item.sparq-menu-item, li.k-item.sparq-menu-item .fa, li.k-item.sparq-menu-item .usersName {
+    color: #DDD;
+}
+
+.sidebar
+{
+    position: fixed;
+    overflow: auto;
+}
+.sidebar.sidebar-right {
+    right: -100%;
+}
+
+.k-menu-item {
+    border-width: 0;
+    outline: 0;
+    display: flex;
+    flex: 0 0 auto;
+    position: relative;
+}
+.k-menu-horizontal {
+    flex-direction: row;
+}
+.k-menu {
+    border-width: 0;
+    border-style: solid;
+    box-sizing: border-box;
+    outline: 0;
+    font-size: 14px;
+    line-height: 1.4285714286;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    position: relative;
+    cursor: default;
+}
+
+.displayNone {
+  display: none;
+}
+
+.k-menu-horizontal>.k-menu-item+.k-menu-item.margin-left-auto,
+.margin-left-auto {
+    margin-left: auto;
+}
+.margin-right-auto {
+    margin-right: auto;
+}
+</style>
+
+
+
+<style>
+    @media (prefers-reduced-motion: reduce) {
+        #skiptocontent a {
+            transition-duration: 0.001ms !important;
+        }
+    }
+
+    #skiptocontent a {
+        padding: 6px;
+        position: absolute;
+        top: -40px;
+        left: 0px;
+        color: white;
+        border-right: 1px solid white;
+        border-bottom: 1px solid white;
+        border-bottom-right-radius: 8px;
+        background: #BF1722;
+        -webkit-transition: top 1s ease-out;
+        transition: top 1s ease-out;
+        z-index: 100;
+    }
+
+        #skiptocontent a:focus {
+            position: absolute;
+            left: 0px;
+            top: 0px;
+            outline-color: transparent;
+            -webkit-transition: top .1s ease-in;
+            transition: top .1s ease-in;
+        }
+</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js" type="text/javascript"></script>
+<script>window.jQuery || document.write('<script src="https://cdn1.sparqdata.com/SharedContent/scripts/jquery.3.6.0.min.js">\x3C/script>')</script>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js" type="text/javascript"></script>
+<script>window.jQuery.fn.popover || document.write('<script src="https://cdn1.sparqdata.com/SharedContent/scripts/bootstrap.4.6.0.min.js">\x3C/script>')</script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.13.2/jquery-ui.min.js" type="text/javascript" defer="defer"></script>
+
+<script src="https://cdn1.sparqdata.com/SharedContent/scripts/kendo.all.min.2021.3.914.js" type="text/javascript"></script>
+
+<script src="https://cdn1.sparqdata.com/SharedContent/scripts/jquery.timepicker.min.js" type="text/javascript" defer="defer"></script>
+
+<script src="https://cdn1.sparqdata.com/SharedContent/scripts/jquery.sidebar.min.js" type="text/javascript" defer="defer"></script>
+
+<script src="https://cdn1.sparqdata.com/SharedContent/scripts/jquery.sidebarFullscreen.1.js" type="text/javascript" defer="defer"></script>
+
+<script src="https://cdn1.sparqdata.com/SharedContent/scripts/shared.header.5.js" type="text/javascript" defer="defer"></script>
+
+<script src="https://cdn1.sparqdata.com/SharedContent/scripts/autosize.min.js" type="text/javascript" defer="defer"></script>
+
+
+<script src="https://cdn1.sparqdata.com/SharedContent/scripts/kendoResponsiveMenu.2.js" type="text/javascript"></script>
+<script>window.jQuery.fn.kendoResponsiveMenu || document.write('<script src="https://backuplogon.sparqdata.com/SharedContent/scripts/kendoResponsiveMenu.2.js">\x3C/script>')</script>
+<link href="https://cdn2.sparqdata.com/Site.60.css" rel="stylesheet" type="text/css" />
+    <link href="https://kontentsites-prod.azurewebsites.net/static/assets/boardbook/css/premier.css" rel="stylesheet" type="text/css" />
+<script src="https://cdn1.sparqdata.com/SharedContent/scripts/signalr@8.0.7.js" type='text/javascript'></script>
+
+    
+    <script src="https://cdn1.sparqdata.com/SharedContent/scripts/js.cookie.2.1.4.min.js" type="text/javascript" defer="defer"></script>
+
+<script src="https://cdn1.sparqdata.com/SharedContent/scripts/shared.footer.25.js" type="text/javascript" defer="defer"></script>
+
+    <script src="https://cdn2.sparqdata.com/Scripts/Site.3.js" type="text/javascript" defer="defer"></script>
+    
+</head>
+<body>
+    <div id="fullscreenContainer">
+        <header>
+            <div id="skiptocontent"><a href="#DisplayHeader" class="">skip to main content</a></div>
+            
+                
+            
+                    
+
+<nav id="sparqUserMenuBar" class="sparqMenuBar">
+    <ul class="displayNone sparqMenu showAsFlexNotBlock" id="sparqUser-Menu" aria-label="Site features">
+
+            <li class="sparq-menu-item  margin-left-auto" id="sparq-menu-help-item" tabindex="-1">
+                <i class="fa fa-question-circle open-menu-onclick sparq-menu-link" aria-label="help" role="button"></i>
+
+
+                <ul aria-label="Help">
+
+
+
+
+
+                    <li>
+                        <a href="/SparqMenu/HelpForMenuBar" class="showHelpInDialog">
+                            <i class="fa fa-question-circle"></i>
+                            BoardBook Menu Bar Help
+                        </a>
+                    </li>
+
+
+                    <li>
+                        <a href="/SparqMenu/SiteCompatibility">
+                            <i class="fa fa-question"></i>
+                            Check Your Device's Compatibility
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="/SparqMenu/HelpForNightlyMaintenanceWindow" class="showHelpInDialog">
+                            <i class="fa fa-wrench"></i>
+                            Nightly Maintenance Window: Midnight to 5 AM Central Time
+                        </a>
+                    </li>
+
+
+                </ul>
+
+                <div class="displayNone" id="SparqMenu_HelpDialog" title="Help!">
+    <div id="SparqMenu_HelpDialog_Loading">
+        <i class="fa fa-spinner fa-pulse"></i>
+        Loading Help...
+    </div>
+    <div id="SparqMenu_HelpDialog_Section">
+    </div>
+</div>
+
+            </li>
+
+        <li class="sparq-menu-item sparq-menu-item-nopadding" tabindex="-1">
+                <a href="https://www.boardbook.org/home.aspx" target="_blank" class="mainLogoLink" tabindex="-1">
+                    <img src="https://cdn1.sparqdata.com/SharedContent/themes/boardbook/boardbooklogo.png" class="mainLogo" alt="BoardBook Logo" />
+                </a>
+        </li>
+    </ul>
+
+
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8Fdzrs7xxJRCuos7D8CY88zABvthLg6m8Qp1iAMGfJH0MT_1seKTO_L2S1ylW5WAwL4r2hzP8kdqe3qoTYcU4Hl8Iz--45ORC-4Xg-yu6mT_elnd2wZPnYJAz7WwNOUbaejw2tL_0hkkIo8s6dPmWjk" /></nav>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-173108447-3"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-173108447-3');
+</script>
+
+
+
+<script>
+    const scrollbarWidth = window.innerWidth - document.documentElement.clientWidth;
+    document.documentElement.style.setProperty('--scrollbar-width', `${scrollbarWidth}px`);
+    
+    var kmSparq = $("#sparqUser-Menu");
+    if (kmSparq && kmSparq.length > 0) {
+        kmSparq.kendoMenu({
+            openOnClick: true
+        });
+
+        kmSparq.bind("open", function () {
+            var found = kmSparq.find(".sparq-menu-item[id][aria-expanded=true]");
+            if (found)
+                kmSparq.close("#" + found.attr("id"));
+        });
+
+        var menu = kmSparq.data("kendoMenu");
+        menu.enable(".disable", false);
+
+        //kicks the spacer out of the keyboard navigation
+        kmSparq.find(".not-navigable").removeClass("k-item");
+
+        kmSparq.show().removeClass("displayNone");
+
+        var toActivate = kmSparq.find(".open-menu-onclick");
+        toActivate.keydown(function (event) {
+            if (event.key === " " || event.key === "Enter" || event.key === "Spacebar") {
+                // Prevent the default action to stop scrolling when space is pressed
+                event.preventDefault();
+
+                var menuItem = $(this).parents(".sparq-menu-item[id]");
+                if (menuItem.attr("aria-expanded") !== "true")
+                    menu.open("#" + menuItem.attr("id"));
+                else
+                    menu.close("#" + menuItem.attr("id"));
+            }
+            else if (event.keyCode === 27 || event.key === "Escape") {
+                var menuItem = $(this).parents(".sparq-menu-item[id]");
+                if (menuItem.attr("aria-expanded") === "true")
+                    menu.close("#" + menuItem.attr("id"));
+            }
+        });
+    }
+</script>
+
+
+
+
+
+
+                            <nav class="navbar-collapse" id="kendoMenu-Main">
+            <ul class="nav navbar-nav displayNone" id="kendoMenu-Inner" aria-label="Portland Public Schools information">
+                <li>
+                    <a href="/Public/Organization/915" id="home-menu-link">
+                        <span class="fa fa-home"></span>
+                        Home
+                    </a>
+                </li>
+
+            </ul>
+            <script>
+                var km = $("#kendoMenu-Inner");
+                km.kendoResponsiveMenu({
+                    openOnClick: {
+                        rootMenuItems: true,
+                        subMenuItems: false
+                    }
+                });
+                km.show();
+            </script>
+        </nav>
+
+
+        </header>       
+
+
+        <div class="container body-content">
+            
+                    <div class="displaymessages ui-widget">
+        <div class="messagelist ui-state-error displayNone" id="messages-errors">
+        </div>
+        <div class="messagelist ui-state-highlight displayNone" id="messages-warns">
+        </div>
+        <div class="messagelist ui-state-highlight displayNone" id="messages-infos">
+        </div>
+    </div>
+
+
+        </div>
+
+        
+            <div id="DisplayHeader">
+                <div class="container body-content">
+                        <h1>Custom Public Notices for September 8, 2026 at 4:30 PM - Teaching, Learning, and Enrollment Committee Meeting</h1>
+                </div>
+            </div>
+
+        
+        <div class="container body-content">
+            <main id="MainPage">
+                
+<h2>
+    September 8, 2026 at 4:30 PM - Teaching, Learning, and Enrollment Committee Meeting
+        <small>Version 1</small>
+</h2>
+<div class="">
+    <div class="">
+        <h3>
+            2026_09_08_TLE_Public Notice.docx
+        </h3>
+    </div>
+</div>
+
+    <script src="https://cdn2.sparqdata.com/WebViewer.11.10.0/lib/webviewer.min.js" type="text/javascript"></script>
+<script src="https://cdn2.sparqdata.com/Scripts/SparqWebViewer.27.min.js" type="text/javascript"></script>
+<div id="WebViewer" class="visibility-hidden"></div>
+<script>
+    //IE Polyfills
+    if (!String.prototype.endsWith) {
+        String.prototype.endsWith = function (searchString, position) {
+            var subjectString = this.toString();
+            if (typeof position !== 'number' || !isFinite(position)
+                || Math.floor(position) !== position || position > subjectString.length) {
+                position = subjectString.length;
+            }
+            position -= searchString.length;
+            var lastIndex = subjectString.indexOf(searchString, position);
+            return lastIndex !== -1 && lastIndex === position;
+        };
+    }
+    if (!String.prototype.startsWith) {
+        Object.defineProperty(String.prototype, 'startsWith', {
+            value: function (search, rawPos) {
+                var pos = rawPos > 0 ? rawPos | 0 : 0;
+                return this.substring(pos, pos + search.length) === search;
+            }
+        });
+    }
+</script>
+
+<script>
+    (function ($) {
+        SparqWebViewer.prototype.defaultoptions.webViewerPath = '/Content/WebViewer.11.10.0/lib';
+        SparqWebViewer.prototype.defaultoptions.loadUrlFormat = '/Documents/DownloadPDF/TBR_AAAA_?org=915';
+        SparqWebViewer.prototype.defaultoptions.loadAnnotationsUrlFormat = '/Documents/GetNotes/TBR_AAAA_?org=915';
+        SparqWebViewer.prototype.defaultoptions.saveAnnotationsUrlFormat = '/Documents/SaveNotes/TBR_AAAA_?org=915';
+        SparqWebViewer.prototype.defaultoptions.loadDownloadsUrlFormat = '/Documents/CanDownload/TBR_AAAA_?org=915';
+        SparqWebViewer.prototype.defaultoptions.control = document.getElementById("WebViewer");
+        SparqWebViewer.prototype.defaultoptions.allowAnnotations = false;
+        SparqWebViewer.prototype.defaultoptions.annotationsAuthor = '';
+        SparqWebViewer.prototype.defaultoptions.allowDownloads = true;
+        SparqWebViewer.prototype.defaultoptions.skipDownloadsUrl = false;
+    }(jQuery));
+</script>
+    <input type="hidden" id="NewDocumentViewerDocumentID" value="14372473" />
+    <input type="hidden" id="NewDocumentViewerDisplayName" value="September 8, 2026 at 4:30 PM - Teaching, Learning, and Enrollment Committee Meeting" />
+
+
+<script src="https://cdn2.sparqdata.com/Scripts/ViewPDFpage.7.js" type="text/javascript"></script>
+
+    <a href="/Public/Organization/915">
+        &lt;&lt; Back to the Public Page for Portland Public Schools
+    </a>
+
+
+            </main>
+            <hr />
+            
+            <footer id="footer">
+                    <div>
+                        <div class="text-center">
+<div class="margin-bottom-7"><a href="mailto:support@boardbook.org">support@boardbook.org</a></div>
+
+<div class="margin-bottom-7">888.587.2665</div>
+</div>
+
+                    </div>
+                <div class="display-none">
+                    Copyright &copy; 2015-2026. Sparq Data Solutions Inc. - All Rights Reserved.
+                </div>
+                    <div class="row legal-links">
+                            <div class="col-sm-12 col-md-6">
+                                <a href="/Home/Privacy">
+                                    Privacy Policy
+                                </a>
+                            </div>
+                            <div class="col-sm-12 col-md-6">
+                                <a href="/Home/Terms">
+                                    Terms and Conditions of Use
+                                </a>
+                            </div>
+                    </div>
+                <div id="footer-logo-section">
+                    <a href="https://www.boardbook.org/home.aspx" target="_blank">
+                        <img alt="BoardBook footer logo" src="https://cdn1.sparqdata.com/SharedContent/themes/boardbook/boardbooklogo.png" id="footer-logo" />
+                    </a>
+                </div>
+            </footer>
+        </div>
+    </div>
+    
+    
+</body>
+</html>

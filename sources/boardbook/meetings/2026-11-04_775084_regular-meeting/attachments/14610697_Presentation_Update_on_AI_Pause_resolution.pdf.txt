@@ -1,0 +1,192 @@
+Balanced Instruction
+& Healthy Technology Use
+Board Meeting - November 4 2026
+         What Is “Healthy Technology
+                     Use”?
+Screen Time / Value             Filtering &                   Generative AI                    Digital Literacy
+                                Monitoring
+Reﬂect current state and                                      Accelerate our path toward       Engage and partner with our
+build for the future, speciﬁc   Move toward stronger          only vetted and approved         parent community and
+to usage guidelines in the      alignment with curriculum     applications used in the         advocacy groups as we have
+classroom as well as digital    needs and best practices -    classroom.                       similar broad goals
+literacy for our students.      remove the wide variability
+                                across classrooms.            Educate instructional staff on   Leverage their voice to amplify
+                                                              technology basics and risks      and solidify these changes
+
+
+                                                                                     Today’s discussion
+                       Why This Is Important
+
+
+Policy and                      Align & Support              Protect Students -               Respond & Partner
+Processes are Out               School Staff                 Data & Digital                   with our
+of Date                                                      Literacy                         Community
+                                Move toward stronger
+Reﬂect current state and        alignment with curriculum    Accelerate our path toward       Engage and partner with our
+build for the future, speciﬁc   needs and best practices -   only vetted and approved         parent community and
+to usage guidelines in the      remove the wide              applications used in the         advocacy groups as we
+classroom as well as digital    variability across           classroom.                       have similar broad goals
+literacy for our students.      classrooms.
+                                                             Educate instructional staff on   Leverage their voice to
+                                                             technology basics and risks      amplify and solidify these
+                                                                                              changes
+                                         Recent Timeline
+
+September ‘25                            June 23                  August 25              October 27         November 4
+
+AI Planning                           Board Meeting              Screen Time               Policy              Board
+Committee started                    (budget review)              Guidelines             Committee            Meeting
+                                                                                            Mtg.
+Cross organizational               Resolution introduced to    Guidance                                    Present response
+group of central office and        pause on AI in the          communicated /         Present an updated   to Resolution from
+school staff along with            classroom, report back in   posted / presented     Resolution that      June 23rd meeting
+                                   October, etc.               regarding grade band   includes:
+parent and student
+advisory input                                                 level guidance
+                                                                                      ● Screen Time
+                                                                                      ● AI use
+                              Student Chromebooks:                                    ● Filtering &
+                                                                                        Monitoring
+                              Moved all K-8 grades to in-classroom carts, not 1:1
+
+                      Partnership across Academics, Technology, building leaders, teachers, and parents.
+     Detailed Responses
+- June 23rd Board Resolution -
+                                    AI Pause:
+                               Directive #1 and #2
+  (1) “Pause the execution of any new
+  contracts, contract amendments,
+  subscriptions, pilot programs, software            (2) “Pause the expansion of existing
+  licenses, or procurement actions                   GenAI technology implementations
+                                                     beyond their current scope of work”
+  primarily related to GenAI technologies”
+
+● At the time of the resolution, none of the       ● At the time of the resolution, none of the
+  above was planned                                  above was planned
+● No change since the time of the resolution       ● No change since the time of the resolution
+● No current plans to do any of the following      ● No current plans to do any of the following
+
+
+
+ “This pause shall not apply to cybersecurity, accessibility, or software maintenance functions
+     that do not materially expand GenAI capabilities and/or are not student-interactive.“
+                                               AI Pause Directive #3
+“Prepare an Inventory of APPROVED Existing Student-Facing GenAI Implementations
+
+
+
+                                                                                     Core Curriculum Apps
+
+                                                                                     Teaching-Facing
+                                                                                       ●   GenAI apps = 20
+                                                                                       ●   Non genAI apps = 34
+                                                                                       ●   Total apps = 54
+
+
+                                                                                     Student-Facing
+                                                                                       ●   GenAI Apps = 0
+
+
+                     Instructor Gen-AI Tools         Student Facing
+                       (not student-facing)           Gen-AI tools
+
+
+
+*Apps for CTE follow the app vetting approval process and      *All PPS core content curriculum apps that have optional
+align to industry standard for the CTE program and courses.    student-facing Gen AI features have been disabled by PPS
+                     AI Pause Directive #4
+Educational Technology Contracts and Data Sharing Agreements
+
+
+   “Work to amend all existing educational technology contracts and data-sharing
+   agreements to prohibit third-party vendors from collecting or sharing personally
+   identiﬁable student data unless expressly required by law.”
+
+
+● FERPA language is included in every Professional Services Agreement and all
+  purchasing agreement Terms & Conditions
+
+● Another important reason why software needs to be approved by central oﬃce
+  staff per the existing process with review, approval, tracking and oversight.
+                                       AI Pause Directive #5a
+
+      I nventory of all tools, platforms, software products,
+   pilots, and services currently used throughout all of PPS
+                                               Important
+                                  None of these tools are student-facing
+
+                                                             Google Gemini
+                                                             ●   Use Case: Productivity Tools
+                                                             ●   Active Staff: 2,000
+ Total number of NON                                         ●   Included with Google Workspace licenses at
+Gen-AI approved tools                                            $6/user/year.
+  720 (95.4% of total)
+                                                             Central Ofﬁce GenAI Tools
+                                                             ●   Use Case: Productivity Tools
+                                Total number of
+                                approved Central             ●   Active Staff: 450
+                                Office GenAI apps:           ●   Smartsheet, AXIS3 (SPED), CIM (Facilities)
+                                14 (1.8% of total)           ●   Cybersecurity (OTIS)
+
+                                                             All Remaining Tools
+                Total number of approved                     ●   Usage is limited to speciﬁc use cases
+                Instructional GenAI apps:
+                21 (2.8% of total)
+                                                             ●   Active Staff: 9,700 (ever, not concurrent)
+                              AI Pause Directive #5b & #5c
+
+ 5b: All associated contracts, costs, funding sources, and renewal
+ dates
+
+ 5c: Description of all student, employee, and PPS data shared with
+ associated vendors
+                                               Important
+                                  None of these tools are student-facing
+
+
+5b: Full details in posted Board materials
+
+5c: Data
+●   All approved software (instructional or otherwise) has restrictive language regarding data usage and
+    privacy as part of every Professional Services Agreement, including FERPA
+●   NOTE: PPS Academics, OTIS, & Legal departments recommend stronger Policy or Administrative
+    Directive language to reduce or eliminate unapproved software in the classroom, as it does not follow
+    approved vetting and procurement processes and controls.
+                                 AI Pause Directive #5d
+
+Recommendations regarding future implementation, limitations,
+ or expansion of GenAI technologies within PPS
+
+    Knowledge of AI should be treated similar to a required language
+    PPS should integrate developmentally appropriate Digital Literacy instruction into the core curriculum
+    for grades K–12 starting in the 2027-28 school year
+
+    ◆ Evaluating source credibility and detecting misinformation
+    ◆ Understanding data privacy and responsible use
+    ◆ The environmental and social impacts of digital technologies
+    ◆ Safe and respectful use of digital tools, including social media
+    ◆ Skills to critically evaluate digital content
+    ◆ Developing critical thinking, creativity, communication, collaboration, empathy, judgment, and
+      independent problem-solving skills in a rapidly evolving technological world
+    ◆ Maintaining healthy technology habits, including attention management, periodic breaks,
+      ergonomics, and awareness of persuasive or engagement-focused design.
+                                 AI Pause Directive #5d
+
+Recommendations regarding future implementation, limitations,
+ or expansion of GenAI technologies within PPS
+
+    Knowledge of AI should be treated similar to a required language
+    PPS should integrate developmentally appropriate Digital Literacy instruction into the core curriculum
+    for grades K–12 starting in the 2027-28 school year
+
+    ◆ Evaluating source credibility and detecting misinformation
+    ◆ Understanding data privacy and responsible use
+    ◆ The environmental and social impacts of digital technologies
+    ◆ Safe and respectful use of digital tools, including social media
+    ◆ Skills to critically evaluate digital content
+    ◆ Developing critical thinking, creativity, communication, collaboration, empathy, judgment, and
+      independent problem-solving skills in a rapidly evolving technological world
+    ◆ Maintaining healthy technology habits, including attention management, periodic breaks,
+      ergonomics, and awareness of persuasive or engagement-focused design.
+Appendix
+

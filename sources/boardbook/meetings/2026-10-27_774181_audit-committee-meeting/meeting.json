@@ -6,7 +6,9 @@
  "meeting_type": "Committee (Audit Committee)",
  "location": "Dr. Matthew Prophet Education Center - Board Auditorium",
  "cancelled": false,
- "videos": [],
+ "videos": [
+  "https://www.youtube.com/watch?v=Y08divelF5k"
+ ],
  "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=774181",
  "minutes_url": null,
  "supplementals_url": null,
@@ -27,35 +29,28 @@
    "attachments": []
   },
   {
-   "agenda_item_id": "19014119",
-   "title": "3. Bond Performance Updates",
-   "depth": 0,
-   "description": "",
-   "attachments": []
-  },
-  {
    "agenda_item_id": "19014120",
-   "title": "4. Audit Committee Roles and Responsibilities",
+   "title": "3. Audit Committee Roles and Responsibilities",
    "depth": 0,
    "description": "",
    "attachments": [
-    {
-     "document_id": "14594896",
-     "name": "10272026 Audit Committee Meeting",
-     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14594896",
-     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14594896?org=915"
-    },
     {
      "document_id": "14594897",
      "name": "Audit Committee Liaison Annual Support Plan",
      "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14594897",
      "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14594897?org=915"
+    },
+    {
+     "document_id": "14607440",
+     "name": "10272026 Audit Committee Meeting (1)",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14607440",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14607440?org=915"
     }
    ]
   },
   {
    "agenda_item_id": "19014121",
-   "title": "5. Office of Internal Performance Audit (OIPA) Updates",
+   "title": "4. Office of Internal Performance Audit (OIPA) Updates",
    "depth": 0,
    "description": "",
    "attachments": [
@@ -105,21 +100,21 @@
   },
   {
    "agenda_item_id": "19014122",
-   "title": "6. Monthly and Quarterly Financial Statement Review",
+   "title": "5. Monthly and Quarterly Financial Statement Review",
    "depth": 0,
    "description": "",
    "attachments": []
   },
   {
    "agenda_item_id": "19014123",
-   "title": "7. Status Update on the Annual Comprehensive Financial Report (ACFR) and Single Audit",
+   "title": "6. Status Update on the Annual Comprehensive Financial Report (ACFR) and Single Audit",
    "depth": 0,
    "description": "",
    "attachments": []
   },
   {
    "agenda_item_id": "19014124",
-   "title": "8. Other Audit Updates",
+   "title": "7. Other Audit Updates",
    "depth": 0,
    "description": "",
    "attachments": [
@@ -133,14 +128,14 @@
   },
   {
    "agenda_item_id": "19014117",
-   "title": "9. Other Business and Future Agenda Items",
+   "title": "8. Other Business and Future Agenda Items",
    "depth": 0,
    "description": "",
    "attachments": []
   },
   {
    "agenda_item_id": "19014118",
-   "title": "10. Adjourn",
+   "title": "9. Adjourn",
    "depth": 0,
    "description": "",
    "attachments": []

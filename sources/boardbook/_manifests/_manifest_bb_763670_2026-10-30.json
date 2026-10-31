@@ -1,0 +1,81 @@
+[
+ {
+  "path": "boardbook/meetings/2026-09-01_763670_intergovernmental-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=763670",
+  "final_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=763670",
+  "status": 200,
+  "content_type": "text/html",
+  "bytes": 43960,
+  "error": "",
+  "fetched_at": "2026-10-31T00:18:18Z",
+  "title": "agenda"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-01_763670_intergovernmental-committee-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=763670",
+  "final_url": "https://meetings.boardbook.org/Documents/CustomMinutesForMeeting/915?meeting=763670",
+  "status": 200,
+  "content_type": "text/html",
+  "bytes": 32838,
+  "error": "",
+  "fetched_at": "2026-10-31T00:18:19Z",
+  "title": "minutes"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-01_763670_intergovernmental-committee-meeting/minutes_14590315.pdf",
+  "url": "/Documents/DownloadPDF/14590315?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14590315?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 97033,
+  "error": "",
+  "fetched_at": "2026-10-31T00:18:21Z",
+  "title": "minutes pdf"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-01_763670_intergovernmental-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=763670",
+  "final_url": "https://meetings.boardbook.org/Documents/CustomPublicNoticeForMeeting/915?meeting=763670",
+  "status": 200,
+  "content_type": "text/html",
+  "bytes": 32869,
+  "error": "",
+  "fetched_at": "2026-10-31T00:18:22Z",
+  "title": "public_notice"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-01_763670_intergovernmental-committee-meeting/public_notice_14339984.pdf",
+  "url": "/Documents/DownloadPDF/14339984?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14339984?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 202272,
+  "error": "",
+  "fetched_at": "2026-10-31T00:18:24Z",
+  "title": "public_notice pdf"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-01_763670_intergovernmental-committee-meeting/attachments/14330795_09012026_IA_Committee_PERS_Update.pdf",
+  "url": "/Documents/DownloadPDF/14330795?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14330795?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 2651534,
+  "error": "",
+  "fetched_at": "2026-10-31T00:18:25Z",
+  "title": "09012026 IA Committee PERS Update",
+  "found_on": "4. Public Employee Retirement System (PERS) update and overview"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-01_763670_intergovernmental-committee-meeting/attachments/14339973_IGA_Committe_Presentation.pdf",
+  "url": "/Documents/DownloadPDF/14339973?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14339973?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 1092707,
+  "error": "",
+  "fetched_at": "2026-10-31T00:18:27Z",
+  "title": "IGA Committe Presentation",
+  "found_on": "5. Review and discuss legislative principles"
+ }
+]

@@ -1,0 +1,69 @@
+[
+ {
+  "path": "boardbook/meetings/2026-09-08_765500_teaching-learning-and-enrollment-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=765500",
+  "final_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=765500",
+  "status": 200,
+  "content_type": "text/html",
+  "bytes": 42583,
+  "error": "",
+  "fetched_at": "2026-10-31T00:18:08Z",
+  "title": "agenda"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-08_765500_teaching-learning-and-enrollment-committee-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=765500",
+  "final_url": "https://meetings.boardbook.org/Documents/CustomMinutesForMeeting/915?meeting=765500",
+  "status": 200,
+  "content_type": "text/html",
+  "bytes": 32906,
+  "error": "",
+  "fetched_at": "2026-10-31T00:18:09Z",
+  "title": "minutes"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-08_765500_teaching-learning-and-enrollment-committee-meeting/minutes_14591666.pdf",
+  "url": "/Documents/DownloadPDF/14591666?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14591666?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 97791,
+  "error": "",
+  "fetched_at": "2026-10-31T00:18:11Z",
+  "title": "minutes pdf"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-08_765500_teaching-learning-and-enrollment-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=765500",
+  "final_url": "https://meetings.boardbook.org/Documents/CustomPublicNoticeForMeeting/915?meeting=765500",
+  "status": 200,
+  "content_type": "text/html",
+  "bytes": 32923,
+  "error": "",
+  "fetched_at": "2026-10-31T00:18:12Z",
+  "title": "public_notice"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-08_765500_teaching-learning-and-enrollment-committee-meeting/public_notice_14372473.pdf",
+  "url": "/Documents/DownloadPDF/14372473?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14372473?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 208482,
+  "error": "",
+  "fetched_at": "2026-10-31T00:18:14Z",
+  "title": "public_notice pdf"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-08_765500_teaching-learning-and-enrollment-committee-meeting/attachments/14374370_09.08.26_TLE_Well-Resourced-Schools_Rightsizing.pdf",
+  "url": "/Documents/DownloadPDF/14374370?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14374370?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 612897,
+  "error": "",
+  "fetched_at": "2026-10-31T00:18:15Z",
+  "title": "09.08.26_TLE_Well-Resourced-Schools_Rightsizing",
+  "found_on": "3. Update on Rightsizing: Well Resourced Schools"
+ }
+]

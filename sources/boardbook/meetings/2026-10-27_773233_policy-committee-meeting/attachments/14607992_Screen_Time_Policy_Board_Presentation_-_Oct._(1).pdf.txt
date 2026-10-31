@@ -1,0 +1,237 @@
+PPS Screen Time Policy
+        Update
+
+
+
+
+                   October 27, 2026
+Learning Target and Success Criteria
+
+
+ I am learning about the alignment of the proposed School Beyond Screens
+ Technology Use policy draft and the PPS Healthy Technology Use policy draft.
+
+
+ I can describe what is aligned between the two proposals and opportunities for
+ additional alignment.
+
+
+
+
+                                                                                  2
+Thank You!
+The PPS Digital Ecosystem Parent
+Advisory Committee has met on:
+● August 18
+● October 19
+We are meeting once per quarter.
+Members: PPS Oﬃce of Technology and
+Oﬃce of Academics representation,
+Schools Beyond Screens Parent
+Leadership Team
+Results to Date:
+● Common vision and objectives
+● Agreement of majority of key points
+      Why is this work important?
+
+
+   Establishes clear,
+   research-backed       Prioritizes teacher-led
+    boundaries for       instruction and hands
+  technology use to         over learning and
+                                                     Ensures technology
+ safeguard students’        fosters equitable                             Protects student data
+                                                     enhances learning.
+       physical,         classrooms where all                                   privacy.
+ social-emotional and      students can build
+cognitive development.   critical thinking skills.
+Technology Use for PK-12 Classrooms Guidance Key Principles
+                                      Technology must never replace authentic relationships between educators,
+  Human-Centered Learning Comes First students, and peers, humans should be in the driver’s seat when using
+                                      technology.
+
+     Purposeful and Research-Based         Technology should only be integrated when it demonstrably enhances
+                                           learning, engagement, and instructional quality.
+               Adoption
+                                           Every student should have equitable access to the same technologies and
+    Equity and Access for All Learners     tools, instruction, and literacy, ensuring all students are prepared to thrive
+                                           and lead in an increasingly technology-driven world.
+
+                                           Implement technology effectively through establishing clear policies for safe
+    Ethical Use and Informed Practice      and ethical use and provide sustained professional learning for educators,
+                                           staff, and students.
+
+      Continuous Evaluation, Future        The use of technology in education should be regularly assessed to ensure it
+       Readiness, and Community            advances learning outcomes, centers equitable practices, and addresses
+                                           sustainability and safety.
+              Partnership
+                                           Technology integration can be beneficial if it supports students in
+        Future-Ready Learning and          developing the durable skills, knowledge, adaptability, and ethical grounding
+          Workforce Preparation            they need to succeed in the careers and civic life of the future.
+Shift from Screen Time to Screen Value
+
+
+ Quality Matters More than Quantity                    EdTech is Particularly Impactful for
+● EdTech built in accordance with how people                Underserved Students
+  learn offer distinct advantages for academic   ●   Students with disabilities, multilingual learners,
+  learning (e.g., Feng, 2025; Hillmayr et al.,       and students performing below grade proﬁciency
+  2020).                                             often show disproportionately large gains from
+● Poorly built educational technology adds           well-designed tools.
+  unnecessary cognitive load, thus inhibiting    ●   For these students, technology is not simply a
+  learning and academic performance (Støle           supplement to learning but an essential means of
+  et al., 2020).                                     access, opportunity, and participation (Di Pietro &
+                                                     Castaño Muñoz, 2025; Lee et al., 2022; McKissick
+                                                     et al., 2018).
+                                                                                                           6
+Shift from Screen Time to Screen Value
+
+
+      Consumer Tech Is Not EdTech                          Implementation Drives Effectiveness
+●   EdTech, built by learning designers, operates     ● Alongside product quality, implementation factors
+    from different incentives, learning strategies,     (e.g., Kohler et al., 2022) signiﬁcantly affect how
+    and desired outcomes than commercial                edtech inﬂuences student learning.
+    platforms engineered for intensive                ● Factors such as teacher preparation, curriculum
+    engagement.                                         alignment, and learning setting all affect how well
+●   Research on social media or other                   any given product helps students learn (Bernard,
+    consumer/entertainment tools does not               2018; Nordmark et al., 2024; Wu, 2024).
+    necessarily apply to educational tools            ● As with any educational program or intervention,
+    (American Academy of Pediatrics, 2025).             implementation must ﬁt the local context.
+
+
+                                                                                                              7
+SBS & PPS Policy Comparison
+Overview
+
+ Level 4: Strong             Level 3: Agreement,       Level 2: Agreement,        Level 1: Needs Work to
+ Agreement                   Needs Fine Tuning         Gaps to Close              Align
+ Identical or Nearly         High Consens with minor   Shared Intent requiring
+ identical policy language   thresholds or numeric     operational reconciliation Direct policy friction or
+                             variations                                           missing provisions
+
+ (28%) Hardware, Ads,        (50%) Gamification,       (7%) Generative AI         (14%) Parental Consent
+ IEPs, and Digital           Grades PK-2, Grades                                  & Opt-out
+ Literacy                    3-5, Grades 6-8, High
+                             School, Paper Priority,
+                             Audits
+
+                                                                                                              8
+SBS & PPS Policy Full Agreement
+
+
+   ● K-8 Hardware & Distribution
+   ● Commercial Ads & Filtering
+   ● IEP, 504 and Personal Education Plans (PEP)
+     exceptions.
+   ● Digital Literacy Curriculum
+   ● Screen Time Guiding Principles
+   ● Adherence to FERPA and other regulations
+                                                   9
+SBS & PPS Policy - Fine Tuning Needed
+
+        Policy Domain             Alignment Level &                PPS Screen Time Policy         Schools Beyond Screens
+                                  Summary Rationale                      Proposal                     Policy Proposal
+
+ Grade 6-8 Screen Limits     Consensus on subject caps           Up to 45 min/subject/wk, max    Max 45 min/subject/wk, max
+                             (45 min/wk) with minor              300 min/wk total across all     315 min/wk total across all
+                             variation in total weekly ceiling   classes (except tech-critical   classes.
+                             (300 vs 315 min).                   courses).
+
+
+ High School Screen Limits   Exact agreement on weekly           Up to 60 min/subject/wk, max    Max 60 min/subject/wk, max
+                             caps (60 min/subj, 480 total)       480 min/wk total (except        480 min/wk total; computer
+                             and lunch restrictions.             tech-critical/CTE courses);     use during lunch restricted to
+                                                                 screen-free lunch.              study halls.
+
+
+
+
+                                                                                                                                  10
+SBS & PPS Policy - Fine Tuning Needed
+
+        Policy Domain          Alignment Level &             PPS Screen Time Policy        Schools Beyond Screens
+                               Summary Rationale                   Proposal                    Policy Proposal
+
+ Use of Print Materials    Both prioritize paper-based     Paper materials provided for   Paper materials mandated as
+                           learning; SBS codifies paper    reading, writing, and math;    default for reading, writing,
+                           as policy default.              offline paper homework         and math; paper format
+                                                           offered whenever possible.     required for homework.
+                                                           Allows for word processing
+                                                           and other tools such as
+                                                           presentation tools.
+
+ Technology Audit & Tool   Identical audit scope and       Annual audit of all digital    Annual audit of digital tools by
+ Removal                   90-day decommissioning of       apps/tools contracts with      an auditor with Technology
+                           rule for non-compliant tools.   Technology Advisory            Advisory Committee and
+                                                           Committee and 90-day           90-day removal rule.
+                                                           removal rule.
+
+                                                                                                                             11
+SBS & PPS Policy - Fine Tuning Needed
+
+        Policy Domain            Alignment Level &               PPS Screen Time Policy       Schools Beyond Screens
+                                 Summary Rationale                     Proposal                   Policy Proposal
+
+ Gamified Learning & Using   Both identify the need to not     Identifies not to use         Identifies not to use
+ Technology as Rewards       use technology as rewards.        technology as a reward. Use   technology as a reward. Turn
+                             SBS states need to turn off all   of leaderboards and badges    off all leaderboards and
+                             gamified learning in any          with in vetted, approved      badges in any digital
+                             adopted curriculum.               adopted curriculum.           applications.
+
+ PreK - 2 Screen Limits      Shared goal to restrict early     Screen-free PK.               Screen-free K–2 (0 min/wk
+                             screen exposure, but PPS          K: up to 45 min/wk;           routine
+                             establishes weekly classroom      Grade 1: up to 60 min/wk;     use);
+                             caps while SBS enforces 0         Grade 2: up to 90 min/wk.     max 90 min assessment prep.
+                             min routine use. Both have
+                             exceptions for state
+                             requirements at all grade
+                             levels.
+                                                                                                                            12
+   SBS & PPS Policy - Gaps to Close
+
+
+         Policy Domain        Alignment Level & Summary             PPS Screen Time Policy          Schools Beyond Screens Policy
+                                      Rationale                           Proposal                            Proposal
+
+Grades 3-5 Screen Limits    Both restrict elementary screen     Up to 225 minutes per week          Maximum twenty (20) minutes per
+                            time, but PPS cap is (225 min/wk)   inclusive of core instruction and   day, not to exceed 100 minutes
+                            and the SBS ceiling is (100         intervention.                       per week
+                            min/wk).
+
+Generative AI & LLM Tools   PPS makes specific mention of       PPS removed all language about      Absolute moratorium on
+                            chatbots. SBS                       GenAI because the policy            student-facing AI on district
+                            mandates a formal Board             committee wants a separate AI       devices until Board AI policy &
+                            moratorium while PPS uses           policy                              curriculum are adopted.
+                            standard app vetting.
+
+
+
+
+                                                                                                                                  13
+SBS & PPS Policy - Needs Work to
+Align
+
+       Policy Domain            Alignment Level &             PPS Screen Time Policy          Schools Beyond Screens
+                                Summary Rationale                   Proposal                      Policy Proposal
+
+ Parent Consent & Opt-out   PPS provides annual             Parents receive annual           Annual informed consent
+                            notification and information,   information regarding EdTech     required; guarantees
+                            whereas SBS guarantees          use and privacy policies. PPS    unconditional parental
+                            active annual informed          requires implementation of the   right to opt out with paper
+                            consent and                     process required by Oregon       accommodations.
+                            explicit opt-out rights.        Law (OAR 581-021-0009) for
+                                                            curriculum opt-outs.
+
+
+
+
+                                                                                                                           14
+Key Updates
+● Alignment with Policy Committee
+  for a separate AI Policy
+● Removed Guiding Principles,
+  Citations, and added Deﬁnitions
+● Formated for a Board Policy
+● Incorporated language to align with
+  updated ODE guidance
+Questions
+
