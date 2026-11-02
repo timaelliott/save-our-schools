@@ -27,6 +27,9 @@ a{color:#1B3FA0}a:hover{color:#C2410C}
 .lb{border:0;margin:0;inset:0;width:100vw;height:100dvh;max-width:none;max-height:none;background:transparent;color:#ffffff;overflow:hidden;
  padding:76px clamp(76px,8vw,112px) 32px}
 .lb::backdrop{background:rgb(13 22 52 / .9);backdrop-filter:blur(3px)}
+.lb{touch-action:pan-y pinch-zoom}
+.lb figure{transition:transform .2s ease,opacity .2s ease}
+.lb figure.swiping{transition:none}
 .lb:popover-open{display:grid;place-items:center}
 .lb figure{margin:0;display:flex;flex-direction:column;align-items:center;gap:14px;max-width:100%;max-height:100%;min-height:0}
 .lb img{display:block;max-width:100%;max-height:calc(100dvh - 220px);width:auto;height:auto;object-fit:contain;border-radius:10px;background:#ffffff;box-shadow:0 20px 60px rgb(0 0 0 / .45)}
@@ -213,7 +216,7 @@ details.notes p b{color:#3A3936;font-weight:600}
 </style>
 </head>
 <body>
-<div class="page" data-ref="lbRef">
+<div class="page" data-ref="lbRef" data-on-touchstart="lbTouchStart" data-on-touchmove="lbTouchMove" data-on-touchend="lbTouchEnd" data-on-touchcancel="lbTouchEnd">
 <header class="hero"><div class="wrap">
 <div>
 <p class="eyebrow">Maplewood Elementary · Southwest Portland</p>
@@ -316,6 +319,38 @@ details.notes p b{color:#3A3936;font-weight:600}
     const dir = e.key === 'ArrowLeft' ? 'prev' : 'next';
     swap(box.id, box.getAttribute('data-' + dir), dir);
   });
+
+  // ---- swipe left/right in the lightbox (touch) ----
+  let sw = null;
+  doc.addEventListener('touchstart', (e) => {
+    const box = e.target.closest && e.target.closest('.lb:popover-open');
+    if (!box || e.touches.length !== 1) { sw = null; return; }
+    sw = { box, fig: box.querySelector('figure'), x: e.touches[0].clientX, y: e.touches[0].clientY, t: Date.now(), horiz: null };
+  }, { passive: true });
+  doc.addEventListener('touchmove', (e) => {
+    if (!sw || e.touches.length !== 1) { sw = null; return; }
+    const dx = e.touches[0].clientX - sw.x, dy = e.touches[0].clientY - sw.y;
+    if (sw.horiz === null && (Math.abs(dx) > 8 || Math.abs(dy) > 8)) sw.horiz = Math.abs(dx) > Math.abs(dy);
+    if (sw.horiz && sw.fig) {
+      sw.fig.classList.add('swiping');
+      sw.fig.style.transform = 'translateX(' + dx + 'px)';
+      sw.fig.style.opacity = String(Math.max(0.4, 1 - Math.abs(dx) / 600));
+    }
+  }, { passive: true });
+  const swEnd = (e) => {
+    const s = sw; sw = null;
+    if (!s) return;
+    if (s.fig) { s.fig.classList.remove('swiping'); s.fig.style.transform = ''; s.fig.style.opacity = ''; }
+    const t = e.changedTouches && e.changedTouches[0];
+    if (!t || !s.horiz) return;
+    const dx = t.clientX - s.x;
+    const fast = Math.abs(dx) > 30 && Date.now() - s.t < 300;
+    if (Math.abs(dx) < 60 && !fast) return;
+    const dir = dx < 0 ? 'next' : 'prev';
+    swap(s.box.id, s.box.getAttribute('data-' + dir), dir);
+  };
+  doc.addEventListener('touchend', swEnd);
+  doc.addEventListener('touchcancel', swEnd);
 
   // ---- click-and-drag scrolling of the timeline (mouse only) ----
   if (track) {
