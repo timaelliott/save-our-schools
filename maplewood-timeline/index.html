@@ -30,6 +30,8 @@ a{color:#1B3FA0}a:hover{color:#C2410C}
 .lb{touch-action:pan-y pinch-zoom}
 .lb figure{transition:transform .2s ease,opacity .2s ease}
 .lb figure.swiping{transition:none}
+/* paging swaps one popover for the next: keep the dimmed backdrop steady */
+.lb-swap .lb,.lb-swap .lb::backdrop{transition:none !important}
 .lb:popover-open{display:grid;place-items:center}
 .lb figure{margin:0;display:flex;flex-direction:column;align-items:center;gap:14px;max-width:100%;max-height:100%;min-height:0}
 .lb img{display:block;max-width:100%;max-height:calc(100dvh - 220px);width:auto;height:auto;object-fit:contain;border-radius:10px;background:#ffffff;box-shadow:0 20px 60px rgb(0 0 0 / .45)}
@@ -267,8 +269,11 @@ details.notes p b{color:#3A3936;font-weight:600}
   function swap(fromId, toId, dir) {
     const a = doc.getElementById(fromId), b = doc.getElementById(toId);
     if (!a || !b || typeof b.showPopover !== 'function') return;
+    const root = doc.documentElement;
+    root.classList.add('lb-swap');
     try { a.hidePopover(); } catch (e) {}
     try { b.showPopover(); } catch (e) {}
+    requestAnimationFrame(() => requestAnimationFrame(() => root.classList.remove('lb-swap')));
     const btn = b.querySelector('[data-dir="' + dir + '"]');
     if (btn) btn.focus({ preventScroll: true });
   }
