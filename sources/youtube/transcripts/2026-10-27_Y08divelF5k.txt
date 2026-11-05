@@ -1,0 +1,2960 @@
+# 2026-10-27 Board of Education's Audit Committee
+# Video: https://www.youtube.com/watch?v=Y08divelF5k
+# Source: YouTube captions (asr, en), fetched 2026-11-05T16:09:06.305Z
+# BoardBook meeting(s): 2026-10-27|774181
+# Link to a moment: https://www.youtube.com/watch?v=Y08divelF5k&t=<seconds>s
+
+[0:00:00] The public meeting of the board of
+[0:00:02] education's audit committee for October
+[0:00:04] 27th is called to order.
+[0:00:08] Good afternoon and welcome. Thank you
+[0:00:10] all for being here. The first thing on
+[0:00:12] the agenda was going to be the status of
+[0:00:16] recommendation number 11 of the bond
+[0:00:18] audit report, the hiring of an external
+[0:00:20] construction auditor. However, somebody
+[0:00:23] from RISE was not able to be here
+[0:00:25] tonight. So, we're going to put that
+[0:00:27] forward to our next meeting.
+[0:00:30] Next will be audit committee roles and
+[0:00:33] responsibilities.
+[0:00:35] Then the office of internal performance
+[0:00:37] audit OIPA
+[0:00:40] updates. [clears throat] Then monthly
+[0:00:42] and quarterly financial statement
+[0:00:43] review, the status update on the annual
+[0:00:47] comprehensive financial report, the ACFR
+[0:00:51] and single audit, and then we'll have
+[0:00:53] other audit updates. We have a lot on
+[0:00:56] the agenda tonight and we have a hard
+[0:00:58] stop at 9:00 p.m. So, I will keep us
+[0:01:01] moving along. First, let's begin with
+[0:01:04] introductions.
+[0:01:07] I'll begin to my right.
+[0:01:09] Hello, I'm Janice Hansen. I'm the
+[0:01:11] district's internal auditor. And I'm
+[0:01:14] Patty Sullivan, board member and chair
+[0:01:16] of the audit committee.
+[0:01:17] >> I am Virginia Le. I'm the board member
+[0:01:19] residing in zone 5, which is northeast
+[0:01:21] Portland.
+[0:01:23] Hi, I'm Caroline Zavikovsky. I'm a
+[0:01:25] community member on the audit committee.
+[0:01:28] >> I'm Jennifer Samuels. I'm a community
+[0:01:29] member on the audit committee.
+[0:01:32] >> I'm Michelle Morrison, chief financial
+[0:01:34] officer and also staff lesson on to the
+[0:01:36] audit committee.
+[0:01:38] >> Okay. Next, we have public comment.
+[0:01:40] Roseanne, do we have anyone signed up to
+[0:01:42] speak?
+[0:01:42] >> We do. We have Lisa Jackson.
+[0:01:44] >> Oh, good.
+[0:01:49] Please make sure when you begin your
+[0:01:51] comments that you clearly state your
+[0:01:52] name and spell your last name. You will
+[0:01:55] have two minutes to speak. We ask that
+[0:01:57] once you hear the sounding of the alarm
+[0:01:58] go off, please wrap up your comments.
+[0:02:01] And I know you know that, Lisa. So,
+[0:02:04] >> thank you very much. My name is Lisa
+[0:02:06] Jackson, Spotted Elk, Speed D. Okay.
+[0:02:09] [clears throat] I'm glad we're here
+[0:02:11] doing this audit. It's too bad that we
+[0:02:12] had to reschedu stuff. Um, I'm really
+[0:02:16] grateful that we're able to talk about
+[0:02:17] this audit because this audit
+[0:02:19] tremendously affects our native
+[0:02:20] community that I'm sure a lot of people
+[0:02:22] are aware of here and have been in
+[0:02:23] discussion about what had happened to
+[0:02:25] our native community during all this
+[0:02:27] bond stuff with the right sizing of
+[0:02:29] Jefferson is rising. Um, but on record I
+[0:02:32] would love to explain that during the
+[0:02:35] process of Jefferson is rising. We were
+[0:02:37] implemented in that building
+[0:02:39] and then we were taken out. Where that
+[0:02:42] leaves our Indian education with no
+[0:02:44] home. I don't speak for Indian education
+[0:02:47] but I speak as a parent in this
+[0:02:48] community and I will hold accountability
+[0:02:50] to that extent. My daughter is in these
+[0:02:52] schools and my daughter is affected by
+[0:02:55] everything that goes on with Indian
+[0:02:56] education because my daughter is an
+[0:02:58] enrolled member of the Spirit Lake
+[0:02:59] Nation which is the Minwakon no Yate in
+[0:03:01] North Dakota. So under the federal laws,
+[0:03:04] our rights are being violated.
+[0:03:07] I feel like the city needs to be
+[0:03:08] reminded that the state needs to be
+[0:03:10] reminded that we could be a 280 state
+[0:03:12] all day, but we still have federal laws
+[0:03:15] that we have to follow. And so I'm
+[0:03:17] really here to just address that. I hope
+[0:03:19] that you bond committee really look into
+[0:03:21] that. Remember that. Think about it.
+[0:03:24] Why do we have to be displaced again?
+[0:03:28] We're in 2026 going into 2027.
+[0:03:31] And that should be disturbing.
+[0:03:35] I love advocating for our DLI programs.
+[0:03:37] I love advocating for all of our all of
+[0:03:40] our all of our programs and all of our
+[0:03:42] kids. It's it's sad that we're here, but
+[0:03:45] we really need to put a pause to all
+[0:03:46] this because this bond audit stuff that
+[0:03:48] is going on needs to really be looked
+[0:03:49] into as a whole. And I don't know how
+[0:03:52] we're even talking about right sizing
+[0:03:53] schools or shutting down schools right
+[0:03:55] now when we don't even know what is
+[0:03:56] going on with the funding.
+[0:03:59] And it's devastating.
+[0:04:01] But I will show up to every meeting to
+[0:04:02] remind every person sitting here how
+[0:04:04] important this is for our brown, black,
+[0:04:06] and native community. Everyone though as
+[0:04:08] a whole because one day I would love to
+[0:04:11] know that your your kids can learn our
+[0:04:14] cultures just like we're learning
+[0:04:16] everyone's.
+[0:04:18] So I really just want to be grateful to
+[0:04:20] sit here and just explain that to you
+[0:04:22] that this audit means so much for our
+[0:04:24] community. Like I said, I don't speak on
+[0:04:27] behalf of the native Indian education
+[0:04:29] here, but I speak for the community.
+[0:04:33] If anyone could have been at our Native
+[0:04:35] discussion last night, I invited
+[0:04:37] everyone. You would have seen
+[0:04:40] what happens to our community.
+[0:04:43] And it's sad.
+[0:04:45] We're all displaced right now. We're all
+[0:04:47] in survival mode. When you're put in
+[0:04:49] fear, you don't operate okay. Like,
+[0:04:51] everyone is in survival mode. like I I'm
+[0:04:53] grateful to even be able to be in this
+[0:04:55] room cuz a lot of people can't be here.
+[0:04:59] But I appreciate you all for what you do
+[0:05:01] and I really hope that you guys can look
+[0:05:03] into that and understand we don't need
+[0:05:05] to be displaced no more.
+[0:05:08] Thank you.
+[0:05:10] >> Thank you.
+[0:05:13] [clears throat] Our next topic tonight
+[0:05:15] is to discuss the audit committee's
+[0:05:17] roles and responsibilities. Chief
+[0:05:19] Morrison, would you please introduce
+[0:05:21] this topic? Yeah, thank you very much,
+[0:05:24] Director Sullivan. Actually, if we could
+[0:05:26] get our slides up, Roseanne, would that
+[0:05:30] be okay? We can kind of follow along.
+[0:05:32] One of the things that the committee
+[0:05:33] could expect to be different this year
+[0:05:35] is a little change in um the support
+[0:05:39] role as a liazison. I'm going to be more
+[0:05:41] of a framework and provider of support
+[0:05:43] to the committee similar to other
+[0:05:46] committees um of the board uh and uh
+[0:05:50] with partnership with uh Janice and her
+[0:05:54] office. We will work together on a on
+[0:05:56] agendas and topics to bring forward. But
+[0:05:59] you'll notice that we'll have a
+[0:06:01] continuous um slide deck to follow along
+[0:06:04] with links to resources very similar to
+[0:06:06] other committees. So, just want to get
+[0:06:08] that out there that it will look and
+[0:06:10] feel a little bit different and
+[0:06:11] everything will be made available to you
+[0:06:14] electronically through board book and um
+[0:06:17] in paper copies if that's your
+[0:06:20] preference.
+[0:06:24] >> Okay, thank you.
+[0:06:25] >> Next, we have
+[0:06:27] >> Oh, you're still going. I'm still
+[0:06:29] ramping up. Okay, [laughter]
+[0:06:31] >> I'm not used to the new system.
+[0:06:33] >> Sorry about that. So, usually slide deck
+[0:06:36] is going to have an agenda slide. So, we
+[0:06:38] are um not going to address the bond
+[0:06:40] performance audit updates because we
+[0:06:42] don't have the correct people here
+[0:06:43] tonight.
+[0:06:44] >> Do you know do you know what happened?
+[0:06:45] Wyatt, they're not here. I just wanted
+[0:06:46] to ask
+[0:06:48] >> Yeah, there was a specific request from
+[0:06:50] um our senior chief uh Franco. He wanted
+[0:06:54] to be here to answer that question and
+[0:06:55] he had a conflict this evening.
+[0:06:58] >> Yeah.
+[0:07:01] Um, and then again, this is just the
+[0:07:03] agenda slide. So, we'll go ahead and get
+[0:07:05] started and we will click to the roles
+[0:07:08] and responsibilities where uh Janice is
+[0:07:11] going to speak to us about
+[0:07:13] what that looks like.
+[0:07:18] >> Oh, I'm sorry. I thought I was speaking
+[0:07:20] under on the
+[0:07:25] the slide.
+[0:07:26] >> We we are fledgling in our coordination.
+[0:07:28] I will I will speak to this slide. So
+[0:07:30] for the audit committee roles and
+[0:07:31] responsibility, we need to um confirm
+[0:07:34] our audit committee chair is director
+[0:07:36] Sullivan is is have we confirmed that as
+[0:07:40] a committee?
+[0:07:42] >> I don't think so this year. Have we?
+[0:07:45] >> Do we have to vote on that or do we just
+[0:07:47] confirm?
+[0:07:48] >> We don't typically vote on that. It's
+[0:07:50] just this I think the chair of the board
+[0:07:52] assigns currently
+[0:07:55] >> that practice could change but I think
+[0:07:57] that's the current practice. Yes, I know
+[0:07:59] he's appointed this role.
+[0:08:01] >> Excellent.
+[0:08:02] >> Congratulations.
+[0:08:03] >> Thank you.
+[0:08:04] >> Uh for our staff roles, again, I'm going
+[0:08:06] to be serving as liaison. I've learned
+[0:08:08] much over the last year about what that
+[0:08:09] would mean to support a committee. Um we
+[0:08:12] also will have legal counsel here
+[0:08:14] present tonight. It's Liz Large. We have
+[0:08:17] our board manager or designate um which
+[0:08:20] is Roseanne. And then separate from
+[0:08:23] staff we have office of internal
+[0:08:25] performance audit team uh Janice Hansen
+[0:08:28] and Mary Katherine Moore.
+[0:08:34] >> All right.
+[0:08:37] >> It's still you.
+[0:08:38] >> It is still me. Thank you. Um our
+[0:08:41] committee uh vision concepts. So again
+[0:08:44] this is the framework that I wanted to
+[0:08:46] present to you guys for feedback. Um uh
+[0:08:50] we have a link here to the audit
+[0:08:52] committee liaison support plan and it
+[0:08:55] gives just kind of an annual sketch of
+[0:08:58] all of the components and then kind of a
+[0:09:01] rough guide of the timing of different
+[0:09:03] things that would come forward on an
+[0:09:05] annual basis knowing that there would be
+[0:09:07] things coming uh up all along throughout
+[0:09:11] the year. put it there. It does indicate
+[0:09:13] that um our independent auditor is a
+[0:09:16] standing uh space on the agenda to share
+[0:09:19] her updates, but there's also a lot of
+[0:09:21] other things to share. Um we have some
+[0:09:24] audits that aren't finalized yet for
+[0:09:27] sharing that have happened over the
+[0:09:29] course of the summer and early fall. An
+[0:09:31] example of that would be the OD
+[0:09:33] nutrition audit of the summer uh food
+[0:09:36] plan. and those are things that are
+[0:09:38] going to be made available to the
+[0:09:39] committee um on a regular basis. That's
+[0:09:42] an example of something you could expect
+[0:09:44] to see. And then also elevating the work
+[0:09:48] and compliance that happens in addition
+[0:09:50] to highlighting the work of the office
+[0:09:53] of internal performance. So there are a
+[0:09:55] lot of other activities that we do to um
+[0:09:58] implement uh internal controls that I
+[0:10:00] think it'd be good to share with the
+[0:10:02] committee to increase assurance of our
+[0:10:06] uh internal practices.
+[0:10:09] So for our upcoming meeting items, we
+[0:10:12] have uh a monthly and quarterly
+[0:10:15] financial statement uh accessibility
+[0:10:18] training. That's something that I think
+[0:10:19] director Sullivan would like the
+[0:10:22] committee to discuss. Um, do you do do
+[0:10:24] you want would you like to do that now?
+[0:10:29] >> Um,
+[0:10:30] yeah. I was able to meet with you the
+[0:10:32] other day to see what that training
+[0:10:34] might be like. And we talked about how
+[0:10:38] to do that. And so
+[0:10:42] committee, what do you what do you
+[0:10:43] think? How would you like that training?
+[0:10:44] We talked about we could do it here. We
+[0:10:47] could do it online.
+[0:10:49] Um, and also let Michelle Morrison know
+[0:10:56] actually what you want in that kind of
+[0:10:58] training. Is that something you want to
+[0:11:02] discuss now? And it's just so that we
+[0:11:05] will be up on what's happening
+[0:11:06] financially and so we can kind of know
+[0:11:10] what's what's going on so we don't get
+[0:11:12] caught like we did last year. So, are we
+[0:11:14] asking about do we want the the training
+[0:11:17] or how we want the training to be
+[0:11:20] facilitated?
+[0:11:21] >> Yes, that and then also how you want it
+[0:11:24] presented.
+[0:11:25] >> This kind of the whole bundle. How what
+[0:11:27] do you want to see?
+[0:11:28] >> Um I mean I'm I'm all about a monthly
+[0:11:31] financial statement versus quarterly. Um
+[0:11:35] I thought that we were originally going
+[0:11:37] to do that in at the board meetings like
+[0:11:39] each month.
+[0:11:41] >> Is that but that didn't really happen.
+[0:11:43] So I'd love to land on a real plan.
+[0:11:47] >> Yeah. So the the financial statements
+[0:11:49] themselves will be available on a
+[0:11:51] monthly basis, but but the training on
+[0:11:54] just for like general purposes, how how
+[0:11:57] to interpret the report and then any
+[0:11:59] feedback that folks might have on how we
+[0:12:01] could improve that report. I think
+[0:12:03] that's the piece that we were hoping to
+[0:12:05] bring to the audit committee first. Um,
+[0:12:08] >> and how we can learn to interpret the
+[0:12:11] report, you know, really know what it
+[0:12:13] means.
+[0:12:14] >> Yeah. So, we had a step by step of
+[0:12:17] things to look at and how the report is
+[0:12:19] put together. Um, it is super high
+[0:12:22] level. It aligns with, you know, local
+[0:12:24] budget law requirements. So, it doesn't
+[0:12:25] go down into departments or things like
+[0:12:27] that. Um, but we do I do want to hold
+[0:12:32] space for that and have people have all
+[0:12:33] the same understanding of how to read
+[0:12:35] it.
+[0:12:37] >> Something
+[0:12:40] I wonder if it's something that we have
+[0:12:42] special meeting for so the entire board
+[0:12:45] can attend since we're all responsible.
+[0:12:47] You we all have fiduciary responsibility
+[0:12:49] as board members. Um, our meetings have
+[0:12:52] been so packed that I know that
+[0:12:53] personally I wouldn't have any problem
+[0:12:54] having a special meeting if it was just
+[0:12:55] to cover this be like a half hour, 45
+[0:12:58] minutes, an hour, something like that.
+[0:12:59] And it could be sooner. I would not want
+[0:13:02] >> Yeah, I think that would be I would love
+[0:13:04] that. I think it'd be a great idea and I
+[0:13:06] think that we should do it sooner than
+[0:13:08] later. We should understand this and we
+[0:13:10] we should understand this now. So, I'd
+[0:13:12] love to see something happen in November
+[0:13:16] or it could be virtual
+[0:13:19] so we could
+[0:13:21] over. You guys could watch it too. Um
+[0:13:25] >> like a virtual
+[0:13:26] >> we could watch it again. It could be
+[0:13:28] recorded.
+[0:13:30] >> Yeah. And I'm happy to do small group
+[0:13:32] trainings anytime as well. Like those
+[0:13:34] can be ongoing. Um I I was hoping to
+[0:13:37] engage my senior director of finance,
+[0:13:40] Rachel Hopper. She she is really
+[0:13:43] integral in pulling that information
+[0:13:44] together every month. So that was
+[0:13:46] another reason why, you know, let's
+[0:13:48] let's pick a time and and have that held
+[0:13:51] just for that purpose.
+[0:13:53] >> Would it be easier to do um small group
+[0:13:57] meetings with us so that we get through
+[0:14:00] it? I mean, it's
+[0:14:02] I'm I'm thinking like what's most
+[0:14:03] expeditious? I would not want to wait
+[0:14:04] till the next audit committee meeting
+[0:14:05] because we're not meeting as frequently
+[0:14:07] as some of the other committees.
+[0:14:10] I was thinking sometime in November and
+[0:14:13] we have a list of dates at the end of
+[0:14:14] this presentation where it's like early
+[0:14:17] November where we could make it like a a
+[0:14:19] midday virtual meeting and then I'm
+[0:14:22] still happy to do small group or or
+[0:14:24] onetoone trainings as needed.
+[0:14:26] >> What if we had like two options and
+[0:14:28] everybody was required to pick one?
+[0:14:32] >> Sounds like a plan. Okay.
+[0:14:33] >> Yeah, absolutely. Sounds great. Thank
+[0:14:35] you.
+[0:14:35] >> Thank you. Yeah. Jennifer Caroline, do
+[0:14:38] you have any I mean, you know how to
+[0:14:40] read financial reports. They probably
+[0:14:42] don't need the training. Okay. Yeah,
+[0:14:47] Janice, does that sound sounds good to
+[0:14:49] me? Okay. Great. All right. Some other
+[0:14:52] things you can expect to see in the
+[0:14:53] future from that's that's nonipa office.
+[0:14:58] Um, uh, PERS and health and welfare
+[0:15:01] trust presentations. We're going to
+[0:15:02] bring that information here. Both of
+[0:15:04] those are really big um topics and they
+[0:15:09] are of interest and they will be kind of
+[0:15:11] we will have to spread them out through
+[0:15:12] through the year. I think we have our
+[0:15:15] multilingual learners audit and
+[0:15:17] implementation plan and that is going to
+[0:15:20] come more from Janice and then the
+[0:15:24] secretary of state's 2019 audit and the
+[0:15:26] followup. It's my understanding there's
+[0:15:28] been some interest from I'm not sure if
+[0:15:31] that's coming just from the committee or
+[0:15:33] if there's also interest from the
+[0:15:34] broader board to kind of have a
+[0:15:37] refresher on what was included in that
+[0:15:40] audit.
+[0:15:41] >> Yeah, I think that was well at least one
+[0:15:43] other person on the board that's not on
+[0:15:45] the audit committee is interested. Um it
+[0:15:50] could just I think it could just come to
+[0:15:51] this committee.
+[0:15:54] No, no, I'll ask that person. I I did
+[0:15:57] reach out to them and I I didn't get a
+[0:15:59] response. There's an awful lot going on
+[0:16:00] right now. Um but we could have it here
+[0:16:03] and invite them to to that particular
+[0:16:05] session. Yeah.
+[0:16:06] >> Yeah.
+[0:16:07] >> Okay.
+[0:16:14] I know I can do it.
+[0:16:18] I think if we're moving on, I actually
+[0:16:19] had a question about upcoming meeting
+[0:16:21] items. Also, I could get could I get a
+[0:16:25] mic, but I or we can share, but um I
+[0:16:28] didn't want to unplug the tech. Thank
+[0:16:29] you. Um, I do have a question and I'm
+[0:16:33] not sure who to direct this to, but how
+[0:16:36] timely and important are the
+[0:16:37] conversations that we need to have at
+[0:16:40] this committee about con implementing or
+[0:16:43] considering implementing recommendations
+[0:16:45] from the bond audit that affect this
+[0:16:48] committee as well as um I'm sensing that
+[0:16:51] and seeing that it's really
+[0:16:53] time-sensitive about having a
+[0:16:54] construction audit. So, when when do we
+[0:16:58] get to those things? I understand we
+[0:17:00] have a couple staff members who couldn't
+[0:17:01] be here, but when when do we get to
+[0:17:03] that?
+[0:17:06] >> Thank you for that question. I know that
+[0:17:07] a memo did go out to the board, the full
+[0:17:10] board today about activities surrounding
+[0:17:12] that construction auditor piece. It was
+[0:17:15] later this afternoon. So, that didn't go
+[0:17:18] to the audit committee members, but it
+[0:17:20] went to the board and we can share that
+[0:17:22] with you as public document. Um, it is
+[0:17:25] in process right now. Um, we'll be
+[0:17:28] working closely with Janice on the the
+[0:17:30] scope of the work that will go in the
+[0:17:34] RFP that we send out to do that. So, it
+[0:17:38] is underway.
+[0:17:41] >> That's the construction.
+[0:17:42] >> Can I make one comment?
+[0:17:43] >> That's the construction piece
+[0:17:44] >> on the memo. [clears throat] It didn't
+[0:17:45] actually give a date. It just said we're
+[0:17:47] going to do this and had blocks. You
+[0:17:49] know, it takes three weeks to do this
+[0:17:50] and four weeks to do that. I know, you
+[0:17:52] know, I'm frustrated about this because
+[0:17:53] I've been bringing this up since
+[0:17:54] December. So, I'm a little I'm a little
+[0:17:57] frustrated. Um, when do you anticipate
+[0:18:00] starting work with the team, including
+[0:18:03] Janice, on the content of the RFP?
+[0:18:06] >> I just got the memo myself um with the
+[0:18:09] scope of work, a suggested scope of
+[0:18:11] work, a place to start late last week.
+[0:18:14] Okay.
+[0:18:14] >> So, it it is underway. I we'll be moving
+[0:18:18] it forward and we can give you updates
+[0:18:19] as we work through the process.
+[0:18:21] >> Can you share that with Janice if you
+[0:18:23] haven't already? Yes. Great.
+[0:18:27] >> Thank you.
+[0:18:28] >> Um Jennifer, are you also talking about
+[0:18:31] the bond recommendations for the board?
+[0:18:35] >> Thank you. I had a two-part question.
+[0:18:36] Thank you, Patty.
+[0:18:37] >> Okay.
+[0:18:38] >> Um that seems like something we should
+[0:18:41] discuss in this committee to me. It's
+[0:18:46] finding time.
+[0:18:48] >> Um can I ask?
+[0:18:50] >> Go. Um so also I just want to remind the
+[0:18:53] audit committee that the audit committee
+[0:18:55] has a charge to provide um feedback and
+[0:18:58] input to staff and the board as a whole
+[0:19:01] and recommendations on the
+[0:19:03] implementation of the bond audit
+[0:19:06] recommendations.
+[0:19:07] So, we talked about this a little bit
+[0:19:10] over the summer with Michelle when staff
+[0:19:14] um don't concur with recommendations
+[0:19:18] um there to come to the audit committee
+[0:19:20] and explain the rationale for the
+[0:19:22] non-concurrence and allow an opportunity
+[0:19:25] for the audit committee to provide some
+[0:19:27] feedback. So I do think the there is a
+[0:19:32] need to have that conversation here in
+[0:19:35] the audit committee and um the the two
+[0:19:40] that I thought were most timely and
+[0:19:42] important I was hoping to discuss
+[0:19:45] tonight um but we definitely need to get
+[0:19:48] it on the agenda for the committee to
+[0:19:51] talk about in our next meeting. Is that
+[0:19:54] okay?
+[0:19:56] >> Yeah, those two. But shall we also talk
+[0:19:58] about
+[0:19:59] >> the whole thing?
+[0:20:00] >> Yeah. Just
+[0:20:01] >> because it's going to slip by if we
+[0:20:03] don't do it.
+[0:20:04] Do we want to consider having maybe a
+[0:20:08] I'm all about like a special meeting a
+[0:20:10] special meeting in November that is
+[0:20:12] dedicated to the bond audit because
+[0:20:13] there's so much to cover and we need to
+[0:20:16] recommend to the you know we need to
+[0:20:17] make some recommendations to the board
+[0:20:18] on how to actually implement our own
+[0:20:20] recommendations and I do worry that
+[0:20:22] we're going to be sitting here in
+[0:20:24] January or February you know months
+[0:20:27] after we received the draft in August
+[0:20:29] having accomplished nothing and um and I
+[0:20:33] sense that we're kind of feeling that
+[0:20:34] way and um I don't want to speak for
+[0:20:37] everybody but um
+[0:20:39] >> looks like they have some head nodding
+[0:20:40] over there. So I'm down for a special in
+[0:20:44] another meeting if we can make it
+[0:20:45] happen.
+[0:20:45] >> This is a meeting that is dedicated
+[0:20:46] solely to the audit.
+[0:20:49] >> I have a clarifying question. Is that a
+[0:20:52] board meeting or a committee meeting?
+[0:20:54] >> Committee.
+[0:20:55] >> I think it's important to discuss that
+[0:20:58] in this committee because we have
+[0:21:00] community members as part of this
+[0:21:01] committee who aren't board members.
+[0:21:04] I agree.
+[0:21:04] >> Right. And it's a nice number to be able
+[0:21:08] to talk to that that care. So, um,
+[0:21:14] she'll you and I get together and find a
+[0:21:17] date and let you know sometime
+[0:21:21] middle.
+[0:21:23] >> So, I will say that I am planning to
+[0:21:25] attend the council of great city schools
+[0:21:28] conference and it is I think it's the
+[0:21:30] second week of
+[0:21:34] November 16th through the 20th. So, if
+[0:21:36] you wouldn't mind, let's not try to pick
+[0:21:38] a date, but other than that, I'm
+[0:21:40] available anytime in November.
+[0:21:43] >> Okay. So, Janice and I will get together
+[0:21:45] and pick a date.
+[0:21:48] >> Sounds great.
+[0:21:49] >> Let you know. Okay. And for you two, is
+[0:21:52] it better
+[0:21:53] um after 5:30?
+[0:21:58] >> Generally, yes.
+[0:21:59] >> Okay.
+[0:22:07] And and what did you say in
+[0:22:09] >> Oh, it depends.
+[0:22:10] >> Oh, depends on the day. Depends on the
+[0:22:11] day.
+[0:22:12] >> Are there particular days that work
+[0:22:13] better for you?
+[0:22:15] >> Um, well, you you need to be after work
+[0:22:17] more likely.
+[0:22:20] >> Yeah, because my colleague needs to be
+[0:22:21] after work. I'm good with after work.
+[0:22:23] >> Oh, okay. So, then you don't care about
+[0:22:26] the day. All right. Fine.
+[0:22:30] All right.
+[0:22:34] I'm trying
+[0:22:47] in get any help.
+[0:22:51] Maybe I'm just too far away.
+[0:22:59] All right.
+[0:23:01] At this point, we're gonna
+[0:23:05] >> Oh, now I can.
+[0:23:06] >> Yeah, now I can. Okay, great. Um, so
+[0:23:11] next we're going to have an update from
+[0:23:13] the Office of Internal Performance
+[0:23:15] Auditor.
+[0:23:17] >> Thank you. Um, I printed for you guys in
+[0:23:21] the purple. It's also posted online. Um,
+[0:23:24] or not purple, the blue tint. This is
+[0:23:27] the slide deck that we're going to go
+[0:23:29] through. This is an overview of the
+[0:23:32] office of internal performance audit and
+[0:23:35] within this these slides we'll also talk
+[0:23:37] about some roles and responsibilities
+[0:23:39] for the audit committee.
+[0:23:42] So the first slide um on the agenda
+[0:23:46] we'll talk about the internal
+[0:23:48] performance audit team um professional
+[0:23:51] association memberships audit standards
+[0:23:54] independence professional skepticism
+[0:23:58] what is internal performance auditing.
+[0:24:01] will um touch on the policy and the
+[0:24:04] charter, the purpose and the mission,
+[0:24:07] ethics and professionalism,
+[0:24:09] governing the internal audit function,
+[0:24:11] essential conditions and benchmarking.
+[0:24:14] So we have a lot to talk about in this
+[0:24:17] conversation. So first um we already
+[0:24:21] introduced our myself and over there you
+[0:24:24] will see Mary Katherine and between the
+[0:24:28] two of us we make up the office of
+[0:24:30] internal performance audit and I love to
+[0:24:34] whenever Mary Katherine is here to
+[0:24:36] mention that she's a graduate of Grant
+[0:24:38] High School. [laughter]
+[0:24:40] Um [clears throat]
+[0:24:42] so if you put to um also we are planning
+[0:24:46] to expand the team sometime this year.
+[0:24:49] So we'll talk a little bit about that.
+[0:24:51] If you go to the next slide um we are
+[0:24:57] members of a couple of professional
+[0:25:00] association memberships. We participate
+[0:25:03] in the Institute of Internal Auditors
+[0:25:06] and I will not like to thank Mary
+[0:25:10] Katherine. She attends the local chapter
+[0:25:12] meetings more um but we do try to
+[0:25:16] participate in those when we can. We
+[0:25:19] also are members of the Association of
+[0:25:21] Local Government Auditors and one of the
+[0:25:24] services that they provide to their
+[0:25:26] members is somewhat new. in the last
+[0:25:29] year they started doing a bimonthly
+[0:25:33] um ALGA K through2 meeting. So internal
+[0:25:38] auditors from across the country that
+[0:25:41] audit at K12 schools um get together
+[0:25:45] every other month and we talk about
+[0:25:47] what's going on in the work that we do.
+[0:25:51] Um, ALG also provided a local training
+[0:25:55] in um
+[0:25:58] the we say it's Portland but was
+[0:26:00] actually in
+[0:26:04] Clackamus County [laughter]
+[0:26:06] um and we went to that. The Council of
+[0:26:09] Great City Schools is another
+[0:26:11] professional association. The um one of
+[0:26:15] the services they provide is an internal
+[0:26:18] audit by monthly meeting. um they call
+[0:26:21] it job alike meetings for internal
+[0:26:23] auditors. So internal auditors from
+[0:26:26] across the country that participate and
+[0:26:30] that are members of the council of great
+[0:26:31] city schools. We get together every
+[0:26:34] other month and we talk about the work
+[0:26:35] that we do and we try to learn from each
+[0:26:38] other as well. the they have an annual
+[0:26:40] conference each year and they have more
+[0:26:43] than one conference um throughout the
+[0:26:46] year but the one that I will be
+[0:26:49] attending this year is the annual
+[0:26:51] conference for chief financial officers
+[0:26:56] the directors of procurement risk
+[0:26:58] management and internal audit and by
+[0:27:00] having this group of people together we
+[0:27:04] go to the conference and we do a bunch
+[0:27:06] of training and it's actually really
+[0:27:07] great to learn from each
+[0:27:10] Um, the next slide is the audit
+[0:27:13] standards and I just want to remind
+[0:27:16] everybody that auditors typically name
+[0:27:20] things based off the color of the book.
+[0:27:23] [laughter] Um, so we have the yellow
+[0:27:25] book and the red book.
+[0:27:26] >> Interrupt you. I just want the slides
+[0:27:27] that are on the screen are not they're
+[0:27:29] behind
+[0:27:30] >> what you're what you're saying. So
+[0:27:33] what's up on the screen is not matching
+[0:27:34] where you're at in the presentation.
+[0:27:36] >> Oh, sorry.
+[0:27:37] >> One more. One more slide.
+[0:27:41] There we go. Thank you. Thank you. Um,
+[0:27:45] so we have the yellow book. It's also
+[0:27:49] called Gagus. G- A G- A S. Um, and then
+[0:27:54] we have the Institute of Internal
+[0:27:56] Auditors, which we call the red book
+[0:27:58] also because the color is red. Um, so
+[0:28:02] for tonight, I'm going next slide. Um
+[0:28:05] we're going to dive do a little bit of a
+[0:28:07] deep dive on independence specifically.
+[0:28:11] Um so I want to talk about this in a
+[0:28:14] little bit more detail. So the next
+[0:28:16] couple slides are related to
+[0:28:18] independence. So the office of internal
+[0:28:21] performance audit is an independent
+[0:28:23] function within PPS that provides
+[0:28:27] objective assurance and advisory
+[0:28:29] services to the board. Um so the yellow
+[0:28:33] book in Gagas aka Gagas identifies
+[0:28:37] specific criteria that must be met for
+[0:28:39] OIPA to maintain its independence
+[0:28:43] and OIPA structural uh organizational
+[0:28:47] structure does meet this criteria. So on
+[0:28:51] the next slide we're going to walk
+[0:28:53] through that criteria.
+[0:28:56] So there's a whole chapter in Gagas on
+[0:28:59] um ethics and independence and
+[0:29:01] professional judgment. I will not go
+[0:29:04] through the whole chapter but I just
+[0:29:05] picked out the part about with the
+[0:29:07] criteria for independence. So Gagas says
+[0:29:12] in order to be considered independent
+[0:29:16] the head of the organization has to meet
+[0:29:18] all of the following criteria.
+[0:29:21] Um so the first criteria is says is
+[0:29:25] accountable to the head or the deputy
+[0:29:27] head of the govern in government entity
+[0:29:31] or those charged with governance. So how
+[0:29:34] do we meet that criteria? Um
+[0:29:39] OIPA reports administratively
+[0:29:42] to the CFO
+[0:29:45] and we report functionally to the board.
+[0:29:49] And on the next slide, I have a little
+[0:29:53] illustration of what that looks like.
+[0:29:56] Um, but before we go to there, I want to
+[0:29:59] clarify the policy says that um, so how
+[0:30:04] do I report administratively to the CFO
+[0:30:07] and what does that mean? So the policy
+[0:30:10] outlines that and it says the auditor
+[0:30:12] shall report to the deputy
+[0:30:14] superintendent of business and operation
+[0:30:16] or comparable role for administrative
+[0:30:19] purposes such as leave, approval, office
+[0:30:23] space, supplies, paychecks, and
+[0:30:26] reimbursement. And so you will see that
+[0:30:28] those are all very administrative
+[0:30:30] things. um we don't report to the CFO
+[0:30:35] for purposes of
+[0:30:39] the functionality of the internal audit.
+[0:30:42] It's primarily administrative purposes.
+[0:30:46] Um and then we report functionally to
+[0:30:50] the board. And
+[0:30:52] um in the board policy it says that the
+[0:30:56] office will be staffed by a board
+[0:30:58] approved district performance auditor
+[0:31:00] who shall be hired, evaluated and may be
+[0:31:04] removed by the board and such other
+[0:31:08] employees or contractors as the board
+[0:31:10] provides budgetary funding.
+[0:31:15] Um, let's see.
+[0:31:18] And the board policy also states the
+[0:31:20] auditor and their staff shall report to
+[0:31:22] the audit committee and the auditor will
+[0:31:25] be annually evaluated by the board using
+[0:31:29] the district's evaluation instrument.
+[0:31:34] So now if you see on the example there
+[0:31:39] um in internal auditing or in auditing
+[0:31:43] functions oftentimes you'll see a dotted
+[0:31:46] line and right now OIPA does not appear
+[0:31:51] on any of the district's um
+[0:31:55] org charts.
+[0:31:57] um it which is okay, but if we were to
+[0:32:00] ever be added to that org chart, this is
+[0:32:04] how it would need to be. It would need
+[0:32:06] to be a dotted line to the CFO with the
+[0:32:09] solid line um being to the audit
+[0:32:13] committee and the board. And it it
+[0:32:17] really is something that most auditors
+[0:32:20] um audit departments have is that little
+[0:32:22] dotted line. So, it's not unusual to see
+[0:32:25] that, but I wanted to make sure you know
+[0:32:27] what that means if you were to um ever
+[0:32:30] see that. Okay. On the next page,
+[0:32:33] >> ask a quick question. Would you rather
+[0:32:34] have us hold our questions till the end
+[0:32:35] or?
+[0:32:36] >> Actually, no. Would you mind just
+[0:32:37] asking?
+[0:32:38] >> I thought you might.
+[0:32:39] >> So, for as far as the org chart goes, um
+[0:32:43] so if you need um a day off, you would
+[0:32:47] submit that request through Michelle
+[0:32:50] >> or how does how does that work?
+[0:32:52] Um, typically it's my current practice
+[0:32:55] to have the chair of the audit committee
+[0:32:57] preapprove all of my leave, but she's
+[0:33:01] not an employee here. So, I actually
+[0:33:03] send the I forward then Pat the chair of
+[0:33:07] the audit committee's approval to
+[0:33:10] Michelle and ask for approval to take
+[0:33:14] whatever leave time that I need. So, I I
+[0:33:17] double up a little bit.
+[0:33:18] >> That makes sense.
+[0:33:19] >> Yeah. And then for for an employment
+[0:33:23] review for a position like yours is is
+[0:33:27] it you know I know we've kind of been
+[0:33:29] working out the kinks
+[0:33:32] I mean we don't necessarily have to have
+[0:33:33] the conversation right now but I running
+[0:33:35] it through the audit committee is the
+[0:33:37] way to go in terms of synthesizing the
+[0:33:39] information that the board submits
+[0:33:42] >> to um in a perfect world should that be
+[0:33:46] going to the chair or to HR
+[0:33:49] It should go to the chair.
+[0:33:50] >> Okay. Because right now I know we're
+[0:33:52] supposed to send it to HR and I thought
+[0:33:53] it would be the chair as well. Would it
+[0:33:55] be appropriate
+[0:33:56] >> for us to send it to the chair and have
+[0:33:58] HR synthesize it or should a third party
+[0:34:01] be synthesizing it?
+[0:34:03] >> Let me clarify just a little bit. So um
+[0:34:06] we actually had some detailed
+[0:34:07] conversations this year a lot um about
+[0:34:10] my performance evaluation process. And
+[0:34:14] in the past, the input document that is
+[0:34:17] sent out was just sent back to Patty
+[0:34:21] directly. And this year, it's it's
+[0:34:25] really challenging to um get all of
+[0:34:28] those input documents. So, what we
+[0:34:32] decided to do is have HR collect them.
+[0:34:36] They will copy and paste the input from
+[0:34:38] each into a document and then give it to
+[0:34:42] director Sullivan who will use that to
+[0:34:44] actually write the performance
+[0:34:46] evaluation. So it won't be synthesized
+[0:34:50] by HR. It will it's just like an
+[0:34:53] administrative help to collect them,
+[0:34:56] aggregate it and then provide it to
+[0:34:58] director Sullivan. And that is the
+[0:35:01] process that we've used in the past is
+[0:35:03] that she synthesizes all of that
+[0:35:05] information. But it is a little tricky
+[0:35:07] to get all of that information pulled
+[0:35:10] together into one document.
+[0:35:11] >> Yeah. And there was a question because
+[0:35:14] of public um the rules for sharing
+[0:35:18] information between board members.
+[0:35:20] Right.
+[0:35:20] >> That made it have to not come to me. So
+[0:35:22] I saw everybody. So
+[0:35:24] >> makes makes perfect sense. There's
+[0:35:25] somebody sharing. I'm I'm all about like
+[0:35:27] third party next year. I know we're
+[0:35:29] still we're still working on
+[0:35:31] >> that might be one thing work on again I
+[0:35:34] I
+[0:35:36] process
+[0:35:38] >> well on the agenda later we have that on
+[0:35:40] our topic so we'll be talking about that
+[0:35:42] tonight um okay so the next did we
+[0:35:48] answer the question we're good okay so
+[0:35:50] the
+[0:35:52] we are on slide nine now
+[0:35:56] let's see so the second piece of The
+[0:35:58] criteria that makes OIPA independent is
+[0:36:03] that we report the engagement results to
+[0:36:06] both the head or the deputy head of the
+[0:36:08] government entity and those charged with
+[0:36:11] governance. So how do we do that? Per
+[0:36:14] policy, it says that internal audit
+[0:36:17] function shall deliver um to the audit
+[0:36:21] committee, the board and the
+[0:36:22] superintendent. So that is why we bring
+[0:36:26] all of our audit reports to the audit
+[0:36:28] committee and they are also provided to
+[0:36:31] the superintendent as well as the full
+[0:36:34] board.
+[0:36:36] The next criteria is that we OIPA is
+[0:36:41] located organizationally
+[0:36:44] outside
+[0:36:46] the staff or line management function of
+[0:36:49] the unit under audit. So,
+[0:36:54] um, just
+[0:36:57] the organization chart, the fact that
+[0:36:59] we're not on there is a demonstration
+[0:37:02] that we are outside the line of
+[0:37:04] anybody's um, responsibilities here at
+[0:37:07] PPS. We do not operate um, we don't tell
+[0:37:12] anybody what to do. We're not the boss
+[0:37:14] of anybody other than just ourselves.
+[0:37:18] Um,
+[0:37:20] all right. Next.
+[0:37:21] >> And nobody's the boss of you
+[0:37:23] >> except you, the board.
+[0:37:25] >> Except me.
+[0:37:25] >> The board. [laughter]
+[0:37:27] >> Um, okay. The criteria D has access to
+[0:37:33] those charged with governance.
+[0:37:36] So, um, next after we go through this, I
+[0:37:40] do have an communication protocol
+[0:37:42] document that we'll go over. But the key
+[0:37:46] here is that in order to maintain
+[0:37:49] independence, we need to have access to
+[0:37:52] those charged with governance. So we do
+[0:37:55] provide or we do maintain direct
+[0:37:57] communications with the PPS board and
+[0:38:00] the audit committee members and we'll
+[0:38:02] talk more about it in the communication
+[0:38:04] protocol.
+[0:38:07] Um on the next slide is the criteria E
+[0:38:11] and that criteria is to be sufficiently
+[0:38:14] removed from pressures to conduct
+[0:38:17] engagements and report findings,
+[0:38:19] opinions and conclusions objectively
+[0:38:22] without fear of reprisal.
+[0:38:25] So we have quite a few safeguards in
+[0:38:28] place um to ensure that we meet that
+[0:38:31] criteria. So I'll go over those with you
+[0:38:33] guys. The first safeguard is that we
+[0:38:37] report functionally to the board via the
+[0:38:39] audit committee. The second safeguard is
+[0:38:43] that the annual eva my annual the annual
+[0:38:47] evaluation for myself is um done by the
+[0:38:50] board using the district's evaluation
+[0:38:54] instrument.
+[0:38:55] Um, and I just put a couple of notes to
+[0:39:00] say that for my team, like Mary
+[0:39:04] Katherine, I do the annual evaluation
+[0:39:06] for Mary Katherine. The board does it
+[0:39:09] for me and I do it for the rest of the
+[0:39:11] team. Um, and the next safeguard is that
+[0:39:17] we may may be removed by the board. And
+[0:39:21] I just want to this came up in a
+[0:39:23] previous conversation. And I just want
+[0:39:25] to clarify that the policy is clear. It
+[0:39:29] says that it may be removed by the board
+[0:39:33] and such other employees or contractors
+[0:39:36] as the board provides budgetary funding.
+[0:39:39] So to that means myself and the team.
+[0:39:44] So, if either of us or anybody else on
+[0:39:48] the OIPA team were to be removed, it
+[0:39:51] would require the board to make that
+[0:39:54] happen.
+[0:39:55] Um, and I put the definition at the
+[0:39:57] bottom of what safeguards are for you
+[0:40:00] guys. All right. On the next slide,
+[0:40:03] there is another safeguard in place. Um,
+[0:40:07] so OIPA proposes the annual budget to
+[0:40:11] the audit committee. So once the audit
+[0:40:15] committee um
+[0:40:19] app approves the budget um from their
+[0:40:21] perspective, the audit committee
+[0:40:24] recommends the budget to the full board
+[0:40:28] for inclusion into the board's budget.
+[0:40:32] In the event that the board does not
+[0:40:34] accept the audit committee's
+[0:40:36] recommendation for budget, um the next
+[0:40:41] step would be to have the chair of the
+[0:40:44] board and the chair of the audit
+[0:40:46] committee engage in direct negotiations
+[0:40:49] with myself. Any changes to the audit
+[0:40:54] committee's recommended budget should be
+[0:40:57] reapproved by the audit committee and
+[0:40:59] recommended to the full board for
+[0:41:02] inclusion into the board's budget.
+[0:41:05] >> Can I jump in here before you?
+[0:41:06] >> Yes.
+[0:41:07] >> Okay. So, for
+[0:41:09] the budget for your office, this will go
+[0:41:14] to
+[0:41:16] the committee.
+[0:41:16] >> Yes.
+[0:41:17] >> And then we make the recommendation to
+[0:41:19] the board. Yes.
+[0:41:20] >> Okay. Did that happen last year?
+[0:41:23] >> It did happen last year.
+[0:41:24] >> I'm only asking because there were some
+[0:41:26] some cuts in there.
+[0:41:27] >> Yeah. So, there was some breakdown of
+[0:41:30] communication.
+[0:41:32] >> Um, and I'm not sure how that happened,
+[0:41:36] but the audit committee did approve the
+[0:41:38] budget and we did recommend it to the
+[0:41:41] full board for inclusion.
+[0:41:43] >> The breakdown happened after that. So if
+[0:41:46] there were if there needs to be
+[0:41:49] discussions about it, if the board is
+[0:41:51] not going to accept that budget then and
+[0:41:54] include it into its budget, then that
+[0:41:56] conversation needs to take place um with
+[0:41:59] me.
+[0:42:01] I was I was surprised. So
+[0:42:03] >> yeah.
+[0:42:05] >> Yeah, there was some
+[0:42:07] kind of glitches last year, but
+[0:42:10] >> yeah, that happened. Yeah.
+[0:42:11] >> I wonder if we send it as a resolution
+[0:42:14] next year to the the full board. That
+[0:42:16] would just make sure there isn't any
+[0:42:19] breakdown next year or in in in pre, you
+[0:42:22] know, subsequent years.
+[0:42:23] >> That's a good idea.
+[0:42:24] >> Yeah, just do it more clearly
+[0:42:27] at a at a board meeting.
+[0:42:31] >> Okay. So just a couple of concluding
+[0:42:34] thoughts on independence.
+[0:42:38] Changes to the organizational structure
+[0:42:41] of the office of internal performance
+[0:42:43] audit should be carefully considered as
+[0:42:46] additional or alternative safeguards may
+[0:42:49] be necessary to maintain OIPA's
+[0:42:52] independence.
+[0:42:54] There are some opportunities to
+[0:42:56] strengthen the independence of OIPA
+[0:42:59] and I have put an example here. One of
+[0:43:03] the examples is to increase the number
+[0:43:06] of community members on the audit
+[0:43:08] committee and to allow the community
+[0:43:12] members on the audit committee voting to
+[0:43:14] be able to vote. Um, I did do a little
+[0:43:19] bit of research to see how common it is
+[0:43:22] to have that set up. And in the Council
+[0:43:28] of Great City Schools white paper on
+[0:43:31] internal auditing in the very back there
+[0:43:34] is um
+[0:43:38] some benchmarking data and 19% of
+[0:43:42] internal audit departments of the
+[0:43:46] members of the Council of Great City
+[0:43:48] Schools have a completely independent
+[0:43:52] audit committee that is made up of just
+[0:43:56] community members. So, there's not even
+[0:43:59] board members on there. Um, and then
+[0:44:03] there's another section of the internal
+[0:44:07] audits that have a mix where it's board
+[0:44:11] members and community members. And then
+[0:44:14] there are also some that just have board
+[0:44:18] members. And so I just wanted to let you
+[0:44:21] know that if there is interest in
+[0:44:25] strengthening some
+[0:44:28] independence for the office of internal
+[0:44:30] performance audit that is a way in which
+[0:44:33] that could be done and if you are
+[0:44:37] interested I you can send me an email.
+[0:44:41] It is um on my plan to propose some
+[0:44:46] updates to the policy
+[0:44:49] in the spring of this year. And so if
+[0:44:53] there is interest in that, that would be
+[0:44:55] a good time to make those changes. But
+[0:44:59] no decision on that is necessary. I'm
+[0:45:02] just letting you know there is an
+[0:45:03] opportunity and if you're interested, we
+[0:45:05] can talk more about it.
+[0:45:08] Um the last concluding point is um
+[0:45:12] professional skepticism is a required
+[0:45:15] element of independence.
+[0:45:20] So the next slide is all about
+[0:45:23] professional skepticism.
+[0:45:25] And I don't want to read the slide to
+[0:45:28] you. One of the things that I really
+[0:45:32] wanted to spend some of our time talking
+[0:45:34] about is an article that I posted for
+[0:45:37] you guys. This article is titled Why
+[0:45:41] Professional Skepticism is Too Important
+[0:45:44] to Leave to Internal Audit Alone. And I
+[0:45:49] did print it for you guys so you have a
+[0:45:51] copy of it also.
+[0:45:54] Um, this article was
+[0:45:58] really I mean
+[0:46:01] it just really speaks to uh professional
+[0:46:04] skepticism in in a lot of detail. So I
+[0:46:08] am going to talk through some of the
+[0:46:12] ones that I just highlighted. So first
+[0:46:14] internal auditors are trained to ask
+[0:46:17] questions. So why do governance failures
+[0:46:20] still occur in organizations with mature
+[0:46:23] internal audit functions, established
+[0:46:26] control framework, experienced auditors,
+[0:46:29] risk registers, audit committees and
+[0:46:32] welldocumented
+[0:46:33] assurance processes.
+[0:46:36] Um, so this article was written by a
+[0:46:39] student working on their MBA and they
+[0:46:43] did some research to kind of answer that
+[0:46:46] question and um what they found is it
+[0:46:52] turns out that auditors actually do
+[0:46:55] understand professional skepticism
+[0:46:58] and how it works and how to challen make
+[0:47:03] challenges and ask the questions.
+[0:47:05] What um was the surprise was that um
+[0:47:12] oftent times it is the organizational
+[0:47:16] culture um leadership behavior
+[0:47:18] performance systems and government
+[0:47:20] structures structures
+[0:47:23] um they all need to be working in
+[0:47:26] alignment in order for professional
+[0:47:29] skepticism to be effective.
+[0:47:32] So
+[0:47:34] on the second or let's see the third
+[0:47:37] page, the surprise was not that auditors
+[0:47:42] lacked skepticism. The surprise was how
+[0:47:44] often the barriers for skepticism were
+[0:47:47] outside the control of the individual
+[0:47:51] auditors.
+[0:47:52] So participants in the study pointed out
+[0:47:55] that performance measures, rigid
+[0:47:58] engagement scopes,
+[0:48:00] management resistance, time constraints,
+[0:48:04] hierarchial norms, fear of escalation,
+[0:48:08] and governance environments where
+[0:48:10] skepticism was encouraged in principle
+[0:48:14] but not always supported in practice.
+[0:48:17] And that distinction does matter.
+[0:48:20] Um, internal auditors operate within
+[0:48:24] realworld pressures. Um, some of those
+[0:48:28] are things like complete the audit plan,
+[0:48:30] meet deadlines, maintain stakeholder
+[0:48:32] relationships, avoid unnecessary
+[0:48:34] escalations,
+[0:48:36] keep reports concise, deliver value, be
+[0:48:39] collaborative, be efficient.
+[0:48:42] Individually, these expectations all
+[0:48:44] make sense. Um, collectively though they
+[0:48:48] can create an environment where
+[0:48:50] skepticism becomes increasingly
+[0:48:52] uncomfortable.
+[0:48:54] So there's no policy that says do not
+[0:48:58] challenge management. Of course there's
+[0:49:00] not. But an environment can send that
+[0:49:03] message anyways. Um, so the consequences
+[0:49:07] is subtle but important. Internal
+[0:49:10] auditors will learn to finish their work
+[0:49:14] rather than probe. They learn to
+[0:49:17] document rather than to investigate.
+[0:49:19] They learn to manage disagreements
+[0:49:22] rather than test them. Professional
+[0:49:25] skepticism becomes something
+[0:49:27] acknowledged in standards but harder to
+[0:49:30] sustain in practice. So professional
+[0:49:34] skepticism does not mean distrusting
+[0:49:39] management. And I want to circle and
+[0:49:41] highlight that if at all possible. Um,
+[0:49:44] professional skepticism does not mean
+[0:49:46] distrusting management nor nor does it
+[0:49:49] mean that we assume some sort of
+[0:49:51] misconduct has taken place. It means
+[0:49:55] asking whether the available evidence is
+[0:49:59] sufficient, whether an alternative
+[0:50:02] explanation exists and whether the
+[0:50:04] conclusion remains sound when
+[0:50:07] challenged.
+[0:50:08] This is the difference between an audit
+[0:50:12] as a compliance activity and audit as a
+[0:50:16] governance safeguard.
+[0:50:20] Um so professional skepticism should be
+[0:50:24] viewed not merely as just an auditor
+[0:50:28] competency but as a governance
+[0:50:31] capability.
+[0:50:34] Um when skepticism is viewed as a
+[0:50:38] governance capability,
+[0:50:40] the questions become much more powerful.
+[0:50:44] Um
+[0:50:46] and some of the bullet points here is
+[0:50:49] say this. Do leaders model constructive
+[0:50:52] challenges?
+[0:50:53] Are difficult questions welcomed or
+[0:50:56] avoided? Do performance systems reward
+[0:51:00] insight or merely just completion?
+[0:51:04] Does the audit committee actively probe
+[0:51:08] management re responses?
+[0:51:12] These are not merely audit questions.
+[0:51:14] They are governance questions and they
+[0:51:17] determine whether skepticism
+[0:51:20] survives
+[0:51:22] contact with organizational reality.
+[0:51:25] The strongest governance environments
+[0:51:28] are not necessarily those
+[0:51:32] with the most policies, controls or
+[0:51:36] procedures. They are environments where
+[0:51:40] challenge is normalized, where
+[0:51:42] assumptions can be questioned, where
+[0:51:45] difficult conversations are not avoided,
+[0:51:48] where internal auditors ask uncom unc
+[0:51:51] uncomfortable questions without fear of
+[0:51:53] personal or professional consequences.
+[0:51:56] Governance structures alone cannot
+[0:51:59] achieve that. Culture must support it,
+[0:52:02] leadership must model it, and governance
+[0:52:04] must protect it. Um, so the rest of the
+[0:52:10] article goes on to challenge internal
+[0:52:12] auditors and they ask, "What will you do
+[0:52:15] differently on Monday morning?" And I
+[0:52:19] also just want to challenge our audit
+[0:52:21] committee to um think about professional
+[0:52:26] skepticism as a responsibility of all of
+[0:52:28] us. And it hopefully is um something
+[0:52:33] that we can all model to demonstrate
+[0:52:36] that asking tough questions and having
+[0:52:38] these conversations is not avoided. Um
+[0:52:43] and the audit committee is a great place
+[0:52:44] for those conversations to take place.
+[0:52:48] And um when we do talk about the bond
+[0:52:52] audit, when it does come to the audit
+[0:52:54] committee, I just want everybody to keep
+[0:52:57] in mind that we're not questioning um
+[0:53:00] management directly. We need to be
+[0:53:03] mindful and ask the questions in a way
+[0:53:07] in which we exercise professional
+[0:53:09] skepticism,
+[0:53:11] not um attacking anybody. But hopefully
+[0:53:15] that makes sense. Um,
+[0:53:19] the
+[0:53:20] real test of audit quality, I'm just
+[0:53:23] going to read the last line. Uh, the
+[0:53:25] real test of audit quality is not
+[0:53:27] whether a file is complete, a report has
+[0:53:31] been issued, or the audit plan has been
+[0:53:33] delivered. It is whether when something
+[0:53:36] did not make sense, the internal auditor
+[0:53:40] stopped long enough and pushed hard
+[0:53:42] enough to ask, "Are we really sure?
+[0:53:46] Um, are there any questions about
+[0:53:48] professional skepticism?
+[0:53:51] >> I have a comment. I love this article.
+[0:53:54] You sent this to us a while back and I
+[0:53:56] think it's just fabulous and should be
+[0:53:58] like required reading. Um, for for
+[0:54:01] everyone and uh I love the way you
+[0:54:03] served it up. You know, I know that um I
+[0:54:05] I was laughing because you said, "Are
+[0:54:07] you sure?" And uh my husband says, "You
+[0:54:09] say that all the time. It's so
+[0:54:10] annoying." Well, I'll be like, "Are you
+[0:54:11] sure for pretty much anything? Are you
+[0:54:13] sure?" [laughter]
+[0:54:14] And uh but I think that it's really this
+[0:54:16] is a really healthy culture and one that
+[0:54:18] I really buy into. I'm not trying to
+[0:54:21] make it about me, but it's something
+[0:54:23] even professionally when you know I have
+[0:54:26] a big project or in working with my team
+[0:54:28] like if I complete something you know
+[0:54:30] and I'm asking for feedback I literally
+[0:54:32] say here poke holes in this poke the
+[0:54:36] holes in it so that I can fill them
+[0:54:37] before I put this out into the wild. So,
+[0:54:39] I think that, you know, being really
+[0:54:41] comfortable with that, um, thinking is
+[0:54:43] really important that it isn't it isn't
+[0:54:45] ever an accusation. It's really just
+[0:54:48] poking the holes in it so that we build
+[0:54:50] something and weave something together
+[0:54:51] that's stronger. Does that make sense?
+[0:54:54] >> That makes perfect sense to me.
+[0:54:56] >> This is really good. You ever read it?
+[0:54:59] >> Yeah. I I knew the first almost the
+[0:55:02] first time I met Virginia,
+[0:55:04] >> she wasn't audited in her soul. I've
+[0:55:08] joked that I think I was an auditor or
+[0:55:09] an investigative reporter in a past
+[0:55:11] life. Pretty sure
+[0:55:14] >> um okay so we will move on from
+[0:55:16] professional skepticism and the next
+[0:55:20] slide talks about what is internal
+[0:55:22] performance auditing. So in audit
+[0:55:26] standards in the yellow book there is no
+[0:55:29] definition of internal performance
+[0:55:32] auditing. There are audit standards for
+[0:55:35] two types of audits which are financial
+[0:55:38] audits and performance audits. So
+[0:55:41] anything that is not a financial audit
+[0:55:44] is classified as a performance audit. So
+[0:55:48] I just wanted to clarify a little bit
+[0:55:51] about that. So internal audit is defined
+[0:55:54] and performance audit is defined. What
+[0:55:57] PPS has is an internal performance
+[0:56:01] auditing function.
+[0:56:03] So we do have elements in both of these
+[0:56:07] definitions. So in the internal audit is
+[0:56:10] an independent objective assurance and
+[0:56:12] advisory services designed to add value
+[0:56:16] and improve an organization's
+[0:56:19] operations.
+[0:56:21] It helps an organization accomplish its
+[0:56:24] objectives by bringing a systematic
+[0:56:26] disciplined approach to evaluate and
+[0:56:29] improve the effectiveness of governance,
+[0:56:32] risk management, and control processes.
+[0:56:36] And the definition for performance
+[0:56:38] auditing is to provide objective
+[0:56:40] analysis, findings and conclusions to
+[0:56:44] assist management and those charged with
+[0:56:46] governance with oversight
+[0:56:49] with among other things improving or
+[0:56:53] sorry improving program performance and
+[0:56:56] organizations reducing costs
+[0:56:58] facilitating decisions made making
+[0:57:02] decision making by parties respons
+[0:57:05] responsible for overseeing or initiating
+[0:57:08] corrective actions and contributing to
+[0:57:11] public accountability.
+[0:57:14] One of the um things, one of my favorite
+[0:57:18] parts about the yellow book and and I
+[0:57:22] have so many is that we're really
+[0:57:25] charged to work on behalf of the public
+[0:57:27] interest. And that is a a unique thing
+[0:57:32] about government auditors that auditors
+[0:57:35] in the private industry are not
+[0:57:37] accountable for. But we are charged with
+[0:57:41] working on behalf of the taxpaying
+[0:57:45] community.
+[0:57:47] Um next slide we will talk about the
+[0:57:50] purpose and the mission of the internal
+[0:57:52] audit function. So, state and local
+[0:57:55] governments can enhance credibility with
+[0:57:58] taxpayers by implementing performance
+[0:58:01] audits to support accountability
+[0:58:04] and guarantee tax dollars are spent as
+[0:58:07] effectively as possible. The purpose of
+[0:58:10] internal performance auditing function
+[0:58:13] is to help improve the accountability
+[0:58:15] and performance of PPS through
+[0:58:18] independent auditing and reporting.
+[0:58:21] The goal of our audits is to improve
+[0:58:24] program effectiveness,
+[0:58:26] improve equity of service delivery,
+[0:58:29] provide useful objective and timely
+[0:58:32] information, strengthen administrative
+[0:58:34] and management systems and controls,
+[0:58:38] facilitate decision making by parties
+[0:58:40] with responsibility for overseeing or
+[0:58:45] initiating
+[0:58:47] corrective actions and improve student
+[0:58:50] achievement. ments districtwide. The
+[0:58:52] objectives of our individual performance
+[0:58:55] audit may vary but generally address
+[0:58:58] whether PPS is operating economically,
+[0:59:02] efficiently and whether it is achieving
+[0:59:05] the desired results.
+[0:59:08] Any questions about that?
+[0:59:11] All right. Um
+[0:59:14] so my plan is to do a deep dive on
+[0:59:18] multiple functions each for each of our
+[0:59:21] meeting. So we will talk about more
+[0:59:24] detail about ethics and professionalism
+[0:59:27] in our next meeting. But I wanted to
+[0:59:29] drill down tonight on the independence
+[0:59:33] and professional skepticism aspect of
+[0:59:35] this. Um, and we will do an in our next
+[0:59:40] I have a list so you'll see that as we
+[0:59:42] keep going of when I'll do some more
+[0:59:44] training on more detailed of each of
+[0:59:47] these elements.
+[0:59:49] Um, for slide number 17, this is
+[0:59:53] required communication. So the auditor
+[0:59:56] must underlined bolded must. In audit
+[1:00:01] standards, what they do use the term
+[1:00:04] must to indicate a actual requirement
+[1:00:07] that we have to follow which is why I
+[1:00:10] bolded and underlined it here also. Um
+[1:00:13] so we are required to discuss governing
+[1:00:16] the internal audit function with board
+[1:00:18] and senior management and those
+[1:00:21] discussions should focus on the purpose
+[1:00:24] of internal auditing. the essential
+[1:00:26] conditions and there are nine categories
+[1:00:29] which are listed on the next page and
+[1:00:32] the potential impact on the
+[1:00:34] effectiveness of internal audits
+[1:00:36] function if the board and senior
+[1:00:39] management does not provide the support
+[1:00:41] outlined in the essential conditions.
+[1:00:46] On the next page,
+[1:00:49] you will see there are nine essential
+[1:00:51] conditions.
+[1:00:53] And when these essential conditions were
+[1:00:57] updated in audit standards, I I already
+[1:01:02] went over each one of them in a previous
+[1:01:05] meeting, but I will do that again in a
+[1:01:08] later meeting and we will talk about
+[1:01:10] each one of these. But I also wanted to
+[1:01:12] remind everybody that in your binder,
+[1:01:15] these essential conditions are in their
+[1:01:18] binder. And so you all have a copy of
+[1:01:20] them and I have individually walked
+[1:01:22] through each of those essential
+[1:01:24] conditions with all of you guys within
+[1:01:28] the last year. Um, all right. for the
+[1:01:32] last slide for this presentation is a
+[1:01:35] benchmarking slide and it references the
+[1:01:39] Council of Great City Schools um white
+[1:01:42] paper which also is printed and inside
+[1:01:46] your binder. Um, and in the last couple
+[1:01:50] pages of the white paper, it does
+[1:01:55] provide benchmarking data from 31 school
+[1:01:59] districts, including PPS, as of January
+[1:02:02] of 2025.
+[1:02:04] Um, and I also just wanted to
+[1:02:08] acknowledge that I did work on the team
+[1:02:10] that wrote the white paper that was
+[1:02:12] issued in September of 2025.
+[1:02:18] All right, that's it for this
+[1:02:20] presentation.
+[1:02:21] Um,
+[1:02:25] the
+[1:02:27] next presentation is on communication
+[1:02:29] protocols.
+[1:02:31] And so, um, there is a pro, uh,
+[1:02:35] communication protocols memo that I
+[1:02:38] posted for the meeting and I also
+[1:02:40] printed it for you guys. Um, so I just
+[1:02:44] want to go over that. Um, so the reason
+[1:02:48] why we I created the communication
+[1:02:51] protocol is because I have um received
+[1:02:56] some emails and some concerns about my
+[1:03:00] individual meetings with board members
+[1:03:03] being a violation of open public
+[1:03:06] meetings laws. And so that is not the
+[1:03:10] case. I am allowed to meet with you guys
+[1:03:12] individually. In fact, audit standards
+[1:03:16] um recognize the importance of direct
+[1:03:19] communication between the board and the
+[1:03:22] internal audit and audit committee. Um
+[1:03:26] and clearly indicate that it that direct
+[1:03:28] communication is necessary.
+[1:03:31] Um so I just wanted to go over some of
+[1:03:34] the protocols for our communication
+[1:03:36] because there are some limits. Um, so I
+[1:03:40] just want to kind of go over what is
+[1:03:42] appropriate for us to talk about and
+[1:03:44] what is not. Not that I've had any like
+[1:03:49] nothing on this list has ever been a
+[1:03:51] problem for us before, but I just want
+[1:03:54] to make sure everybody is aware of the
+[1:03:56] limits of our conversation. So direct
+[1:03:58] communication with the internal auditor.
+[1:04:01] Individual board and committee members
+[1:04:04] may communicate directly with the
+[1:04:06] internal auditor outside of a board or
+[1:04:09] committee meeting. Such communications
+[1:04:13] can include requesting or receiving
+[1:04:16] formal or educational information,
+[1:04:20] asking questions regarding audit
+[1:04:22] reports, audit plans, recommendations,
+[1:04:25] or follow-up activities,
+[1:04:28] raising concerns regarding risk control,
+[1:04:31] internal controls, compliance, fraud,
+[1:04:35] waste, abuse, or other matters relevant
+[1:04:38] to the internal audit function.
+[1:04:42] and suggesting matters for possible
+[1:04:46] future audit consideration.
+[1:04:49] Um requesting clarification of
+[1:04:52] information previously prevented or
+[1:04:56] presented presented sorry to the
+[1:04:59] committee and discussing administrative
+[1:05:02] scheduling or other non-s substantive
+[1:05:05] matters. Nothing in this protocol is
+[1:05:08] intended to restrict an individual board
+[1:05:11] member or committee members's access to
+[1:05:13] the internal audit or the internal
+[1:05:16] audits ability to communicate directly
+[1:05:19] with individual board members and
+[1:05:21] community
+[1:05:23] com committee members as appropriate um
+[1:05:29] to the internal audits responsibility.
+[1:05:32] So we do need to be super mindful of our
+[1:05:35] communication and so there are some
+[1:05:38] things that we should not talk about.
+[1:05:42] Um, so for example, the internal auditor
+[1:05:46] should not communicate one board or
+[1:05:50] committee members substantive position
+[1:05:54] on a matter to other board or committee
+[1:05:58] members on topics that the board and
+[1:06:01] committee will be deliberating.
+[1:06:05] Um, the board and committee members
+[1:06:09] should not ask the internal auditor to
+[1:06:12] pull other board or committee members
+[1:06:16] regarding their positions on a matter
+[1:06:19] that is or may come before the board or
+[1:06:22] the committee. And the internal auditor
+[1:06:25] should not share an understanding of the
+[1:06:29] board or committee members positions.
+[1:06:34] The internal auditor should not serve as
+[1:06:37] an intermediary
+[1:06:39] through which board and or committee
+[1:06:42] members indirectly deliberate with one
+[1:06:45] another.
+[1:06:47] Emails, text messages, phone calls,
+[1:06:50] individual meetings or other
+[1:06:52] communications should not be used in
+[1:06:55] sequence that effectively create
+[1:06:57] deliberation
+[1:06:59] among a quorum
+[1:07:03] and um
+[1:07:06] are there any questions about that?
+[1:07:09] Do they make sense to everybody?
+[1:07:12] You know, in all of my communicating
+[1:07:16] with you guys, I've ne we've never these
+[1:07:19] things have not come up, but I did just
+[1:07:23] want to go over them. So, we're all
+[1:07:26] aware of what boundaries there is to our
+[1:07:28] communication because there is some
+[1:07:30] boundaries and it's important that we
+[1:07:32] acknowledge that.
+[1:07:34] >> Did you say that someone had raised
+[1:07:36] Sorry, I didn't mean to cut you off,
+[1:07:37] Patty. I was Did you say at the
+[1:07:38] beginning that someone had actually
+[1:07:39] raised that concern with you? Yeah.
+[1:07:42] >> Was it staff?
+[1:07:45] >> No, it was another board member.
+[1:07:48] >> Um, but it's not There was more than
+[1:07:50] one, so I don't um
+[1:07:53] >> So, it's just important that I put
+[1:07:55] together the protocol to make sure
+[1:07:57] everybody's on the same page.
+[1:07:59] >> Yep.
+[1:08:00] >> So, I just can't ask you what somebody
+[1:08:02] else thinks,
+[1:08:03] >> right?
+[1:08:03] >> Pretty much. Right.
+[1:08:04] >> Yeah.
+[1:08:04] >> Okay.
+[1:08:07] >> Okay.
+[1:08:09] All right. That is everything for the
+[1:08:12] communication protocols document. And I
+[1:08:15] punched holes in this document so it can
+[1:08:18] be added to your
+[1:08:20] >> in your binder. Um there are a couple of
+[1:08:23] documents I punched holes in. And the
+[1:08:25] reason why I put those holes in there so
+[1:08:27] you could add them to your internal
+[1:08:29] audit binder.
+[1:08:32] Okay. The last part of my part of the
+[1:08:37] presentation is to discuss the uh draft
+[1:08:42] audit plan. And um I printed a copy of
+[1:08:46] this for each of you guys. And I just
+[1:08:50] want to acknowledge and apologize that
+[1:08:52] I'm very behind right now. It is my
+[1:08:56] normal practice to have met with all
+[1:08:58] audit committee members
+[1:09:01] days before the actual audit committee
+[1:09:04] and um I go over the information and
+[1:09:07] then I tailor my presentation to make
+[1:09:10] sure I address any questions that are
+[1:09:12] asked of me and that did not happen.
+[1:09:15] That is my practice. I will continue and
+[1:09:17] I apologize for not making that happen
+[1:09:20] in advance of this meeting. Um so what I
+[1:09:24] have provided is a portion of the 2627
+[1:09:29] risk assessment and audit plan document.
+[1:09:32] Um and it is a draft. It the reason I'm
+[1:09:37] providing it in draft is to facilitate
+[1:09:40] direct communication between the audit
+[1:09:42] committee and the office of internal
+[1:09:44] audit. So, my goal is to walk through
+[1:09:48] this with you guys and ask you
+[1:09:51] specifically for input on several of the
+[1:09:54] items and when I bring the full report
+[1:09:57] to the next audit committee meeting um I
+[1:10:01] will have heard all of the input that
+[1:10:04] you've provided and make adjustments
+[1:10:06] accordingly.
+[1:10:08] The first item on the 27 627 audit plan
+[1:10:14] will be the measure 98 audit. This audit
+[1:10:18] is a rollover audit from prior year and
+[1:10:21] I just put the current status on the
+[1:10:25] bottom of the page. Um so all of the
+[1:10:29] testing has been complete and we've
+[1:10:31] started drafting the audit report. Um,
+[1:10:35] we do anticipate the report will be
+[1:10:37] ready for the audit committee in the
+[1:10:39] December 2nd meeting.
+[1:10:42] The next audit is the school building
+[1:10:45] security audit and this is another
+[1:10:47] rollover from the prior year. The
+[1:10:50] current status on this audit is all of
+[1:10:52] our preliminary planning has been
+[1:10:54] completed and we have a very detailed
+[1:10:57] testing plan. Um, so in the next two
+[1:11:01] weeks, Mary or the first two weeks of
+[1:11:03] November, Mary Katherine and I are going
+[1:11:05] to go on site and do one together before
+[1:11:09] we finalize the plan. We just want to
+[1:11:11] make sure our tools will be effective
+[1:11:13] and we can actually do the inspection on
+[1:11:16] site. Um, but we're very close on that
+[1:11:20] one. We anticipate the presentation of
+[1:11:23] that report will come to the audit
+[1:11:24] committee in the March meeting.
+[1:11:28] So, we did have one additional rollover
+[1:11:32] audit um and that was the CTE audit and
+[1:11:37] I am my initial thought is to remove it
+[1:11:42] from the audit plan and replace it with
+[1:11:45] one of the three audits that we talked
+[1:11:47] about last year in the audit committee
+[1:11:50] as being um something that the audit
+[1:11:53] committee would be interested in doing.
+[1:11:57] So I have done some research and I do
+[1:11:59] think the support system for principles
+[1:12:02] audit topic is one that um I will be
+[1:12:07] proposing in place of the CTE audit. And
+[1:12:12] one of the reasons why I would like to
+[1:12:16] um
+[1:12:18] pass over or remove the CTE audit is
+[1:12:22] because when we initially thought about
+[1:12:25] doing the CTE audit, there were a lot of
+[1:12:29] questions. But subsequently,
+[1:12:32] you know, the director of the CTE
+[1:12:35] program has created a strategic plan and
+[1:12:39] it's very detailed. I've reviewed it and
+[1:12:42] it clearly answers a lot of the
+[1:12:44] questions that the audit would have
+[1:12:47] answered and so I just don't see the
+[1:12:50] same level of value um as it had when it
+[1:12:55] was initially proposed.
+[1:12:57] Are there any thoughts about that that
+[1:13:00] you guys want to share with me for um
+[1:13:04] related to swapping out the CTE audit
+[1:13:06] with the
+[1:13:09] support system for principles audit?
+[1:13:16] >> I'm curious um because I know there were
+[1:13:18] more than just the support system for
+[1:13:21] principles. There were a few other
+[1:13:23] topics. So um why that one as opposed to
+[1:13:26] the other ones?
+[1:13:28] >> Um so I I will be more detailed in our
+[1:13:32] next meeting, but one there's two
+[1:13:36] preliminary reasons why and this one is
+[1:13:39] the topic that the timing makes sense
+[1:13:44] for the audit to take place starting the
+[1:13:47] spring of the next year. And so
+[1:13:52] that's part of the reason. Also, some of
+[1:13:55] the other ones I did a lot of research
+[1:13:58] on them and I couldn't identify a
+[1:14:01] specific criteria to use to audit
+[1:14:04] against
+[1:14:06] um for the student performance measures
+[1:14:10] audit that we talked about. And I'll go
+[1:14:12] into a little bit more detail in our
+[1:14:14] next meeting about needing a criteria to
+[1:14:18] audit too. Um, any other questions about
+[1:14:22] that though?
+[1:14:27] Not really a question, but I remember um
+[1:14:29] the principal one, it's just when when
+[1:14:32] we're ending a different a support for
+[1:14:35] principles, right? Just be able to see
+[1:14:37] if things are working the way we expect,
+[1:14:40] >> right? So, um PPS has been participating
+[1:14:45] with the Wallace Foundation grant for
+[1:14:48] five years and um they extended it to a
+[1:14:54] sixth year in order to do a
+[1:14:57] sustainability plan. Um and so part of
+[1:15:01] the audit will be looking at the
+[1:15:03] sustainability plan. Um, you know, one
+[1:15:07] of there's many reasons why we got the
+[1:15:10] grant, but part of the reason for the
+[1:15:13] grant is if they help we get grant money
+[1:15:16] to help us set up a process and then PPS
+[1:15:19] can maintain that after it's all set up
+[1:15:22] with thanks to the investment of the
+[1:15:24] foundation. Um so we will be looking to
+[1:15:28] see the the risk is that due to budget
+[1:15:31] constraints the type of program that was
+[1:15:35] developed may not be sustainable and we
+[1:15:38] would like to look at that specifically.
+[1:15:43] Did that answer your question?
+[1:15:47] >> Okay. All right.
+[1:15:48] >> Can I ask a question real quick?
+[1:15:49] >> Yes.
+[1:15:50] >> Do for the work plan. So, is this
+[1:15:52] something that we'll finalize in the
+[1:15:55] next meeting? Like I I would think even
+[1:15:56] if we're rolling over audits, we may
+[1:15:58] still want to take that to the board.
+[1:16:00] >> Yes,
+[1:16:01] >> we're rolling over here's the expected,
+[1:16:03] you know, here's the ETA for that audit.
+[1:16:05] So, we have a date that I know it's
+[1:16:07] hard. You don't know what's going to
+[1:16:07] happen, but like a date that we're kind
+[1:16:09] of
+[1:16:09] >> um working against.
+[1:16:11] >> Yes.
+[1:16:11] >> Um for the school building security
+[1:16:15] audit, and this might be a question for
+[1:16:16] legal. Is that something that we can do?
+[1:16:19] I feel like a little weird about doing
+[1:16:20] that in not an executive session. I'm
+[1:16:22] wondering if we should look into whether
+[1:16:24] or not that's something that
+[1:16:25] >> I am also aware of that concern and as
+[1:16:30] we get closer to the time I will be um
+[1:16:33] touching base with legal. I do maintain
+[1:16:36] regular meetings with Liz and I ask her
+[1:16:39] about all legal matters. though I am
+[1:16:42] aware that and there could potentially
+[1:16:45] be an aspect of the audit that may need
+[1:16:49] to be confidential or privileged and I
+[1:16:53] will be as we get closer to that time
+[1:16:56] period I'll be reaching out and having
+[1:16:58] detailed conversations with Liz to make
+[1:17:01] sure we get that right.
+[1:17:04] I would just note there are some bases
+[1:17:05] under the executive session or the
+[1:17:06] public meeting laws that allow for
+[1:17:08] executive sessions to discuss certain
+[1:17:10] security
+[1:17:12] um discussions. So Janice and I will
+[1:17:14] work very closely together to figure out
+[1:17:16] whether those are implicated and what
+[1:17:18] the options are.
+[1:17:19] >> Okay. And when I do share it with legal,
+[1:17:24] if there are aspects that need to be an
+[1:17:27] executive session, it is my intention to
+[1:17:29] pull those out and have that in
+[1:17:31] executive session and still have the
+[1:17:34] rest of it as an audit report that we
+[1:17:36] will be able to discuss and post
+[1:17:39] publicly like we do all the other
+[1:17:41] audits.
+[1:17:44] >> Um,
+[1:17:44] >> so at our next meeting, we'll create the
+[1:17:46] work plan. The next meeting I'll have a
+[1:17:48] full proposal. I'm going over what I
+[1:17:51] plan to propose and asking you guys for
+[1:17:55] input on that so I can get the proposal
+[1:17:59] dialed in. Um,
+[1:18:02] all right. So the next item on our work
+[1:18:05] plan for this coming year will be to
+[1:18:08] expand the office of internal
+[1:18:10] performance audit team by hiring an
+[1:18:14] additional audit employee with capital
+[1:18:16] delivery and bond program audit
+[1:18:19] expertise.
+[1:18:21] So I just wanted to provide a little bit
+[1:18:23] of background on how we plan to go about
+[1:18:25] doing that. So,
+[1:18:28] OIPA will work with HR to develop a
+[1:18:32] position description for an audit
+[1:18:34] employee with capital delivery and bond
+[1:18:36] program management expertise.
+[1:18:39] Um, I wanted to commit to the audit
+[1:18:42] committee to provide that position
+[1:18:44] description to the audit committee for
+[1:18:47] review and input before that is posted.
+[1:18:52] Um, also I wanted to
+[1:18:56] commit to inviting at least one board
+[1:19:00] member to participate in any interviews
+[1:19:03] that um we have with that for that
+[1:19:06] position. And it's my practice to always
+[1:19:10] go to the chair of the audit committee
+[1:19:12] first and if she's available. If if not,
+[1:19:15] we will ask other audit committee
+[1:19:17] members and if we don't get volunteers,
+[1:19:20] we'll go to the full board and ask any
+[1:19:23] for any volunteers. Um, we will also be
+[1:19:27] offering an opportunity to the bond
+[1:19:31] accountability committee to provide some
+[1:19:34] input on this. Also, I do want to do a
+[1:19:38] better job coordinating more in more
+[1:19:42] detailed way with the bond
+[1:19:43] accountability committee.
+[1:19:46] Um, I do have a sample position
+[1:19:50] description that is the capital audit
+[1:19:55] program manager for the auditor that
+[1:19:59] does this work at Seattle public
+[1:20:01] schools. So, I will email that to you
+[1:20:05] guys so you can just kind of get a look
+[1:20:07] at it and get an idea of what we will be
+[1:20:11] looking for, but it's not an exact
+[1:20:14] position description of exactly what we
+[1:20:16] need here. So, there will be some
+[1:20:19] updates to it, but I at least wanted to
+[1:20:21] share,
+[1:20:23] you know, generally what does a position
+[1:20:25] description like that look like.
+[1:20:28] It is our goal to have this position
+[1:20:31] filled by the end of this year.
+[1:20:36] Any thoughts or suggestions on the
+[1:20:40] process behind
+[1:20:42] um kind of what I mentioned?
+[1:20:49] >> Did you say you think you'll have the
+[1:20:50] position posted or filled by the end of
+[1:20:52] the year?
+[1:20:53] >> Filled.
+[1:20:53] >> Really?
+[1:20:54] >> That's going to be spectacular. fiscal
+[1:20:57] year for school year.
+[1:20:58] >> Oh, by the end Oh, yeah.
+[1:21:00] >> I got all excited. I was like, sorry,
+[1:21:02] that's incredible. [laughter]
+[1:21:03] >> Thank you, Jennifer, so much. You're
+[1:21:05] right. Fiscal year. Sorry. June.
+[1:21:08] >> Wow.
+[1:21:09] >> By the end of June.
+[1:21:11] >> Um, no, but I do plan on attending a
+[1:21:15] conference. Well, I will be asking
+[1:21:17] around um and spreading the word. So, if
+[1:21:21] anybody happens to know a bond auditor
+[1:21:23] who's interested, we will be posting a
+[1:21:26] position in the next couple months.
+[1:21:27] >> Adrenaline rush from that.
+[1:21:29] >> Yeah, I was so excited. [laughter]
+[1:21:30] >> Thank you. Well, I would be just as
+[1:21:34] happy hope you're just as happy to have
+[1:21:36] it filled by June. Um, okay. The next
+[1:21:41] piece of the audit plan is a peer review
+[1:21:44] process. And um I just want to commit to
+[1:21:49] participating in the process and be
+[1:21:52] clear in communicating about the time
+[1:21:54] commitment that is required for that. Um
+[1:21:58] so I did reach out to the ALGA peer
+[1:22:02] review coordinator to ask about the
+[1:22:04] process and um ALGA's peer review
+[1:22:10] process is um resourced by volunteers
+[1:22:16] from local government auditing
+[1:22:19] organizations.
+[1:22:21] Um so what that means is
+[1:22:25] I have to volunteer
+[1:22:27] to do peer reviews for other internal
+[1:22:30] audit organizations and then they will
+[1:22:32] volunteer their time to come to PBS to
+[1:22:35] do a peer review of our process and
+[1:22:38] procedures. So the I will have to
+[1:22:43] volunteer for two and doing two in the
+[1:22:46] same year would be quite a challenge. So
+[1:22:50] it is this is what I laid out as the
+[1:22:52] plan. I will volunteer for two
+[1:22:57] peer review processes, one for the next
+[1:23:00] two years, and then we'll request the
+[1:23:02] peer review process in that third year.
+[1:23:05] Any questions or thoughts about that
+[1:23:07] process?
+[1:23:10] >> I have a comment and a question. Okay.
+[1:23:14] >> Um, I just wanted to say that I'm very
+[1:23:17] supportive of peer reviews. I work as an
+[1:23:20] auditor. I've participated in peer
+[1:23:22] reviews, been peer reviewed and I think
+[1:23:24] it's a really great learning experience
+[1:23:26] for everybody and um as well as just you
+[1:23:29] know providing assurance that your
+[1:23:32] office is meeting standards.
+[1:23:34] >> So I'm strongly supportive even with the
+[1:23:36] time commitment. Um and then also just I
+[1:23:40] know we've had discussions of different
+[1:23:43] audit standards that this would be a
+[1:23:46] yellow book peer review that you're
+[1:23:47] planning.
+[1:23:48] >> Yes.
+[1:23:51] And just so you know, I get really
+[1:23:53] excited about doing participating in
+[1:23:56] this process. Like I really appreciate
+[1:23:59] the way ALGA has it set up. It's
+[1:24:02] designed to
+[1:24:05] help ensure like we get the experience
+[1:24:09] needed as part of the process. you know,
+[1:24:13] if they're not designed to come in and
+[1:24:15] and
+[1:24:17] find out that we're failing. You have to
+[1:24:19] participate in the process so you learn
+[1:24:22] over time. And so by the time you get to
+[1:24:26] your peer review, you have all of the
+[1:24:29] knowledge and necessary information to
+[1:24:32] ensure that you are doing the right
+[1:24:34] thing. Um, okay. The
+[1:24:39] next category is a bond compensibility
+[1:24:42] audit.
+[1:24:44] Um this is an audit of bond expenditures
+[1:24:49] to ensure bond funds are being spent
+[1:24:52] only for their intended and allowable
+[1:24:55] purposes.
+[1:24:58] This is an audit that was recommended by
+[1:25:01] the bond performance auditors. It was a
+[1:25:05] recommendation to the board to assign
+[1:25:09] that responsibility to internal audit.
+[1:25:13] The board has met and
+[1:25:16] already approved that. So it is now will
+[1:25:20] be our responsibility.
+[1:25:22] Um, it is my intention to reach out to
+[1:25:25] the bond accountability committee to ask
+[1:25:28] for their input on what would be most
+[1:25:32] helpful for them specifically
+[1:25:36] like a quarterly versus an annual. um
+[1:25:39] they meet quarterly so may they may ask
+[1:25:42] for information quarterly but it is my
+[1:25:45] intention to reach out to them and ask
+[1:25:49] for input before designing the specific
+[1:25:53] audit plan which I'll bring which you
+[1:25:56] will get in our next meeting and in
+[1:25:58] between now and then I will reach out to
+[1:26:00] the bond accountability committee.
+[1:26:03] Um any questions about that one?
+[1:26:07] I don't have a question, but can we go
+[1:26:09] back to the peer review because I
+[1:26:10] thought of another question I had. Um,
+[1:26:13] is I know there is a requirement to be
+[1:26:15] in compliance with standards to have had
+[1:26:18] a peer review.
+[1:26:20] >> So, when did that when does that trigger
+[1:26:24] for your office? Because I know as a
+[1:26:25] newer office there's a little bit of
+[1:26:27] time.
+[1:26:30] So the there's not actually so I
+[1:26:32] actually asked this to the peer review
+[1:26:34] coordinator and there's the expectation
+[1:26:37] is not necessarily
+[1:26:43] it's already required. Um I think that's
+[1:26:46] what you're asking. It is required and
+[1:26:48] we haven't met the requirement. We have
+[1:26:51] been in office um for several for seven
+[1:26:54] years now.
+[1:26:56] It is a requirement to have peer reviews
+[1:27:01] every three years and we haven't. So
+[1:27:05] technically we are out of compliance.
+[1:27:08] Because we are out of compliance, I am
+[1:27:11] required to add a disclosure in all of
+[1:27:13] our audit reports that specifically
+[1:27:17] states that we have are not in
+[1:27:20] compliance with that one element. audit
+[1:27:23] standards provide the exact paragraph
+[1:27:26] that they want in your audit reports.
+[1:27:28] And so that is in our audit reports and
+[1:27:31] that is a disclosure that we do make and
+[1:27:35] it is something I really want to commit
+[1:27:38] to doing and it is just a very big time
+[1:27:42] commitment and so I really needed to
+[1:27:45] come up with a plan on how I can make
+[1:27:48] this happen. Um did I answer your
+[1:27:51] question?
+[1:27:52] Technically, we're out of compliance and
+[1:27:55] there's a required disclosure which is
+[1:27:59] already and will continue to be in our
+[1:28:01] audit reports until the time in which we
+[1:28:05] have the peer review.
+[1:28:08] >> That's a great question and um it it's
+[1:28:11] good for us to know as a board too so
+[1:28:13] that when we're making you know we're
+[1:28:15] creating this work plan that we're
+[1:28:16] allowing time for that to happen. It's
+[1:28:18] not on top of we have to make it part of
+[1:28:20] the plan. That's why I put it in the
+[1:28:22] plan. In the past, these type of things
+[1:28:24] have not been in my audit plan, but I'm
+[1:28:27] putting them in there just to make sure
+[1:28:30] that everybody's on the same page about
+[1:28:33] all the different types of activities
+[1:28:36] that and unfortunately I can't list all
+[1:28:39] of the activities, but this year I'm
+[1:28:41] trying to be much more transparent and
+[1:28:43] putting more things in the audit plan so
+[1:28:46] everybody understands more about the
+[1:28:50] day-to-day type work that our office
+[1:28:53] does.
+[1:28:53] >> I think that's really really smart
+[1:28:55] because I know that just even last year,
+[1:28:58] my first year on the board chairing FIO,
+[1:29:01] I had a lot of questions for you and I
+[1:29:03] know that you did a lot of work for the
+[1:29:04] committee that wouldn't have shown up in
+[1:29:06] a work plan. So, I think capturing all
+[1:29:08] of that is really important. So, it's
+[1:29:10] not your job isn't just the two audits,
+[1:29:13] it's a million other things, right, as
+[1:29:16] well. So,
+[1:29:17] >> which brings us to the next item.
+[1:29:20] >> I had a question about peer review.
+[1:29:21] Okay. Go ahead.
+[1:29:22] >> Will will you have to do that again in
+[1:29:24] another three years?
+[1:29:26] >> It is every three years it's required
+[1:29:29] >> and you have to do it for somebody else.
+[1:29:32] >> Technically, yes. Um but in all
+[1:29:35] transparency it is we will likely not
+[1:29:40] always be in compliance. I do think for
+[1:29:42] an internal audit function of our size
+[1:29:46] perhaps every six years is more
+[1:29:50] appropriate for the time commitment
+[1:29:52] which would mean for those three
+[1:29:55] subsequent years I would have to add the
+[1:29:57] disclosure to the audit report which is
+[1:30:01] appropriate and I would be which would
+[1:30:03] make sense but to answer your question
+[1:30:07] it is required every three years. It is
+[1:30:09] extremely difficult and a lot of times
+[1:30:13] a lot
+[1:30:15] a lot of internal audit departments of
+[1:30:18] this size don't participate in a
+[1:30:20] peerreview process but I do really value
+[1:30:24] the experience and I want to do it.
+[1:30:30] Okay, next item is number seven and this
+[1:30:35] is talking about trainings. So I wanted
+[1:30:38] to talk through some of the trainings in
+[1:30:41] the bond audit. There was some
+[1:30:44] recommendations for internal audit to
+[1:30:47] provide some more detailed training. So
+[1:30:50] I want to be clear about the plan for
+[1:30:53] delivering on that those trainings. So
+[1:30:58] first is um the overview which I
+[1:31:02] provided tonight and we focused in on
+[1:31:04] independence and professional skepticism
+[1:31:08] and we also talked about communications
+[1:31:10] protocols.
+[1:31:12] In the next audit committee meeting we
+[1:31:16] will do a much more detailed um training
+[1:31:20] and we'll focus in on the essential
+[1:31:22] conditions.
+[1:31:24] Um and then
+[1:31:27] that will be for the December meeting.
+[1:31:30] In the February meeting, I will do some
+[1:31:33] training on OIPA's assurance function.
+[1:31:39] And then I will also do some training on
+[1:31:42] the KOSO framework.
+[1:31:45] And so I see the smile from Caroline
+[1:31:48] because the KOSO framework is very
+[1:31:50] complex. Um, but I'm going to do some
+[1:31:54] training on it. It was something that
+[1:31:56] was mentioned specifically in the bond
+[1:32:00] audit report. So I do want to do this
+[1:32:02] training for everybody. So KOSO
+[1:32:05] framework is a globally recognized model
+[1:32:08] developed by the committee of sponsoring
+[1:32:12] organizations. That's where the COSO
+[1:32:16] stand comes from um of the Treadway
+[1:32:20] Commission to help organizations design,
+[1:32:23] implement and elevate evaluate sorry um
+[1:32:28] internal controls, manage risk and
+[1:32:31] prevent fraud. So I will put together
+[1:32:34] training for the May meeting. Also, I
+[1:32:39] wanted to mention that um and this was
+[1:32:42] actually a recommendation from Caroline
+[1:32:46] a couple weeks ago. And like the day
+[1:32:49] after she and I talked about this, I got
+[1:32:51] an email. So, this is meant to be, but I
+[1:32:55] did get an email from the ALGA advisory
+[1:32:59] committee and um they actually offer
+[1:33:03] support for internal audit functions. Um
+[1:33:07] that's exactly what their ALGA advocacy
+[1:33:12] advocacy committee dedicates itself to
+[1:33:16] supporting audit professionals and
+[1:33:17] promoting the value of government
+[1:33:20] auditing across all levels of
+[1:33:23] government. So I have sent them an email
+[1:33:26] and asked for some additional support
+[1:33:29] and we may even be able to have them
+[1:33:32] come and talk to us at some point over
+[1:33:34] this next year. And so, uh, as soon as I
+[1:33:37] hear back from them, I will provide you
+[1:33:38] guys additional information, but I'm
+[1:33:41] very excited about that. Um, all right.
+[1:33:45] So,
+[1:33:47] I do want to ask for some input. Are
+[1:33:49] there any other trainings that you guys
+[1:33:52] would like for me to do? one um I think
+[1:33:57] in the bond audit it talked about
+[1:34:01] fidiciary responsibilities
+[1:34:04] um for those charged with governance and
+[1:34:06] it sounded like there was a need for
+[1:34:09] that at the board level but I wanted to
+[1:34:12] ask the audit committee if you guys were
+[1:34:15] interested in me bringing forward that
+[1:34:18] type of training for this committee
+[1:34:21] um I can if you're [clears throat]
+[1:34:22] interested I just wanted to ask First,
+[1:34:28] >> I'm going to answer that question with a
+[1:34:30] question.
+[1:34:30] >> Okay.
+[1:34:30] >> And I do see that later in the agenda
+[1:34:32] that we're going to be looking at some
+[1:34:34] monthly and quarterly financial
+[1:34:35] statement reviews, which we haven't done
+[1:34:37] in this committee before. So, a training
+[1:34:41] or some more um and I'm going to own I
+[1:34:43] haven't reread our charter this year
+[1:34:45] yet, but something that could be useful
+[1:34:47] to me is is more information about this
+[1:34:50] committee's role in fiduciary
+[1:34:52] responsibility. So I'm aware and um
+[1:34:55] understand for board members in general,
+[1:34:58] but for this committee, how much is
+[1:35:00] performance fiduciary and where those
+[1:35:02] overlap?
+[1:35:03] >> Okay, I appreciate that. So it sounds
+[1:35:08] like if I designed the training to be
+[1:35:12] specific for the audit committee, not
+[1:35:14] necessarily for the board as a whole,
+[1:35:16] then that would be useful for this
+[1:35:18] committee.
+[1:35:20] I'm seeing headshake. So yes, I will
+[1:35:24] make a note to put something together
+[1:35:26] for that and in the audit plan that I
+[1:35:30] bring back on December 2nd, I'll have
+[1:35:32] added that in. Thank you for that
+[1:35:34] feedback.
+[1:35:35] >> Yeah. And could that go along with what
+[1:35:37] Michelle's doing kind of at the same
+[1:35:39] time then?
+[1:35:41] >> Yes. Um
+[1:35:42] >> seems like they would go together.
+[1:35:44] >> Yeah. So later in the slides, I think
+[1:35:48] the CFO was planning to to do some
+[1:35:51] discussion about the financial statement
+[1:35:54] and she kind of addressed that right off
+[1:35:57] the bat in the meeting. Um
+[1:36:02] >> but that is kind of different the
+[1:36:04] financial report and what Jennifer is
+[1:36:06] asking for. Yeah,
+[1:36:08] >> it would be different.
+[1:36:09] >> Yeah. But not unrelated. So, I will be
+[1:36:15] coordinating and collaborating
+[1:36:17] with Michelle.
+[1:36:20] Um, next is the implementation
+[1:36:24] validation plan.
+[1:36:29] Sorry, I feel like I've been talking so
+[1:36:30] much.
+[1:36:32] Um, so what is this? This the board
+[1:36:36] policy states responsible managers
+[1:36:40] should provide quarterly reports about
+[1:36:42] the implementation of corrective action
+[1:36:45] plans as specified in the plan. The
+[1:36:48] auditor may request periodic status
+[1:36:52] reports from audited entities regarding
+[1:36:55] actions taken by administrative managers
+[1:36:59] and significant findings which have not
+[1:37:02] been fully implemented
+[1:37:04] or fully addressed by management. So
+[1:37:07] right now um we I listed the different
+[1:37:11] audits that we have issued that have
+[1:37:13] outstanding recommendations that have
+[1:37:16] not been implemented.
+[1:37:18] That is the contracts audit. Um the
+[1:37:22] hardship petition transfer audit.
+[1:37:24] There's just one that's outstanding and
+[1:37:27] I know they're close on that. So I think
+[1:37:29] that one will get wrapped up this year.
+[1:37:32] Um also the student body funds audit. I
+[1:37:36] have talked to the staff person
+[1:37:40] responsible for implementation of those
+[1:37:43] recommendations fairly recently and
+[1:37:46] we're getting pretty close on those as
+[1:37:49] well. And then the fourth one that's
+[1:37:52] outstanding is the multilingual learners
+[1:37:55] audit and that's really not late yet. um
+[1:37:59] we provide several months for the
+[1:38:02] department to come up with a specific
+[1:38:06] implementation plan. And so at our next
+[1:38:11] meeting, I'm pretty sure it's will be on
+[1:38:14] the agenda where staff will come and
+[1:38:16] talk about the implementation plan.
+[1:38:19] After that is when I'll start following
+[1:38:22] up on the implementation plan. So
+[1:38:26] for that one, nothing's laid or behind
+[1:38:28] or anything. It's just in process.
+[1:38:32] So once a year, so how does this work?
+[1:38:36] So once a year, our internal audit
+[1:38:40] reaches out um to the departments and
+[1:38:44] ask for and reviews evidence of the
+[1:38:46] implementation of the recommendations
+[1:38:49] and we report on those results to the
+[1:38:52] audit committee.
+[1:38:54] Um what we do is not in lie of
+[1:38:59] management's responsibility to provide
+[1:39:01] quarterly reports about the
+[1:39:04] implementation of corrective action
+[1:39:06] plans. Currently management does not
+[1:39:09] provide quarterly reports about the
+[1:39:11] implementation of corrective actions to
+[1:39:15] internal audit or the audit committee.
+[1:39:18] Um,
+[1:39:20] so I wanted to ask you guys for some
+[1:39:25] input and
+[1:39:27] clarify what is the expectations
+[1:39:30] regarding outstanding
+[1:39:33] contracts audit recommendation
+[1:39:35] specifically, but I do have a couple of
+[1:39:37] questions more broadly. Uh the reason
+[1:39:40] why I want to ask about the contracts
+[1:39:41] audit specifically is because it is five
+[1:39:44] years old and there are still several
+[1:39:47] recommendations that are outstanding.
+[1:39:50] Last year um at the beginning of the
+[1:39:54] year, we did talk about them and I did
+[1:39:58] ask the audit committee for some support
+[1:40:01] and
+[1:40:02] um implementing those recommendations
+[1:40:06] and um
+[1:40:08] so
+[1:40:10] I can do the same thing again this year.
+[1:40:13] um or uh we can talk about it and you
+[1:40:16] can give me some feedback on what is
+[1:40:18] your expectations regarding that
+[1:40:20] specifically.
+[1:40:24] >> Well, and now we've got a whole another
+[1:40:26] person in charge of that audit, right?
+[1:40:31] >> So, that's going to be a tricky one,
+[1:40:32] too.
+[1:40:33] >> Yes.
+[1:40:35] >> So, do we we could just reach out to
+[1:40:38] that person?
+[1:40:39] >> I will. if that is um the input that
+[1:40:43] you're providing. I haven't done that
+[1:40:45] yet. We have not been successful in
+[1:40:48] getting a response on that one. Um, but
+[1:40:52] maybe we'll be luckier with a different
+[1:40:54] >> Could we add it to what if we had an
+[1:40:57] agenda item at each of our like a
+[1:40:59] quarterly agenda item for all of the
+[1:41:02] outstanding recommendations from all of
+[1:41:05] the audits that staff would expect to
+[1:41:09] report to the audit committee what the
+[1:41:12] status is kind of like your
+[1:41:14] >> that is what the policy says um that
+[1:41:17] those quarterly reports um but it it
+[1:41:20] doesn't happened. And so I just wanted
+[1:41:22] to mention that um in the spring we will
+[1:41:26] be updating we will propose some updates
+[1:41:28] to the policy. So if there's not an
+[1:41:33] expectation from the audit committee to
+[1:41:37] have that quarterly report, then we'll
+[1:41:40] make that adjustment in the policy. But
+[1:41:41] that's currently the polication.
+[1:41:44] >> Okay. Could could we add that to the
+[1:41:46] agenda for December
+[1:41:49] for staff to report on all of the open
+[1:41:51] items on these
+[1:41:53] audits?
+[1:41:54] >> Yes.
+[1:41:55] >> Um not if you think about all the things
+[1:41:58] that are already on our December
+[1:42:00] meeting. I just if we have a se a
+[1:42:04] separate meeting to talk about just the
+[1:42:05] bond audit report, then it's likely
+[1:42:08] we'll be able to squeeze all this in on
+[1:42:10] the December meeting.
+[1:42:11] >> If we can't, we could do
+[1:42:14] I'm wondering if do we need to meet more
+[1:42:16] often?
+[1:42:18] >> Um, not for this specific purpose. If we
+[1:42:23] get into a routine of the quarterly
+[1:42:25] reporting, it it's not going to take up
+[1:42:27] a large portion of the time, but I just
+[1:42:30] needed to hear from you guys what is
+[1:42:33] your expectation.
+[1:42:35] Um,
+[1:42:37] because it is part of the policy, but
+[1:42:40] it's not been happening. So if
+[1:42:44] it is an expectation, we either need to
+[1:42:46] enforce it or we need to remove it from
+[1:42:49] the policy.
+[1:42:51] >> Well, I thought we talked about doing
+[1:42:53] one one meeting and not just
+[1:42:58] stagger them.
+[1:42:59] >> Stagger them. So that is what I will do.
+[1:43:02] So once a year I reach out to the
+[1:43:05] departments and so I will reach out to
+[1:43:09] each of those departments on the list
+[1:43:12] and not all at the same time and bring
+[1:43:17] that to the audit committee one at a
+[1:43:19] time. Um but that is not the same thing
+[1:43:24] as quarterly reporting. And so I just
+[1:43:27] want to clarify that that's not
+[1:43:29] quarterly reporting. That's me, the
+[1:43:31] internal audit function following up on
+[1:43:33] the outstanding audit recommendations.
+[1:43:36] >> Is if they're different departments,
+[1:43:38] what's the point in staggering? Why
+[1:43:40] wouldn't we just have if they're
+[1:43:42] separate departments? There shouldn't be
+[1:43:44] any doubling up. No one should be
+[1:43:46] presenting twice in the same meeting. I
+[1:43:48] would think that we would just do it
+[1:43:49] all.
+[1:43:50] >> Um that is for our internal audit
+[1:43:53] functions workflow. Um again this has
+[1:43:57] nothing to do with quarterly reports. So
+[1:44:02] sta you know management can bring those
+[1:44:04] quarterly reports on the status of the
+[1:44:06] implementation quarterly to the audit
+[1:44:09] committee. What we do when we follow up
+[1:44:12] on those outstanding audit
+[1:44:14] recommendations in a formal way is once
+[1:44:18] a year and I do report on the results of
+[1:44:22] that and I bring it to the audit
+[1:44:23] committee and we talk about what I was
+[1:44:26] able to confirm and what I was not able
+[1:44:28] to confirm and it is much easier for me
+[1:44:31] to do that individually instead of
+[1:44:34] trying to get it all in one meeting but
+[1:44:37] it's completely different from quarterly
+[1:44:39] reporting. So, we should just put put it
+[1:44:41] on the agenda like a quarterly reporting
+[1:44:43] like put it on the agenda and then
+[1:44:45] you're doing your thing separately.
+[1:44:47] >> Yes.
+[1:44:47] >> Got it.
+[1:44:50] >> And I want to just clarify that this is
+[1:44:54] management's responsibility. So, the
+[1:44:58] request for that to begin happening
+[1:45:01] needs to go to um CFO.
+[1:45:08] Um I really quick um to the question
+[1:45:12] about the contracts audit specifically I
+[1:45:14] think we should continue to follow up on
+[1:45:17] that. I don't want that to get lost. I
+[1:45:19] think there were some important
+[1:45:20] recommendations. Um but I will say in in
+[1:45:24] terms of timing quarterly to me
+[1:45:27] personally seems like maybe more than is
+[1:45:30] necessary u for all of the
+[1:45:32] recommendations all the time. I'm happy
+[1:45:34] to try it and then see if it feels like
+[1:45:37] it's too much.
+[1:45:39] >> Well, we haven't tried it at all, so I'm
+[1:45:42] not sure how impactful it would be, but
+[1:45:45] I do hear what you're saying. And if it
+[1:45:47] does, like if it is something, again,
+[1:45:51] this request needs to go to management
+[1:45:54] for this to begin to happen. And if it
+[1:45:57] does happen and it does feel like too
+[1:46:00] much,
+[1:46:02] we can adjust the policy in the spring.
+[1:46:05] So if we start the process and try it
+[1:46:08] for a couple of meetings, then in the
+[1:46:11] spring, if it's not working, we can make
+[1:46:13] an adjustment for the future.
+[1:46:17] >> Is this where we ask management?
+[1:46:20] >> Yes. [laughter]
+[1:46:22] Had a feeling that was coming. So um
+[1:46:25] would this include
+[1:46:27] this would be the offic's audits only.
+[1:46:31] So it wouldn't include any like
+[1:46:34] financial audits or the bond performance
+[1:46:36] audit. It would be strictly the work
+[1:46:38] that Janice and her team are doing.
+[1:46:41] >> That's how I interpreted it.
+[1:46:42] >> That is the way that question is read.
+[1:46:45] But the very next section speaks to
+[1:46:47] other audits.
+[1:46:49] Um so the next question I have for the
+[1:46:53] committee is to provide some input and
+[1:46:56] advice on your expectations regarding
+[1:47:00] internal audits responsibility for
+[1:47:02] following up on recommendations from
+[1:47:04] external auditors other than the bond
+[1:47:07] performance audit. So um for the bond
+[1:47:10] performance audit there was a specific
+[1:47:12] recommendation from the bond auditors
+[1:47:15] for internal audit function to follow up
+[1:47:18] on those audit recommendations that was
+[1:47:21] discussed by the board in their meeting
+[1:47:24] when they talked about the
+[1:47:25] recommendations to the board and the
+[1:47:28] direction to internal audit was
+[1:47:32] immediately effective upon approval by
+[1:47:34] the board which you guys did approve. So
+[1:47:38] for the bond audit recommendations, it
+[1:47:41] is now internal audits responsibility to
+[1:47:44] follow up on those outstanding
+[1:47:45] recommendations and we will do that. Um
+[1:47:49] but I wanted to ask very specifically
+[1:47:53] what is your expectations as it relates
+[1:47:56] to other audits. It is not uncommon for
+[1:48:01] internal audit function to follow up on
+[1:48:04] the implementation of recommendations
+[1:48:06] from all external auditors and there is
+[1:48:09] a lot of value in your internal audit
+[1:48:12] function doing that follow-up work.
+[1:48:15] However, um you know, an update to the
+[1:48:19] policy may be needed if that is
+[1:48:22] something that you guys want from
+[1:48:25] internal audit function because it's not
+[1:48:27] the current practice, but it could be.
+[1:48:30] And so, I'm asking I've never really
+[1:48:32] asked very formally for input on this
+[1:48:36] expectation,
+[1:48:38] but it did get brought up in the bond
+[1:48:40] audit report. So I feel like I need to
+[1:48:45] ask very specifically about this
+[1:48:48] expectation.
+[1:48:49] Um so for example, a recent request from
+[1:48:54] some board members to discuss the
+[1:48:57] secretary of state's audit report that
+[1:48:59] was issued in January of 2019 and the
+[1:49:02] follow-up report that was issued in
+[1:49:05] March of 2022.
+[1:49:07] Um so internal audit has not engaged in
+[1:49:11] activities to follow up on the
+[1:49:14] implementation of those outstanding
+[1:49:16] recommendations
+[1:49:18] and so we can still come and talk about
+[1:49:21] it in the audit committee but
+[1:49:24] internal audit has not participated in
+[1:49:27] following up on the implementation of
+[1:49:29] any of those recommendations.
+[1:49:31] So if you want internal audit to provide
+[1:49:35] any level of assurance related to the
+[1:49:38] implementation of those recommendations,
+[1:49:41] I really do need you guys to be very
+[1:49:43] clear about the expectation.
+[1:49:47] >> So the question is for external audits
+[1:49:50] is the expectation that your office
+[1:49:53] follows up on the outstanding
+[1:49:55] recommendations.
+[1:49:55] >> Yes. is that so what you're saying is
+[1:49:59] that if we want that it's not currently
+[1:50:00] part of board policy and we need to
+[1:50:02] update the policy which I assume would
+[1:50:04] change your job description. Is that
+[1:50:05] correct?
+[1:50:06] >> No. Um okay I think
+[1:50:09] >> it's it is a common practice for
+[1:50:12] internal audit functions to do this.
+[1:50:14] There's nothing in the policies that
+[1:50:16] says we can't do it. Um however it is
+[1:50:21] not the current practice and
+[1:50:24] um I mean I'm not even made aware when
+[1:50:28] other external audits are being
+[1:50:32] performed and so we would need an update
+[1:50:35] to the policy to require staff to inform
+[1:50:39] internal audit function
+[1:50:41] of when those activities happen. Not
+[1:50:44] necessarily to assign the authority to
+[1:50:48] do it. you can just tell me to do it.
+[1:50:50] There's nothing that would prevent me
+[1:50:52] from doing it. The part that I would
+[1:50:56] request a policy update would be to
+[1:50:59] require staff to inform internal audit
+[1:51:02] function of when those activities happen
+[1:51:06] because I'm just I don't know when they
+[1:51:08] happen.
+[1:51:11] It seems like they should inform you
+[1:51:13] either way whether you're whether we
+[1:51:15] assign, you know, tell you to follow up
+[1:51:18] on the recommendations or not. That
+[1:51:19] seems like something that should be
+[1:51:20] happening.
+[1:51:25] >> You should know that we should know.
+[1:51:27] >> We've got two or three policy committee
+[1:51:30] members here. Would you like to take
+[1:51:31] that up in policy? [laughter]
+[1:51:34] >> Well, is this like last year when you
+[1:51:36] signed some of these? um or these these
+[1:51:39] are different ones.
+[1:51:41] >> This is different than this. Those were
+[1:51:44] specifically related to the bond audit
+[1:51:47] recommendations.
+[1:51:49] Um and the ones that were outstanding
+[1:51:52] last year
+[1:51:54] were,
+[1:51:55] you know, they just made sense to be
+[1:51:58] talked about in a different committee.
+[1:52:01] uh most of the staff that would come to
+[1:52:04] a committee meeting to report on those
+[1:52:08] are already going to the FIO committee.
+[1:52:12] And so when um director Solomon and I
+[1:52:15] talked about that last year, that was
+[1:52:17] one of the factors we wanted to try to
+[1:52:19] cut down on the number of committees
+[1:52:22] that staff would have to report to and
+[1:52:25] talk about. So there was a strategy
+[1:52:28] behind um that process last year. It
+[1:52:32] wasn't as effective as um it could have
+[1:52:37] been but it was more effective than
+[1:52:41] nothing. And so we did it was successful
+[1:52:44] from some aspects. But um when we follow
+[1:52:47] we talked about this in the audit com
+[1:52:51] March audit committee meeting and we
+[1:52:53] invited you to come to talk and I ask
+[1:52:56] about how did it go in the committees.
+[1:52:59] And what I heard from the audit
+[1:53:02] committee was that we wanted to bring
+[1:53:05] that back and do it in the audit
+[1:53:07] committee moving forward and not assign
+[1:53:10] them out or recommend not sign recommend
+[1:53:15] other committees follow up on them. So
+[1:53:17] it is my plan to bring all that back to
+[1:53:21] the audit committee. Um,
+[1:53:25] >> and that was because was that because
+[1:53:27] the committee the other committees
+[1:53:29] didn't do the followup?
+[1:53:30] >> No. Um, well,
+[1:53:32] >> I loved it.
+[1:53:33] >> Right. Um,
+[1:53:35] >> yes.
+[1:53:37] and um and I appreciated it and it
+[1:53:41] really did make sense at the time to cut
+[1:53:44] down on the number of committees, but
+[1:53:47] what I did find is
+[1:53:50] I had a lot less visibility and ability
+[1:53:55] to understand how the process was going
+[1:54:00] and but
+[1:54:03] so I do think it makes sense to bring it
+[1:54:05] back to the internal audit
+[1:54:08] or back to the audit committee.
+[1:54:11] >> But you're talking about other audits.
+[1:54:13] >> I'm talking about other audits. And for
+[1:54:15] example, the Secretary of State. I do
+[1:54:18] know that that request has been made and
+[1:54:21] I'm excited and I think that is
+[1:54:23] something that the audit committee
+[1:54:24] should talk about. But I want to be
+[1:54:26] clear that internal audit function has
+[1:54:31] not been part of the process. And if
+[1:54:34] that is an expectation or the audit
+[1:54:37] committee expects internal audit
+[1:54:39] function to provide any level of
+[1:54:41] assurance related to the implementation
+[1:54:44] of any of those recommendations that has
+[1:54:47] not been done and I need to know what is
+[1:54:50] expected
+[1:54:52] um that's why I'm asking
+[1:54:57] >> well what well as you said we should
+[1:55:00] know about them anyway right isn't that
+[1:55:02] what you were
+[1:55:03] So, we should know about them and
+[1:55:05] whether we do something about them or
+[1:55:07] not.
+[1:55:09] We might come in. How much time do you
+[1:55:11] have?
+[1:55:12] >> I mean, there's that.
+[1:55:14] >> Yeah. Yeah. I'm just not aware of other
+[1:55:18] the audits that go on here. So, what I
+[1:55:20] would ask for is a policy update. And
+[1:55:24] this was in my policy proposal last
+[1:55:27] spring
+[1:55:28] um to add that element that staff are
+[1:55:32] required to inform me of whenever
+[1:55:34] external audits of any type are
+[1:55:37] performed.
+[1:55:39] >> And I think that's the issue in the
+[1:55:41] language and Janice and I have talked a
+[1:55:43] lot and played out lots of different
+[1:55:44] scenarios what is specifically defined
+[1:55:47] as an audit and what might else be
+[1:55:51] included or not. And so again, I don't
+[1:55:54] think that's going to be resolved here
+[1:55:55] today. But when we think about the scope
+[1:55:57] so it's so you know policies help people
+[1:56:01] yeah have clear guidance and so which
+[1:56:03] which kind if it's called an audit if
+[1:56:05] the secretary when that audit came in
+[1:56:07] 2018 and 19 that was huge and it was
+[1:56:09] talked about everywhere but there may be
+[1:56:11] some more discreet types of oversight
+[1:56:15] external agency actions that look like
+[1:56:19] an audit but aren't called an audit or
+[1:56:21] called I mean I just think that that's
+[1:56:23] part of the conversation when we get to
+[1:56:24] the polic policy amendments. And so I'm
+[1:56:26] just decided to waddle up here and um
+[1:56:29] plant that seed for thought because
+[1:56:31] Janice and I have spent a lot of time
+[1:56:32] talking about what's an audit and what's
+[1:56:34] a review for instance and trying to be
+[1:56:36] clear so that staff get it right because
+[1:56:38] they everyone here wants to get it
+[1:56:40] right. It's just sometimes
+[1:56:41] >> right. So do we take up the revisions to
+[1:56:46] the um the audit policy here first then
+[1:56:51] it goes to policy or do we take it up in
+[1:56:53] policy? So what I think the most
+[1:56:57] appropriate process is for me to bring
+[1:57:00] policy proposals to the audit committee
+[1:57:03] and when the audit committee is happy
+[1:57:07] with it they can refer it to the policy
+[1:57:09] committee for the policy committee to to
+[1:57:14] do their thing. Um I think there are
+[1:57:17] distinct roles. the audit committee has
+[1:57:19] a role um and then the policy committee
+[1:57:22] has a role. We wouldn't want to bypass
+[1:57:26] the policy committee. Um
+[1:57:30] so both need to be involved and
+[1:57:33] coordinate in when it comes to the audit
+[1:57:36] policy and whether or not there are any
+[1:57:39] updates to it.
+[1:57:43] We'd probably want to do that sooner
+[1:57:44] than later only because there it takes
+[1:57:47] so much time the policy right the first
+[1:57:50] reading and the second reading and all
+[1:57:51] the things and
+[1:57:52] >> so it does actually take a really long
+[1:57:55] time for me to research but the a policy
+[1:57:58] proposal update but I did a lot of this
+[1:58:02] work in the spring and so I do have a
+[1:58:06] policy proposal
+[1:58:09] that I did bring to the audit committee
+[1:58:11] in the spring of last last year. um it
+[1:58:14] just didn't make its way to the policy
+[1:58:17] committee and
+[1:58:20] when if so for the purposes of this
+[1:58:24] meeting I'm asking for your expectation
+[1:58:27] and if you tell me what your expectation
+[1:58:29] is I can
+[1:58:33] synthesize that and uh make some
+[1:58:36] progress and come back and talk to you
+[1:58:38] in our next audit committee about what
+[1:58:41] whether or not a change to our policy is
+[1:58:44] necessarily required.
+[1:58:50] >> I'm always the one pushing the button.
+[1:58:52] [laughter]
+[1:58:53] I would like for you to bring that back
+[1:58:56] to the next audit committee meeting so
+[1:58:57] that we can give it our blessing and
+[1:59:00] refer to the policy committee.
+[1:59:02] >> Okay. So I think what I hear you you
+[1:59:04] saying is that the
+[1:59:08] and bear with me let's just let me
+[1:59:10] paraphrase um that there is an
+[1:59:14] expectation that internal audit
+[1:59:18] um participates in the followup of
+[1:59:21] outstanding recommendations on all
+[1:59:24] audits including external audits.
+[1:59:27] Um, am I hearing that correctly?
+[1:59:32] >> I think so. And that would include then
+[1:59:35] the outstanding bond audits.
+[1:59:38] >> Yeah. And the board was very specific on
+[1:59:41] that already. So that is for sure my
+[1:59:43] part of internal audits responsibility
+[1:59:46] >> because you guys talked about it in the
+[1:59:49] meeting you had where you talked about
+[1:59:51] your um the recommendations that were to
+[1:59:54] the board but that was specifically
+[1:59:57] related to the bond audit and that is
+[2:00:00] why I'm asking for input as it relates
+[2:00:03] to the others. I I want to be mindful of
+[2:00:06] your time and the best use of your time.
+[2:00:10] And so I don't know that I would default
+[2:00:13] to always having you follow up on all of
+[2:00:16] the recommendations. And I think it
+[2:00:18] would maybe make more sense to do it on
+[2:00:20] a case-byase basis.
+[2:00:22] Um, but either way, I think that policy
+[2:00:27] update would be important
+[2:00:32] >> so that at least they would come to you.
+[2:00:36] >> At least they would be
+[2:00:37] >> and you would know what's going on.
+[2:00:40] >> Yeah,
+[2:00:42] >> I agree. And I I like the idea of the
+[2:00:44] case byase basis. I feel that um
+[2:00:49] there should be some priority setting
+[2:00:52] opportunity here around
+[2:00:55] how your time is directed and what are
+[2:00:58] the
+[2:01:00] what what audit recommendations end up
+[2:01:03] aligning with PPS's board set priorities
+[2:01:07] and those to me would be a higher
+[2:01:09] priority to follow up than others that
+[2:01:11] aren't an issue of for example federal
+[2:01:14] compliance.
+[2:01:16] You guys are so good to me. Thanks for
+[2:01:18] caring about the love workload for me in
+[2:01:21] our office. I really appreciate it.
+[2:01:23] Thank you so much. I like that as a
+[2:01:26] great compromise. Um so I will
+[2:01:32] take that in and talk about it with um
+[2:01:37] PPS staff and come back to you guys in
+[2:01:40] the final audit plan. I will be specific
+[2:01:43] about what is necessary to make that
+[2:01:46] happen.
+[2:01:48] >> And when you do that, I wouldn't, you
+[2:01:50] know, in terms of referring things
+[2:01:52] referring followup to committees, like
+[2:01:55] the board is here to help. Like that's
+[2:01:57] that's our job too, right?
+[2:01:59] >> So if there are items that you're like,
+[2:02:02] there's five that belong in policy,
+[2:02:05] >> I'm busy. You guys follow up.
+[2:02:09] I I think as a board I think we need to
+[2:02:11] have a discussion about taking that on
+[2:02:14] as part of our responsibility. We can't
+[2:02:15] have you do every I mean that's part of
+[2:02:16] our job.
+[2:02:17] >> So
+[2:02:18] >> well one exec exciting development
+[2:02:20] happened today and the chair of the
+[2:02:23] policy committee uh sent me an email
+[2:02:25] inviting me to the policy committee uh
+[2:02:29] meetings and asked if I wanted to talk
+[2:02:32] about anything. I couldn't make it to
+[2:02:34] today's meeting. Um, but now that the
+[2:02:38] invitation has been made, I will do
+[2:02:40] that. And so at your next policy
+[2:02:43] committee meeting, I will come and let
+[2:02:47] the policy committee know about the
+[2:02:51] outstanding bond audit recommendation
+[2:02:54] that is related to one of our policies
+[2:02:58] that the policy committee. I would
+[2:03:01] really like for the policy committee to
+[2:03:05] look at that this year.
+[2:03:07] >> Is that the equity and purchasing?
+[2:03:09] >> Yes, it is. Okay, perfect.
+[2:03:10] >> And that one is a little bit complex.
+[2:03:13] So, I really appreciated the invitation
+[2:03:16] to come and talk about it and I will.
+[2:03:18] So, it it is a little complex and so now
+[2:03:22] that I've been invited, I will do that
+[2:03:24] and I appreciate that so much.
+[2:03:28] Okay, let's keep moving on. I heard what
+[2:03:31] you had to say for this one and we are
+[2:03:37] This is a lot. Sorry. So, number nine is
+[2:03:40] an alternative annual performance
+[2:03:42] evaluation process. So, um there has
+[2:03:46] been some questions and comments from
+[2:03:48] board members. um they've expressed an
+[2:03:51] interest in changing the evaluation
+[2:03:54] performance uh performance evaluation
+[2:03:57] process for my annual evaluation.
+[2:04:01] So board policy says the auditor will be
+[2:04:04] annually evaluated by the board using
+[2:04:08] the school district's evaluation
+[2:04:10] instrument. Um the annual performance
+[2:04:13] evaluation process is one of the
+[2:04:16] safeguards that is in place to protect
+[2:04:19] the independence of the office of
+[2:04:21] internal performance audit. So what I
+[2:04:24] can do is for our December 2nd meeting
+[2:04:28] which is getting really full now is
+[2:04:32] bring alternative options for discussion
+[2:04:37] about what what's the interest and I can
+[2:04:41] provide some tools and other ways in
+[2:04:44] which that performance evaluation can
+[2:04:47] happen um that would also maintain and
+[2:04:51] protect that independence
+[2:04:53] What the correct the proper steps would
+[2:04:57] be is for me to bring the options and if
+[2:05:02] there's interest in changing it the
+[2:05:04] audit committee would propose or
+[2:05:07] recommend that change to the full board
+[2:05:09] because the full board the policy says
+[2:05:13] the full board does this and
+[2:05:15] participates in the process. So it would
+[2:05:18] need if we are going to change it, the
+[2:05:20] audit committee needs to recommend the
+[2:05:22] change to the board and then the board
+[2:05:24] needs to approve it.
+[2:05:29] Does that make sense?
+[2:05:31] >> Yeah. And we can also hopefully this
+[2:05:35] evaluation will be done. We'll see how
+[2:05:37] that worked and we can put that in with
+[2:05:39] it. Yeah, let's do that too.
+[2:05:40] >> Okay. All right. Number 10 is some
+[2:05:45] assurance activities. And I just want to
+[2:05:48] clarify most of all of the things on
+[2:05:51] this list we already do. Um I'm just
+[2:05:54] being much more clear about what we will
+[2:05:57] do so everybody has a better
+[2:06:00] understanding of all the the different
+[2:06:03] types of work we do. So for some
+[2:06:06] assurance activities um this year we
+[2:06:09] will review the implementation of the
+[2:06:11] outstanding bond audit recommendations
+[2:06:14] and determine if corrective controls are
+[2:06:16] implemented as needed.
+[2:06:19] Um the so I want to be specific about
+[2:06:24] when I plan to report on that activity
+[2:06:26] to the audit committee. So I wanted to
+[2:06:31] put in the plan when the audit committee
+[2:06:33] can expect an update on those and I will
+[2:06:36] do that two times this year. I will
+[2:06:39] bring it forward in the February meeting
+[2:06:42] and then in the June meeting. Um,
+[2:06:46] another recommendation that was from the
+[2:06:48] bond audit team is that the office of
+[2:06:52] internal performance audit
+[2:06:55] review monthly precidio bond program
+[2:06:57] management invoices to ensure invoices
+[2:07:00] comply with contract provisions. The
+[2:07:03] recommendation was pretty detailed. They
+[2:07:06] asked for or they recommended an audit
+[2:07:09] of the internal controls and I would
+[2:07:15] that is not something
+[2:07:17] internal audit currently has the
+[2:07:19] capacity do. We do need to hire somebody
+[2:07:21] with the appropriate level of experience
+[2:07:24] to conduct the full audit. So in the um
+[2:07:31] response the board's response to the
+[2:07:34] bond audit recommendations I did clarify
+[2:07:37] a phase one and a phase two. So what we
+[2:07:41] can do as phase one is to begin to
+[2:07:45] review those monthly um invoices and
+[2:07:48] supporting documentation.
+[2:07:50] We cannot do it as part of management's
+[2:07:54] internal control. Those payments need to
+[2:07:57] be made and then we will review them
+[2:08:00] afterwards
+[2:08:02] and when we hire a new person who with
+[2:08:05] the appropriate level of experience that
+[2:08:09] will be their first audit which is why I
+[2:08:12] listed that audit as number 11 and put
+[2:08:16] um in there that it is dependent on the
+[2:08:19] hiring. So ideally we'll hire them as
+[2:08:22] soon as we we can and this would be kind
+[2:08:25] of their first audit that they will work
+[2:08:27] on.
+[2:08:29] Does that make sense?
+[2:08:32] So it's not a full audit
+[2:08:36] but I will review them and for contract
+[2:08:40] compliance and if there are any uh
+[2:08:44] nomalies identified I will report on
+[2:08:47] them immediately to management but in
+[2:08:51] these two meetings that I've identified
+[2:08:53] in the plan I'll bring that forward to
+[2:08:55] the audit committee
+[2:09:00] busy year. Um are so my question is are
+[2:09:04] there any other type of you know special
+[2:09:09] requests that the audit committee would
+[2:09:11] like me to or the office of internal
+[2:09:14] performance audit to pay specific
+[2:09:16] attention to. Um it's not uncommon for
+[2:09:22] us to get these type of requests. I
+[2:09:24] would consider this something, you know,
+[2:09:27] what I did for the FIO committee last
+[2:09:29] year to kind of fall underneath this
+[2:09:31] category. Um, I just in the past haven't
+[2:09:34] talked about it very publicly and I
+[2:09:37] wanted to be more detailed in the audit
+[2:09:40] plan this year.
+[2:09:44] >> Sounds like we're requesting enough.
+[2:09:46] >> Okay. [laughter]
+[2:09:48] >> I don't mind that answer. Um, okay.
+[2:09:51] >> And we have to move. So,
+[2:09:53] >> Yep. Yeah. Okay.
+[2:09:55] >> So, this we are on the last piece of
+[2:09:57] this and it's just number 11 which is
+[2:10:01] the recommended audit by the bond audit
+[2:10:04] team and that will have to wait until we
+[2:10:07] do hire somebody.
+[2:10:10] That's it.
+[2:10:12] >> Thank you for your input. This will
+[2:10:13] really help me dial this in and come
+[2:10:16] back and have a full plan ready for the
+[2:10:19] audit committee to refer to the full
+[2:10:21] board for approval in our next meeting.
+[2:10:24] >> Great.
+[2:10:25] Okay, Chief Morrison, are you ready?
+[2:10:29] >> I am [laughter] ready.
+[2:10:30] >> I ask one very quick Oh, sure.
+[2:10:32] >> I promise it's very quick.
+[2:10:34] >> Will you remind me, Janice, were we able
+[2:10:36] to move quickly on hiring the
+[2:10:38] construction auditor?
+[2:10:41] Where who does that person report to?
+[2:10:43] What where?
+[2:10:45] >> Thank you.
+[2:10:45] >> Where does that role report?
+[2:10:47] >> Um so I will say that
+[2:10:52] um there was a memo that was sent out
+[2:10:55] today and that the content of the memo
+[2:11:00] didn't necessarily align with what I
+[2:11:02] thought was going to happen. But this is
+[2:11:06] real time happening like maybe less than
+[2:11:10] an hour before our meeting these
+[2:11:11] conversations were taking place. So um
+[2:11:14] you know I will be following up with
+[2:11:18] staff um tomorrow on that. I think the
+[2:11:21] board was clear in
+[2:11:24] by assigning internal audit that
+[2:11:27] responsibility to follow up on the
+[2:11:29] implementation of these recommendations.
+[2:11:31] This is one of the recommendations. So,
+[2:11:34] I do think that the board has been clear
+[2:11:36] that I should follow up and gain some
+[2:11:40] clarifying information and I will be
+[2:11:43] doing that.
+[2:11:45] >> I hope I'm understanding. Does that then
+[2:11:48] go somewhere? Your office's role should
+[2:11:51] that happen goes will be added to this
+[2:11:54] annual plan.
+[2:11:55] >> It's already in there.
+[2:11:56] >> I missed that part.
+[2:11:57] >> I'm sorry. It was
+[2:11:59] >> apologies. Keep moving.
+[2:12:00] >> It's in the assurance function. The
+[2:12:02] assurance activity. So the first bullet
+[2:12:05] point says internal audit will review
+[2:12:07] the implementation of bond audit
+[2:12:09] recommendations to determine if
+[2:12:11] corrective controls are implemented as
+[2:12:13] needed and I will report on that
+[2:12:16] activity to the audit committee two
+[2:12:18] times.
+[2:12:19] >> I think and I could be wrong. I think
+[2:12:21] the question is if PPS is contracting
+[2:12:24] out for a construction auditor who's
+[2:12:26] managing the contract is that you or
+[2:12:29] management
+[2:12:34] per the memo, it does identify
+[2:12:37] management. Um, but that does not um
+[2:12:41] align with I wasn't consulted or or
+[2:12:44] asked and I just saw the memo. Um, I
+[2:12:47] don't think that is alignment with what
+[2:12:50] my understanding of the expectations
+[2:12:52] are. So, I do plan to follow up and
+[2:12:55] clarify on that um because I do think
+[2:12:58] the board was clear on that expectation.
+[2:13:01] Um, and I will do that
+[2:13:05] immediately.
+[2:13:07] >> Okay. And you have our back.
+[2:13:09] >> Yes.
+[2:13:11] >> Okay.
+[2:13:13] Um, okay. Chief Morrison.
+[2:13:16] Um, you're next to share recommendations
+[2:13:18] about how we review the monthly
+[2:13:20] financial reconciliation,
+[2:13:23] but we already talked about that, right?
+[2:13:25] And you're going to be taking care of
+[2:13:27] that and we'll work out time and let
+[2:13:29] everybody know. Yep. Within a couple of
+[2:13:32] weeks anyway.
+[2:13:33] >> Okay.
+[2:13:35] And also you were going to have the
+[2:13:39] status of the annual comprehensive
+[2:13:40] financial report in single.
+[2:13:43] >> Yeah. So on that one I know that I don't
+[2:13:46] know that we need to put the slides back
+[2:13:48] up. There's only a few more. Um there's
+[2:13:50] one with some dates on it, but for our
+[2:13:53] annual comprehensive financial report,
+[2:13:55] we've already had um several weeks worth
+[2:13:58] of field work. So that's been great. TKW
+[2:14:00] has been here on site doing that work.
+[2:14:03] We are um on target for having our draft
+[2:14:07] to them on time and should have our
+[2:14:11] report back to the audit committee on
+[2:14:13] the 17th of December. And we will we are
+[2:14:17] currently planning on having the single
+[2:14:19] audit piece um presented at the same
+[2:14:22] time of as the report. We had thought
+[2:14:25] about separating them in case the single
+[2:14:28] audit was really delayed like it was
+[2:14:31] last year and we kept them together and
+[2:14:32] so everything was delayed. Um but I do
+[2:14:35] think that we are going to be um on time
+[2:14:37] and we'll we are targeting the December
+[2:14:40] 17th meeting.
+[2:14:41] >> Oh god. Good.
+[2:14:44] All right.
+[2:14:46] Um,
+[2:14:49] well, we're not We wanted to get an
+[2:14:52] update on all the other audits that
+[2:14:53] happened during the year, but we already
+[2:14:55] talked about when we'll do that. Let's
+[2:14:57] >> Yes. We have just a couple that I know
+[2:15:00] about. One was Head Start specifically
+[2:15:02] and then the summer nutrition program.
+[2:15:04] So, those are things that Janice and I
+[2:15:07] are going to be coordinating on so that
+[2:15:08] you she will be in the loop on those
+[2:15:10] things.
+[2:15:11] >> Okay.
+[2:15:13] All right. Committee members, are there
+[2:15:15] any other topics you'd like to consider?
+[2:15:18] Are there any possibilities [laughter]
+[2:15:20] anymore?
+[2:15:22] >> I think we brought up sort of brought up
+[2:15:24] a lot of going.
+[2:15:25] >> Dennis, any more for you?
+[2:15:28] >> This is it for me.
+[2:15:30] >> Thank you so much for everybody's
+[2:15:32] patience.
+[2:15:33] >> Thank you everybody. It's been a long
+[2:15:34] meeting. I think we've gotten a lot done
+[2:15:36] and there's a lot coming up at the next
+[2:15:39] meeting.
+[2:15:40] >> Yeah.
+[2:15:40] >> So, thank you everybody. Uh this meeting
+[2:15:43] is adjourned.
