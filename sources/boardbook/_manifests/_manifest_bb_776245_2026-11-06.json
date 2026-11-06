@@ -1,0 +1,47 @@
+[
+ {
+  "path": "boardbook/meetings/2026-11-09_776245_facilities-improvement-and-oversight-committee-mee/agenda.html",
+  "url": "/Public/Agenda/915?meeting=776245",
+  "final_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=776245",
+  "status": 200,
+  "content_type": "text/html",
+  "bytes": 42555,
+  "error": "",
+  "fetched_at": "2026-11-06T21:57:36Z",
+  "title": "agenda"
+ },
+ {
+  "path": "boardbook/meetings/2026-11-09_776245_facilities-improvement-and-oversight-committee-mee/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=776245",
+  "final_url": "https://meetings.boardbook.org/Documents/CustomPublicNoticeForMeeting/915?meeting=776245",
+  "status": 200,
+  "content_type": "text/html",
+  "bytes": 32928,
+  "error": "",
+  "fetched_at": "2026-11-06T21:57:37Z",
+  "title": "public_notice"
+ },
+ {
+  "path": "boardbook/meetings/2026-11-09_776245_facilities-improvement-and-oversight-committee-mee/public_notice_14645632.pdf",
+  "url": "/Documents/DownloadPDF/14645632?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14645632?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 206244,
+  "error": "",
+  "fetched_at": "2026-11-06T21:57:39Z",
+  "title": "public_notice pdf"
+ },
+ {
+  "path": "boardbook/meetings/2026-11-09_776245_facilities-improvement-and-oversight-committee-mee/attachments/14644366_FIO_Presentation_11.09.26.pdf",
+  "url": "/Documents/DownloadPDF/14644366?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14644366?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 1597057,
+  "error": "",
+  "fetched_at": "2026-11-06T21:57:40Z",
+  "title": "FIO Presentation 11.09.26",
+  "found_on": "4. Rightsizing Update: Facilities School Readiness"
+ }
+]

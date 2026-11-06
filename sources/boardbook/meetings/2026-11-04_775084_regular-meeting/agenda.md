@@ -22,15 +22,16 @@ Attachments:
 (
 3
 )
-OSAS Focal Students Board Presentation
-PPS Focal Students
+OSAS Memo
 Fall 2026 Board Memo OSAS
+OSAS Focal Students Board Presentation
 7. 7:30 pm - Rightsizing
 Attachments:
 (
-1
+2
 )
 11.04.26 BOE Meeting_Rightsizing
+Preliminary Findings: What We Heard in Rightsizing Engagements
 8. 8:30 pm - GenAI Systems Inventory and Policy Update
 Attachments:
 (
@@ -71,7 +72,7 @@ Attachments:
 (
 1
 )
-Reso 7396 - to Appoint Members to the Climate Crisis Response Committee 2026-2027
+Reso 7396 - to Appoint Members to the Climate Crisis Response Committee 2026-2027 Revised
 10. 9:20 pm - Other Business, Committee Referrals, and Future Agenda Items
 11. 9:25 pm - Adjourn
 12. Board Committee and Conference Reports
@@ -80,5 +81,11 @@ Facilities Improvement Oversight Committee
 Policy Committee
 Teaching, Learning, & Enrollment Committee
 Intergovernmental Committee
+Attachments:
+(
+2
+)
+Audit Committee Report to the Board_ 10_27_2026
+Intergovernmental Affairs Committee Report
 Web Viewer
 << Back to the Public Page for Portland Public Schools

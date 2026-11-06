@@ -1,0 +1,47 @@
+[
+ {
+  "path": "boardbook/meetings/2026-11-10_776737_intergovernmental-affairs-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=776737",
+  "final_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=776737",
+  "status": 200,
+  "content_type": "text/html",
+  "bytes": 41567,
+  "error": "",
+  "fetched_at": "2026-11-06T21:57:29Z",
+  "title": "agenda"
+ },
+ {
+  "path": "boardbook/meetings/2026-11-10_776737_intergovernmental-affairs-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=776737",
+  "final_url": "https://meetings.boardbook.org/Documents/CustomPublicNoticeForMeeting/915?meeting=776737",
+  "status": 200,
+  "content_type": "text/html",
+  "bytes": 32901,
+  "error": "",
+  "fetched_at": "2026-11-06T21:57:31Z",
+  "title": "public_notice"
+ },
+ {
+  "path": "boardbook/meetings/2026-11-10_776737_intergovernmental-affairs-committee-meeting/public_notice_14645050.pdf",
+  "url": "/Documents/DownloadPDF/14645050?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14645050?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 206479,
+  "error": "",
+  "fetched_at": "2026-11-06T21:57:32Z",
+  "title": "public_notice pdf"
+ },
+ {
+  "path": "boardbook/meetings/2026-11-10_776737_intergovernmental-affairs-committee-meeting/attachments/14644698_PPS_Legislative_Agenda_(draft).pdf",
+  "url": "/Documents/DownloadPDF/14644698?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14644698?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 1075616,
+  "error": "",
+  "fetched_at": "2026-11-06T21:57:34Z",
+  "title": "PPS Legislative Agenda (draft)",
+  "found_on": "3. Review of draft Legislative Agenda for the 2027 Legislative Session"
+ }
+]

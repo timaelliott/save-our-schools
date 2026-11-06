@@ -1,7 +1,73 @@
 {
- "generated": "2026-11-02T19:31:26Z",
+ "generated": "2026-11-06T21:57:23Z",
  "source": "https://meetings.boardbook.org/public/Organization/915",
  "meetings": [
+  {
+   "id": "776248",
+   "head": "November 10, 2026 at 4:30 PM - Teaching, Learning, and Enrollment Committee Meeting",
+   "type": "Committee (Teaching, Learning, and Enrollment Committee)",
+   "loc": "Dr. Matthew Prophet Education Center",
+   "vids": [],
+   "det": [
+    {
+     "t": "Public Notice",
+     "h": "/Public/PublicNotice/915?meeting=776248"
+    },
+    {
+     "t": "Agenda",
+     "h": "/Public/Agenda/915?meeting=776248"
+    }
+   ],
+   "items": []
+  },
+  {
+   "id": "776737",
+   "head": "November 10, 2026 at 12:00 PM - Intergovernmental Affairs Committee Meeting",
+   "type": "Committee (Intergovernmental Affairs Committee)",
+   "loc": "Virtual",
+   "vids": [],
+   "det": [
+    {
+     "t": "Public Notice",
+     "h": "/Public/PublicNotice/915?meeting=776737"
+    },
+    {
+     "t": "Agenda",
+     "h": "/Public/Agenda/915?meeting=776737"
+    }
+   ],
+   "items": [
+    {
+     "file": "14644698",
+     "name": "PPS Legislative Agenda (draft)",
+     "item": "3. Review of draft Legislative Agenda for the 2027 Legislative Session"
+    }
+   ]
+  },
+  {
+   "id": "776245",
+   "head": "November 9, 2026 at 4:30 PM - Facilities Improvement and Oversight Committee Meeting",
+   "type": "Committee (Facilities Improvement and Oversight Committee)",
+   "loc": "Dr. Matthew Prophet Education Center",
+   "vids": [],
+   "det": [
+    {
+     "t": "Public Notice",
+     "h": "/Public/PublicNotice/915?meeting=776245"
+    },
+    {
+     "t": "Agenda",
+     "h": "/Public/Agenda/915?meeting=776245"
+    }
+   ],
+   "items": [
+    {
+     "file": "14644366",
+     "name": "FIO Presentation 11.09.26",
+     "item": "4. Rightsizing Update: Facilities School Readiness"
+    }
+   ]
+  },
   {
    "id": "775084",
    "head": "November 4, 2026 at 6:00 PM - Regular Meeting",
@@ -25,12 +91,7 @@
    "items": [
     {
      "file": "14611849",
-     "name": "OSAS Focal Students Board Presentation",
-     "item": "6. 7:00 pm - 2025-26 Oregon Statewide Assessment System (OSAS) Results"
-    },
-    {
-     "file": "14611850",
-     "name": "PPS Focal Students",
+     "name": "OSAS Memo",
      "item": "6. 7:00 pm - 2025-26 Oregon Statewide Assessment System (OSAS) Results"
     },
     {
@@ -39,8 +100,18 @@
      "item": "6. 7:00 pm - 2025-26 Oregon Statewide Assessment System (OSAS) Results"
     },
     {
+     "file": "14639691",
+     "name": "OSAS Focal Students Board Presentation",
+     "item": "6. 7:00 pm - 2025-26 Oregon Statewide Assessment System (OSAS) Results"
+    },
+    {
      "file": "14615901",
      "name": "11.04.26 BOE Meeting_Rightsizing",
+     "item": "7. 7:30 pm - Rightsizing"
+    },
+    {
+     "file": "14625294",
+     "name": "Preliminary Findings: What We Heard in Rightsizing Engagements",
      "item": "7. 7:30 pm - Rightsizing"
     },
     {
@@ -49,7 +120,7 @@
      "item": "8. 8:30 pm - GenAI Systems Inventory and Policy Update"
     },
     {
-     "file": "14610697",
+     "file": "14623348",
      "name": "Presentation: Update on AI Pause resolution",
      "item": "8. 8:30 pm - GenAI Systems Inventory and Policy Update"
     },
@@ -79,9 +150,19 @@
      "item": "9.(d) Resolution 7395 - Appointment of Community Budget Review Committee Members"
     },
     {
-     "file": "14617866",
-     "name": "Reso 7396 -  to Appoint Members to the Climate Crisis Response Committee 2026-2027",
+     "file": "14638549",
+     "name": "Reso 7396 -  to Appoint Members to the Climate Crisis Response Committee 2026-2027 Revised",
      "item": "9.(e) Resolution 7396 - to Appoint Three Members to the 2026-2027 Climate Crisis Response Committee (CCRC)"
+    },
+    {
+     "file": "14638666",
+     "name": "Audit Committee Report to the Board_ 10_27_2026",
+     "item": "12. Board Committee and Conference Reports Audit Committee Facilities Improvement Oversight Committee Policy Committee Teaching, Learning, & Enrollment Committee Intergovernmental Committee"
+    },
+    {
+     "file": "14639799",
+     "name": "Intergovernmental Affairs Committee Report",
+     "item": "12. Board Committee and Conference Reports Audit Committee Facilities Improvement Oversight Committee Policy Committee Teaching, Learning, & Enrollment Committee Intergovernmental Committee"
     }
    ]
   },
@@ -101,6 +182,10 @@
     {
      "t": "Agenda",
      "h": "/Public/Agenda/915?meeting=774181"
+    },
+    {
+     "t": "Minutes",
+     "h": "/Public/Minutes/915?meeting=774181"
     }
    ],
    "items": [
@@ -172,6 +257,10 @@
     {
      "t": "Agenda",
      "h": "/Public/Agenda/915?meeting=773233"
+    },
+    {
+     "t": "Minutes",
+     "h": "/Public/Minutes/915?meeting=773233"
     }
    ],
    "items": [
@@ -258,6 +347,10 @@
     {
      "t": "Agenda",
      "h": "/Public/Agenda/915?meeting=774309"
+    },
+    {
+     "t": "Minutes",
+     "h": "/Public/Minutes/915?meeting=774309"
     }
    ],
    "items": [
@@ -288,6 +381,10 @@
     {
      "t": "Agenda",
      "h": "/Public/Agenda/915?meeting=772442"
+    },
+    {
+     "t": "Minutes",
+     "h": "/Public/Minutes/915?meeting=772442"
     }
    ],
    "items": [
@@ -350,12 +447,6 @@
      "file": "14581905",
      "name": "Superintendent Board Report 10.20.26",
      "item": "11. Superintendent's Report"
-    }
-   ],
-   "supp": [
-    {
-     "h": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14580488",
-     "name": "26-10-19 Q&A Document (1)"
     }
    ]
   },
@@ -605,14 +696,7 @@
      "name": "2027 PPS Legislative Principles",
      "item": "9.(d) Resolution to Approve 2027 Legislative Principles (Reso 7387)"
     }
-   ],
-   "supp": [
-    {
-     "h": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14493920",
-     "name": "26-10-01 Q&A"
-    }
-   ],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "770670",
@@ -642,9 +726,7 @@
      "name": "Annual Ethics and Public Meetings Training",
      "item": "1. Annual Ethics and Public Meetings Training"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "769094",
@@ -675,9 +757,7 @@
      "name": "Draft Board Response",
      "item": "2. Resolution to Approve the Responses to the Board Recommendations in the Draft Bond Performance Audit for Fiscal Years 2024-25 and 2025-26 (Resolution 7382)"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "769461",
@@ -707,9 +787,7 @@
      "name": "PPS Lobby Training Sept 2026",
      "item": "3. Legislative Training with the Oregon School Board Association"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "768451",
@@ -739,9 +817,7 @@
      "name": "FIO September Meeting Presentation",
      "item": "4. Update: Facility Improvement Wins"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "767981",
@@ -781,9 +857,7 @@
      "name": "SBS screen policy Sept 16",
      "item": "4. Discussion: Schools Beyond Screens Digital Device and Screen Use Policy Draft"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "767819",
@@ -801,9 +875,7 @@
      "h": "/Public/Agenda/915?meeting=767819"
     }
    ],
-   "items": [],
-   "supp": [],
-   "minutesFiles": []
+   "items": []
   },
   {
    "id": "767447",
@@ -823,9 +895,7 @@
      "h": "/Public/Agenda/915?meeting=767447"
     }
    ],
-   "items": [],
-   "supp": [],
-   "minutesFiles": []
+   "items": []
   },
   {
    "id": "766050",
@@ -929,14 +999,7 @@
      "name": "Staff Report to Board_ GriceAdair_CMGC (1)",
      "item": "11. Grice-Adair Center Project: Exemption from Competitive Bidding and Authorization for Use of a Construction Manager/ General Contractor Alternative Contracting Method (Resolution 7380) Vote - Publi"
     }
-   ],
-   "supp": [
-    {
-     "h": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14421589",
-     "name": "Board Meeting Question Tracker 26_09_14"
-    }
-   ],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "766653",
@@ -954,9 +1017,7 @@
      "h": "/Public/Agenda/915?meeting=766653"
     }
    ],
-   "items": [],
-   "supp": [],
-   "minutesFiles": []
+   "items": []
   },
   {
    "id": "766660",
@@ -987,9 +1048,7 @@
      "name": "Committee Legislative Principles (updated)",
      "item": "4. Review and Recommend Legislative Priorities"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "766405",
@@ -1007,9 +1066,7 @@
      "h": "/Public/Agenda/915?meeting=766405"
     }
    ],
-   "items": [],
-   "supp": [],
-   "minutesFiles": []
+   "items": []
   },
   {
    "id": "765500",
@@ -1039,9 +1096,7 @@
      "name": "09.08.26_TLE_Well-Resourced-Schools_Rightsizing",
      "item": "3. Update on Rightsizing: Well Resourced Schools"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "761703",
@@ -1135,18 +1190,7 @@
      "name": "Reso 7375 - Expenditure Contract (Catapult 98251).docx",
      "item": "15. 9:15 pm - Expenditure Contract - Resolution 7375 Vote - Public Comment Accepted"
     }
-   ],
-   "supp": [
-    {
-     "h": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14331826",
-     "name": "_2025-2026 IG Annual Report"
-    },
-    {
-     "h": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14331827",
-     "name": "Annual Report IG 2025-2026"
-    }
-   ],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "763368",
@@ -1164,9 +1208,7 @@
      "h": "/Public/Agenda/915?meeting=763368"
     }
    ],
-   "items": [],
-   "supp": [],
-   "minutesFiles": []
+   "items": []
   },
   {
    "id": "763670",
@@ -1201,9 +1243,7 @@
      "name": "IGA Committe Presentation",
      "item": "5. Review and discuss legislative principles"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "758088",
@@ -1448,9 +1488,7 @@
      "name": "Resolution 7364 - Settlement Agreement",
      "item": "12.(h) Resolution 7364 - Settlement Agreement"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "753974",
@@ -1530,9 +1568,7 @@
      "name": "Resolution 7350 - to Adopt the Superintendent\u2019s Performance Evaluation for 2025-2026",
      "item": "8.(h) Resolution 7350 - Resolution to Adopt the Superintendent\u2019s Performance Evaluation for 2025-2026"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "753597",
@@ -1550,9 +1586,7 @@
      "h": "/Public/Agenda/915?meeting=753597"
     }
    ],
-   "items": [],
-   "supp": [],
-   "minutesFiles": []
+   "items": []
   },
   {
    "id": "752646",
@@ -1582,9 +1616,7 @@
      "name": "FIO Presentation 6_24_2026",
      "item": "3. Grice-Adair: Update on Master Planning Process"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "751412",
@@ -1783,14 +1815,7 @@
      "name": "Resolution 7338 - Expenditure - PowerSchool Group",
      "item": "13.(g) Resolution 7338 - Expenditure Contract"
     }
-   ],
-   "supp": [
-    {
-     "h": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3998331",
-     "name": "PPS_Memo_2025-26 RESJ Contracts Report_June2026"
-    }
-   ],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "751802",
@@ -1814,9 +1839,7 @@
      "h": "/Public/Minutes/915?meeting=751802"
     }
    ],
-   "items": [],
-   "supp": [],
-   "minutesFiles": []
+   "items": []
   },
   {
    "id": "752184",
@@ -1834,9 +1857,7 @@
      "h": "/Public/Agenda/915?meeting=752184"
     }
    ],
-   "items": [],
-   "supp": [],
-   "minutesFiles": []
+   "items": []
   },
   {
    "id": "751011",
@@ -1941,9 +1962,7 @@
      "name": "2.30.010-PReligious and Cultural Observances Redline",
      "item": "7.(f) 2.30.010-P Religious and Cultural Observances"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "750574",
@@ -1992,14 +2011,7 @@
      "name": "K-12 Health Curriculum Adoption - May 12, 2026 (1)",
      "item": "5. K-12 Health Curriculum Adoption"
     }
-   ],
-   "supp": [
-    {
-     "h": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3998330",
-     "name": "Jefferson Rising  Update _Memo_06.11.2026"
-    }
-   ],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "749359",
@@ -2238,14 +2250,7 @@
      "name": "Resolution 7298 - Expenditure Contracts",
      "item": "17.(g) Resolution 7298 - Expenditure Contracts"
     }
-   ],
-   "supp": [
-    {
-     "h": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3998329",
-     "name": "10 Apr 2026 FY2026 Board Report"
-    }
-   ],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "749904",
@@ -2263,9 +2268,7 @@
      "h": "/Public/Agenda/915?meeting=749904"
     }
    ],
-   "items": [],
-   "supp": [],
-   "minutesFiles": []
+   "items": []
   },
   {
    "id": "747392",
@@ -2300,9 +2303,7 @@
      "name": "DRAFT CHARTER_ BAC Charter DRAFT REVISION 04.29.26 (3)",
      "item": "4. Review of Proposed Revisions to the Bond Accountability Committee (BAC) Charter"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "746944",
@@ -2437,9 +2438,7 @@
      "name": "Committee Report_Audit_26_05_26",
      "item": "13. Board Committee and Conference Reports (written) Audit Committee Facilities Improvement Oversight Committee Policy Committee Teaching, Learning, & Enrollment Committee"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "747742",
@@ -2457,9 +2456,7 @@
      "h": "/Public/Agenda/915?meeting=747742"
     }
    ],
-   "items": [],
-   "supp": [],
-   "minutesFiles": []
+   "items": []
   },
   {
    "id": "747741",
@@ -2477,9 +2474,7 @@
      "h": "/Public/Agenda/915?meeting=747741"
     }
    ],
-   "items": [],
-   "supp": [],
-   "minutesFiles": []
+   "items": []
   },
   {
    "id": "746442",
@@ -2594,9 +2589,7 @@
      "name": "7.20.040-P Citizen - Community Sponsored Contests",
      "item": "7. Policies in the Public Comment Period (informational) 1.70.020-P - Policies and Administrative Directives - (Revision) 7.00.000-P - Community Policies \u2014 (Revisions and Rescissions) 7.10.010-P Schoo"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "745857",
@@ -2681,9 +2674,7 @@
      "name": "AI TLE Presentation",
      "item": "6. Artificial Intelligence in Portland Public Schools"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "745267",
@@ -2718,9 +2709,7 @@
      "name": "2026-27 Proposed Budget Volume 2",
      "item": "1. Public comment and Work Session on the 2026-27 Proposed Budget"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "743595",
@@ -2885,9 +2874,7 @@
      "name": "Reso 7305 - Dismissal of a Contract Educator.",
      "item": "15.(c) Resolution 7305 - Dismissal of a Contract Educator"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "745262",
@@ -2905,9 +2892,7 @@
      "h": "/Public/Agenda/915?meeting=745262"
     }
    ],
-   "items": [],
-   "supp": [],
-   "minutesFiles": []
+   "items": []
   },
   {
    "id": "743628",
@@ -2992,9 +2977,7 @@
      "name": "OIPA Activities Status Update_May 2026",
      "item": "7. OIPA Activities Status Update"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "743624",
@@ -3024,9 +3007,7 @@
      "name": "PowerPoint",
      "item": "1. School Board Retreat"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "742316",
@@ -3076,9 +3057,7 @@
      "name": "Bond Update_2026-04-28",
      "item": "5. 7:40 pm - Bond Program Update"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "742734",
@@ -3096,9 +3075,7 @@
      "h": "/Public/Agenda/915?meeting=742734"
     }
    ],
-   "items": [],
-   "supp": [],
-   "minutesFiles": []
+   "items": []
   },
   {
    "id": "742322",
@@ -3128,9 +3105,7 @@
      "name": "[Rightsize] 4_27 - BOE Public Engagement Sessions",
      "item": "1. Community Engagement Session"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "742524",
@@ -3270,9 +3245,7 @@
      "name": "160040-PDistrictPerformanceAuditing",
      "item": "6. 1.60.040-P District Performance Auditing"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "742321",
@@ -3300,9 +3273,7 @@
      "name": "[Rightsize] 4_25 - BOE Public Engagement Sessions",
      "item": "1. Community Engagement Session"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "739961",
@@ -3332,9 +3303,7 @@
      "name": "4_22 - BOE Public Engagement Session  PowerPoint",
      "item": "1. Community Engagement Session"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "741790",
@@ -3374,9 +3343,7 @@
      "name": "PowerPoint",
      "item": "4. Air Quality Educational Specifications and Facility Standards Air Quality Implementation in Modernization Design Cleveland Ida B. Wells Jefferson Air Purification Unit Inventory and Deployment Port"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "739960",
@@ -3411,9 +3378,7 @@
      "name": "District 2025-26 Enrollment & Utilization 04.20.26",
      "item": "1. Community Engagement Session"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "739410",
@@ -3527,14 +3492,7 @@
      "name": "Resolution 7297 - Revenue Contracts",
      "item": "12.(d) Resolution 7297 - Revenue Contracts"
     }
-   ],
-   "supp": [
-    {
-     "h": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3998328",
-     "name": "Jan 2026 Preliminary Financial Update for the Month Ended January 31, 2026 Board Report"
-    }
-   ],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "740414",
@@ -3552,9 +3510,7 @@
      "h": "/Public/Agenda/915?meeting=740414"
     }
    ],
-   "items": [],
-   "supp": [],
-   "minutesFiles": []
+   "items": []
   },
   {
    "id": "739241",
@@ -3589,9 +3545,7 @@
      "name": "District 2025-26 Enrollment & Utilization",
      "item": "1. Community Engagement Session"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "739667",
@@ -3621,9 +3575,7 @@
      "name": "Multilingual Learners Services Department TLE Presentation April 9th",
      "item": "3. Multiple Language Learners"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "737200",
@@ -3772,14 +3724,7 @@
      "name": "Data Dive Winter 2026_ PPS Successful Schools Data  Board Presentation March2026",
      "item": "7. 7:45 pm - Data Dive Winter 2026: 2025-26 Successful Schools Survey Results"
     }
-   ],
-   "supp": [
-    {
-     "h": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3998327",
-     "name": "Preliminary Financial Report  - Fical Year 2026 - Quarter 2 -Period Ending 12-31-2025"
-    }
-   ],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "738209",
@@ -3809,9 +3754,7 @@
      "name": "PPS BSAS presentation 2026",
      "item": "2. Board Self-Evaluation"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "738208",
@@ -3906,9 +3849,7 @@
      "name": "File_ \u00a0720040-PCitizen-CommunitySponsoredContests",
      "item": "4.(f) 7.20.040-P Citizen - Community Sponsored Contests"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "737521",
@@ -3930,9 +3871,7 @@
      "h": "/Public/Minutes/915?meeting=737521"
     }
    ],
-   "items": [],
-   "supp": [],
-   "minutesFiles": []
+   "items": []
   },
   {
    "id": "735897",
@@ -3967,9 +3906,7 @@
      "name": "JHS - Shell Feasibility Study  (1)",
      "item": "3. Jefferson High School Update"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "735909",
@@ -4004,9 +3941,7 @@
      "name": "Growing Great Schools 03.12.26",
      "item": "4. Growing Great Schools"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "734436",
@@ -4290,18 +4225,7 @@
      "name": "2025_02_10_ Regular Meeting Minutes - Draft",
      "item": "14.(v) Resolution 7279 - Adoption of the Minutes"
     }
-   ],
-   "supp": [
-    {
-     "h": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3998325",
-     "name": "Head Start Policy Council Minutes Oct 2025-Feb 2026"
-    },
-    {
-     "h": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3998326",
-     "name": "Head Start Financial Reports Oct 2025- Jan 2026"
-    }
-   ],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "735642",
@@ -4323,9 +4247,7 @@
      "h": "/Public/Minutes/915?meeting=735642"
     }
    ],
-   "items": [],
-   "supp": [],
-   "minutesFiles": []
+   "items": []
   },
   {
    "id": "735645",
@@ -4360,9 +4282,7 @@
      "name": "PPS Retreat Presentation March 2026",
      "item": "2. Retreat Welcome and Setting the Stage Recap of last session Navigating the Governance Ecosystem For our tool belt: The Empowerment Dynamic Practicing our skills Wrapping up and next steps"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "735121",
@@ -4417,9 +4337,7 @@
      "name": "2025-26 Audt Committee Work Plan",
      "item": "7. Status update on the 2025-2026 Audit Committee Work Plan and Proposed Meeting Agenda"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "731954",
@@ -4514,9 +4432,7 @@
      "name": "02242026 BOE Budget Development",
      "item": "6. 8:00 pm - Finance Focus"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "733287",
@@ -4538,9 +4454,7 @@
      "h": "/Public/Minutes/915?meeting=733287"
     }
    ],
-   "items": [],
-   "supp": [],
-   "minutesFiles": []
+   "items": []
   },
   {
    "id": "731955",
@@ -4655,9 +4569,7 @@
      "name": "720040-PCitizen-CommunitySponsoredContests",
      "item": "5.(f) 7.20.040-P Citizen - Community Sponsored Contests"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "731165",
@@ -4687,9 +4599,7 @@
      "name": "TLE_ K-12 ELA & Math Curricula",
      "item": "3. K-12 Math & Language Arts Core Curricula Overview and Technology Use"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "730093",
@@ -4828,14 +4738,7 @@
      "name": "Jefferson Adv Auth - Staff Report",
      "item": "15.(b) Resolution 7250 - Expenditure Contracts"
     }
-   ],
-   "supp": [
-    {
-     "h": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3998324",
-     "name": "Multilingual Learner_English Language Development Audit Report (1)"
-    }
-   ],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "731013",
@@ -4857,9 +4760,7 @@
      "h": "/Public/Minutes/915?meeting=731013"
     }
    ],
-   "items": [],
-   "supp": [],
-   "minutesFiles": []
+   "items": []
   },
   {
    "id": "730080",
@@ -4904,9 +4805,7 @@
      "name": "Multilingual Learner_English Language Development Audit Report",
      "item": "4. Multilingual Learners / English Language Development - Compliance Audit Report Presentation"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "729188",
@@ -4941,9 +4840,7 @@
      "name": "2026-01-30 Retreat Presentation",
      "item": "1. Introductions and Stage Setting"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "728105",
@@ -5003,9 +4900,7 @@
      "name": "Staff Report Deputy Clerk Resolution",
      "item": "4.(b) Resolution 7242 - Resolution Appointing a Deputy Clerk"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "728252",
@@ -5095,9 +4990,7 @@
      "name": "1.80.020-P Nondiscrimination Antiharassment Redlined Draft",
      "item": "3.(m) 1.80.020-P Nondiscrimination/Anti-Harassment"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "727712",
@@ -5137,9 +5030,7 @@
      "name": "FIO Presentation 1_20_2026 - Revised",
      "item": "3. Bond Audit Recommendations"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "724654",
@@ -5294,9 +5185,7 @@
      "name": "Resolution 7239 - Approving Board Member Conference Attendance",
      "item": "13.(i) Resolution 7239 - Approving Board Member Conference Attendance as a Representative of the Board"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "726156",
@@ -5318,9 +5207,7 @@
      "h": "/Public/Minutes/915?meeting=726156"
     }
    ],
-   "items": [],
-   "supp": [],
-   "minutesFiles": []
+   "items": []
   },
   {
    "id": "724787",
@@ -5355,9 +5242,7 @@
      "name": "Attendance Presentation 1-8-2026",
      "item": "4. Attendance Overview"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "722619",
@@ -5422,9 +5307,7 @@
      "name": "JHS Academic Program Expansion",
      "item": "7. Jefferson High School Assignment Scenario Proposal Public Comment will be taken on this topic"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "723144",
@@ -5442,9 +5325,7 @@
      "h": "/Public/Agenda/915?meeting=723144"
     }
    ],
-   "items": [],
-   "supp": [],
-   "minutesFiles": []
+   "items": []
   },
   {
    "id": "723180",
@@ -5474,9 +5355,7 @@
      "name": "Policy Tracker",
      "item": "3. Policies for Potential Review"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "722705",
@@ -5516,9 +5395,7 @@
      "name": "JHS Academic Program Expansion",
      "item": "5. Jefferson High School Academic Program Expansion"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "721941",
@@ -5563,9 +5440,7 @@
      "name": "OIPA Recommendations included in the Year 6 related to the BAC",
      "item": "6. Review of the Bond Accountability Committee Charter"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "721939",
@@ -5685,9 +5560,7 @@
      "name": "Q_ Jefferson Rising_ Final Community Engagement Analysis (2025.11.25)",
      "item": "1. Jefferson High School Enrollment Scenario Proposal Listening Session Visit the Board\u2019s webpage for details on how to provide comment."
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "720518",
@@ -5926,14 +5799,7 @@
      "name": "Resolution 7224 -Resolution to Appoint Student Representative to a Committee",
      "item": "15.(f) Resolution 7224 - Resolution to Appoint a Student Representative to a Portland Public Schools Board of Education Committee"
     }
-   ],
-   "supp": [
-    {
-     "h": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3998323",
-     "name": "PPS Preliminary Financial Report - Fiscal Year 2026 - Quarter 1 - Period Ending 9/30/2025"
-    }
-   ],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "720709",
@@ -5951,9 +5817,7 @@
      "h": "/Public/Agenda/915?meeting=720709"
     }
    ],
-   "items": [],
-   "supp": [],
-   "minutesFiles": []
+   "items": []
   },
   {
    "id": "721116",
@@ -5975,9 +5839,7 @@
      "h": "/Public/Minutes/915?meeting=721116"
     }
    ],
-   "items": [],
-   "supp": [],
-   "minutesFiles": []
+   "items": []
   },
   {
    "id": "718426",
@@ -6052,9 +5914,7 @@
      "name": "ERP Modernization",
      "item": "4. Enterprise Resource Planning (ERP) Update"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "718228",
@@ -6094,9 +5954,7 @@
      "name": "Enrollment Update Presentation",
      "item": "5. Jefferson is Rising: Enrollment Update"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "717786",
@@ -6141,9 +5999,7 @@
      "name": "One North - Building Assessment Report",
      "item": "7. Update on Center for Black Student Excellence Due Diligence"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "717122",
@@ -6183,9 +6039,7 @@
      "name": "PPS_Memo_RESJ Contracts Report_Oct2025",
      "item": "6. Contracts Audit: Status of the Implementation of Outstanding Recommendations"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "716028",
@@ -6269,18 +6123,7 @@
      "name": "Resolution 7211 - to authorize off-campus activities",
      "item": "10.(c) Resolution 7211 - Authorization of Off-Campus Activities"
     }
-   ],
-   "supp": [
-    {
-     "h": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3998321",
-     "name": "PPS Preliminary Financial Report - Fiscal Year 2025 - Quarter 4 - Period Ending 6/30/2025"
-    },
-    {
-     "h": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3998322",
-     "name": "OIPA Annual Report 2024-2025"
-    }
-   ],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "716684",
@@ -6302,9 +6145,7 @@
      "h": "/Public/Minutes/915?meeting=716684"
     }
    ],
-   "items": [],
-   "supp": [],
-   "minutesFiles": []
+   "items": []
   },
   {
    "id": "714646",
@@ -6408,14 +6249,7 @@
      "name": "District Continuous Improvement Plan 2025-28 for October 2025",
      "item": "7. District Continuous Improvement Plan (DCIP)"
     }
-   ],
-   "supp": [
-    {
-     "h": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3998320",
-     "name": "PPS_Memo_RESJ Contracts Report_Oct2025"
-    }
-   ],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "715602",
@@ -6437,9 +6271,7 @@
      "h": "/Public/Minutes/915?meeting=715602"
     }
    ],
-   "items": [],
-   "supp": [],
-   "minutesFiles": []
+   "items": []
   },
   {
    "id": "714285",
@@ -6539,9 +6371,7 @@
      "name": "Districtwide Advocacy and Fundraising 7.10.020-P - Current Policy",
      "item": "6. Districtwide Advocacy and Fundraising 7.10.020-P (Discussion Only)"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "714196",
@@ -6616,9 +6446,7 @@
      "name": "OIPA Annual Report 2024-2025",
      "item": "9. Office of Internal Performance Audit (OIPA) Annual Report"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "712117",
@@ -6837,18 +6665,7 @@
      "name": "Resolution 7200 -  Approving Board Member Conference Attendance",
      "item": "19.(e) Resolution 7200 - Approving Board Member Conference Attendance as Representatives of the Board"
     }
-   ],
-   "supp": [
-    {
-     "h": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3998318",
-     "name": "Updated 2024-2025 PPS Annual Complaint Report"
-    },
-    {
-     "h": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3998319",
-     "name": "Outdoor School Cost Analysis Memo with MESD letter"
-    }
-   ],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "713376",
@@ -6870,9 +6687,7 @@
      "h": "/Public/Minutes/915?meeting=713376"
     }
    ],
-   "items": [],
-   "supp": [],
-   "minutesFiles": []
+   "items": []
   },
   {
    "id": "713383",
@@ -6894,9 +6709,7 @@
      "h": "/Public/Minutes/915?meeting=713383"
     }
    ],
-   "items": [],
-   "supp": [],
-   "minutesFiles": []
+   "items": []
   },
   {
    "id": "712839",
@@ -6926,9 +6739,7 @@
      "name": "special education TL and Commitee Fall 2025.pptx",
      "item": "3. Overview: Special Education Services"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "712407",
@@ -6963,9 +6774,7 @@
      "name": "Memo - 10_8_25 FIOC.V2",
      "item": "3. Health and Safety Work Orders"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "711006",
@@ -7055,9 +6864,7 @@
      "name": "Draft Board Work Plan - Revised",
      "item": "5. 7:10 pm - Board Work Plan"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "711004",
@@ -7083,9 +6890,7 @@
      "name": "PPS Early Learners_Head Start Board Presentation SY25-26",
      "item": "2. Annual Head Start Training"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "710294",
@@ -7125,9 +6930,7 @@
      "name": "Fully Signed Agreement on ER (1)",
      "item": "2. Resolution 7177 - Ratification of Memorandum of Understanding with Portland Association of Teachers"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "709744",
@@ -7158,9 +6961,7 @@
      "name": "Enrollment PowerPoint",
      "item": "4. Enrollment Updates"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "709343",
@@ -7229,14 +7030,7 @@
      "name": "Athletics Facility Improvements-overview-plan September 2025",
      "item": "5. Update: Athletics Facilities Improvement"
     }
-   ],
-   "supp": [
-    {
-     "h": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3998317",
-     "name": "FIOC CBSE Analysis 09.12.2025"
-    }
-   ],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "706408",
@@ -7421,9 +7215,7 @@
      "name": "Resolution 7175 - Expenditure Contract",
      "item": "16. 9:00 pm - Resolution 7175 - Expenditure Contract Vote - Public Comment Accepted"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "708258",
@@ -7445,9 +7237,7 @@
      "h": "/Public/Minutes/915?meeting=708258"
     }
    ],
-   "items": [],
-   "supp": [],
-   "minutesFiles": []
+   "items": []
   },
   {
    "id": "706637",
@@ -7482,9 +7272,7 @@
      "name": "6.50.010-P Field Trips Policy - Current",
      "item": "4.(a) Field Trips, Foreign Travel, and Other Off-campus Activities Policy 6.50.010-P"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "704192",
@@ -7524,9 +7312,7 @@
      "name": "2025_07_22_Regular Meeting Minutes - Draft for consideration",
      "item": "2.(b) Resolution 7163 - Adoption of the Minutes"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "704188",
@@ -7566,9 +7352,7 @@
      "name": "File_ \u00a0Resolution 6993_Superintendent Evaluation Template with Recommended Edits Document",
      "item": "7. Additional Protocols A. Strategic Planning B. Superintendent Evaluation C. Board Self-Evaluation"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "703691",
@@ -7603,9 +7387,7 @@
      "name": "Draft Board Resolution  on Outdoor School",
      "item": "5. Outdoor School"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "703009",
@@ -7660,9 +7442,7 @@
      "name": "LU 25-016753 CU AD RECORDED DECISION-001",
      "item": "5. Facility Improvements Athletic Field Projects - Grant Bowl Field Lights Seismic Improvements"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "701439",
@@ -7742,9 +7522,7 @@
      "name": "Resolution 7161 - Approving Board Member Conference Attendance",
      "item": "12.(c) Resolution 7161 - Approving Board Member Conference Attendance as Representatives of the Board"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "701938",
@@ -7774,9 +7552,7 @@
      "name": "2025.08.05 Portland Public Schools - Public Records and Ethics Laws for Public Officials",
      "item": "1. Annual Board Ethics and Public Meetings Training"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "699537",
@@ -7806,9 +7582,7 @@
      "name": "Draft 2025-26 Board and Superintendent Focus Areas",
      "item": "1. 2025-2026 School Board and Superintendent Work Focus Areas"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "699248",
@@ -8107,18 +7881,7 @@
      "name": "Resolution 7157 - Authorizing an Interfund Loan from Fund 601 Workers\u2019 Compensation Fund to Fund 100 General Fund - as adopted 7-22-25",
      "item": "11.(s) Resolution 7157 - Authorizing an Interfund Loan from Fund 601 (Workers\u2019 Compensation Fund) to Fund 100 (General Fund)"
     }
-   ],
-   "supp": [
-    {
-     "h": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3998315",
-     "name": "PPS Preliminary Financial Report - Fiscal Year 2025 - Quarter 3 - Period Ending 03/31/2025"
-    },
-    {
-     "h": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3998316",
-     "name": "Head Start Supplemental Materials 7-22-25 - combined with cover letter"
-    }
-   ],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "695124",
@@ -8218,9 +7981,7 @@
      "name": "BOE PEC.RELOCATION",
      "item": "4. 7:20 pm - Staff Engagement Plan for the Relocation of the Dr. Prophet Education Center"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "696432",
@@ -8242,9 +8003,7 @@
      "h": "/Public/Minutes/915?meeting=696432"
     }
    ],
-   "items": [],
-   "supp": [],
-   "minutesFiles": []
+   "items": []
   },
   {
    "id": "696420",
@@ -8302,9 +8061,7 @@
      "name": "2023-24 PVS FINAL Performance Framework with school comments",
      "item": "2. Annual Charter Schools Update"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "696187",
@@ -8337,9 +8094,7 @@
      "name": "5.10.066-P Ethics and Conflict of Interest Policy- Redline second 2nd reading 6-18-25 revised (3).docx",
      "item": "3.(b) Draft amendment to Ethics and Conflicts of Interest Policy 5.10.066-P"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "696186",
@@ -8372,9 +8127,7 @@
      "name": "PPS Year 6 Bond Audit Board Presentation--06.23.2025",
      "item": "2. Presentation of the Year 6 - Bond Performance Audit results"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "689410",
@@ -8533,14 +8286,7 @@
      "name": "Resolution 7128 - Settlement Agreement",
      "item": "18.(f) Resolution 7128 - Settlement Agreement"
     }
-   ],
-   "supp": [
-    {
-     "h": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3998314",
-     "name": "SB3 Adopted Curriculum - Board Memo"
-    }
-   ],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "693907",
@@ -8564,9 +8310,7 @@
      "h": "/Public/Minutes/915?meeting=693907"
     }
    ],
-   "items": [],
-   "supp": [],
-   "minutesFiles": []
+   "items": []
   },
   {
    "id": "693888",
@@ -8588,9 +8332,7 @@
      "h": "/Public/Minutes/915?meeting=693888"
     }
    ],
-   "items": [],
-   "supp": [],
-   "minutesFiles": []
+   "items": []
   },
   {
    "id": "693875",
@@ -8612,9 +8354,7 @@
      "h": "/Public/Minutes/915?meeting=693875"
     }
    ],
-   "items": [],
-   "supp": [],
-   "minutesFiles": []
+   "items": []
   },
   {
    "id": "693704",
@@ -8648,9 +8388,7 @@
      "name": "Second First Reading Packet_5.10.066-P Ethics and Conflict of Interest Policy",
      "item": "4. Policies in the Public Comment Period Ethics and Conflicts of Interest Policy 5.10.066-P Student Representative and District Student Council Policy - Discussion, Potential Action 1.20.012-P"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "693703",
@@ -8765,9 +8503,7 @@
      "name": "2025 Bond Seismic Program Report_SFIOC_June 2025",
      "item": "4. 2025 Bond Seismic Improvements Program Bimonthly Update"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "692538",
@@ -8789,9 +8525,7 @@
      "h": "/Public/Minutes/915?meeting=692538"
     }
    ],
-   "items": [],
-   "supp": [],
-   "minutesFiles": []
+   "items": []
   },
   {
    "id": "689137",
@@ -8901,9 +8635,7 @@
      "name": "2025-26 Proposed Budget Volume 2_w updated page 67",
      "item": "6. 6:55 pm - Budget Committee Approval of the 2025-26 Budget and the Imposition of Property Taxes (Resolution 7116) Vote - Public comment accepted"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "689165",
@@ -8953,9 +8685,7 @@
      "name": "Copy of Second First Reading PACKET_5.10.066-P Ethics and Conflict of Interest Policy",
      "item": "6. Policies in the Public Comment Period Ethics and Conflicts of Interest Policy 5.10.066-P"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "686691",
@@ -9144,22 +8874,7 @@
      "name": "Resolution 7108 - to authorize off-campus activities",
      "item": "16.(d) Resolution 7108 - Authorizing Off-campus Activities"
     }
-   ],
-   "supp": [
-    {
-     "h": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3998311",
-     "name": "PPS Preliminary Financial Report - Fiscal Year 2025 - Quarter 2 2024-12-31"
-    },
-    {
-     "h": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3998312",
-     "name": "PPS Premliminary Financial Report - Fiscal Year 2025 - Quarter 1 2024-09-30"
-    },
-    {
-     "h": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3998313",
-     "name": "Head Start Informational Documents -Combined"
-    }
-   ],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "688352",
@@ -9189,9 +8904,7 @@
      "name": "2025 PPS Bond Levy Hearing Questions - For PPS.docx (3)",
      "item": "1. A Public Hearing on the proposed General Obligation Bond Tax Measure for Portland Public Schools, Multnomah County, State of Oregon, will be held by the Tax Supervising and Conservation Commission "
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "686331",
@@ -9229,9 +8942,7 @@
      "name": "25-26 BOE Proposed Budget Engagement 4.29.2025",
      "item": "2. 8:00 pm - 2025-26 Proposed Budget Work Session"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "684707",
@@ -9446,9 +9157,7 @@
      "name": "EXHIBIT A - PROGRAM COMPARE - 04 16 2025",
      "item": "8. Written Update: Modernization Designs, Projected Cost Reductions, and Status Report on how the Designs Meet the Goals of Similar Features and Elements to Previous Modernizations and Education Speci"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "684940",
@@ -9491,9 +9200,7 @@
      "name": "2024-25 Audit Committee Work Plan Update 4_15_25",
      "item": "5. 5:40 pm - Status update on the Audit Committee's work plan"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "681959",
@@ -9878,9 +9585,7 @@
      "name": "Resolution 7093- Settlement Agreement",
      "item": "14.(o) Resolution 7093 - Settlment Agreement"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "684209",
@@ -9902,9 +9607,7 @@
      "h": "/Public/Minutes/915?meeting=684209"
     }
    ],
-   "items": [],
-   "supp": [],
-   "minutesFiles": []
+   "items": []
   },
   {
    "id": "683189",
@@ -9994,9 +9697,7 @@
      "name": "1.20.010-P Board of Education - Current Original Policy",
      "item": "5. Policies in the Public Comment Period Policy Revisions: 1.20.010-P Board of Education 5.10.066-P Ethics and Conflict of Interest Policy"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "679850",
@@ -10116,9 +9817,7 @@
      "name": "25-26 BOE Budget Work Session 3.18.2025 revised",
      "item": "6. 7:05 pm - Budget Work Session-School-Based Resources Preview"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "681172",
@@ -10140,9 +9839,7 @@
      "h": "/Public/Minutes/915?meeting=681172"
     }
    ],
-   "items": [],
-   "supp": [],
-   "minutesFiles": []
+   "items": []
   },
   {
    "id": "680911",
@@ -10206,9 +9903,7 @@
      "name": "1.20.010-P Board of Education - Current Original Policy",
      "item": "6. Policies Referred Out for a First Reading Policy Revisions: 1.20.010-P Board of Education 5.10.066-P Ethics and Conflict of Interest Policy"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "677306",
@@ -10392,14 +10087,7 @@
      "name": "Resolution 7058 - Approval of Senior Chief salary schedule",
      "item": "15. 8:40 pm - Resolution to Approve a Senior Chief Salary Schedule (Resolution 7058) Vote - Public comment accepted"
     }
-   ],
-   "supp": [
-    {
-     "h": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3998310",
-     "name": "PPS Preliminary Financial Report - Fiscal Year 2025 - Quarter 1 - Period ending 09-03-24"
-    }
-   ],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "677757",
@@ -10464,9 +10152,7 @@
      "name": "Copy of 4.10.020-P Compulsory Enrollment; Age and Grade Leval at Entrance -Brim-Edwards proposal.docx - Google Docs",
      "item": "7. 4.10.020-P Compulsory Enrollment: Age and Grade Level at Entrance - Discussion, Potential Action"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "675309",
@@ -10556,9 +10242,7 @@
      "name": "_25-26 Special Education Overview Presentation",
      "item": "5. 7:00 pm - Vision for Special Education Services in Portland Public Schools Public Comment Accepted"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "676406",
@@ -10580,9 +10264,7 @@
      "h": "/Public/Minutes/915?meeting=676406"
     }
    ],
-   "items": [],
-   "supp": [],
-   "minutesFiles": []
+   "items": []
   },
   {
    "id": "676400",
@@ -10604,9 +10286,7 @@
      "h": "/Public/Minutes/915?meeting=676400"
     }
    ],
-   "items": [],
-   "supp": [],
-   "minutesFiles": []
+   "items": []
   },
   {
    "id": "675308",
@@ -10641,9 +10321,7 @@
      "name": "Attchment A - Framework for Delivering Modernized High Schools with Cost Reductions",
      "item": "3. Resolution to Adopt a Framework to Build High Quality-High Schools in a Cost-Efficient Manner (Resolution 7051) Vote- Public Comment Accepted"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "673134",
@@ -10753,9 +10431,7 @@
      "name": "Resolution 7042 - Revenue Contracts",
      "item": "13.(d) Resolution 7042 - Revenue Contracts"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "673219",
@@ -10777,9 +10453,7 @@
      "h": "/Public/Minutes/915?meeting=673219"
     }
    ],
-   "items": [],
-   "supp": [],
-   "minutesFiles": []
+   "items": []
   },
   {
    "id": "674072",
@@ -10832,14 +10506,7 @@
      "name": "PPS_2020 Census Redistrict Study",
      "item": "7. Draft Revision to Policy 1.20.010-P Board of Education - Consideration of zone voting for board members - Discussion only"
     }
-   ],
-   "supp": [
-    {
-     "h": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3998309",
-     "name": "2025_01_13_Policy Committee_Informal Minutes"
-    }
-   ],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "672157",
@@ -10857,9 +10524,7 @@
      "h": "/Public/Agenda/915?meeting=672157"
     }
    ],
-   "items": [],
-   "supp": [],
-   "minutesFiles": []
+   "items": []
   },
   {
    "id": "670573",
@@ -10952,14 +10617,7 @@
      "name": "25-26 Budget Overview Board Presentation",
      "item": "4. 6:25 pm - Budget Work Session"
     }
-   ],
-   "supp": [
-    {
-     "h": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3998308",
-     "name": "Board Q&A Document - 1_21_25"
-    }
-   ],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "670762",
@@ -11004,9 +10662,7 @@
      "name": "Application for Vacant Board Seat in Zone 1 - Jazzmin Reece copy",
      "item": "3. Zone 1 Board Vacancy-Interviews and Selection"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "670775",
@@ -11061,9 +10717,7 @@
      "name": "PPS_2020 Census Redistrict Study",
      "item": "6. Draft Revision to Policy 1.20.010-P Board of Education - Consideration of zone voting for board members - Discussion only"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "668813",
@@ -11253,9 +10907,7 @@
      "name": "STAFF MEMO - NEW BAC MEMBERS - 12 03 2024",
      "item": "11.(g) Resolution 7037 - Resolution to approve Bond Accountability Committee Members"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   },
   {
    "id": "669322",
@@ -11295,9 +10947,7 @@
      "name": "Exhibit B - Explanatory Statement",
      "item": "1. 5:00 pm - Public Comment on the Referral of a 2025 General Obligation Bond"
     }
-   ],
-   "supp": [],
-   "minutesFiles": []
+   ]
   }
  ]
 }
