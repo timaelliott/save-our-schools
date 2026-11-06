@@ -75,17 +75,19 @@ F = {
  31: dict(points=3, marks=[('oval', (66, 278, 112, 300), 1), ('oval', (455, 174, 499, 196), 1)],
       notes=[(1, 'Rieke gets seismic money in both scenarios but has no readiness profile, even though it takes 30% of Maplewood plus the '
                  'Stephens Creek Crossing area and has the highest seismic score of any receiving school (9.6).')]),
- 33: dict(points=8, marks=[('box', (431, 203, 474, 219), 1), ('box', (519, 203, 562, 219), 1), ('box', (474, 203, 518, 219), 2),
-                           ('oval', (575, 125, 700, 152), 3), ('box', (321, 150, 368, 166), 4)],
+ 33: dict(points=10, marks=[('box', (426, 191.5, 471, 201), None), ('box', (520, 191.5, 566, 201), 1), ('box', (473, 191.5, 517, 201), 2),
+                           ('oval', (575, 125, 700, 152), 3), ('box', (321, 150, 368, 166), 4), ('box', (426, 202.5, 566, 211.5), 5)],
       notes=[(1, 'Normalized: Scenario B 33.6% vs. status quo 33.5%. B is slightly WORSE than doing nothing.'),
              (2, 'Scenario A improves on doing nothing by 1.0 point (234 students).'),
              (3, 'The "reduction" is measured from 2025. Most of it (-2,926 students) comes from bond retrofits that happen under the status quo too.'),
-             (4, 'Left table: Scenario B total (25,031) is larger than status quo (24,646). It compares 2025-26 with 2031-32 enrollment.')]),
+             (4, 'Left table: Scenario B total (25,031) is larger than status quo (24,646). It compares 2025-26 with 2031-32 enrollment.'),
+             (5, 'URM gain counts the p.31 "proposed projects" as done: URM work at Abernethy, Duniway, Markham, Rigler, Rieke (~2,300 students under A). '
+                 'Leave them out and A has about as many students on URM campuses as doing nothing (~5,000 vs 4,837).')]),
 }
 
 SUMMARY = [
  ('p.19', 'Hayhurst: "640" is wrong (396; building max 499 in 2015); 7 special-ed rooms vs 4 on the same page and 3 in the model; model rules give 516', 9),
- ('p.33', 'Seismic: Scenario B is worse than the status quo on 9.0+ buildings; the "reduction" is mostly bond retrofits', 8),
+ ('p.33', 'Seismic: B worse than status quo on 9.0+ buildings; "reduction" is mostly bond retrofits; URM gain rests on unscheduled proposed projects', 10),
  ('p.27', 'Sitton rated "Ready" at 111% of capacity', 5),
  ('p.29', 'Whitman rated "Ready" at 112% of capacity; 1 vs 4-5 special-ed rooms', 5),
  ('p.5', '"21 buildings with the highest increase" leaves out Harrison Park, Tubman, Lent, Rieke, Roseway Heights', 4),
