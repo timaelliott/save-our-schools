@@ -38,16 +38,16 @@ F = {
       notes=[(1, 'Was 525 in April. At 525 the peak is 104%.'), (2, 'Peak 544...'), (3, '...is more than the most students Duniway has ever had (512).')]),
  17: dict(points=2, marks=[('oval', (14, 303, 120, 320), 1)],
       notes=[(1, '7 special-ed rooms here, but PPS\'s capacity model sets aside only 3. Capacity (623) was not reduced, so it is too high. Peak 669 is already 107%.')]),
- 19: dict(points=12,
+ 19: dict(points=9,
       marks=[('oval', (10, 230, 185, 252), 1), ('strike', (15, 241, 40, 241), None),
              ('oval', (10, 145, 118, 170), 2), ('oval', (14, 303, 120, 330), 3),
              ('oval', (10, 188, 150, 210), 4), ('oval', (100, 52, 203, 86), 5), ('oval', (474, 369, 560, 386), 6)],
       notes=[(1, 'Wrong. PPS\'s own capacity model lists Hayhurst at 396 in 2019-20. The 640 adds Odyssey (244), which moved to East Sylvan in 2016. '
                  'Most ever in this building: 499 in fall 2015.'),
-             (2, 'Does not follow from this page. With 15 classrooms + 7 special-ed rooms, the p.6 rules give: 14 rooms after art/music '
-                 '(12 x 27 + 2 x 30 = 384) + 7 x 12 = 84 = 468. Without the Learning Center: 456. Not 525.'),
-             (3, 'PPS\'s model sets aside 3 special-ed rooms here (2 + Learning Center), not 7.'),
-             (4, '469 = 100-103% of the corrected capacity, not 89%.'),
+             (2, '525 matches PPS\'s Nov 2 model: 20 rooms x 27 + 2 x 30 + gym 30 = 630, minus 5 set-aside rooms = 525. But the model takes the gym '
+                 'out at 27, not 30, and leaves 15 seats in each special-ed room (its rule says 12). By its own rules: 516.'),
+             (3, 'The model sets aside 2 special-ed rooms + a Learning Center, not 7. If 7 is right, capacity is about 468.'),
+             (4, '469 = 89% of 525, 91% of 516. In 2016, PPS\'s figures put a K-5-only Hayhurst at about 464 seats (327 students = 70.6%).'),
              (5, '"Ready"? In 2016 PPS called 499 students here "Over-Crowding" (101.8%) and moved a whole program out.'),
              (6, 'This box says 4 special-ed rooms; the left panel says 7. Which is it?')]),
  20: dict(points=2, marks=[('oval', (10, 188, 150, 210), 1), ('oval', (14, 303, 120, 320), 2), ('oval', (474, 368, 560, 385), 3)],
@@ -84,7 +84,7 @@ F = {
 }
 
 SUMMARY = [
- ('p.19', 'Hayhurst: "640" is wrong (396; building max 499 in 2015); 525 capacity not reproducible from the page (456-468); 7 vs 4 special-ed rooms', 12),
+ ('p.19', 'Hayhurst: "640" is wrong (396; building max 499 in 2015); 7 special-ed rooms vs 4 on the same page and 3 in the model; model rules give 516', 9),
  ('p.33', 'Seismic: Scenario B is worse than the status quo on 9.0+ buildings; the "reduction" is mostly bond retrofits', 8),
  ('p.27', 'Sitton rated "Ready" at 111% of capacity', 5),
  ('p.29', 'Whitman rated "Ready" at 112% of capacity; 1 vs 4-5 special-ed rooms', 5),
