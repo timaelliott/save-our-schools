@@ -1,4 +1,4 @@
-# Equity claims vs. the record: PPS rightsizing, 2026
+# Equity claims vs. the record: PPS rightsizing, 2025–2026
 
 **Purpose:** a media-ready list of places where PPS board members and senior staff describe rightsizing as an equity measure, set against (a) PPS's own data on who is affected, (b) admissions that effects were not modeled, (c) statements that contradict each other, and (d) Board and community questions still unanswered.
 
@@ -141,6 +141,50 @@
 - [Said] Engelsman pointed out that Sabin, Marysville and Maplewood are on the closure list [YT:9kX3vnfRlvY@5:07:51](https://www.youtube.com/watch?v=9kX3vnfRlvY&t=18471s). The response: a closure "isn't a reflection of a school doing poorly ... it's more of just us having too many." Speaker: Armstrong (medium) [YT:9kX3vnfRlvY@5:09:16](https://www.youtube.com/watch?v=9kX3vnfRlvY&t=18556s).
 
 ---
+
+## I. Looking back to 2025: earlier promises and principles vs. the 2026 plan
+
+**I1. "We have to be open" became a mandate to close, with the number set before the criteria.**
+- [Said] June 10, 2025: "It could be that, you know, it's recommended that no schools are closed and it's more of a reconfiguration of the programs that we have" and "in a process like boundaries and school closure, we can't begin with the end in mind. We have to be open." Speaker: Superintendent Armstrong (medium) [YT:YUCokoJ7-n0@0:52:55](https://www.youtube.com/watch?v=YUCokoJ7-n0&t=3175s) [YT:YUCokoJ7-n0@0:56:56](https://www.youtube.com/watch?v=YUCokoJ7-n0&t=3416s).
+- [Doc] Apr 14, 2026: Res. 7296 says rightsizing "will include school and program closures, consolidations, or boundary changes." A motion to change "will" to "may" failed 2–5 (Engelsman and Sullivan yes) [BB:3998077 p.4](https://meetings.boardbook.org/Documents/DownloadPDF/3998077?org=915#page=4).
+- [Said] Sept 1, 2026: Armstrong said she first offered "5 to 12" closures and that Board members told her it was too low; the count became 11–14 [YT:5RMfvT-sAPU@2:11:46](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=7906s) [BB:14505788 p.2](https://meetings.boardbook.org/Documents/DownloadPDF/14505788?org=915#page=2).
+
+**I2. The promise to Southeast schools hit by the last boundary process (SEGC).**
+- [Said] Feb 4, 2025: "this was definitely a commitment the district made for five years to those schools and there's some of the lowest income schools ... Harrison Park [Marysville] Lane lent Whitman Vestal um and we'd be totally breaking our promise to those schools that we were going to provide some stabilization for five years." Speaker: then-Director Julia Brim-Edwards (high) [YT:zxaXALjzumk@3:20:51](https://www.youtube.com/watch?v=zxaXALjzumk&t=12051s).
+- [Said] Mar 18, 2025, on the same stabilization staffing: "there were commitments there were promises but ... my priority is to serve uh those who are in the building ... than commitments that were made a couple of years ago with a whole different budget." Speaker: Armstrong (high) [YT:XENAU3DUf5g@3:17:24](https://www.youtube.com/watch?v=XENAU3DUf5g&t=11844s).
+- [Said] June 10, 2025: "The [Southeast Guiding Coalition] ... will not be the model in which we deploy." Speaker: Armstrong (medium) [YT:YUCokoJ7-n0@0:53:58](https://www.youtube.com/watch?v=YUCokoJ7-n0&t=3238s).
+- [Said] Mar 31, 2026: "put some weight to communities that have suffered a lot of change in the last decade or two." Speaker: Chair Wang (high) [YT:QIfmGcbkkLE@1:46:45](https://www.youtube.com/watch?v=QIfmGcbkkLE&t=6405s).
+- [Doc] Marysville, named in 2025 among the low-income SEGC schools promised five years of stability, closes in both 2026 scenarios [BB:3997157 p.1](https://meetings.boardbook.org/Documents/DownloadPDF/3997157?org=915#page=1). Lewis and Creston, also SEGC-affected, close too (see C1).
+
+**I3. Seismic money went to schools now proposed to close; high-risk receiving schools serving students of color have no retrofit plan.**
+- [Said] May 6, 2025: seismic prioritization would weigh "if we're looking at changes to school models do we or even consolidations of schools we want to put investments into schools that could potentially be consolidated." Speaker: Dan Jung, then Chief Operating Officer (high) [YT:Uxh6Jm_xFYY@2:31:54](https://www.youtube.com/watch?v=Uxh6Jm_xFYY&t=9114s).
+- [Said] Nov 10, 2025: "I'm concerned if we're not thinking about equity um that we're going to end up in a situation where uh the schools that are the schools that kids of color go to are the ones that collapse." Speaker: Rashelle Chase-Miller (medium) [YT:kf21uJr0fcQ@1:00:44](https://www.youtube.com/watch?v=kf21uJr0fcQ&t=3644s). Same meeting: "consolidate into safer schools, closing the more dangerous schools" (high) [YT:kf21uJr0fcQ@1:07:50](https://www.youtube.com/watch?v=kf21uJr0fcQ&t=4070s).
+- [Said] Jan 27, 2026: "we have a couple of school communities who have basically been told that they're going to get seismic improvements meaning that they won't close." Speaker: Michelle DePass (high) [YT:-NpJZaLR81U@1:35:42](https://www.youtube.com/watch?v=-NpJZaLR81U&t=5742s).
+- [Doc] Closure-list schools with seismic money:
+  - The 2025 bond's first tranche includes a full retrofit at Rose City Park (closes in A) and a targeted retrofit at Beach (closes in both) [BB:3990267 p.9](https://meetings.boardbook.org/Documents/DownloadPDF/3990267?org=915#page=9).
+  - Woodmere received roof and seismic work in summer 2026 [BB:3990267 p.22](https://meetings.boardbook.org/Documents/DownloadPDF/3990267?org=915#page=22).
+  - Marysville's state-grant retrofit finished in fall 2026 [BB:3996450 p.1](https://meetings.boardbook.org/Documents/DownloadPDF/3996450?org=915#page=1).
+- [Doc] Receiving schools with high seismic-risk scores and no retrofit planned include:
+  - Dr. Martin Luther King Jr. (9.0; 51.1% poverty, 63.0% underserved racial groups) [BB:3991109 p.213](https://meetings.boardbook.org/Documents/DownloadPDF/3991109?org=915#page=213);
+  - Brentwood MS (9.0; 57.5% poverty) [BB:3991109 p.214](https://meetings.boardbook.org/Documents/DownloadPDF/3991109?org=915#page=214);
+  - Ockley Green (9.1; 48.3% underserved racial groups) [BB:3991109 p.229](https://meetings.boardbook.org/Documents/DownloadPDF/3991109?org=915#page=229);
+  - Rieke (9.6) [BB:3991109 p.233](https://meetings.boardbook.org/Documents/DownloadPDF/3991109?org=915#page=233).
+  - Demographics from each school's family guide, p.4.
+
+**I4. Losing families: a reason to stop one move in 2025, accepted in 2026.**
+- [Said] Dec 9, 2025, on why moving Jefferson to a distant site was rejected: "moving them 11 miles away a student body of 400 we just thought we're just going to lose students." Speaker: Michelle DePass (high) [YT:XThyXtVtJto@0:40:14](https://www.youtube.com/watch?v=XThyXtVtJto&t=2414s).
+- [Said] Sept 15, 2026: "We're not forcing anybody to stay in our district." Speaker: DePass (high) [YT:uAf7l-ChjFo@4:00:20](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=14420s). See also D1 (no capture-rate data for grades 1–12).
+
+**I5. "Who shows up" was named as an equity problem in 2025.**
+- [Said] Sept 9, 2025: "too often in our history you know when we have community engagement it's often the people who can show up that we hear from the most." Speaker: Chair Wang (high) [YT:HGAs0lyZ6kw@4:21:34](https://www.youtube.com/watch?v=HGAs0lyZ6kw&t=15694s).
+- [Said] June 10, 2025: "anything uh around school closures, boundaries, it's a community conversation and so we want to involve community as much as possible." Speaker: Armstrong (medium) [YT:YUCokoJ7-n0@0:51:19](https://www.youtube.com/watch?v=YUCokoJ7-n0&t=3079s).
+- [Doc] 2026 survey respondents were 64% White [BB:14615901 p.9](https://meetings.boardbook.org/Documents/DownloadPDF/14615901?org=915#page=9). The required equity analysis was not available during engagement (D2). Public-housing families zoned to Hayhurst had not heard (D3).
+
+**I6. Everyone in, except high schools; equal rules vs. equity.**
+- [Said] Apr 14, 2026: "when certain areas or schools are excluded from right-sizing process, it leads to inequitable outcomes." Speaker: Wang (high) [YT:AH3wdS1A3sM@0:59:38](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=3578s).
+- [Said] Apr 22, 2026: for high schools "the discussion has more been about like feeder patterns, right? not necessarily closing a [high school]." Speaker: Wang (high) [YT:h_0YMlJnXPk@0:39:36](https://www.youtube.com/watch?v=h_0YMlJnXPk&t=2376s).
+- [Said] Mar 12, 2026: "in a quest to make things equitable, we move towards making uh things equal, thereby disrupting um equity." Speaker: Armstrong (high) [YT:SPc05NM0oYs@1:14:44](https://www.youtube.com/watch?v=SPc05NM0oYs&t=4484s).
+- [Doc] The plan applies one size floor (360 for every K-5) citywide, taken from the state's prototype school [BB:3997426 p.2](https://meetings.boardbook.org/Documents/DownloadPDF/3997426?org=915#page=2).
 
 ## H. What PPS says in response (for fairness)
 
