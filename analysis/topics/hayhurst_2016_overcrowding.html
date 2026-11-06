@@ -1,0 +1,201 @@
+<title>When Hayhurst Was Full</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="In 2016 PPS called Hayhurst overcrowded at 499 students and moved a whole program out. In 2026 it rates a 469-student Hayhurst ready with minor adjustments.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Mono:wght@400;600&display=swap">
+<style>
+/* Layout: a single planning-file column; facility-report figures set in mono, PPS's own words set as marked-up excerpts. */
+:root{
+  --paper:#f7f8fa; --sheet:#ffffff; --ink:#18202b; --muted:#5a6573; --rule:#d9dee5;
+  --navy:#1d3f6e; --odyssey:#8fa3bf; --mark:#ffe28a; --alert:#b3261e; --proj:#1d3f6e;
+  --display:"Archivo","Helvetica Neue",Arial,sans-serif;
+  --serif:"Source Serif 4",Georgia,"Times New Roman",serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --paper:#11151b; --sheet:#181d25; --ink:#e7ebf0; --muted:#9aa5b3; --rule:#2c3440;
+  --navy:#8db4ea; --odyssey:#4e6280; --mark:#5c4a12; --alert:#ff8a80; --proj:#8db4ea; color-scheme:dark }}
+:root[data-theme="dark"]{
+  --paper:#11151b; --sheet:#181d25; --ink:#e7ebf0; --muted:#9aa5b3; --rule:#2c3440;
+  --navy:#8db4ea; --odyssey:#4e6280; --mark:#5c4a12; --alert:#ff8a80; --proj:#8db4ea; color-scheme:dark }
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font:17px/1.6 var(--serif);
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:40px 64px}
+main{max-width:760px;margin:0 auto;display:flex;flex-direction:column;gap:40px}
+a{color:var(--navy)}
+a:focus-visible,button:focus-visible{outline:2px solid var(--navy);outline-offset:2px}
+.eyebrow{font:600 12px/1.2 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+h1{font:800 clamp(34px,6vw,54px)/1.04 var(--display);letter-spacing:-.015em;margin:10px 0 14px;text-wrap:balance}
+h2{font:700 24px/1.2 var(--display);margin:0 0 12px;text-wrap:balance}
+.dek{font-size:20px;line-height:1.5;color:var(--muted);margin:0;max-width:36em}
+p{margin:0}
+.compare{display:grid;grid-template-columns:1fr 1fr;border:1px solid var(--rule);background:var(--sheet);border-radius:6px;overflow:hidden}
+.compare>div{padding:18px 20px;display:flex;flex-direction:column;gap:10px;min-width:0}
+.compare>div+div{border-left:1px solid var(--rule)}
+.yr{font:600 13px/1 var(--mono);color:var(--muted)}
+.big{font:700 44px/1 var(--mono);letter-spacing:-.02em}
+.verdict{font:700 15px/1.3 var(--display);text-transform:uppercase;letter-spacing:.04em}
+.verdict.bad{color:var(--alert)} .verdict.ok{color:var(--navy)}
+.compare dl{margin:0;display:grid;grid-template-columns:auto 1fr;gap:4px 12px;font-size:15px}
+.compare dt{color:var(--muted);font-family:var(--mono);font-size:13px;padding-top:2px}
+.compare dd{margin:0}
+.fig{background:var(--sheet);border:1px solid var(--rule);border-radius:6px;padding:16px 16px 10px}
+.fig svg{display:block;width:100%;height:auto}
+.legend{display:flex;flex-wrap:wrap;gap:6px 16px;font:13px/1.3 var(--mono);color:var(--muted);margin-top:8px}
+.sw{display:inline-block;width:12px;height:12px;border-radius:2px;vertical-align:-1px;margin-right:6px}
+.cap{font-size:14px;color:var(--muted);margin-top:8px}
+.excerpts{display:flex;flex-direction:column;gap:14px;padding:0;margin:0;list-style:none}
+.ex{background:var(--sheet);border:1px solid var(--rule);border-radius:6px;padding:16px 18px;display:flex;flex-direction:column;gap:8px}
+.ex blockquote{margin:0;font-size:18px;line-height:1.55}
+mark{background:var(--mark);color:inherit;padding:0 2px;border-radius:2px}
+.src{display:flex;flex-wrap:wrap;gap:4px 10px;align-items:baseline;font:13px/1.4 var(--mono);color:var(--muted)}
+.src a{font-weight:600}
+.notes{display:flex;flex-direction:column;gap:10px;font-size:16px}
+.notes p{max-width:40em}
+.files{display:flex;flex-direction:column;gap:0;border:1px solid var(--rule);border-radius:6px;background:var(--sheet);padding:0;margin:0;list-style:none}
+.files li{padding:10px 14px;border-top:1px solid var(--rule);display:flex;flex-wrap:wrap;gap:2px 10px;font-size:15px}
+.files li:first-child{border-top:0}
+.files a{font-weight:600;word-break:break-word}
+.files span{color:var(--muted);font:13px/1.5 var(--mono)}
+footer{font-size:14px;color:var(--muted);border-top:1px solid var(--rule);padding-top:16px}
+@media (max-width:560px){
+  .compare{grid-template-columns:1fr}
+  .compare>div+div{border-left:0;border-top:1px solid var(--rule)}
+  .big{font-size:38px}
+}
+</style>
+
+<main>
+<header>
+  <div class="eyebrow">Portland Public Schools · Hayhurst Elementary, SW Portland</div>
+  <h1>When Hayhurst Was Full</h1>
+  <p class="dek">In 2016 PPS called Hayhurst overcrowded at 499 students and moved an entire program out of the building. Ten years later, PPS rates a projected 469-student Hayhurst “Ready / Minor Adjustments.”</p>
+</header>
+
+<section aria-labelledby="cmp">
+  <h2 id="cmp" class="eyebrow" style="font-size:12px;margin-bottom:10px">PPS’s own assessments, side by side</h2>
+  <div class="compare">
+    <div>
+      <span class="yr">FALL 2015 · ACTUAL</span>
+      <span class="big">499</span>
+      <span class="verdict bad">“Over-Crowding” · 101.8%</span>
+      <dl>
+        <dt>In building</dt><dd>Hayhurst K-5 (277) and Odyssey K-8 (222)</dd>
+        <dt>PPS action</dt><dd>Moved Odyssey to East Sylvan in August 2016 and redrew boundaries</dd>
+        <dt>Forecast</dt><dd>570 students, 111.5%, by 2020 if nothing changed</dd>
+      </dl>
+    </div>
+    <div>
+      <span class="yr">FALL 2027 · PROJECTED PEAK</span>
+      <span class="big">469</span>
+      <span class="verdict ok">“Ready / Minor Adjustments”</span>
+      <dl>
+        <dt>In building</dt><dd>Hayhurst K-5 plus Maplewood students under the closure proposal</dd>
+        <dt>Urgent fix</dt><dd>Kitchen equipment, $30,100</dd>
+        <dt>Classrooms</dt><dd>15 general classrooms and 7 special education rooms listed</dd>
+      </dl>
+    </div>
+  </div>
+  <p class="cap">2015: PPS Superintendent’s West Side KPI tables, March 2016. 2027: PPS Campus Readiness Profile for Hayhurst, November 2026. The 2026 profile also lists a “largest historic enrollment” of 640 in 2019-20; that figure adds the Odyssey program, which had already moved to East Sylvan in 2016 but was still reported under Hayhurst’s school code.</p>
+</section>
+
+<section aria-labelledby="fig">
+  <h2 id="fig">Students in the Hayhurst building, by fall</h2>
+  <div class="fig">
+    <svg id="chart" viewBox="0 0 720 300" role="img" aria-label="Bar chart of students in the Hayhurst building from fall 2010 to fall 2026, with a projected 469 for fall 2027 and a line at 499 marking the level PPS called overcrowded in 2015."></svg>
+    <div class="legend">
+      <span><i class="sw" style="background:var(--navy)"></i>Hayhurst K-5</span>
+      <span><i class="sw" style="background:var(--odyssey)"></i>Odyssey K-8 (in the building until Aug 2016)</span>
+      <span><i class="sw" style="background:transparent;border:2px dashed var(--proj)"></i>Projected peak, fall 2027</span>
+    </div>
+  </div>
+  <p class="cap">Counts are October enrollment. 2010–2019: <a href="https://timaelliott.github.io/save-our-schools/sources/pps_net/data-archives/2019-20/enrollment_history_detail_2019-20.pdf#page=1" target="_blank" rel="noopener">PPS enrollment history 2010-11 to 2019-20, p.1</a>. 2020: <a href="https://meetings.boardbook.org/Documents/DownloadPDF/3989519?org=915#page=80" target="_blank" rel="noopener">PPS 2025-26 budget, p.80</a>. 2021–2025: <a href="https://meetings.boardbook.org/Documents/DownloadPDF/3997161?org=915#page=82" target="_blank" rel="noopener">PPS 2026-27 budget, p.82</a>. 2026: <a href="https://timaelliott.github.io/save-our-schools/sources/pps_net/data-and-reporting/2026-27/enrollment_by_grade_and_program_type.pdf#page=1" target="_blank" rel="noopener">PPS Oct 1, 2026 enrollment, p.1</a>.</p>
+</section>
+
+<section aria-labelledby="words">
+  <h2 id="words">What PPS wrote in 2016</h2>
+  <ul class="excerpts">
+    <li class="ex">
+      <blockquote>“And at Hayhurst Elementary, among the West Side’s larger elementary school buildings, the co-located Odyssey K-8 focus school and Hayhurst neighborhood program were <mark>bursting at the seams</mark> as young families snatched up still relatively affordable homes.”</blockquote>
+      <div class="src"><span>District-wide Boundary Review Advisory Committee report, Feb 2016, p.22</span><a href="https://timaelliott.github.io/save-our-schools/sources/pps_net/boundaries_2016/dbrac/DBRAC-Report-with-Recommendations-FEB-2016-WEB.pdf#page=22" target="_blank" rel="noopener">Open PDF</a></div>
+    </li>
+    <li class="ex">
+      <blockquote>“Odyssey: <mark>Odyssey no longer fits into Hayhurst</mark> and needs a new location. Removing Odyssey program from the Hayhurst facility, however, will result in under-enrollment at Hayhurst.”</blockquote>
+      <div class="src"><span>PPS issue paper on focus options, Jan 8, 2016, p.2</span><a href="https://timaelliott.github.io/save-our-schools/sources/pps_net/boundaries_2016/2016-01-08_issue_paper_focus_options_underenrollment.pdf#page=2" target="_blank" rel="noopener">Open PDF</a></div>
+    </li>
+    <li class="ex">
+      <blockquote>“<mark>Over-Crowding (Facility Utilization)</mark> … Hayhurst 101.8% [current, 2015-16] 111.5% [current state, forecast 2020]”</blockquote>
+      <div class="src"><span>Superintendent’s Recommendations, West Quadrant KPIs, March 2016, p.3 (enrollment 499 on p.2)</span><a href="https://timaelliott.github.io/save-our-schools/sources/pps_net/boundaries_2016/dbrac/Quadrant_KPIs_SuptRecommendationsWest.pdf#page=3" target="_blank" rel="noopener">Open PDF</a></div>
+    </li>
+    <li class="ex">
+      <blockquote>“Relieve <mark>overcrowding at Hayhurst Elementary/Odyssey K-8</mark>”</blockquote>
+      <div class="src"><span>West Side boundary proposal 2b, Jan 2016, p.1</span><a href="https://timaelliott.github.io/save-our-schools/sources/pps_net/boundaries_2016/2016-01_west_side_boundary_proposal_2b.pdf#page=1" target="_blank" rel="noopener">Open PDF</a></div>
+    </li>
+    <li class="ex">
+      <blockquote>“<mark>Hayhurst Elementary School overcrowding will be addressed</mark> through multiple actions: 1. The Odyssey K-8 focus option program will move in August 2016 to East Sylvan School, which is currently empty.”</blockquote>
+      <div class="src"><span>Board Resolution 5266, May 17, 2016, p.20 (recital on “overcrowding at Hayhurst school” on p.19)</span><a href="https://timaelliott.github.io/save-our-schools/sources/pps_net/boundaries_2016/2016-05-17_board_packet.pdf#page=20" target="_blank" rel="noopener">Open PDF</a></div>
+    </li>
+    <li class="ex">
+      <blockquote>“To ensure Hayhurst has sufficient enrollment and <mark>Maplewood is less crowded</mark>, portions of the Bridlemile, Capitol Hill, Maplewood and Rieke attendance areas would attend Hayhurst.”</blockquote>
+      <div class="src"><span>Superintendent’s final recommendations, Mar 29, 2016, p.21</span><a href="https://timaelliott.github.io/save-our-schools/sources/pps_net/boundaries_2016/dbrac/3-29-16-Super-Final-Recommendations-March-29-16.pdf#page=21" target="_blank" rel="noopener">Open PDF</a></div>
+    </li>
+  </ul>
+</section>
+
+<section aria-labelledby="read" class="notes">
+  <h2 id="read">How to read the comparison</h2>
+  <p>PPS’s 2016 tables put Hayhurst’s room at roughly 490 to 520 students: 499 students was 101.8% of capacity, and 531 was 102.4%. The 2026 profile lists a functional capacity of 525. By either measure, the projected 469 would be close to the 2015 level, and far above Hayhurst’s highest K-5 enrollment since at least 2010 (396, in fall 2019).</p>
+  <p>The 2015 count included Odyssey’s 6th–8th graders, and PPS has changed how it counts capacity since then. Even so, the district that called 499 students in this building overcrowded now lists one urgent fix, $30,100 of kitchen equipment, for 469.</p>
+  <p>Fifteen general classrooms cannot hold three classes per grade (18) for six grades. At 469 students, about 78 per grade, three classes per grade is what the enrollment would need.</p>
+</section>
+
+<section aria-labelledby="files">
+  <h2 id="files">Source files</h2>
+  <ul class="files">
+    <li><a href="https://timaelliott.github.io/save-our-schools/sources/pps_net/boundaries_2016/dbrac/DBRAC-Report-with-Recommendations-FEB-2016-WEB.pdf#page=22" target="_blank" rel="noopener">D-BRAC report with recommendations (Feb 2016)</a><span>p.22 “bursting at the seams” · p.23 “acute overcrowding” · p.28 Maplewood “will exceed utilization by 2020”</span></li>
+    <li><a href="https://timaelliott.github.io/save-our-schools/sources/pps_net/boundaries_2016/2016-01-08_issue_paper_focus_options_underenrollment.pdf#page=2" target="_blank" rel="noopener">PPS issue paper: focus options and under-enrollment (Jan 8, 2016)</a><span>p.2 and p.12</span></li>
+    <li><a href="https://timaelliott.github.io/save-our-schools/sources/pps_net/boundaries_2016/dbrac/Quadrant_KPIs_SuptRecommendationsWest.pdf#page=3" target="_blank" rel="noopener">Superintendent’s West Quadrant KPIs (Mar 2016)</a><span>p.2 enrollment · p.3 utilization (Hayhurst 101.8%; Maplewood 99.5%, 112.8% forecast)</span></li>
+    <li><a href="https://timaelliott.github.io/save-our-schools/sources/pps_net/boundaries_2016/dbrac/3-9-16-Implementation_Analysis_Values_Only_West_Side.pdf#page=1" target="_blank" rel="noopener">West Side implementation analysis (Mar 11, 2016)</a><span>p.1 Hayhurst 102.4% → 111.5%, 2016-17 to 2020-21</span></li>
+    <li><a href="https://timaelliott.github.io/save-our-schools/sources/pps_net/boundaries_2016/2016-01_west_side_boundary_proposal_2b.pdf#page=1" target="_blank" rel="noopener">West Side boundary proposal 2b (Jan 2016)</a><span>p.1</span></li>
+    <li><a href="https://timaelliott.github.io/save-our-schools/sources/pps_net/boundaries_2016/dbrac/011916-DBRAC-Wilson.pdf#page=1" target="_blank" rel="noopener">D-BRAC Wilson-cluster meeting minutes (Jan 19, 2016)</a><span>p.1 “overcrowding at Chapman, Hayhurst/Odyssey, and Lincoln”</span></li>
+    <li><a href="https://timaelliott.github.io/save-our-schools/sources/pps_net/boundaries_2016/dbrac/3-29-16-Super-Final-Recommendations-March-29-16.pdf#page=21" target="_blank" rel="noopener">Superintendent’s final recommendations (Mar 29, 2016)</a><span>p.21</span></li>
+    <li><a href="https://timaelliott.github.io/save-our-schools/sources/pps_net/boundaries_2016/2016-05-17_board_packet.pdf#page=20" target="_blank" rel="noopener">Board packet with Resolution 5266 (May 17, 2016)</a><span>p.19 recital · p.20 decision</span></li>
+    <li><a href="https://timaelliott.github.io/save-our-schools/sources/pps_net/boundaries_2016/2011_hayhurst_focus_option_plan.pdf#page=4" target="_blank" rel="noopener">Odyssey focus-option plan (2011)</a><span>p.4 space in the Hayhurst building vs. moving the program</span></li>
+    <li><a href="https://timaelliott.github.io/save-our-schools/sources/pps_net/data-archives/2019-20/enrollment_history_detail_2019-20.pdf#page=1" target="_blank" rel="noopener">PPS enrollment history by program, 2010-11 to 2019-20</a><span>p.1 Hayhurst K-5 and Odyssey listed separately</span></li>
+    <li><a href="https://timaelliott.github.io/save-our-schools/sources/pps_net/data-archives/2019-20/enrollment_by_grade_and_program_type.pdf#page=2" target="_blank" rel="noopener">PPS enrollment by grade and program, Oct 2019</a><span>p.2 the “Hayhurst Total” of 640 = Odyssey 244 + neighborhood 396</span></li>
+  </ul>
+</section>
+
+<footer>All files are PPS public records, archived in the <a href="https://github.com/timaelliott/save-our-schools" target="_blank" rel="noopener">save-our-schools research archive</a> because PPS edits and removes posted documents. Links open PPS’s own files at the cited page. Updated November 6, 2026.</footer>
+</main>
+
+<script>
+(function(){
+  var data=[[2010,165,231],[2011,185,235],[2012,172,240],[2013,182,233],[2014,256,228],[2015,277,222],[2016,340,0],[2017,374,0],[2018,390,0],[2019,396,0],[2020,380,0],[2021,351,0],[2022,350,0],[2023,335,0],[2024,314,0],[2025,290,0],[2026,286,0],[2027,469,0,true]];
+  var svg=document.getElementById('chart'), NS='http://www.w3.org/2000/svg';
+  var W=720,H=300,L=40,R=12,T=20,B=34, max=600;
+  var pw=W-L-R, ph=H-T-B, n=data.length, step=pw/n, bw=step*0.68;
+  function y(v){return T+ph-(v/max)*ph}
+  function el(t,a,txt){var e=document.createElementNS(NS,t);for(var k in a)e.setAttribute(k,a[k]);if(txt!=null)e.textContent=txt;svg.appendChild(e);return e}
+  [0,100,200,300,400,500,600].forEach(function(v){
+    el('line',{x1:L,x2:W-R,y1:y(v),y2:y(v),stroke:'var(--rule)','stroke-width':1});
+    el('text',{x:L-6,y:y(v)+4,'text-anchor':'end','font-family':'var(--mono)','font-size':11,fill:'var(--muted)'},v);
+  });
+  data.forEach(function(d,i){
+    var x=L+i*step+(step-bw)/2, k5=d[1], od=d[2], proj=d[3];
+    if(proj){
+      el('rect',{x:x,y:y(k5),width:bw,height:y(0)-y(k5),fill:'none',stroke:'var(--proj)','stroke-width':2,'stroke-dasharray':'5 3'});
+      el('text',{x:x+bw/2,y:y(k5)+18,'text-anchor':'middle','font-family':'var(--mono)','font-size':12,'font-weight':600,fill:'var(--proj)'},'469');
+    } else {
+      el('rect',{x:x,y:y(k5),width:bw,height:y(0)-y(k5),fill:'var(--navy)'});
+      if(od) el('rect',{x:x,y:y(k5+od),width:bw,height:y(0)-y(od),fill:'var(--odyssey)'});
+    }
+    if(d[0]===2015) el('text',{x:x+bw/2,y:y(k5+od)-6,'text-anchor':'middle','font-family':'var(--mono)','font-size':12,'font-weight':600,fill:'var(--alert)'},'499');
+    if(d[0]===2019) el('text',{x:x+bw/2,y:y(k5)-6,'text-anchor':'middle','font-family':'var(--mono)','font-size':11,fill:'var(--muted)'},'396');
+    if(i%2===0||d[0]===2027) el('text',{x:x+bw/2,y:H-B+16,'text-anchor':'middle','font-family':'var(--mono)','font-size':11,fill:'var(--muted)'},"'"+String(d[0]).slice(2));
+  });
+  el('line',{x1:L,x2:W-R,y1:y(499),y2:y(499),stroke:'var(--alert)','stroke-width':1.5,'stroke-dasharray':'6 4'});
+  el('text',{x:W-R,y:y(499)-6,'text-anchor':'end','font-family':'var(--mono)','font-size':11,fill:'var(--alert)'},'499: PPS “Over-Crowding” (2015-16)');
+})();
+</script>
