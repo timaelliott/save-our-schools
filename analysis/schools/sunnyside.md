@@ -61,7 +61,7 @@ Verbatim quotes from transcripts (auto-captions) via `analysis/people/quotes_all
 Mentions in meeting notes (`analysis/meetings/`, 2026; 8 of 12 shown; citations as given there):
 
 - `2026-10-06_zOUH2Jq7Owo.md`: Bridger and Sunnyside become K-5. Sunnyside loses its focus-option lottery.
-- `2026-10-06_zOUH2Jq7Owo.md`: Pressed on why Sunnyside lost its focus option. Staff said it was partly "arbitrar[y]" balancing; Bridger was kept because of SEGC impacts [YT:zOUH2Jq7Owo@3:35:24–3:36:46](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=12924s).
+- `2026-10-06_zOUH2Jq7Owo.md`: Pressed on why Sunnyside lost its focus option. Staff described a focus-option/neighborhood "balance"; Splitt characterized the choice as "arbitrar[y]", and Richard Smith (identified from video by the repo owner) explained why Bridger, Winterhaven, ACCESS and Odyssey were kept (Bridger because of SEGC impacts) but gave no Sunnyside-specific reason. Splitt called it "somewhat arbitrary of an answer" [YT:zOUH2Jq7Owo@3:35:24–3:36:46](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=12924s).
 - `2026-10-06_zOUH2Jq7Owo.md`: **Special education and neurodivergent students:** SCES and Sunnyside parents warned that moves harm disabled students; charter or private takeover was feared [YT:zOUH2Jq7Owo@0:17:12](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=1032s) [YT:zOUH2Jq7Owo@0:23:53](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=1433s).
 - `2026-10-06_zOUH2Jq7Owo.md`: **Sunnyside:** pause the vote pending a "current investigation" [YT:zOUH2Jq7Owo@0:45:36](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=2736s).
 - `2026-07-07_r0e1Cx8ujLs.md`: a Sunnyside parent on school funding advocacy
