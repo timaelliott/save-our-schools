@@ -1,0 +1,202 @@
+<title>Maplewood Talking Points</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;600;700;800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a briefing folder. Shared numbers up top, then one tabbed sheet per director with quotes, points, the ask. */
+:root {
+  --paper: #f5f6f3; --sheet: #ffffff; --ink: #1d2420; --muted: #5a645e; --rule: #d9ddd6;
+  --leaf: #2f5d46; --leaf-soft: #e3ece6; --maple: #a8432c; --maple-soft: #f6e6e1; --amber: #8a6a12; --amber-soft: #f4ecd5;
+  --display: "Libre Franklin", "Helvetica Neue", Arial, sans-serif;
+  --body: "Source Serif 4", Georgia, "Times New Roman", serif;
+  --mono: "IBM Plex Mono", ui-monospace, Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --paper: #131815; --sheet: #1a201c; --ink: #e6ebe7; --muted: #a2ada6; --rule: #2e3732;
+  --leaf: #8cc3a5; --leaf-soft: #20302a; --maple: #e8917b; --maple-soft: #3a2420; --amber: #e1c06a; --amber-soft: #352d17; color-scheme: dark; } }
+:root[data-theme="dark"] {
+  --paper: #131815; --sheet: #1a201c; --ink: #e6ebe7; --muted: #a2ada6; --rule: #2e3732;
+  --leaf: #8cc3a5; --leaf-soft: #20302a; --maple: #e8917b; --maple-soft: #3a2420; --amber: #e1c06a; --amber-soft: #352d17; color-scheme: dark; }
+body { background: var(--paper); color: var(--ink); font-family: var(--body); font-size: 17px; line-height: 1.55; }
+.wrap { max-width: 980px; margin: 0 auto; padding-block: 40px 64px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); display: grid; gap: 36px; }
+a { color: var(--leaf); }
+a:focus-visible { outline: 2px solid var(--maple); outline-offset: 2px; }
+h1, h2, h3, h4, .eyebrow, .pill, .num, nav a, .tag { font-family: var(--display); }
+h1 { font-size: clamp(2rem, 5vw, 3rem); line-height: 1.05; margin: 0; font-weight: 800; letter-spacing: -0.01em; text-wrap: balance; }
+h2 { font-size: 1.75rem; margin: 0; font-weight: 800; text-wrap: balance; }
+h3 { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--muted); margin: 8px 0 0; font-weight: 700; }
+h4 { margin: 0; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.1em; }
+.lede { max-width: 64ch; margin: 0; color: var(--muted); font-size: 1.05rem; }
+header.top { display: grid; gap: 14px; }
+.dates { font-family: var(--mono); font-size: 0.8rem; color: var(--muted); margin: 0; }
+nav { display: flex; flex-wrap: wrap; gap: 8px; }
+nav a { text-decoration: none; font-weight: 600; font-size: 0.9rem; padding: 6px 12px; border: 1px solid var(--rule); border-radius: 999px; background: var(--sheet); color: var(--ink); }
+nav a:hover { border-color: var(--leaf); }
+.facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1px; background: var(--rule); border: 1px solid var(--rule); }
+.fact { background: var(--sheet); padding: 16px 18px; display: grid; gap: 4px; align-content: start; min-width: 0; }
+.fact .num { font-size: 1.9rem; font-weight: 800; color: var(--leaf); font-variant-numeric: tabular-nums; line-height: 1.1; }
+.fact p { margin: 0; font-size: 0.95rem; }
+.src, .cite { font-family: var(--mono); font-size: 0.72rem; white-space: nowrap; }
+.cite { color: var(--muted); text-decoration: underline; text-decoration-color: var(--rule); text-underline-offset: 2px; }
+.cite:hover { color: var(--leaf); }
+.src .cite + .cite { margin-left: 4px; }
+.director { background: var(--sheet); border: 1px solid var(--rule); border-top: 5px solid var(--leaf); padding: 24px clamp(16px, 4vw, 36px) 28px; display: grid; gap: 16px; scroll-margin-top: 16px; min-width: 0; }
+#engelsman { border-top-color: var(--amber); }
+#chase-miller { border-top-color: var(--maple); }
+.dhead { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: end; gap: 10px; }
+.eyebrow { margin: 0 0 4px; font-size: 0.78rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); font-weight: 600; }
+.lean { margin: 0; }
+.pill { display: inline-block; font-size: 0.8rem; font-weight: 700; padding: 4px 10px; border-radius: 999px; }
+.pill-yes { background: var(--maple-soft); color: var(--maple); }
+.pill-lean { background: var(--amber-soft); color: var(--amber); }
+.pill-no { background: var(--leaf-soft); color: var(--leaf); }
+.read { margin: 0; max-width: 70ch; }
+.quotes { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 260px), 1fr)); gap: 12px; }
+.quotes.q4 { grid-template-columns: repeat(auto-fit, minmax(min(100%, 380px), 1fr)); }
+blockquote { margin: 0; padding: 12px 16px; border-left: 3px solid var(--rule); background: var(--paper); display: grid; gap: 6px; min-width: 0; }
+blockquote p { margin: 0; font-style: italic; }
+blockquote footer { font-family: var(--mono); font-size: 0.75rem; color: var(--muted); }
+blockquote footer a { color: var(--leaf); }
+.conf { margin-left: 6px; }
+.points { list-style: none; margin: 0; padding: 0; display: grid; gap: 14px; }
+.points li p { margin: 0; max-width: 72ch; }
+.points strong { font-family: var(--display); font-weight: 700; }
+.qs { margin: 0; padding-left: 1.4em; display: grid; gap: 10px; max-width: 76ch; }
+.tag { font-size: 0.68rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: var(--amber); background: var(--amber-soft); padding: 1px 6px; border-radius: 3px; vertical-align: 1px; }
+.askbox { background: var(--leaf-soft); padding: 16px 18px; display: grid; gap: 6px; }
+.askbox h4 { color: var(--leaf); }
+.askbox p { margin: 0; max-width: 74ch; }
+.avoid { margin: 0; font-size: 0.95rem; color: var(--muted); max-width: 74ch; }
+.avoid strong { color: var(--ink); font-family: var(--display); }
+footer.notes { font-size: 0.85rem; color: var(--muted); display: grid; gap: 6px; max-width: 76ch; }
+footer.notes p { margin: 0; }
+@media (max-width: 520px) { body { font-size: 16px; } .src, .cite { white-space: normal; } }
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <p class="eyebrow">Keeping Maplewood open · prepared Nov 6, 2026</p>
+    <h1>Maplewood talking points for three directors</h1>
+    <p class="lede">What to say to Michelle DePass, Rashelle Chase-Miller and Stephanie Engelsman, built from their own words and PPS’s own documents. Each section ends with one ask. Quotes link to the video at the moment they were said.</p>
+    <p class="dates">Nov 9 facilities committee · Nov 17 superintendent’s recommendation · Nov 19 &amp; Dec 3 listening sessions · Dec 15 vote</p>
+    <nav aria-label="Directors"><a href="#depass">DePass</a><a href="#chase-miller">Chase-Miller</a><a href="#engelsman">Engelsman</a></nav>
+  </header>
+
+  <section aria-labelledby="facts-h" style="display:grid;gap:12px">
+    <h3 id="facts-h">The numbers behind every section</h3>
+    <div class="facts">
+<div class="fact"><div class="num">304</div><p>students at Maplewood on Oct 1, 2026, the most of the three SW schools in the plan (Hayhurst 286, Rieke 254), and 16 above PSU’s forecast <span class="src"><a class="cite" href="https://timaelliott.github.io/save-our-schools/sources/pps_net/data-and-reporting/2026-27/enrollment_by_grade_and_program_type.pdf#page=2" target="_blank" rel="noopener">PPS Oct 1 enrollment p.2</a></span></p></div>
+<div class="fact"><div class="num">7.5</div><p>Maplewood’s highest seismic risk score; no part scores 9 or higher, and 7 of its 10 building parts have prior retrofit work. Rieke, which takes 30% of Maplewood, scores 9.6 in an unreinforced-masonry part <span class="src"><a class="cite" href="https://meetings.boardbook.org/Documents/DownloadPDF/3991109?org=915#page=221" target="_blank" rel="noopener">Holmes p.221</a> <a class="cite" href="https://meetings.boardbook.org/Documents/DownloadPDF/3991109?org=915#page=233" target="_blank" rel="noopener">p.233</a></span></p></div>
+<div class="fact"><div class="num">44.9%</div><p>of Maplewood students live within a mile of the school. Under Scenario A the share falls at both receivers: Hayhurst 30.5% → 22.6%, Rieke 73.7% → 63.8% <span class="src"><a class="cite" href="https://drive.google.com/open?id=1JYIeqmstLm-IlaORhxbO1Wcz9z4Q4beC&amp;usp=drive_copy" target="_blank" rel="noopener">Maplewood guide</a> <a class="cite" href="https://drive.google.com/open?id=1BwsMTqcVksEx0je_XtPcti9pgFLBE_TP&amp;usp=drive_copy" target="_blank" rel="noopener">Hayhurst</a> <a class="cite" href="https://drive.google.com/open?id=1HghbIpP9vcwAPPuC9xgBWYAFpfsjmcY0&amp;usp=drive_copy" target="_blank" rel="noopener">Rieke</a></span></p></div>
+<div class="fact"><div class="num">456–468</div><p>students: Hayhurst’s capacity using PPS’s own room rules and the room counts on its own Nov 9 profile. The profile says 525. The projected peak of 469 is 100–103% of the corrected figure <span class="src"><a class="cite" href="https://meetings.boardbook.org/Documents/DownloadPDF/14644366?org=915#page=19" target="_blank" rel="noopener">FIO deck p.19</a> <a class="cite" href="https://meetings.boardbook.org/Documents/DownloadPDF/14644366?org=915#page=6" target="_blank" rel="noopener">p.6</a></span></p></div>
+<div class="fact"><div class="num">499</div><p>students at Hayhurst in 2015-16, when PPS rated it 101.8% “Over-Crowding” and moved Odyssey out. The Nov 9 profile lists the building’s historic maximum as 640 <span class="src"><a class="cite" href="https://timaelliott.github.io/save-our-schools/sources/pps_net/boundaries_2016/dbrac/Quadrant_KPIs_SuptRecommendationsWest.pdf#page=3" target="_blank" rel="noopener">2016 KPI table p.3</a> <a class="cite" href="https://claude.ai/artifact/8w3zXLCenAQfVxnibkAptx" target="_blank" rel="noopener">When Hayhurst Was Full</a></span></p></div>
+<div class="fact"><div class="num">None</div><p>planned future investments at Hayhurst on its Nov 9 profile. Maplewood’s K-2 Intensive Skills Classroom goes to Markham, which the same deck rates “Not Yet Ready/Significant Barriers” <span class="src"><a class="cite" href="https://meetings.boardbook.org/Documents/DownloadPDF/14644366?org=915#page=19" target="_blank" rel="noopener">FIO deck p.19</a> <a class="cite" href="https://meetings.boardbook.org/Documents/DownloadPDF/14644366?org=915#page=21" target="_blank" rel="noopener">p.21</a></span></p></div>
+    </div>
+  </section>
+
+<section id="depass" class="director">
+  <header class="dhead">
+    <div>
+      <p class="eyebrow">Zone 2 · chairs the Facilities Improvement &amp; Oversight Committee</p>
+      <h2>Michelle DePass</h2>
+    </div>
+    <p class="lean"><span class="pill pill-yes">Strong yes on closures</span></p>
+  </header>
+  <p class="read">She moved the resolution that started rightsizing and wants a large package; arguing against closures in general will not reach her. Two of her own tests fit Maplewood: don’t spend on buildings the district is about to leave, and put students in poverty first. She also chairs the committee whose Nov 9 numbers are wrong. <a class="cite" href="https://github.com/timaelliott/save-our-schools/blob/main/analysis/board_closure_stance/michelle-depass.md" target="_blank" rel="noopener">Stance file</a></p>
+
+  <h3>In her words</h3>
+  <div class="quotes q4">
+    <blockquote><p>&ldquo;I don&rsquo;t think people are going to cram&mdash; we&rsquo;re not going to cram students into a building. We will make the building bigger.&rdquo;</p><footer><a href="https://www.youtube.com/watch?v=xByUlijpcnE&amp;t=22307s" target="_blank" rel="noopener">Oct 20, 2026, 6:11:47 &#9656;</a> <span class="conf">confidence high</span></footer></blockquote>
+    <blockquote><p>&ldquo;I&rsquo;m hoping at the facilities committee we can have some hard numbers&rdquo;</p><footer><a href="https://www.youtube.com/watch?v=xByUlijpcnE&amp;t=22280s" target="_blank" rel="noopener">Oct 20, 2026, 6:11:20 &#9656;</a> <span class="conf">confidence high</span></footer></blockquote>
+    <blockquote><p>&ldquo;how can we best um use those dollars um in our facilities so we&rsquo;re not upgrading buildings where we&rsquo;re moving out of?&rdquo;</p><footer><a href="https://www.youtube.com/watch?v=zOUH2Jq7Owo&amp;t=15290s" target="_blank" rel="noopener">Oct 6, 2026, 4:14:50 &#9656;</a> <span class="conf">confidence medium</span></footer></blockquote>
+    <blockquote><p>&ldquo;my north star is unapologetically those numbers of kids who are experiencing poverty.&rdquo;</p><footer><a href="https://www.youtube.com/watch?v=zOUH2Jq7Owo&amp;t=15032s" target="_blank" rel="noopener">Oct 6, 2026, 4:10:32 &#9656;</a> <span class="conf">confidence medium</span></footer></blockquote>
+  </div>
+
+  <h3>Talking points that fit</h3>
+  <ul class="points">
+    <li><p><strong>Her committee’s hard numbers don’t hold for Hayhurst.</strong> The Nov 9 profile gives 525 seats, but its own room counts (15 classrooms, 7 special-ed rooms) and the deck’s own rules on p.6 give 456 to 468. It lists the building’s record as 640 students in 2019-20; PPS’s model shows 396 that year, and the most the building has held is 499. Its special-education box says 4 rooms while the left panel says 7 <a class="cite" href="https://meetings.boardbook.org/Documents/DownloadPDF/14644366?org=915#page=19" target="_blank" rel="noopener">BoardBook 14644366 p.19</a> <a class="cite" href="https://meetings.boardbook.org/Documents/DownloadPDF/14644366?org=915#page=6" target="_blank" rel="noopener">BoardBook 14644366 p.6</a>.</p></li>
+    <li><p><strong>Hayhurst is not being made bigger.</strong> The same profile lists “Planned Future Investments: None.” Its only urgent item is a $30,100 kitchen addition <a class="cite" href="https://meetings.boardbook.org/Documents/DownloadPDF/14644366?org=915#page=19" target="_blank" rel="noopener">BoardBook 14644366 p.19</a>. She told families PPS would build more room rather than crowd students; for Hayhurst nothing is planned.</p></li>
+    <li><p><strong>Scenario A moves students into the building that needs the seismic money.</strong> Maplewood’s worst part scores 7.5 and most of its parts already have retrofit work <a class="cite" href="https://meetings.boardbook.org/Documents/DownloadPDF/3991109?org=915#page=221" target="_blank" rel="noopener">BoardBook 3991109 p.221</a>. Rieke scores 9.6 in an unreinforced-masonry part; a complete retrofit was estimated at $6.04M <a class="cite" href="https://meetings.boardbook.org/Documents/DownloadPDF/3991109?org=915#page=233" target="_blank" rel="noopener">BoardBook 3991109 p.233</a>. The Nov 9 deck redirects Rose City Park and Beach seismic money to Rieke and says PPS is applying for a state grant for it <a class="cite" href="https://meetings.boardbook.org/Documents/DownloadPDF/14644366?org=915#page=31" target="_blank" rel="noopener">BoardBook 14644366 p.31</a>. No date is given for that work.</p></li>
+    <li><p><strong>Her “north star” families move even though their school stays open.</strong> <span class="tag">Analysis</span> Scenario A shifts part of Hayhurst’s boundary to Rieke. Hayhurst’s poverty rate falls from 26.2% to 15.5% and Rieke’s rises from 15.2% to 24.0% <a class="cite" href="https://drive.google.com/open?id=1BwsMTqcVksEx0je_XtPcti9pgFLBE_TP&amp;usp=drive_copy" target="_blank" rel="noopener">Hayhurst guide</a> <a class="cite" href="https://drive.google.com/open?id=1HghbIpP9vcwAPPuC9xgBWYAFpfsjmcY0&amp;usp=drive_copy" target="_blank" rel="noopener">Rieke guide</a>. Our reading of the boundary map puts the Stephens Creek Crossing public housing in the moved area <a class="cite" href="https://github.com/timaelliott/save-our-schools/blob/main/analysis/topics/hayhurst_to_rieke_boundary_shift.md" target="_blank" rel="noopener">boundary analysis</a>.</p></li>
+    <li><p><strong>She asked how many families drive.</strong> On Oct 20 she said walkability is a guiding principle but “I don’t know what that number is” <a class="cite" href="https://www.youtube.com/watch?v=xByUlijpcnE&amp;t=22334s" target="_blank" rel="noopener">Oct 20, 6:12:14</a>. PPS’s own guides show the share living within a mile dropping at both receiving schools (see the numbers above). Staff have promised a sample bus route with the Nov 17 recommendation <a class="cite" href="https://www.youtube.com/watch?v=9kX3vnfRlvY&amp;t=19081s" target="_blank" rel="noopener">Nov 4, 5:18:01</a>.</p></li>
+  </ul>
+
+  <div class="askbox"><h4>The ask</h4><p>As FIO chair: have staff reissue the Hayhurst profile with the room-by-room math, add a profile for Rieke, and date Rieke’s retrofit before any student is assigned there. Then: Take Maplewood out of the Dec 15 closure package. Run the Southwest boundary review among the eight Wells-area elementaries instead, after Rieke’s retrofit is scheduled and Hayhurst’s capacity is checked room by room. At the least, move the Southwest changes to phase two (2028-29), the year staff reserve for schools where “the readiness isn’t quite there” <a class="cite" href="https://www.youtube.com/watch?v=9kX3vnfRlvY&amp;t=19190s" target="_blank" rel="noopener">Nov 4, 5:19:50</a>.</p></div>
+  <p class="avoid"><strong>Lead with something else.</strong> <span class="tag">Analysis</span> Cost arguments and crowd size have not moved her; she has said savings are not the point and frames resisting organized parents as courage <a class="cite" href="https://github.com/timaelliott/save-our-schools/blob/main/analysis/board_closure_stance/michelle-depass.md" target="_blank" rel="noopener">stance file</a>. Keep it to her committee’s numbers and her own tests.</p>
+</section>
+
+<section id="chase-miller" class="director">
+  <header class="dhead">
+    <div>
+      <p class="eyebrow">Vice-Chair · sits on the facilities and teaching &amp; learning committees</p>
+      <h2>Rashelle Chase-Miller</h2>
+    </div>
+    <p class="lean"><span class="pill pill-lean">Yes, with amendments</span></p>
+  </header>
+  <p class="read">She expects to adopt “some hybrid” of the scenarios with changes, so the opening is an amendment, not a no. Her own principles are seismic safety as a reason to consolidate, keeping cohorts together, and not loading new burdens on families who have carried them before. Scenario A’s Southwest piece runs against all three. <a class="cite" href="https://github.com/timaelliott/save-our-schools/blob/main/analysis/board_closure_stance/rashelle-chase-miller.md" target="_blank" rel="noopener">Stance file</a></p>
+
+  <h3>In her words</h3>
+  <div class="quotes q4">
+    <blockquote><p>&ldquo;whether we actually consolidate into safer schools, closing the more dangerous schools and getting uh more for our money.&rdquo;</p><footer><a href="https://www.youtube.com/watch?v=kf21uJr0fcQ&amp;t=4081s" target="_blank" rel="noopener">Nov 10, 2025, 1:08:01 &#9656;</a> <span class="conf">confidence high</span></footer></blockquote>
+    <blockquote><p>&ldquo;I really struggle with like slicing up subgroups of kids and sending them off in different directions&rdquo;</p><footer><a href="https://www.youtube.com/watch?v=LZ101PSh6H0&amp;t=12171s" target="_blank" rel="noopener">Dec 16, 2025, 3:22:51 &#9656;</a> <span class="conf">confidence high</span></footer></blockquote>
+    <blockquote><p>&ldquo;really do like a blending rather than a a depositing of just kids into a new physical space without care for um the culture piece.&rdquo;</p><footer><a href="https://www.youtube.com/watch?v=SPc05NM0oYs&amp;t=5403s" target="_blank" rel="noopener">Mar 12, 2026, 1:30:03 &#9656;</a> <span class="conf">confidence high</span></footer></blockquote>
+    <blockquote><p>&ldquo;making sure that we&rsquo;re not placing a disproportionate burden on communities who have born that burden in PPS for generations.&rdquo;</p><footer><a href="https://www.youtube.com/watch?v=AAWpafO4vvQ&amp;t=8092s" target="_blank" rel="noopener">May 26, 2026, 2:14:52 &#9656;</a> <span class="conf">confidence high</span></footer></blockquote>
+  </div>
+
+  <h3>Talking points that fit</h3>
+  <ul class="points">
+    <li><p><strong>Maplewood to Rieke is the reverse of “consolidate into safer schools.”</strong> Students leave a building whose worst part scores 7.5, with most parts already retrofitted, for one that scores 9.6 in an unreinforced-masonry part <a class="cite" href="https://meetings.boardbook.org/Documents/DownloadPDF/3991109?org=915#page=221" target="_blank" rel="noopener">BoardBook 3991109 p.221</a> <a class="cite" href="https://meetings.boardbook.org/Documents/DownloadPDF/3991109?org=915#page=233" target="_blank" rel="noopener">BoardBook 3991109 p.233</a>. PPS told the Oregonian seismic risk “wasn’t a driver” in choosing closures or receivers <a class="cite" href="https://www.oregonlive.com/education/2026/10/how-did-earthquake-risks-factor-into-school-closure-plans-pps-says-it-wasnt-a-driver.html" target="_blank" rel="noopener">Oregonian, Oct 27</a>. Staff on Oct 20 called facilities a possible “tiebreaker” <a class="cite" href="https://www.youtube.com/watch?v=xByUlijpcnE&amp;t=21008s" target="_blank" rel="noopener">Oct 20, 5:50:08</a>. In the Southwest, where the three schools are close in size, the building is the tiebreaker, and Maplewood’s is the safer one.</p></li>
+    <li><p><strong>One school, four directions.</strong> Scenario A sends 70% of Maplewood to Hayhurst and 30% to Rieke, moves its K-2 Intensive Skills Classroom to Markham, and switches its middle-grade path from Jackson to Gray <a class="cite" href="https://drive.google.com/open?id=1JYIeqmstLm-IlaORhxbO1Wcz9z4Q4beC&amp;usp=drive_copy" target="_blank" rel="noopener">Maplewood guide</a>. A slice of Hayhurst also moves to Rieke. That is the “slicing up subgroups” she said she struggles with.</p></li>
+    <li><p><strong>The Intensive Skills students are the clearest case of depositing.</strong> The special-education class goes to Markham, which the Nov 9 deck rates “Not Yet Ready/Significant Barriers,” noting “Space constraints. Limited street frontage” <a class="cite" href="https://meetings.boardbook.org/Documents/DownloadPDF/14644366?org=915#page=21" target="_blank" rel="noopener">BoardBook 14644366 p.21</a>. Her written question on protecting belonging and identity in receiving schools was still “In process” on Oct 30 <a class="cite" href="https://meetings.boardbook.org/Documents/DownloadPDF/14618390?org=915#page=38" target="_blank" rel="noopener">BoardBook 14618390 p.38</a>.</p></li>
+    <li><p><strong>Low-income families move twice over.</strong> <span class="tag">Analysis</span> Hayhurst’s poverty rate drops from 26.2% to 15.5% and Rieke’s rises from 15.2% to 24.0% because part of Hayhurst’s boundary moves <a class="cite" href="https://drive.google.com/open?id=1BwsMTqcVksEx0je_XtPcti9pgFLBE_TP&amp;usp=drive_copy" target="_blank" rel="noopener">Hayhurst guide</a> <a class="cite" href="https://drive.google.com/open?id=1HghbIpP9vcwAPPuC9xgBWYAFpfsjmcY0&amp;usp=drive_copy" target="_blank" rel="noopener">Rieke guide</a>. Families in that area change schools although their school stays open, and they land in the higher-risk building.</p></li>
+    <li><p><strong>PPS named Maplewood a bright spot for Latino students on Nov 4.</strong> Staff presenting state test results (Dr. Kelly Charles, per Director Engelsman) said: “We are seeing exciting results for Latin Latino students at schools such as [Whitman], Maplewood, and [Bridlemile].” <a class="cite" href="https://www.youtube.com/watch?v=9kX3vnfRlvY&amp;t=6802s" target="_blank" rel="noopener">Nov 4, 1:53:22</a>. Maplewood’s math proficiency rose from 60.1% to 65.3% <a class="cite" href="https://meetings.boardbook.org/Documents/DownloadPDF/14615681?org=915#page=14" target="_blank" rel="noopener">BoardBook 14615681 p.14</a>. Closing it splits the staff and practices behind those gains.</p></li>
+  </ul>
+
+  <div class="askbox"><h4>The ask</h4><p>An amendment, which fits how she expects to vote: Take Maplewood out of the Dec 15 closure package. Run the Southwest boundary review among the eight Wells-area elementaries instead, after Rieke’s retrofit is scheduled and Hayhurst’s capacity is checked room by room. At the least, move the Southwest changes to phase two (2028-29), the year staff reserve for schools where “the readiness isn’t quite there” <a class="cite" href="https://www.youtube.com/watch?v=9kX3vnfRlvY&amp;t=19190s" target="_blank" rel="noopener">Nov 4, 5:19:50</a>. Also ask staff to answer her Oct 30 questions on what students gain at each receiving school before Dec 15 <a class="cite" href="https://meetings.boardbook.org/Documents/DownloadPDF/14618390?org=915#page=37" target="_blank" rel="noopener">BoardBook 14618390 p.37</a>.</p></div>
+  <p class="avoid"><strong>Lead with something else.</strong> <span class="tag">Analysis</span> Skip walkability: in May she warned that focusing on it can disadvantage some communities <a class="cite" href="https://www.youtube.com/watch?v=AAWpafO4vvQ&amp;t=7987s" target="_blank" rel="noopener">May 26, 2:13:07</a>. Skip “wait for the Legislature”; she has said her students “cannot wait” <a class="cite" href="https://www.youtube.com/watch?v=xByUlijpcnE&amp;t=18820s" target="_blank" rel="noopener">Oct 20, 5:13:40</a>.</p>
+</section>
+
+<section id="engelsman" class="director">
+  <header class="dhead">
+    <div>
+      <p class="eyebrow">Director · has called for a pause</p>
+      <h2>Stephanie Engelsman</h2>
+    </div>
+    <p class="lean"><span class="pill pill-no">Against the closures</span></p>
+  </header>
+  <p class="read">She already makes the Maplewood case. What helps her is ammunition: corrected numbers and pointed questions she can put on the record at the Nov 17 recommendation and before the Dec 15 vote. <a class="cite" href="https://github.com/timaelliott/save-our-schools/blob/main/analysis/board_closure_stance/stephanie-engelsman.md" target="_blank" rel="noopener">Stance file</a></p>
+
+  <h3>In her words</h3>
+  <div class="quotes">
+    <blockquote><p>&ldquo;I&rsquo;m wondering why Maplewood going to [Rieke] when I think Capitol Hill or Markham are closer and more walkable and more bikable&rdquo;</p><footer><a href="https://www.youtube.com/watch?v=zOUH2Jq7Owo&amp;t=10958s" target="_blank" rel="noopener">Oct 6, 2026, 3:02:38 &#9656;</a> <span class="conf">confidence high</span></footer></blockquote>
+    <blockquote><p>&ldquo;Maplewood, $1.5 million. It doesn&rsquo;t feel&mdash; honestly, it doesn&rsquo;t feel ethical or fiscally responsible to spend taxpayer money and then close a building.&rdquo;</p><footer><a href="https://www.youtube.com/watch?v=xByUlijpcnE&amp;t=20931s" target="_blank" rel="noopener">Oct 20, 2026, 5:48:51 &#9656;</a> <span class="conf">confidence high</span></footer></blockquote>
+    <blockquote><p>&ldquo;to highlight a school for doing good work and then to close it and disrupt everything that they&rsquo;re doing and move kids, it it cannot comport with highlighting them for doing good work.&rdquo;</p><footer><a href="https://www.youtube.com/watch?v=9kX3vnfRlvY&amp;t=18493s" target="_blank" rel="noopener">Nov 4, 2026, 5:08:13 &#9656;</a> <span class="conf">confidence high</span></footer></blockquote>
+  </div>
+
+  <h3>Numbers she can use</h3>
+  <ul class="points">
+    <li><p><strong>Her $250,000 rule covers Maplewood.</strong> She proposed closing no school with more than $250,000 of bond-funded work <a class="cite" href="https://www.oregonlive.com/education/2026/10/2-portland-public-schools-board-members-pitch-alternatives-to-closing-14-schools.html" target="_blank" rel="noopener">Oregonian, Oct 20</a>. KGW reported about $1.5M of roof-level seismic work at Maplewood <a class="cite" href="https://www.kgw.com/article/news/education/18-million-spent-upgrading-portland-schools-that-could-now-close/283-72bc82cb-b20b-4c76-935a-a31c6af11f03" target="_blank" rel="noopener">KGW, Oct 9</a>; the Holmes assessment lists its 2015 roof seismic upgrades <a class="cite" href="https://meetings.boardbook.org/Documents/DownloadPDF/3991109?org=915#page=108" target="_blank" rel="noopener">BoardBook 3991109 p.108</a>.</p></li>
+    <li><p><strong>The OSAS figures behind her Nov 4 point.</strong> Maplewood ELA 62.4% → 64.0%, math 60.1% → 65.3% from 2024-25 to 2025-26; Rieke fell in both (85.3% → 80.5%, 82.7% → 76.5%) <a class="cite" href="https://meetings.boardbook.org/Documents/DownloadPDF/14615681?org=915#page=14" target="_blank" rel="noopener">BoardBook 14615681 p.14</a>.</p></li>
+    <li><p><strong>Maplewood is growing.</strong> 304 students on Oct 1, 16 above PSU’s forecast and more than Hayhurst (286) or Rieke (254) <a class="cite" href="https://timaelliott.github.io/save-our-schools/sources/pps_net/data-and-reporting/2026-27/enrollment_by_grade_and_program_type.pdf#page=2" target="_blank" rel="noopener">Oct 1 enrollment p.2</a>.</p></li>
+    <li><p><strong>Hayhurst would be back at its 2016 overcrowding level.</strong> Peak 469 against a room-rule capacity of 456–468; in 2016 PPS called 499 students “Over-Crowding” and moved a program out <a class="cite" href="https://meetings.boardbook.org/Documents/DownloadPDF/14644366?org=915#page=19" target="_blank" rel="noopener">BoardBook 14644366 p.19</a> <a class="cite" href="https://timaelliott.github.io/save-our-schools/sources/pps_net/boundaries_2016/dbrac/Quadrant_KPIs_SuptRecommendationsWest.pdf#page=3" target="_blank" rel="noopener">2016 KPIs p.3</a>.</p></li>
+  </ul>
+
+  <h3>Questions for the record</h3>
+  <ol class="qs">
+    <li>Show the room-by-room math for Hayhurst’s 525 seats using the rules on p.6 of the Nov 9 deck. Why does the profile list 7 special-ed rooms on one side and 4 on the other <a class="cite" href="https://meetings.boardbook.org/Documents/DownloadPDF/14644366?org=915#page=19" target="_blank" rel="noopener">BoardBook 14644366 p.19</a>?</li>
+    <li>Why does the profile give Hayhurst’s largest historic enrollment as 640 in 2019-20, when PPS’s own records show 396 that year and a peak of 499 in 2015-16?</li>
+    <li>Rieke gains about 117 students at peak (our count from the family guides <a class="cite" href="https://github.com/timaelliott/save-our-schools/blob/main/analysis/meetings/2026-11-09_fio_materials.md" target="_blank" rel="noopener">FIO notes</a>) and gets reallocated seismic money, but has no readiness profile <a class="cite" href="https://meetings.boardbook.org/Documents/DownloadPDF/14644366?org=915#page=31" target="_blank" rel="noopener">BoardBook 14644366 p.31</a>. When will the work on Building Parts A, B and C be finished, and will students move in before it is?</li>
+    <li>Why are Sitton (111% at peak) and Whitman (112%) rated “Ready” while George (107%) is “Not Yet Ready” <a class="cite" href="https://meetings.boardbook.org/Documents/DownloadPDF/14644366?org=915#page=27" target="_blank" rel="noopener">BoardBook 14644366 p.27</a> <a class="cite" href="https://meetings.boardbook.org/Documents/DownloadPDF/14644366?org=915#page=29" target="_blank" rel="noopener">BoardBook 14644366 p.29</a>?</li>
+    <li>Maplewood’s Intensive Skills Classroom goes to Markham, rated “Not Yet Ready/Significant Barriers.” What is the plan and date for that room <a class="cite" href="https://meetings.boardbook.org/Documents/DownloadPDF/14644366?org=915#page=21" target="_blank" rel="noopener">BoardBook 14644366 p.21</a>?</li>
+    <li>On the seismic slide, Scenario B leaves 33.6% of students in buildings with a part scoring above 9.0, against 33.5% with no changes. How is that a reduction <a class="cite" href="https://meetings.boardbook.org/Documents/DownloadPDF/14644366?org=915#page=33" target="_blank" rel="noopener">BoardBook 14644366 p.33</a>?</li>
+    <li>Staff called facilities a possible tiebreaker <a class="cite" href="https://www.youtube.com/watch?v=xByUlijpcnE&amp;t=21008s" target="_blank" rel="noopener">Oct 20, 5:50:08</a>. In the Southwest, was it used, and why did the 9.6 building win over the 7.5 one?</li>
+  </ol>
+
+  <div class="askbox"><h4>The ask</h4><p>Put the corrections and questions on the record at the Nov 9 committee or Nov 17 board meeting, and offer an amendment on Dec 15: Take Maplewood out of the Dec 15 closure package. Run the Southwest boundary review among the eight Wells-area elementaries instead, after Rieke’s retrofit is scheduled and Hayhurst’s capacity is checked room by room. At the least, move the Southwest changes to phase two (2028-29), the year staff reserve for schools where “the readiness isn’t quite there” <a class="cite" href="https://www.youtube.com/watch?v=9kX3vnfRlvY&amp;t=19190s" target="_blank" rel="noopener">Nov 4, 5:19:50</a>.</p></div>
+</section>
+  <footer class="notes">
+    <p><strong>How these were checked.</strong> Quotes are verbatim from YouTube auto-captions; a word in [brackets] fixes a caption error. “Confidence” is how sure the speaker attribution is. Points marked Analysis are our reading of PPS data, not a PPS statement. Each director’s lean comes from the archive’s board-stance files.</p>
+    <p>A graded copy of the Nov 9 deck, with each error circled on the original slides, is at <a href="https://timaelliott.github.io/save-our-schools/analysis/meetings/2026-11-09_fio_presentation_graded.pdf" target="_blank" rel="noopener">github.io/…/2026-11-09_fio_presentation_graded.pdf</a>. Full source archive: <a href="https://github.com/timaelliott/save-our-schools" target="_blank" rel="noopener">github.com/timaelliott/save-our-schools</a>.</p>
+  </footer>
+</div>
