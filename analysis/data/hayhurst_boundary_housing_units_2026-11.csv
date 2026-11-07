@@ -1,0 +1,13 @@
+category,group,lots,units_low,units_high,method,note
+Single-family detached house,single-family,1718,1718,1718,"assessor code B (Residential Improved), lot >= 2,750 sq ft",one home per lot
+Single-family house on small lot,single-family,42,42,42,"assessor code B, lot < 2,750 sq ft (PSU's row-home cutoff)",likely skinny or attached houses
+Row/attached townhouse,single-family,19,19,19,assessor code X (Row/Attached Housing),
+Condo townhomes,single-family (condo-owned),4,43,64,"assessor code W; owner name includes Townhome/Townhouses (Pendleton, Hillsdale Townhouses, St Georges); units from City address points",
+ADU or second unit on a single-family lot,accessory,49,50,50,assessor UNITS minus 1 on code B lots,
+2-4 unit plex,multi-family,41,113,113,assessor code C; assessor UNITS,
+Apartments 5+ units,multi-family,29,713,825,"assessor codes D, DA, DB, DC; low = assessor UNITS, high = max(assessor, City address points)",
+Stephens Creek Crossing (Home Forward affordable),multi-family,2,122,122,Home Forward unit count (assessor shows 197),
+Condos (other),multi-family,5,56,57,assessor code W (non-townhome associations); units from City address points,
+Apartments over shops / mixed use,multi-family,7,10,10,"assessor codes SO, MX; unit-numbered address points",
+Senior housing / assisted living / nursing,group or senior,4,160,163,"assessor codes TC, TA (Robison Jewish Home, two nursing facilities)",not family housing
+Raleigh Crest (approved; not built),future,1,0,0,"assessor code A (vacant), 51.4 acres, owner Holt Holdings OR LLC",263 homes approved (133 detached + 130 townhomes)

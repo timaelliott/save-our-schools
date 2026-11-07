@@ -1,0 +1,23 @@
+[
+ {
+  "path": "gis/portlandmaps/hayhurst_boundary_housing/hay_boundary.geojson",
+  "url": "https://www.portlandmaps.com/od/rest/services/COP_OpenData_Boundary/MapServer/12/query",
+  "params": "where ELEM_SCH LIKE '%HAYHURST%', outSR 4326, f=geojson",
+  "fetched_at": "2026-11-07T00:10:00+00:00",
+  "sha256": "d927010481ab8dcce4404dde1902e035ab62f3f122f5e2f335c40fdacfa47e07"
+ },
+ {
+  "path": "gis/portlandmaps/hayhurst_boundary_housing/taxlots.json",
+  "url": "https://www.portlandmaps.com/arcgis/rest/services/Public/Taxlots/MapServer/0/query",
+  "params": "intersects Hayhurst attendance polygon; outFields STATE_ID,RNO,PROPERTYID,OWNER1,SITEADDR,PROP_CODE,PRPCD_DESC,LANDUSE,YEARBUILT,BLDGSQFT,BEDROOMS,FLOORS,UNITS,A_T_ACRES",
+  "fetched_at": "2026-11-07T00:10:00+00:00",
+  "sha256": "a6c62747eeffbd267589f2b565c01175c75172b75734e7adda044f7dcfa8ce45"
+ },
+ {
+  "path": "gis/portlandmaps/hayhurst_boundary_housing/addresses.json",
+  "url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Address/MapServer/0/query",
+  "params": "intersects Hayhurst attendance polygon; fetched by objectIds in batches of 500",
+  "fetched_at": "2026-11-07T00:10:00+00:00",
+  "sha256": "32e933810a18b84b3a2e4c6ce1bcdafbf5f5cc7353d1c7e7dbd1b25196dd1eb7"
+ }
+]
