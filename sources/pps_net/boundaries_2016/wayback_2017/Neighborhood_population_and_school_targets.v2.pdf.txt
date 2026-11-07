@@ -1,0 +1,130 @@
+                           Neighborhood Student Population and Enrollment Targets
+Enrollment data as of October 2014                                                           Comparison to target size
+
+                                                                                                        Equal to or
+                                                                2014        85% of       Smaller than    up to 20%    Greater than
+                                      Grade         2014 School Neighorhood Neighborhood or equal to    larger than    20% larger
+Cluster     School                    Levels Target Enrollment population   population*   target size      target      than target
+Cleveland   Abernethy                 K-5     450        511         631         536                       121%
+Lincoln     Ainsworth                 K-5     450        582         362         308         68%
+Grant       Alameda                   K-5     450        760         749         637                                     141%
+Franklin    Arleta                    K-8     500        454         569         484         97%
+Roosevelt   Astor                     K-8     500        497         528         449         90%
+Franklin    Atkinson                  K-5     450        428         333         283         63%
+Jefferson   Beach                     K-8     500        607         578         491         98%
+Grant       Beaumont                  6-8     600        554         609         518         86%
+Grant       Beverly Cleary (3 campus) K-8     500        834         991         842                                     168%
+Jefferson   Boise-Eliot/Humboldt      K-8     500        520         656         558                      112%
+Franklin    Bridger                   K-8     500        415         510         434         87%
+Lincoln     Bridlemile                K-5     450        442         474         403         90%
+Cleveland   Buckman                   K-5     450        444         268         228         51%
+Wilson      Capitol Hill              K-5     450        460         476         405         90%
+Roosevelt   César Chávez              K-8     500        451         470         400         80%
+Lincoln     Chapman                   K-5     450        674         796         677                                     150%
+Jefferson   Ch Joseph/Ockley Gn (2 caK-8      500        627         757         643                                     129%
+Franklin    Creston                   K-8     500        350         482         410         82%
+Cleveland   Duniway                   K-5     450        505         582         495                      110%
+Jefferson   Faubion                   K-8     500        491         693         589                      118%
+Lincoln     Forest Park               K-5     450        486         513         436         97%
+Roosevelt   George                    6-8     600        359         607         516         86%
+Franklin    Glencoe                   K-5     450        503         657         558                                     124%
+Wilson      Gray                      6-8     600        527         554         471         78%
+Cleveland   Grout                     K-5     450        389         534         454                      101%
+Madison     Harrison Park             K-8     500        742        1100         935                                     187%
+Wilson      Hayhurst                  K-8     500        484         368         313         63%
+Cleveland   Hosford                   6-8     600        591         721         613                      102%
+Grant       Irvington                 K-8     500        485         499         424         85%
+Wilson      Jackson                   6-8     600        548         571         485         81%
+Roosevelt   James John                K-5      450       445         594         505                      112%
+Franklin    Kelly                     K-5      450       631         585         497                      111%
+Jefferson   King                      K-8     500        350         356         303         61%
+Franklin    Lane                      6-8     600        445         592         503         84%
+Grant       Laurelhurst               K-8     500        671         695         591                      118%
+Madison     Lee                       K-8     500        431         551         468         94%
+Franklin    Lent                      K-8      500       560         583         496          99%
+Cleveland   Lewis                     K-5     450        382         321         273         61%
+Cleveland   Llewellyn                 K-5     450        518         480         408         91%
+Wilson      Maplewood                 K-5     450        329         423         360         80%
+Wilson      Markham                   K-5      450       386         528         449         100%
+Franklin    Marysville                K-8     500        405         556         473         95%
+Franklin    Mt.Tabor                  6-8     600        662         438         372         62%
+Roosevelt   Peninsula                 K-8     500        396         412         350         70%
+Wilson      Rieke                     K-5     450        388         404         343         76%
+Madison     Rigler                    K-5     450        480         634         539                      120%
+Roosevelt   Rosa Parks                K-5      450       341         524         445          99%
+Madison     Roseway Heights           K-8     500        668         580         493         99%
+
+                                         DRAFT for discussion. Revised 12/09/14
+                           Neighborhood Student Population and Enrollment Targets
+
+                                                                                                       Equal to or
+                                                               2014        85% of       Smaller than    up to 20%    Greater than
+                                     Grade         2014 School Neighorhood Neighborhood or equal to    larger than    20% larger
+Cluster     School                   Levels Target Enrollment population   population*   target size      target      than target
+Grant       Sabin                    K-8     500        514         660         561                       112%
+Madison     Scott                    K-8     500        481         733         623                                     125%
+Cleveland   Sellwood                 6-8     600        545         652         554         92%
+Roosevelt   Sitton                   K-5     450        399         600         510                      113%
+Lincoln     Skyline                  K-8     500        309         287         244         49%
+Wilson      Stephenson               K-5     450        308         297         252         56%
+Franklin    Sunnyside                K-8     500        586         445         378         76%
+Jefferson   Vernon                   K-8     500        386         646         549                      110%
+Madison     Vestal                   K-8     500        399         684         581                      116%
+Lincoln     West Sylvan (2 campus)   6-8     600        958        1051         893                                     149%
+Cleveland   Whitman                  K-5     450        316         446         379         84%
+Jefferson   Woodlawn                 K-8     500        425         717         609                                     122%
+Franklin    Woodmere                 K-5     450        338         434         369         82%
+Cleveland   Woodstock                K-5     450        487         398         338         75%
+
+            HIGH SCHOOLS
+            Cleveland                9-12      1350       1516     1782         1515                         112%
+            Franklin                 9-12      1350       1552     2060         1751                                        130%
+            Grant                    9-12      1350       1503     1744         1482                         110%
+            Lincoln                  9-12      1350       1583     1608         1367                         101%
+            Madison                  9-12      1350       1077     1858         1579                         117%
+            Roosevelt                9-12      1350        947     1959         1665                                        123%
+            Wilson                   9-12      1350       1257     1301         1106            82%
+
+
+
+
+*Assumptions: A school boundary should result in a sufficient neighborhood population to meet school size
+targets. For modeling purposes, it is assumed that 25% of students will attend other PPS schools, including
+charters, alternatives, focus options or the neighborhood schools where students were residents before
+moving to the current neighborhood. A further assumption is that 10% of school enrollment to be made up of
+non-neighborhood students, including students attending special education programs, approved for hardship
+transfer or former resident students. Some schools (highlighted in orange) house choice programs open to
+students from other neighborhoods.
+Enrollment counts do not include PK students, including those attending Head Start programs
+Enrollment counts for Grant, Madison and Lincoln high schools include Jefferson dual assignment areas
+
+School enrollment targets for modeling purposes:
+K-5 = 450 students
+K-8 = 500 students
+MS = 600 students
+HS = 1350 students
+
+
+
+
+                                            DRAFT for discussion. Revised 12/09/14
+                   Neighborhood Student Population and Enrollment Targets
+
+
+
+
+                                                                                           Equal to or
+                                                   2014        85% of       Smaller than    up to 20%    Greater than
+                         Grade         2014 School Neighorhood Neighborhood or equal to    larger than    20% larger
+Cluster   School         Levels Target Enrollment population   population*   target size      target      than target
+
+
+
+
+Updated: 12/1/14
+
+
+
+
+                              DRAFT for discussion. Revised 12/09/14
+

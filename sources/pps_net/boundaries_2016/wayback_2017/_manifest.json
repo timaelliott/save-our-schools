@@ -1,0 +1,50 @@
+{
+ "note": "2015-16 PPS enrollment-balancing and school-profile documents retrieved from the Internet Archive (pps.net originals now 404). Searched for a Hayhurst DBRAC data pack: none archived (14 data packs exist in Domain/182: Abernethy, Alameda, Astor, Beverly Cleary, Bridger, Chapman, CSS, East-West Sylvan, Harrison Park, Kelly, Laurelhurst, Scott, Sitton, Skyline). The Class Size Detail file at the 2015-16 URL actually contains the 2014-15 table (as of 5/2/2015).",
+ "files": [
+  {
+   "file": "sources/pps_net/boundaries_2016/wayback_2017/Neighborhood_population_and_school_targets.v2.pdf",
+   "original_url": "https://www.pps.net/cms/lib/OR01913224/Centricity/Domain/182/Neighborhood_population_and_school_targets.v2.pdf",
+   "fetched_url": "https://web.archive.org/web/20170623054738id_/https://www.pps.net/cms/lib/OR01913224/Centricity/Domain/182/Neighborhood_population_and_school_targets.v2.pdf",
+   "wayback_timestamp": "20170623054738",
+   "fetch_date": "2026-11-07",
+   "fetch_method": "built-in browser fetch from web.archive.org, saved via desktop Downloads",
+   "sha256": "eaea7abbf096a4fa54b7262f7e90d8d7cac4a0d25296ae906559046b0018de23"
+  },
+  {
+   "file": "sources/pps_net/boundaries_2016/wayback_2017/Current_State_KPIs.pdf",
+   "original_url": "https://www.pps.net/cms/lib/OR01913224/Centricity/Domain/182/Current_State_KPIs.pdf",
+   "fetched_url": "https://web.archive.org/web/20170624023558id_/https://www.pps.net/cms/lib/OR01913224/Centricity/Domain/182/Current_State_KPIs.pdf",
+   "wayback_timestamp": "20170624023558",
+   "fetch_date": "2026-11-07",
+   "fetch_method": "built-in browser fetch from web.archive.org, saved via desktop Downloads",
+   "sha256": "59cc7fe5d406dc90ba068f1000fa441c673953fe5a4fea8f30b4050929fc2650"
+  },
+  {
+   "file": "sources/pps_net/boundaries_2016/wayback_2017/DBRAC_memorandum_on_Tier_1_enrollment_issues_FINAL.pdf",
+   "original_url": "https://www.pps.net/cms/lib/OR01913224/Centricity/Domain/182/DBRAC_memorandum_on_Tier_1_enrollment_issues_FINAL.pdf",
+   "fetched_url": "https://web.archive.org/web/20170623054446id_/https://www.pps.net/cms/lib/OR01913224/Centricity/Domain/182/DBRAC_memorandum_on_Tier_1_enrollment_issues_FINAL.pdf",
+   "wayback_timestamp": "20170623054446",
+   "fetch_date": "2026-11-07",
+   "fetch_method": "built-in browser fetch from web.archive.org, saved via desktop Downloads",
+   "sha256": "7f010a712f99ec9b88c5290f54928a634c38dcc3449baaa31c4f168e7aa1795b"
+  },
+  {
+   "file": "sources/pps_net/boundaries_2016/wayback_2017/2015-16_School_Profiles.pdf",
+   "original_url": "https://www.pps.net/cms/lib/OR01913224/Centricity/Domain/207/2015-16 School Profiles.pdf",
+   "fetched_url": "https://web.archive.org/web/20170624054426id_/https://www.pps.net/cms/lib/OR01913224/Centricity/Domain/207/2015-16%20School%20Profiles.pdf",
+   "wayback_timestamp": "20170624054426",
+   "fetch_date": "2026-11-07",
+   "fetch_method": "built-in browser fetch from web.archive.org, saved via desktop Downloads",
+   "sha256": "69189f81b106c79719590fb1f9c369588d7a556dc6f2054a0ebadcbf5755d035"
+  },
+  {
+   "file": "sources/pps_net/boundaries_2016/wayback_2017/Class_Size_Detail_2015-16_url_contains_2014-15.pdf",
+   "original_url": "https://www.pps.net/cms/lib/OR01913224/Centricity/Domain/207/School Characteristics/2015-2016/Class Size_Detail 2015-16.pdf",
+   "fetched_url": "https://web.archive.org/web/20170624054302id_/https://www.pps.net/cms/lib/OR01913224/Centricity/Domain/207/School%20Characteristics/2015-2016/Class%20Size_Detail%202015-16.pdf",
+   "wayback_timestamp": "20170624054302",
+   "fetch_date": "2026-11-07",
+   "fetch_method": "built-in browser fetch from web.archive.org, saved via desktop Downloads",
+   "sha256": "d23f0f6342513fa1d1d25d49cfceacc125f8917b80068ce4ad423db27eb5424a"
+  }
+ ]
+}
