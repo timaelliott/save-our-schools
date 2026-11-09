@@ -1,0 +1,521 @@
+source,surveys,window,group,n,per_home,per_person
+1-year,2019,built Y or Y-1,detached 2-4BR,28,0.391,0.13
+1-year,2019,built Y or Y-1,attached 2-4BR,4,0.0,0.0
+1-year,2019,built Y or Y-1,detached 3-4BR,23,0.413,0.132
+1-year,2019,built Y or Y-1,attached 3-4BR,3,0.0,0.0
+1-year,2019,built Y only,detached 2-4BR,7,0.882,0.223
+1-year,2019,built Y only,attached 2-4BR,0,,
+1-year,2019,built Y only,detached 3-4BR,7,0.882,0.223
+1-year,2019,built Y only,attached 3-4BR,0,,
+1-year,2019,built Y-1 only,detached 2-4BR,21,0.189,0.072
+1-year,2019,built Y-1 only,attached 2-4BR,4,0.0,0.0
+1-year,2019,built Y-1 only,detached 3-4BR,16,0.174,0.064
+1-year,2019,built Y-1 only,attached 3-4BR,3,0.0,0.0
+1-year,2019,built Y-2..Y,detached 2-4BR,50,0.311,0.116
+1-year,2019,built Y-2..Y,attached 2-4BR,7,0.218,0.12
+1-year,2019,built Y-2..Y,detached 3-4BR,43,0.331,0.118
+1-year,2019,built Y-2..Y,attached 3-4BR,6,0.244,0.144
+1-year,2021,built Y or Y-1,detached 2-4BR,26,0.54,0.182
+1-year,2021,built Y or Y-1,attached 2-4BR,6,0.631,0.277
+1-year,2021,built Y or Y-1,detached 3-4BR,26,0.54,0.182
+1-year,2021,built Y or Y-1,attached 3-4BR,5,0.77,0.33
+1-year,2021,built Y only,detached 2-4BR,6,1.304,0.373
+1-year,2021,built Y only,attached 2-4BR,0,,
+1-year,2021,built Y only,detached 3-4BR,6,1.304,0.373
+1-year,2021,built Y only,attached 3-4BR,0,,
+1-year,2021,built Y-1 only,detached 2-4BR,20,0.271,0.098
+1-year,2021,built Y-1 only,attached 2-4BR,6,0.631,0.277
+1-year,2021,built Y-1 only,detached 3-4BR,20,0.271,0.098
+1-year,2021,built Y-1 only,attached 3-4BR,5,0.77,0.33
+1-year,2021,built Y-2..Y,detached 2-4BR,26,0.54,0.182
+1-year,2021,built Y-2..Y,attached 2-4BR,6,0.631,0.277
+1-year,2021,built Y-2..Y,detached 3-4BR,26,0.54,0.182
+1-year,2021,built Y-2..Y,attached 3-4BR,5,0.77,0.33
+1-year,2022,built Y or Y-1,detached 2-4BR,26,0.174,0.08
+1-year,2022,built Y or Y-1,attached 2-4BR,4,0.0,0.0
+1-year,2022,built Y or Y-1,detached 3-4BR,24,0.224,0.092
+1-year,2022,built Y or Y-1,attached 3-4BR,4,0.0,0.0
+1-year,2022,built Y only,detached 2-4BR,9,0.061,0.035
+1-year,2022,built Y only,attached 2-4BR,1,0.0,
+1-year,2022,built Y only,detached 3-4BR,9,0.061,0.035
+1-year,2022,built Y only,attached 3-4BR,1,0.0,
+1-year,2022,built Y-1 only,detached 2-4BR,17,0.228,0.095
+1-year,2022,built Y-1 only,attached 2-4BR,3,0.0,0.0
+1-year,2022,built Y-1 only,detached 3-4BR,15,0.339,0.116
+1-year,2022,built Y-1 only,attached 3-4BR,3,0.0,0.0
+1-year,2022,built Y-2..Y,detached 2-4BR,56,0.302,0.115
+1-year,2022,built Y-2..Y,attached 2-4BR,11,0.0,0.0
+1-year,2022,built Y-2..Y,detached 3-4BR,53,0.345,0.123
+1-year,2022,built Y-2..Y,attached 3-4BR,9,0.0,0.0
+1-year,2023,built Y or Y-1,detached 2-4BR,22,0.33,0.111
+1-year,2023,built Y or Y-1,attached 2-4BR,3,0.0,0.0
+1-year,2023,built Y or Y-1,detached 3-4BR,19,0.298,0.098
+1-year,2023,built Y or Y-1,attached 3-4BR,2,0.0,0.0
+1-year,2023,built Y only,detached 2-4BR,5,0.338,0.149
+1-year,2023,built Y only,attached 2-4BR,0,,
+1-year,2023,built Y only,detached 3-4BR,4,0.0,0.0
+1-year,2023,built Y only,attached 3-4BR,0,,
+1-year,2023,built Y-1 only,detached 2-4BR,17,0.329,0.104
+1-year,2023,built Y-1 only,attached 2-4BR,3,0.0,0.0
+1-year,2023,built Y-1 only,detached 3-4BR,15,0.352,0.108
+1-year,2023,built Y-1 only,attached 3-4BR,2,0.0,0.0
+1-year,2023,built Y-2..Y,detached 2-4BR,47,0.324,0.106
+1-year,2023,built Y-2..Y,attached 2-4BR,8,0.119,0.072
+1-year,2023,built Y-2..Y,detached 3-4BR,42,0.3,0.097
+1-year,2023,built Y-2..Y,attached 3-4BR,6,0.165,0.105
+1-year,2024,built Y or Y-1,detached 2-4BR,25,0.281,0.117
+1-year,2024,built Y or Y-1,attached 2-4BR,8,0.143,0.073
+1-year,2024,built Y or Y-1,detached 3-4BR,20,0.335,0.132
+1-year,2024,built Y or Y-1,attached 3-4BR,5,0.21,0.094
+1-year,2024,built Y only,detached 2-4BR,12,0.0,0.0
+1-year,2024,built Y only,attached 2-4BR,3,0.0,0.0
+1-year,2024,built Y only,detached 3-4BR,10,0.0,0.0
+1-year,2024,built Y only,attached 3-4BR,2,0.0,0.0
+1-year,2024,built Y-1 only,detached 2-4BR,13,0.771,0.211
+1-year,2024,built Y-1 only,attached 2-4BR,5,0.28,0.136
+1-year,2024,built Y-1 only,detached 3-4BR,10,0.982,0.247
+1-year,2024,built Y-1 only,attached 3-4BR,3,0.549,0.205
+1-year,2024,built Y-2..Y,detached 2-4BR,36,0.345,0.135
+1-year,2024,built Y-2..Y,attached 2-4BR,12,0.167,0.081
+1-year,2024,built Y-2..Y,detached 3-4BR,30,0.407,0.153
+1-year,2024,built Y-2..Y,attached 3-4BR,7,0.302,0.116
+1-year,2019+2021,built Y or Y-1,detached 2-4BR,54,0.456,0.152
+1-year,2019+2021,built Y or Y-1,attached 2-4BR,10,0.369,0.196
+1-year,2019+2021,built Y or Y-1,detached 3-4BR,49,0.473,0.155
+1-year,2019+2021,built Y or Y-1,attached 3-4BR,8,0.462,0.263
+1-year,2019+2021,built Y only,detached 2-4BR,13,1.054,0.279
+1-year,2019+2021,built Y only,attached 2-4BR,0,,
+1-year,2019+2021,built Y only,detached 3-4BR,13,1.054,0.279
+1-year,2019+2021,built Y only,attached 3-4BR,0,,
+1-year,2019+2021,built Y-1 only,detached 2-4BR,41,0.226,0.084
+1-year,2019+2021,built Y-1 only,attached 2-4BR,10,0.369,0.196
+1-year,2019+2021,built Y-1 only,detached 3-4BR,36,0.223,0.081
+1-year,2019+2021,built Y-1 only,attached 3-4BR,8,0.462,0.263
+1-year,2019+2021,built Y-2..Y,detached 2-4BR,76,0.376,0.136
+1-year,2019+2021,built Y-2..Y,attached 2-4BR,13,0.381,0.191
+1-year,2019+2021,built Y-2..Y,detached 3-4BR,69,0.396,0.139
+1-year,2019+2021,built Y-2..Y,attached 3-4BR,11,0.441,0.228
+1-year,2019+2022,built Y or Y-1,detached 2-4BR,54,0.272,0.106
+1-year,2019+2022,built Y or Y-1,attached 2-4BR,8,0.0,0.0
+1-year,2019+2022,built Y or Y-1,detached 3-4BR,47,0.314,0.114
+1-year,2019+2022,built Y or Y-1,attached 3-4BR,7,0.0,0.0
+1-year,2019+2022,built Y only,detached 2-4BR,16,0.41,0.153
+1-year,2019+2022,built Y only,attached 2-4BR,1,0.0,
+1-year,2019+2022,built Y only,detached 3-4BR,16,0.41,0.153
+1-year,2019+2022,built Y only,attached 3-4BR,1,0.0,
+1-year,2019+2022,built Y-1 only,detached 2-4BR,38,0.21,0.084
+1-year,2019+2022,built Y-1 only,attached 2-4BR,7,0.0,0.0
+1-year,2019+2022,built Y-1 only,detached 3-4BR,31,0.256,0.091
+1-year,2019+2022,built Y-1 only,attached 3-4BR,6,0.0,0.0
+1-year,2019+2022,built Y-2..Y,detached 2-4BR,106,0.306,0.115
+1-year,2019+2022,built Y-2..Y,attached 2-4BR,18,0.076,0.048
+1-year,2019+2022,built Y-2..Y,detached 3-4BR,96,0.339,0.121
+1-year,2019+2022,built Y-2..Y,attached 3-4BR,15,0.093,0.059
+1-year,2019+2023,built Y or Y-1,detached 2-4BR,50,0.362,0.121
+1-year,2019+2023,built Y or Y-1,attached 2-4BR,7,0.0,0.0
+1-year,2019+2023,built Y or Y-1,detached 3-4BR,42,0.357,0.116
+1-year,2019+2023,built Y or Y-1,attached 3-4BR,5,0.0,0.0
+1-year,2019+2023,built Y only,detached 2-4BR,12,0.674,0.204
+1-year,2019+2023,built Y only,attached 2-4BR,0,,
+1-year,2019+2023,built Y only,detached 3-4BR,11,0.617,0.186
+1-year,2019+2023,built Y only,attached 3-4BR,0,,
+1-year,2019+2023,built Y-1 only,detached 2-4BR,38,0.26,0.09
+1-year,2019+2023,built Y-1 only,attached 2-4BR,7,0.0,0.0
+1-year,2019+2023,built Y-1 only,detached 3-4BR,31,0.271,0.09
+1-year,2019+2023,built Y-1 only,attached 3-4BR,5,0.0,0.0
+1-year,2019+2023,built Y-2..Y,detached 2-4BR,97,0.318,0.111
+1-year,2019+2023,built Y-2..Y,attached 2-4BR,15,0.169,0.098
+1-year,2019+2023,built Y-2..Y,detached 3-4BR,85,0.315,0.107
+1-year,2019+2023,built Y-2..Y,attached 3-4BR,12,0.209,0.128
+1-year,2019+2024,built Y or Y-1,detached 2-4BR,53,0.325,0.122
+1-year,2019+2024,built Y or Y-1,attached 2-4BR,12,0.101,0.057
+1-year,2019+2024,built Y or Y-1,detached 3-4BR,43,0.366,0.132
+1-year,2019+2024,built Y or Y-1,attached 3-4BR,8,0.142,0.079
+1-year,2019+2024,built Y only,detached 2-4BR,19,0.204,0.092
+1-year,2019+2024,built Y only,attached 2-4BR,3,0.0,0.0
+1-year,2019+2024,built Y only,detached 3-4BR,17,0.226,0.096
+1-year,2019+2024,built Y only,attached 3-4BR,2,0.0,0.0
+1-year,2019+2024,built Y-1 only,detached 2-4BR,34,0.445,0.144
+1-year,2019+2024,built Y-1 only,attached 2-4BR,9,0.153,0.089
+1-year,2019+2024,built Y-1 only,detached 3-4BR,26,0.524,0.161
+1-year,2019+2024,built Y-1 only,attached 3-4BR,6,0.244,0.145
+1-year,2019+2024,built Y-2..Y,detached 2-4BR,86,0.328,0.125
+1-year,2019+2024,built Y-2..Y,attached 2-4BR,19,0.185,0.093
+1-year,2019+2024,built Y-2..Y,detached 3-4BR,73,0.368,0.135
+1-year,2019+2024,built Y-2..Y,attached 3-4BR,13,0.275,0.126
+1-year,2021+2022,built Y or Y-1,detached 2-4BR,52,0.315,0.127
+1-year,2021+2022,built Y or Y-1,attached 2-4BR,10,0.321,0.167
+1-year,2021+2022,built Y or Y-1,detached 3-4BR,50,0.365,0.137
+1-year,2021+2022,built Y or Y-1,attached 3-4BR,9,0.353,0.185
+1-year,2021+2022,built Y only,detached 2-4BR,15,0.48,0.207
+1-year,2021+2022,built Y only,attached 2-4BR,1,0.0,
+1-year,2021+2022,built Y only,detached 3-4BR,15,0.48,0.207
+1-year,2021+2022,built Y only,attached 3-4BR,1,0.0,
+1-year,2021+2022,built Y-1 only,detached 2-4BR,37,0.246,0.097
+1-year,2021+2022,built Y-1 only,attached 2-4BR,9,0.366,0.167
+1-year,2021+2022,built Y-1 only,detached 3-4BR,35,0.305,0.107
+1-year,2021+2022,built Y-1 only,attached 3-4BR,8,0.408,0.185
+1-year,2021+2022,built Y-2..Y,detached 2-4BR,82,0.359,0.132
+1-year,2021+2022,built Y-2..Y,attached 2-4BR,17,0.162,0.097
+1-year,2021+2022,built Y-2..Y,detached 3-4BR,79,0.396,0.139
+1-year,2021+2022,built Y-2..Y,attached 3-4BR,14,0.207,0.12
+1-year,2021+2023,built Y or Y-1,detached 2-4BR,48,0.426,0.143
+1-year,2021+2023,built Y or Y-1,attached 2-4BR,9,0.425,0.199
+1-year,2021+2023,built Y or Y-1,detached 3-4BR,45,0.415,0.138
+1-year,2021+2023,built Y or Y-1,attached 3-4BR,7,0.566,0.26
+1-year,2021+2023,built Y only,detached 2-4BR,11,0.846,0.291
+1-year,2021+2023,built Y only,attached 2-4BR,0,,
+1-year,2021+2023,built Y only,detached 3-4BR,10,0.803,0.28
+1-year,2021+2023,built Y only,attached 3-4BR,0,,
+1-year,2021+2023,built Y-1 only,detached 2-4BR,37,0.304,0.101
+1-year,2021+2023,built Y-1 only,attached 2-4BR,9,0.425,0.199
+1-year,2021+2023,built Y-1 only,detached 3-4BR,35,0.315,0.104
+1-year,2021+2023,built Y-1 only,attached 3-4BR,7,0.566,0.26
+1-year,2021+2023,built Y-2..Y,detached 2-4BR,73,0.384,0.127
+1-year,2021+2023,built Y-2..Y,attached 2-4BR,14,0.324,0.171
+1-year,2021+2023,built Y-2..Y,detached 3-4BR,68,0.371,0.122
+1-year,2021+2023,built Y-2..Y,attached 3-4BR,11,0.426,0.225
+1-year,2021+2024,built Y or Y-1,detached 2-4BR,51,0.368,0.142
+1-year,2021+2024,built Y or Y-1,attached 2-4BR,14,0.325,0.157
+1-year,2021+2024,built Y or Y-1,detached 3-4BR,46,0.412,0.153
+1-year,2021+2024,built Y or Y-1,attached 3-4BR,10,0.444,0.194
+1-year,2021+2024,built Y only,detached 2-4BR,18,0.223,0.111
+1-year,2021+2024,built Y only,attached 2-4BR,3,0.0,0.0
+1-year,2021+2024,built Y only,detached 3-4BR,16,0.25,0.118
+1-year,2021+2024,built Y only,attached 3-4BR,2,0.0,0.0
+1-year,2021+2024,built Y-1 only,detached 2-4BR,33,0.518,0.162
+1-year,2021+2024,built Y-1 only,attached 2-4BR,11,0.469,0.216
+1-year,2021+2024,built Y-1 only,detached 3-4BR,30,0.579,0.176
+1-year,2021+2024,built Y-1 only,attached 3-4BR,8,0.693,0.282
+1-year,2021+2024,built Y-2..Y,detached 2-4BR,62,0.401,0.15
+1-year,2021+2024,built Y-2..Y,attached 2-4BR,18,0.287,0.135
+1-year,2021+2024,built Y-2..Y,detached 3-4BR,56,0.45,0.163
+1-year,2021+2024,built Y-2..Y,attached 3-4BR,12,0.46,0.183
+1-year,2022+2023,built Y or Y-1,detached 2-4BR,48,0.241,0.096
+1-year,2022+2023,built Y or Y-1,attached 2-4BR,7,0.0,0.0
+1-year,2022+2023,built Y or Y-1,detached 3-4BR,43,0.258,0.095
+1-year,2022+2023,built Y or Y-1,attached 3-4BR,6,0.0,0.0
+1-year,2022+2023,built Y only,detached 2-4BR,14,0.148,0.078
+1-year,2022+2023,built Y only,attached 2-4BR,1,0.0,
+1-year,2022+2023,built Y only,detached 3-4BR,13,0.046,0.026
+1-year,2022+2023,built Y only,attached 3-4BR,1,0.0,
+1-year,2022+2023,built Y-1 only,detached 2-4BR,34,0.275,0.1
+1-year,2022+2023,built Y-1 only,attached 2-4BR,6,0.0,0.0
+1-year,2022+2023,built Y-1 only,detached 3-4BR,30,0.346,0.111
+1-year,2022+2023,built Y-1 only,attached 3-4BR,5,0.0,0.0
+1-year,2022+2023,built Y-2..Y,detached 2-4BR,103,0.312,0.111
+1-year,2022+2023,built Y-2..Y,attached 2-4BR,19,0.04,0.026
+1-year,2022+2023,built Y-2..Y,detached 3-4BR,95,0.324,0.11
+1-year,2022+2023,built Y-2..Y,attached 3-4BR,15,0.054,0.035
+1-year,2022+2024,built Y or Y-1,detached 2-4BR,51,0.234,0.101
+1-year,2022+2024,built Y or Y-1,attached 2-4BR,12,0.091,0.05
+1-year,2022+2024,built Y or Y-1,detached 3-4BR,44,0.287,0.116
+1-year,2022+2024,built Y or Y-1,attached 3-4BR,9,0.114,0.059
+1-year,2022+2024,built Y only,detached 2-4BR,21,0.018,0.01
+1-year,2022+2024,built Y only,attached 2-4BR,4,0.0,0.0
+1-year,2022+2024,built Y only,detached 3-4BR,19,0.019,0.011
+1-year,2022+2024,built Y only,attached 3-4BR,3,0.0,0.0
+1-year,2022+2024,built Y-1 only,detached 2-4BR,30,0.446,0.154
+1-year,2022+2024,built Y-1 only,attached 2-4BR,8,0.152,0.074
+1-year,2022+2024,built Y-1 only,detached 3-4BR,25,0.621,0.184
+1-year,2022+2024,built Y-1 only,attached 3-4BR,6,0.206,0.09
+1-year,2022+2024,built Y-2..Y,detached 2-4BR,92,0.321,0.124
+1-year,2022+2024,built Y-2..Y,attached 2-4BR,23,0.084,0.047
+1-year,2022+2024,built Y-2..Y,detached 3-4BR,83,0.372,0.135
+1-year,2022+2024,built Y-2..Y,attached 3-4BR,16,0.126,0.064
+1-year,2023+2024,built Y or Y-1,detached 2-4BR,47,0.3,0.114
+1-year,2023+2024,built Y or Y-1,attached 2-4BR,11,0.111,0.058
+1-year,2023+2024,built Y or Y-1,detached 3-4BR,39,0.32,0.117
+1-year,2023+2024,built Y or Y-1,attached 3-4BR,7,0.167,0.078
+1-year,2023+2024,built Y only,detached 2-4BR,17,0.053,0.03
+1-year,2023+2024,built Y only,attached 2-4BR,3,0.0,0.0
+1-year,2023+2024,built Y only,detached 3-4BR,14,0.0,0.0
+1-year,2023+2024,built Y only,attached 3-4BR,2,0.0,0.0
+1-year,2023+2024,built Y-1 only,detached 2-4BR,30,0.519,0.154
+1-year,2023+2024,built Y-1 only,attached 2-4BR,8,0.179,0.091
+1-year,2023+2024,built Y-1 only,detached 3-4BR,25,0.597,0.169
+1-year,2023+2024,built Y-1 only,attached 3-4BR,5,0.328,0.142
+1-year,2023+2024,built Y-2..Y,detached 2-4BR,83,0.334,0.119
+1-year,2023+2024,built Y-2..Y,attached 2-4BR,20,0.151,0.078
+1-year,2023+2024,built Y-2..Y,detached 3-4BR,72,0.351,0.121
+1-year,2023+2024,built Y-2..Y,attached 3-4BR,13,0.247,0.113
+1-year,2019+2021+2022,built Y or Y-1,detached 2-4BR,80,0.341,0.128
+1-year,2019+2021+2022,built Y or Y-1,attached 2-4BR,14,0.236,0.133
+1-year,2019+2021+2022,built Y or Y-1,detached 3-4BR,73,0.381,0.135
+1-year,2019+2021+2022,built Y or Y-1,attached 3-4BR,12,0.27,0.162
+1-year,2019+2021+2022,built Y only,detached 2-4BR,22,0.612,0.214
+1-year,2019+2021+2022,built Y only,attached 2-4BR,1,0.0,
+1-year,2019+2021+2022,built Y only,detached 3-4BR,22,0.612,0.214
+1-year,2019+2021+2022,built Y only,attached 3-4BR,1,0.0,
+1-year,2019+2021+2022,built Y-1 only,detached 2-4BR,58,0.227,0.088
+1-year,2019+2021+2022,built Y-1 only,attached 2-4BR,13,0.259,0.133
+1-year,2019+2021+2022,built Y-1 only,detached 3-4BR,51,0.261,0.093
+1-year,2019+2021+2022,built Y-1 only,attached 3-4BR,11,0.302,0.162
+1-year,2019+2021+2022,built Y-2..Y,detached 2-4BR,132,0.341,0.126
+1-year,2019+2021+2022,built Y-2..Y,attached 2-4BR,24,0.178,0.104
+1-year,2019+2021+2022,built Y-2..Y,detached 3-4BR,122,0.372,0.131
+1-year,2019+2021+2022,built Y-2..Y,attached 3-4BR,20,0.219,0.127
+1-year,2019+2021+2023,built Y or Y-1,detached 2-4BR,76,0.413,0.138
+1-year,2019+2021+2023,built Y or Y-1,attached 2-4BR,13,0.287,0.153
+1-year,2019+2021+2023,built Y or Y-1,detached 3-4BR,68,0.415,0.136
+1-year,2019+2021+2023,built Y or Y-1,attached 3-4BR,10,0.38,0.217
+1-year,2019+2021+2023,built Y only,detached 2-4BR,18,0.862,0.256
+1-year,2019+2021+2023,built Y only,attached 2-4BR,0,,
+1-year,2019+2021+2023,built Y only,detached 3-4BR,17,0.84,0.249
+1-year,2019+2021+2023,built Y only,attached 3-4BR,0,,
+1-year,2019+2021+2023,built Y-1 only,detached 2-4BR,58,0.263,0.092
+1-year,2019+2021+2023,built Y-1 only,attached 2-4BR,13,0.287,0.153
+1-year,2019+2021+2023,built Y-1 only,detached 3-4BR,51,0.271,0.092
+1-year,2019+2021+2023,built Y-1 only,attached 3-4BR,10,0.38,0.217
+1-year,2019+2021+2023,built Y-2..Y,detached 2-4BR,123,0.354,0.123
+1-year,2019+2021+2023,built Y-2..Y,attached 2-4BR,21,0.284,0.152
+1-year,2019+2021+2023,built Y-2..Y,detached 3-4BR,111,0.355,0.12
+1-year,2019+2021+2023,built Y-2..Y,attached 3-4BR,17,0.35,0.193
+1-year,2019+2021+2024,built Y or Y-1,detached 2-4BR,79,0.375,0.138
+1-year,2019+2021+2024,built Y or Y-1,attached 2-4BR,18,0.257,0.134
+1-year,2019+2021+2024,built Y or Y-1,detached 3-4BR,69,0.412,0.146
+1-year,2019+2021+2024,built Y or Y-1,attached 3-4BR,13,0.347,0.175
+1-year,2019+2021+2024,built Y only,detached 2-4BR,25,0.355,0.148
+1-year,2019+2021+2024,built Y only,attached 2-4BR,3,0.0,0.0
+1-year,2019+2021+2024,built Y only,detached 3-4BR,23,0.388,0.154
+1-year,2019+2021+2024,built Y only,attached 3-4BR,2,0.0,0.0
+1-year,2019+2021+2024,built Y-1 only,detached 2-4BR,54,0.391,0.131
+1-year,2019+2021+2024,built Y-1 only,attached 2-4BR,15,0.339,0.175
+1-year,2019+2021+2024,built Y-1 only,detached 3-4BR,46,0.432,0.141
+1-year,2019+2021+2024,built Y-1 only,attached 3-4BR,11,0.483,0.244
+1-year,2019+2021+2024,built Y-2..Y,detached 2-4BR,112,0.363,0.136
+1-year,2019+2021+2024,built Y-2..Y,attached 2-4BR,25,0.267,0.131
+1-year,2019+2021+2024,built Y-2..Y,detached 3-4BR,99,0.401,0.144
+1-year,2019+2021+2024,built Y-2..Y,attached 3-4BR,18,0.382,0.172
+1-year,2019+2022+2023,built Y or Y-1,detached 2-4BR,76,0.289,0.108
+1-year,2019+2022+2023,built Y or Y-1,attached 2-4BR,11,0.0,0.0
+1-year,2019+2022+2023,built Y or Y-1,detached 3-4BR,66,0.309,0.109
+1-year,2019+2022+2023,built Y or Y-1,attached 3-4BR,9,0.0,0.0
+1-year,2019+2022+2023,built Y only,detached 2-4BR,21,0.395,0.153
+1-year,2019+2022+2023,built Y only,attached 2-4BR,1,0.0,
+1-year,2019+2022+2023,built Y only,detached 3-4BR,20,0.347,0.136
+1-year,2019+2022+2023,built Y only,attached 3-4BR,1,0.0,
+1-year,2019+2022+2023,built Y-1 only,detached 2-4BR,55,0.248,0.091
+1-year,2019+2022+2023,built Y-1 only,attached 2-4BR,10,0.0,0.0
+1-year,2019+2022+2023,built Y-1 only,detached 3-4BR,46,0.292,0.098
+1-year,2019+2022+2023,built Y-1 only,attached 3-4BR,8,0.0,0.0
+1-year,2019+2022+2023,built Y-2..Y,detached 2-4BR,153,0.312,0.112
+1-year,2019+2022+2023,built Y-2..Y,attached 2-4BR,26,0.086,0.054
+1-year,2019+2022+2023,built Y-2..Y,detached 3-4BR,138,0.327,0.113
+1-year,2019+2022+2023,built Y-2..Y,attached 3-4BR,21,0.11,0.07
+1-year,2019+2022+2024,built Y or Y-1,detached 2-4BR,79,0.276,0.11
+1-year,2019+2022+2024,built Y or Y-1,attached 2-4BR,16,0.072,0.042
+1-year,2019+2022+2024,built Y or Y-1,detached 3-4BR,67,0.323,0.121
+1-year,2019+2022+2024,built Y or Y-1,attached 3-4BR,12,0.09,0.053
+1-year,2019+2022+2024,built Y only,detached 2-4BR,28,0.17,0.081
+1-year,2019+2022+2024,built Y only,attached 2-4BR,4,0.0,0.0
+1-year,2019+2022+2024,built Y only,detached 3-4BR,26,0.184,0.084
+1-year,2019+2022+2024,built Y only,attached 3-4BR,3,0.0,0.0
+1-year,2019+2022+2024,built Y-1 only,detached 2-4BR,51,0.359,0.128
+1-year,2019+2022+2024,built Y-1 only,attached 2-4BR,12,0.105,0.057
+1-year,2019+2022+2024,built Y-1 only,detached 3-4BR,41,0.458,0.146
+1-year,2019+2022+2024,built Y-1 only,attached 3-4BR,9,0.14,0.076
+1-year,2019+2022+2024,built Y-2..Y,detached 2-4BR,142,0.318,0.121
+1-year,2019+2022+2024,built Y-2..Y,attached 2-4BR,30,0.112,0.063
+1-year,2019+2022+2024,built Y-2..Y,detached 3-4BR,126,0.359,0.13
+1-year,2019+2022+2024,built Y-2..Y,attached 3-4BR,22,0.158,0.083
+1-year,2019+2023+2024,built Y or Y-1,detached 2-4BR,75,0.326,0.119
+1-year,2019+2023+2024,built Y or Y-1,attached 2-4BR,15,0.084,0.047
+1-year,2019+2023+2024,built Y or Y-1,detached 3-4BR,62,0.347,0.122
+1-year,2019+2023+2024,built Y or Y-1,attached 3-4BR,10,0.121,0.067
+1-year,2019+2023+2024,built Y only,detached 2-4BR,24,0.221,0.099
+1-year,2019+2023+2024,built Y only,attached 2-4BR,3,0.0,0.0
+1-year,2019+2023+2024,built Y only,detached 3-4BR,21,0.204,0.089
+1-year,2019+2023+2024,built Y only,attached 3-4BR,2,0.0,0.0
+1-year,2019+2023+2024,built Y-1 only,detached 2-4BR,51,0.402,0.129
+1-year,2019+2023+2024,built Y-1 only,attached 2-4BR,12,0.117,0.067
+1-year,2019+2023+2024,built Y-1 only,detached 3-4BR,41,0.454,0.139
+1-year,2019+2023+2024,built Y-1 only,attached 3-4BR,8,0.188,0.11
+1-year,2019+2023+2024,built Y-2..Y,detached 2-4BR,133,0.327,0.118
+1-year,2019+2023+2024,built Y-2..Y,attached 2-4BR,27,0.168,0.089
+1-year,2019+2023+2024,built Y-2..Y,detached 3-4BR,115,0.344,0.12
+1-year,2019+2023+2024,built Y-2..Y,attached 3-4BR,19,0.246,0.122
+1-year,2021+2022+2023,built Y or Y-1,detached 2-4BR,74,0.32,0.121
+1-year,2021+2022+2023,built Y or Y-1,attached 2-4BR,13,0.257,0.135
+1-year,2021+2022+2023,built Y or Y-1,detached 3-4BR,69,0.344,0.123
+1-year,2021+2022+2023,built Y or Y-1,attached 3-4BR,11,0.303,0.161
+1-year,2021+2022+2023,built Y only,detached 2-4BR,20,0.447,0.194
+1-year,2021+2022+2023,built Y only,attached 2-4BR,1,0.0,
+1-year,2021+2022+2023,built Y only,detached 3-4BR,19,0.397,0.177
+1-year,2021+2022+2023,built Y only,attached 3-4BR,1,0.0,
+1-year,2021+2022+2023,built Y-1 only,detached 2-4BR,54,0.274,0.099
+1-year,2021+2022+2023,built Y-1 only,attached 2-4BR,12,0.285,0.135
+1-year,2021+2022+2023,built Y-1 only,detached 3-4BR,50,0.323,0.108
+1-year,2021+2022+2023,built Y-1 only,attached 3-4BR,10,0.343,0.161
+1-year,2021+2022+2023,built Y-2..Y,detached 2-4BR,129,0.345,0.122
+1-year,2021+2022+2023,built Y-2..Y,attached 2-4BR,25,0.15,0.09
+1-year,2021+2022+2023,built Y-2..Y,detached 3-4BR,121,0.359,0.122
+1-year,2021+2022+2023,built Y-2..Y,attached 3-4BR,20,0.196,0.116
+1-year,2021+2022+2024,built Y or Y-1,detached 2-4BR,77,0.301,0.123
+1-year,2021+2022+2024,built Y or Y-1,attached 2-4BR,18,0.239,0.124
+1-year,2021+2022+2024,built Y or Y-1,detached 3-4BR,70,0.352,0.135
+1-year,2021+2022+2024,built Y or Y-1,attached 3-4BR,14,0.297,0.146
+1-year,2021+2022+2024,built Y only,detached 2-4BR,27,0.182,0.094
+1-year,2021+2022+2024,built Y only,attached 2-4BR,4,0.0,0.0
+1-year,2021+2022+2024,built Y only,detached 3-4BR,25,0.198,0.099
+1-year,2021+2022+2024,built Y only,attached 3-4BR,3,0.0,0.0
+1-year,2021+2022+2024,built Y-1 only,detached 2-4BR,50,0.395,0.138
+1-year,2021+2022+2024,built Y-1 only,attached 2-4BR,14,0.337,0.157
+1-year,2021+2022+2024,built Y-1 only,detached 3-4BR,45,0.494,0.156
+1-year,2021+2022+2024,built Y-1 only,attached 3-4BR,11,0.439,0.19
+1-year,2021+2022+2024,built Y-2..Y,detached 2-4BR,118,0.354,0.134
+1-year,2021+2022+2024,built Y-2..Y,attached 2-4BR,29,0.164,0.089
+1-year,2021+2022+2024,built Y-2..Y,detached 3-4BR,109,0.4,0.144
+1-year,2021+2022+2024,built Y-2..Y,attached 3-4BR,21,0.24,0.118
+1-year,2021+2023+2024,built Y or Y-1,detached 2-4BR,73,0.357,0.132
+1-year,2021+2023+2024,built Y or Y-1,attached 2-4BR,17,0.275,0.135
+1-year,2021+2023+2024,built Y or Y-1,detached 3-4BR,65,0.379,0.136
+1-year,2021+2023+2024,built Y or Y-1,attached 3-4BR,12,0.386,0.174
+1-year,2021+2023+2024,built Y only,detached 2-4BR,23,0.239,0.117
+1-year,2021+2023+2024,built Y only,attached 2-4BR,3,0.0,0.0
+1-year,2021+2023+2024,built Y only,detached 3-4BR,20,0.223,0.107
+1-year,2021+2023+2024,built Y only,attached 3-4BR,2,0.0,0.0
+1-year,2021+2023+2024,built Y-1 only,detached 2-4BR,50,0.443,0.139
+1-year,2021+2023+2024,built Y-1 only,attached 2-4BR,14,0.372,0.177
+1-year,2021+2023+2024,built Y-1 only,detached 3-4BR,45,0.487,0.149
+1-year,2021+2023+2024,built Y-1 only,attached 3-4BR,10,0.561,0.242
+1-year,2021+2023+2024,built Y-2..Y,detached 2-4BR,109,0.368,0.13
+1-year,2021+2023+2024,built Y-2..Y,attached 2-4BR,26,0.24,0.121
+1-year,2021+2023+2024,built Y-2..Y,detached 3-4BR,98,0.385,0.133
+1-year,2021+2023+2024,built Y-2..Y,attached 3-4BR,18,0.369,0.166
+1-year,2022+2023+2024,built Y or Y-1,detached 2-4BR,73,0.258,0.104
+1-year,2022+2023+2024,built Y or Y-1,attached 2-4BR,15,0.077,0.042
+1-year,2022+2023+2024,built Y or Y-1,detached 3-4BR,63,0.29,0.11
+1-year,2022+2023+2024,built Y or Y-1,attached 3-4BR,11,0.1,0.052
+1-year,2022+2023+2024,built Y only,detached 2-4BR,26,0.055,0.031
+1-year,2022+2023+2024,built Y only,attached 2-4BR,4,0.0,0.0
+1-year,2022+2023+2024,built Y only,detached 3-4BR,23,0.018,0.01
+1-year,2022+2023+2024,built Y only,attached 3-4BR,3,0.0,0.0
+1-year,2022+2023+2024,built Y-1 only,detached 2-4BR,47,0.405,0.135
+1-year,2022+2023+2024,built Y-1 only,attached 2-4BR,11,0.116,0.058
+1-year,2022+2023+2024,built Y-1 only,detached 3-4BR,40,0.511,0.153
+1-year,2022+2023+2024,built Y-1 only,attached 3-4BR,8,0.165,0.075
+1-year,2022+2023+2024,built Y-2..Y,detached 2-4BR,139,0.322,0.118
+1-year,2022+2023+2024,built Y-2..Y,attached 2-4BR,31,0.091,0.052
+1-year,2022+2023+2024,built Y-2..Y,detached 3-4BR,125,0.348,0.122
+1-year,2022+2023+2024,built Y-2..Y,attached 3-4BR,22,0.135,0.072
+1-year,2019+2021+2022+2023,built Y or Y-1,detached 2-4BR,102,0.338,0.124
+1-year,2019+2021+2022+2023,built Y or Y-1,attached 2-4BR,17,0.199,0.112
+1-year,2019+2021+2022+2023,built Y or Y-1,detached 3-4BR,92,0.361,0.126
+1-year,2019+2021+2022+2023,built Y or Y-1,attached 3-4BR,14,0.24,0.143
+1-year,2019+2021+2022+2023,built Y only,detached 2-4BR,27,0.566,0.205
+1-year,2019+2021+2022+2023,built Y only,attached 2-4BR,1,0.0,
+1-year,2019+2021+2022+2023,built Y only,detached 3-4BR,26,0.537,0.196
+1-year,2019+2021+2022+2023,built Y only,attached 3-4BR,1,0.0,
+1-year,2019+2021+2022+2023,built Y-1 only,detached 2-4BR,75,0.253,0.093
+1-year,2019+2021+2022+2023,built Y-1 only,attached 2-4BR,16,0.216,0.112
+1-year,2019+2021+2022+2023,built Y-1 only,detached 3-4BR,66,0.287,0.098
+1-year,2019+2021+2022+2023,built Y-1 only,attached 3-4BR,13,0.264,0.143
+1-year,2019+2021+2022+2023,built Y-2..Y,detached 2-4BR,179,0.336,0.12
+1-year,2019+2021+2022+2023,built Y-2..Y,attached 2-4BR,32,0.165,0.097
+1-year,2019+2021+2022+2023,built Y-2..Y,detached 3-4BR,164,0.352,0.121
+1-year,2019+2021+2022+2023,built Y-2..Y,attached 3-4BR,26,0.208,0.123
+1-year,2019+2021+2022+2024,built Y or Y-1,detached 2-4BR,105,0.321,0.125
+1-year,2019+2021+2022+2024,built Y or Y-1,attached 2-4BR,22,0.2,0.109
+1-year,2019+2021+2022+2024,built Y or Y-1,detached 3-4BR,93,0.366,0.134
+1-year,2019+2021+2022+2024,built Y or Y-1,attached 3-4BR,17,0.251,0.135
+1-year,2019+2021+2022+2024,built Y only,detached 2-4BR,34,0.293,0.13
+1-year,2019+2021+2022+2024,built Y only,attached 2-4BR,4,0.0,0.0
+1-year,2019+2021+2022+2024,built Y only,detached 3-4BR,32,0.313,0.134
+1-year,2019+2021+2022+2024,built Y only,attached 3-4BR,3,0.0,0.0
+1-year,2019+2021+2022+2024,built Y-1 only,detached 2-4BR,71,0.34,0.122
+1-year,2019+2021+2022+2024,built Y-1 only,attached 2-4BR,18,0.264,0.134
+1-year,2019+2021+2022+2024,built Y-1 only,detached 3-4BR,61,0.408,0.134
+1-year,2019+2021+2022+2024,built Y-1 only,attached 3-4BR,14,0.344,0.172
+1-year,2019+2021+2022+2024,built Y-2..Y,detached 2-4BR,168,0.342,0.129
+1-year,2019+2021+2022+2024,built Y-2..Y,attached 2-4BR,36,0.174,0.095
+1-year,2019+2021+2022+2024,built Y-2..Y,detached 3-4BR,152,0.381,0.137
+1-year,2019+2021+2022+2024,built Y-2..Y,attached 3-4BR,27,0.241,0.123
+1-year,2019+2021+2023+2024,built Y or Y-1,detached 2-4BR,101,0.365,0.131
+1-year,2019+2021+2023+2024,built Y or Y-1,attached 2-4BR,21,0.225,0.118
+1-year,2019+2021+2023+2024,built Y or Y-1,detached 3-4BR,88,0.387,0.135
+1-year,2019+2021+2023+2024,built Y or Y-1,attached 3-4BR,15,0.311,0.159
+1-year,2019+2021+2023+2024,built Y only,detached 2-4BR,30,0.353,0.148
+1-year,2019+2021+2023+2024,built Y only,attached 2-4BR,3,0.0,0.0
+1-year,2019+2021+2023+2024,built Y only,detached 3-4BR,27,0.355,0.144
+1-year,2019+2021+2023+2024,built Y only,attached 3-4BR,2,0.0,0.0
+1-year,2019+2021+2023+2024,built Y-1 only,detached 2-4BR,71,0.373,0.123
+1-year,2019+2021+2023+2024,built Y-1 only,attached 2-4BR,18,0.285,0.148
+1-year,2019+2021+2023+2024,built Y-1 only,detached 3-4BR,61,0.408,0.13
+1-year,2019+2021+2023+2024,built Y-1 only,attached 3-4BR,13,0.415,0.213
+1-year,2019+2021+2023+2024,built Y-2..Y,detached 2-4BR,159,0.351,0.126
+1-year,2019+2021+2023+2024,built Y-2..Y,attached 2-4BR,33,0.235,0.121
+1-year,2019+2021+2023+2024,built Y-2..Y,detached 3-4BR,141,0.37,0.129
+1-year,2019+2021+2023+2024,built Y-2..Y,attached 3-4BR,24,0.334,0.161
+1-year,2019+2022+2023+2024,built Y or Y-1,detached 2-4BR,101,0.286,0.11
+1-year,2019+2022+2023+2024,built Y or Y-1,attached 2-4BR,19,0.062,0.036
+1-year,2019+2022+2023+2024,built Y or Y-1,detached 3-4BR,86,0.317,0.116
+1-year,2019+2022+2023+2024,built Y or Y-1,attached 3-4BR,14,0.081,0.047
+1-year,2019+2022+2023+2024,built Y only,detached 2-4BR,33,0.187,0.088
+1-year,2019+2022+2023+2024,built Y only,attached 2-4BR,4,0.0,0.0
+1-year,2019+2022+2023+2024,built Y only,detached 3-4BR,30,0.17,0.079
+1-year,2019+2022+2023+2024,built Y only,attached 3-4BR,3,0.0,0.0
+1-year,2019+2022+2023+2024,built Y-1 only,detached 2-4BR,68,0.351,0.121
+1-year,2019+2022+2023+2024,built Y-1 only,attached 2-4BR,15,0.086,0.047
+1-year,2019+2022+2023+2024,built Y-1 only,detached 3-4BR,56,0.426,0.134
+1-year,2019+2022+2023+2024,built Y-1 only,attached 3-4BR,11,0.12,0.065
+1-year,2019+2022+2023+2024,built Y-2..Y,detached 2-4BR,189,0.319,0.117
+1-year,2019+2022+2023+2024,built Y-2..Y,attached 2-4BR,38,0.113,0.064
+1-year,2019+2022+2023+2024,built Y-2..Y,detached 3-4BR,168,0.344,0.121
+1-year,2019+2022+2023+2024,built Y-2..Y,attached 3-4BR,28,0.159,0.086
+1-year,2021+2022+2023+2024,built Y or Y-1,detached 2-4BR,99,0.307,0.12
+1-year,2021+2022+2023+2024,built Y or Y-1,attached 2-4BR,21,0.211,0.11
+1-year,2021+2022+2023+2024,built Y or Y-1,detached 3-4BR,89,0.341,0.126
+1-year,2021+2022+2023+2024,built Y or Y-1,attached 3-4BR,16,0.27,0.134
+1-year,2021+2022+2023+2024,built Y only,detached 2-4BR,32,0.199,0.101
+1-year,2021+2022+2023+2024,built Y only,attached 2-4BR,4,0.0,0.0
+1-year,2021+2022+2023+2024,built Y only,detached 3-4BR,29,0.182,0.091
+1-year,2021+2022+2023+2024,built Y only,attached 3-4BR,3,0.0,0.0
+1-year,2021+2022+2023+2024,built Y-1 only,detached 2-4BR,67,0.377,0.128
+1-year,2021+2022+2023+2024,built Y-1 only,attached 2-4BR,17,0.284,0.135
+1-year,2021+2022+2023+2024,built Y-1 only,detached 3-4BR,60,0.45,0.141
+1-year,2021+2022+2023+2024,built Y-1 only,attached 3-4BR,13,0.382,0.171
+1-year,2021+2022+2023+2024,built Y-2..Y,detached 2-4BR,165,0.345,0.125
+1-year,2021+2022+2023+2024,built Y-2..Y,attached 2-4BR,37,0.156,0.086
+1-year,2021+2022+2023+2024,built Y-2..Y,detached 3-4BR,151,0.371,0.129
+1-year,2021+2022+2023+2024,built Y-2..Y,attached 3-4BR,27,0.226,0.116
+1-year,2019+2021+2022+2023+2024,built Y or Y-1,detached 2-4BR,127,0.322,0.122
+1-year,2019+2021+2022+2023+2024,built Y or Y-1,attached 2-4BR,25,0.18,0.098
+1-year,2019+2021+2022+2023+2024,built Y or Y-1,detached 3-4BR,112,0.354,0.127
+1-year,2019+2021+2022+2023+2024,built Y or Y-1,attached 3-4BR,19,0.231,0.125
+1-year,2019+2021+2022+2023+2024,built Y only,detached 2-4BR,39,0.297,0.132
+1-year,2019+2021+2022+2023+2024,built Y only,attached 2-4BR,4,0.0,0.0
+1-year,2019+2021+2022+2023+2024,built Y only,detached 3-4BR,36,0.292,0.127
+1-year,2019+2021+2022+2023+2024,built Y only,attached 3-4BR,3,0.0,0.0
+1-year,2019+2021+2022+2023+2024,built Y-1 only,detached 2-4BR,88,0.338,0.117
+1-year,2019+2021+2022+2023+2024,built Y-1 only,attached 2-4BR,21,0.23,0.118
+1-year,2019+2021+2022+2023+2024,built Y-1 only,detached 3-4BR,76,0.394,0.128
+1-year,2019+2021+2022+2023+2024,built Y-1 only,attached 3-4BR,16,0.308,0.156
+1-year,2019+2021+2022+2023+2024,built Y-2..Y,detached 2-4BR,215,0.338,0.123
+1-year,2019+2021+2022+2023+2024,built Y-2..Y,attached 2-4BR,44,0.166,0.092
+1-year,2019+2021+2022+2023+2024,built Y-2..Y,detached 3-4BR,194,0.363,0.127
+1-year,2019+2021+2022+2023+2024,built Y-2..Y,attached 3-4BR,33,0.229,0.121
+5-year,2019-2023,built Y or Y-1 (per-record survey year),detached 2-4BR,80,0.269,0.11
+5-year,2019-2023,built Y or Y-1 (per-record survey year),attached 2-4BR,16,0.143,0.116
+5-year,2019-2023,built Y or Y-1 (per-record survey year),detached 3-4BR,74,0.289,0.113
+5-year,2019-2023,built Y or Y-1 (per-record survey year),attached 3-4BR,14,0.156,0.134
+5-year,2019-2023,"naive: built 2022-2023, any survey year",detached 2-4BR,31,0.241,0.092
+5-year,2019-2023,"naive: built 2022-2023, any survey year",attached 2-4BR,4,0.0,0.0
+5-year,2019-2023,"naive: built 2022-2023, any survey year",detached 3-4BR,28,0.211,0.081
+5-year,2019-2023,"naive: built 2022-2023, any survey year",attached 3-4BR,3,0.0,0.0
+5-year,2019-2023,"built 2020 or later, any survey year",detached 2-4BR,164,0.37,0.134
+5-year,2019-2023,"built 2020 or later, any survey year",attached 2-4BR,37,0.492,0.282
+5-year,2019-2023,"built 2020 or later, any survey year",detached 3-4BR,151,0.396,0.139
+5-year,2019-2023,"built 2020 or later, any survey year",attached 3-4BR,29,0.598,0.333
+5-year,2020-2024,built Y or Y-1 (per-record survey year),detached 2-4BR,105,0.287,0.117
+5-year,2020-2024,built Y or Y-1 (per-record survey year),attached 2-4BR,24,0.132,0.093
+5-year,2020-2024,built Y or Y-1 (per-record survey year),detached 3-4BR,94,0.321,0.125
+5-year,2020-2024,built Y or Y-1 (per-record survey year),attached 3-4BR,19,0.153,0.111
+5-year,2020-2024,"naive: built 2023-2024, any survey year",detached 2-4BR,30,0.303,0.126
+5-year,2020-2024,"naive: built 2023-2024, any survey year",attached 2-4BR,8,0.117,0.063
+5-year,2020-2024,"naive: built 2023-2024, any survey year",detached 3-4BR,24,0.334,0.133
+5-year,2020-2024,"naive: built 2023-2024, any survey year",attached 3-4BR,5,0.16,0.078
+5-year,2020-2024,"built 2020 or later, any survey year",detached 2-4BR,249,0.411,0.15
+5-year,2020-2024,"built 2020 or later, any survey year",attached 2-4BR,64,0.387,0.202
+5-year,2020-2024,"built 2020 or later, any survey year",detached 3-4BR,226,0.45,0.158
+5-year,2020-2024,"built 2020 or later, any survey year",attached 3-4BR,47,0.494,0.246

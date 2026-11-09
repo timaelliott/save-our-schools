@@ -118,3 +118,33 @@ Analysis:
    - the share of public-school students in this area who attend PPS rather than Beaverton or a charter (ACS counts any public school);
    - the yield increase as homes age past 2 years;
    - the actual bedroom mix of Raleigh Crest.
+
+## Does any choice of survey years reproduce PSU's 0.10 per detached home?
+
+Tested (`analysis/topics/_build/acs_yield_year_combos.py` → `analysis/data/acs_yield_year_combos.csv`):
+- every combination of the five 1-year surveys (31 combinations);
+- four build windows: built in the survey year or the year before; survey year only; the year before only; up to 2 years before;
+- the 2019-2023 and 2020-2024 5-year files, using each record's own survey year, a naive "built in the file's last two years" filter, and "built 2020 or later".
+
+Results for new detached 2-4 BR homes, per home:
+
+| Specification | Students per home |
+|---|---|
+| All five surveys, built in the survey year or the year before | 0.32 |
+| Lowest single survey (2022, 26 homes) | 0.17 |
+| Lowest combination of 2+ surveys | 0.23 |
+| 5-year 2019-2023 (record's survey year) | 0.27 |
+| 5-year 2020-2024 (record's survey year) | 0.29 |
+| 5-year, naive filter | 0.24 / 0.30 |
+| 5-year, built 2020 or later (homes up to ~4 years old) | 0.37 / 0.41 |
+
+None of the windows that include homes a year or more old reaches 0.10 for detached homes in any combination. Only "built in the survey year only" gives lower values, from tiny samples of homes finished during the survey year, many barely occupied: 0.00-0.12 in five of 31 combinations, the lowest from 4-21 homes.
+
+Attached homes are a small sample (1-24 homes per specification). Their per-home figures range from 0 to 0.77, and many combinations fall at or below PSU's 7.2%, so the attached figure can't be distinguished from noise.
+
+Across these specifications, students per resident in new detached homes falls between about 0.08 and 0.15 (for example 0.09-0.13 in the 5-year files). That is the range PSU's 10% sits in.
+
+Analysis:
+- Changing the survey years doesn't move the detached per-home yield anywhere near 0.10.
+- Dividing by residents instead lands on PSU's numbers under nearly every year choice.
+- The "built 2020 or later" 5-year result for detached 3-4 BR (0.45 in 2020-2024) matches PSU's published 0.45 for single-family homes under 5 years old.
