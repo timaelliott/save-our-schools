@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T21:57:23Z",
+ "generated": "2026-11-09T01:38:39Z",
  "source": "https://meetings.boardbook.org/public/Organization/915",
  "meetings": [
   {
@@ -18,7 +18,18 @@
      "h": "/Public/Agenda/915?meeting=776248"
     }
    ],
-   "items": []
+   "items": [
+    {
+     "file": "14654773",
+     "name": "TLE Presentation--Special Education",
+     "item": "3. Rightsizing: Special Education"
+    },
+    {
+     "file": "14654774",
+     "name": "TLE Presentation_PPS_DLI Programs",
+     "item": "4. Rightsizing: Dual Language Immersion"
+    }
+   ]
   },
   {
    "id": "776737",

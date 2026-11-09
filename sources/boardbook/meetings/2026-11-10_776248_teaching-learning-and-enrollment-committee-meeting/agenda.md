@@ -18,7 +18,17 @@ Three (3) for topics related to items on the meeting agenda
 Two (2) for general topics related to Teaching, Learning, and Enrollment
 To sign up for public comment email PublicComment@pps.net or call 503-916-3741.
 3. Rightsizing: Special Education
+Attachments:
+(
+1
+)
+TLE Presentation--Special Education
 4. Rightsizing: Dual Language Immersion
+Attachments:
+(
+1
+)
+TLE Presentation_PPS_DLI Programs
 5. Other Business and Future Agenda Items
 6. Adjourn
 Web Viewer
