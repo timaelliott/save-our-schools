@@ -84,3 +84,37 @@ Analysis:
 3. The apartment figures here (2 BR about 0.07 with three years of builds) come in below PSU's 0.26 for 2-bedroom multi-family. The apartment sample is small (49 sampled units).
 4. These homes are measured within two years of construction, so households that move in before having school-age children aren't counted yet. Yields usually rise as a subdivision ages, so treat these as a floor.
 5. Renters and Multnomah County show lower yields, but both are dominated by small units and apartments.
+
+## Comparison with the PSU yield figures relayed by PPS (email, Nov 6, 2026)
+
+Source: an email from Richard Smith (PPS) quoting PSU, shared with us as a screenshot (not archived in `sources/`).
+
+**PSU's method, as quoted:** students aged 5-17 in public school, living in new 2-4 bedroom units built within the 2 years before the survey, in the tri-county area, per unit.
+- **PSU's result:** "10% yield per unit for detached, and 7.2% for attached"; 3-4 bedroom only: 10% and 9%.
+- **PSU's project estimate:** 133 detached plus 130 attached homes gives about 24 students in the second year after completion. PSU expects 30-50% of those students to be already enrolled in PPS.
+
+**This replication, same definition, ACS 1-year 2019 and 2021-24:**
+
+| Group | Public students 5-17 per unit | Public students 5-17 per person living there |
+|---|---|---|
+| Detached, 2-4 BR | 0.32 ± 0.15 | 0.12 |
+| Attached, 2-4 BR | 0.18 ± 0.18 | 0.10 |
+| Detached, 3-4 BR | 0.35 ± 0.18 | 0.13 |
+| Attached, 3-4 BR | 0.23 ± 0.24 | 0.13 |
+
+Diagnostic script: `analysis/topics/_build/acs_yield_psu_email_diagnostic.py`.
+
+Analysis:
+1. PSU's per-unit figures match this data's students **per resident**, not per home.
+   - Summing the housing weight over person records gives the same result, because each home is then counted once per occupant.
+   - Either error divides the true per-unit yield by household size (about 2.9-3.1 in new detached homes).
+   - This explanation is the closest fit, but it is still a hypothesis; PSU's exact survey years and code aren't known.
+2. No single survey year produces a per-unit detached yield as low as 0.10 (range 0.17-0.54). Excluding the survey year from the window (built 1-2 years before the survey) gives 0.35 detached.
+3. PSU's own published Table 2.6 gives 0.45 per single-family unit for buildings under 5 years old [PPS:pps_net/data-and-reporting/2026-27/psu_prc_enrollment_forecast_2026-27_to_2035-36.pdf p.16](https://www.pps.net/fs/resource-manager/view/8f9d62cd-5056-4cdc-8435-4bcba8ba86b1#page=16). The email's 0.10 conflicts with it.
+4. With the per-unit rates here, 133 detached and 130 attached 3-4 BR homes hold about **77 ± 39** public students aged 5-17. Of those, about **45 ± 32** are in grades K-5 (the grades relevant to Hayhurst).
+5. On the "30-50% already enrolled" point: students who move from another PPS school still add to Hayhurst's enrollment. Only students already living in the Hayhurst attendance area (or already attending Hayhurst) add nothing to its utilization. "New to the district" matters for PPS's total enrollment, not for Hayhurst's crowding.
+6. Still not modeled here:
+   - the phasing of completions;
+   - the share of public-school students in this area who attend PPS rather than Beaverton or a charter (ACS counts any public school);
+   - the yield increase as homes age past 2 years;
+   - the actual bedroom mix of Raleigh Crest.
