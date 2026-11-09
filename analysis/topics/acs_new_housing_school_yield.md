@@ -142,7 +142,7 @@ None of the windows that include homes a year or more old reaches 0.10 for detac
 
 Attached homes are a small sample (1-24 homes per specification). Their per-home figures range from 0 to 0.77, and many combinations fall at or below PSU's 7.2%, so the attached figure can't be distinguished from noise.
 
-Across these specifications, students per resident in new detached homes falls between about 0.08 and 0.15 (for example 0.09-0.13 in the 5-year files). That is the range PSU's 10% sits in.
+Across these specifications, students per resident in new detached homes falls between about 0.07 and 0.18 (0.09-0.13 in the 5-year files). That is the range PSU's 10% sits in.
 
 Analysis:
 - Changing the survey years doesn't move the detached per-home yield anywhere near 0.10.
