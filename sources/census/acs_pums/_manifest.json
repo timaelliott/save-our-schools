@@ -1,0 +1,133 @@
+[
+ {
+  "file": "census/acs_pums/2019/csv_hor.zip",
+  "url": "https://www2.census.gov/programs-surveys/acs/data/pums/2019/1-Year/csv_hor.zip",
+  "fetched": "2026-11-09T18:56:20+00:00",
+  "bytes": 3265616,
+  "sha256": "c3ecfce7760ea521069624d5bb986556d489a6f6bbbba310ffcd8c8d37c842df",
+  "description": "ACS 2019 1-year PUMS, Oregon housing records (CSV, zipped)"
+ },
+ {
+  "file": "census/acs_pums/2019/csv_por.zip",
+  "url": "https://www2.census.gov/programs-surveys/acs/data/pums/2019/1-Year/csv_por.zip",
+  "fetched": "2026-11-09T18:56:21+00:00",
+  "bytes": 7611064,
+  "sha256": "33fb0794737ada7abbfe76b2e2dbe29c610517e7a1447dee66dca07e4a5627a1",
+  "description": "ACS 2019 1-year PUMS, Oregon person records (CSV, zipped)"
+ },
+ {
+  "file": "census/acs_pums/2021/csv_hor.zip",
+  "url": "https://www2.census.gov/programs-surveys/acs/data/pums/2021/1-Year/csv_hor.zip",
+  "fetched": "2026-11-09T18:56:21+00:00",
+  "bytes": 3320480,
+  "sha256": "2de48267007fb7e603a6bd5c45816457bbe63080ddb8ab818e50bf4736f6610a",
+  "description": "ACS 2021 1-year PUMS, Oregon housing records (CSV, zipped)"
+ },
+ {
+  "file": "census/acs_pums/2021/csv_por.zip",
+  "url": "https://www2.census.gov/programs-surveys/acs/data/pums/2021/1-Year/csv_por.zip",
+  "fetched": "2026-11-09T18:56:22+00:00",
+  "bytes": 7677180,
+  "sha256": "084df83882ef8aae7fb86c411fd2e20c490833c8c7fb940feabfeee84238d458",
+  "description": "ACS 2021 1-year PUMS, Oregon person records (CSV, zipped)"
+ },
+ {
+  "file": "census/acs_pums/2022/csv_hor.zip",
+  "url": "https://www2.census.gov/programs-surveys/acs/data/pums/2022/1-Year/csv_hor.zip",
+  "fetched": "2026-11-09T18:56:22+00:00",
+  "bytes": 3392692,
+  "sha256": "3e13f9ed39e7c66d13ec5314569e514b2963206ac73986170d866036225dcd7d",
+  "description": "ACS 2022 1-year PUMS, Oregon housing records (CSV, zipped)"
+ },
+ {
+  "file": "census/acs_pums/2022/csv_por.zip",
+  "url": "https://www2.census.gov/programs-surveys/acs/data/pums/2022/1-Year/csv_por.zip",
+  "fetched": "2026-11-09T18:56:23+00:00",
+  "bytes": 7849381,
+  "sha256": "8ca3b8cd512eb960b17c5f6f9e65f0b8c93c87f533c81f8e67196ceec2e7fd72",
+  "description": "ACS 2022 1-year PUMS, Oregon person records (CSV, zipped)"
+ },
+ {
+  "file": "census/acs_pums/2023/csv_hor.zip",
+  "url": "https://www2.census.gov/programs-surveys/acs/data/pums/2023/1-Year/csv_hor.zip",
+  "fetched": "2026-11-09T18:56:23+00:00",
+  "bytes": 3490650,
+  "sha256": "e75bc6bf0d821b7bf6284b7b1b86d2802a719ffa0ba869cb86477e0db3ae8f59",
+  "description": "ACS 2023 1-year PUMS, Oregon housing records (CSV, zipped)"
+ },
+ {
+  "file": "census/acs_pums/2023/csv_por.zip",
+  "url": "https://www2.census.gov/programs-surveys/acs/data/pums/2023/1-Year/csv_por.zip",
+  "fetched": "2026-11-09T18:56:24+00:00",
+  "bytes": 7943384,
+  "sha256": "04c9266b0f7f55c9eaab9ae78dae9f9951a8883b71a08f78b4396c6c1e27e8ad",
+  "description": "ACS 2023 1-year PUMS, Oregon person records (CSV, zipped)"
+ },
+ {
+  "file": "census/acs_pums/2024/csv_hor.zip",
+  "url": "https://www2.census.gov/programs-surveys/acs/data/pums/2024/1-Year/csv_hor.zip",
+  "fetched": "2026-11-09T18:56:24+00:00",
+  "bytes": 3385253,
+  "sha256": "3505c5b958e0bcb10bc4c9abdbbc638b81bf949afaacea9e64b7fcdfe2b8b710",
+  "description": "ACS 2024 1-year PUMS, Oregon housing records (CSV, zipped)"
+ },
+ {
+  "file": "census/acs_pums/2024/csv_por.zip",
+  "url": "https://www2.census.gov/programs-surveys/acs/data/pums/2024/1-Year/csv_por.zip",
+  "fetched": "2026-11-09T18:56:24+00:00",
+  "bytes": 7914577,
+  "sha256": "63097ea60a3d27037c414f77f1a32c705933ec84742448f2c48ef3370bf33292",
+  "description": "ACS 2024 1-year PUMS, Oregon person records (CSV, zipped)"
+ },
+ {
+  "file": "census/acs_pums/2019/puma_names.json",
+  "url": "https://api.census.gov/data/2019/acs/acs1?get=NAME&for=public%20use%20microdata%20area:*&in=state:41",
+  "fetched": "2026-11-09T18:56:25+00:00",
+  "bytes": 0,
+  "description": "Oregon PUMA names (2010 PUMAs) from the ACS 2019 1-year API"
+ },
+ {
+  "file": "census/acs_pums/2021/puma_names.json",
+  "url": "https://api.census.gov/data/2021/acs/acs1?get=NAME&for=public%20use%20microdata%20area:*&in=state:41",
+  "fetched": "2026-11-09T18:56:25+00:00",
+  "bytes": 0,
+  "description": "Oregon PUMA names (2010 PUMAs) from the ACS 2021 1-year API"
+ },
+ {
+  "file": "census/acs_pums/2022/puma_names.json",
+  "url": "https://api.census.gov/data/2022/acs/acs1?get=NAME&for=public%20use%20microdata%20area:*&in=state:41",
+  "fetched": "2026-11-09T18:56:25+00:00",
+  "bytes": 0,
+  "description": "Oregon PUMA names (2020 PUMAs) from the ACS 2022 1-year API"
+ },
+ {
+  "file": "census/acs_pums/2023/puma_names.json",
+  "url": "https://api.census.gov/data/2023/acs/acs1?get=NAME&for=public%20use%20microdata%20area:*&in=state:41",
+  "fetched": "2026-11-09T18:56:25+00:00",
+  "bytes": 0,
+  "description": "Oregon PUMA names (2020 PUMAs) from the ACS 2023 1-year API"
+ },
+ {
+  "file": "census/acs_pums/2024/puma_names.json",
+  "url": "https://api.census.gov/data/2024/acs/acs1?get=NAME&for=public%20use%20microdata%20area:*&in=state:41",
+  "fetched": "2026-11-09T18:56:25+00:00",
+  "bytes": 0,
+  "description": "Oregon PUMA names (2020 PUMAs) from the ACS 2024 1-year API"
+ },
+ {
+  "file": "census/acs_pums/geo/2020_Census_Tract_to_2020_PUMA.txt",
+  "url": "https://www2.census.gov/geo/docs/reference/puma2020/2020_Census_Tract_to_2020_PUMA.txt",
+  "fetched": "2026-11-09T18:57:37+00:00",
+  "bytes": 1709076,
+  "sha256": "5262f460b2c8dbe86b00549e916317b1791fdc595c9af72ab18f6f6a67040531",
+  "description": "Census tract to PUMA relationship file (used to assign PUMAs to counties)"
+ },
+ {
+  "file": "census/acs_pums/geo/2010_Census_Tract_to_2010_PUMA.txt",
+  "url": "https://www2.census.gov/geo/docs/maps-data/data/rel/2010_Census_Tract_to_2010_PUMA.txt",
+  "fetched": "2026-11-09T18:57:37+00:00",
+  "bytes": 1481853,
+  "sha256": "3874b04b00b38d4b31d41de6fa799a9587778e9ade1a6ab10b02bb03a7f5a5ec",
+  "description": "Census tract to PUMA relationship file (used to assign PUMAs to counties)"
+ }
+]

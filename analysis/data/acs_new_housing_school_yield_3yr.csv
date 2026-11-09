@@ -1,0 +1,191 @@
+survey_year,county,bedrooms,structure,tenure,sample_units,units,units_moe90,occupied_units,children_5_17,public_students_5_17,students_moe90,sample_students,students_per_unit,per_unit_moe90,students_per_occupied_unit,per_occupied_moe90
+2019,All 3 counties,2,5+ unit apartment building,All,12,1640,907,1346,387,387,454,3,0.236,0.263,0.288,0.315
+2019,All 3 counties,2,All,All,21,2421,952,2127,484,484,484,4,0.2,0.192,0.228,0.218
+2019,All 3 counties,2,Mobile home,All,1,52,90,52,0,0,0,0,0.0,0.0,0.0,0.0
+2019,All 3 counties,2,Single-family attached (townhome),All,1,91,159,91,0,0,0,0,0.0,0.0,0.0,0.0
+2019,All 3 counties,2,Single-family detached,All,7,638,387,638,97,97,175,1,0.152,0.277,0.152,0.277
+2019,All 3 counties,3,2-4 unit building,All,1,194,311,0,0,0,0,0,0.0,0.0,0,0.0
+2019,All 3 counties,3,5+ unit apartment building,All,1,51,86,51,115,115,183,2,2.255,0.551,2.255,0.551
+2019,All 3 counties,3,All,All,23,2848,1163,2482,1628,765,593,6,0.269,0.201,0.308,0.211
+2019,All 3 counties,3,Mobile home,All,1,71,122,71,0,0,0,0,0.0,0.0,0.0,0.0
+2019,All 3 counties,3,Single-family attached (townhome),All,5,693,625,521,187,187,330,1,0.27,0.368,0.359,0.416
+2019,All 3 counties,3,Single-family detached,All,15,1839,874,1839,1326,463,465,3,0.252,0.246,0.252,0.246
+2019,All 3 counties,3-4,2-4 unit building,All,2,262,329,68,116,116,188,1,0.443,1.005,1.706,0.761
+2019,All 3 counties,3-4,5+ unit apartment building,All,1,51,86,51,115,115,183,2,2.255,0.551,2.255,0.551
+2019,All 3 counties,3-4,Mobile home,All,1,71,122,71,0,0,0,0,0.0,0.0,0.0,0.0
+2019,All 3 counties,3-4,Single-family attached (townhome),All,6,765,672,593,187,187,330,1,0.244,0.353,0.315,0.4
+2019,All 3 counties,3-4,Single-family detached,All,43,4922,1416,4922,2808,1631,1079,15,0.331,0.191,0.331,0.191
+2019,All 3 counties,4,2-4 unit building,All,1,68,114,68,116,116,188,1,1.706,0.761,1.706,0.761
+2019,All 3 counties,4,All,All,30,3223,1118,3223,1598,1284,914,13,0.398,0.242,0.398,0.242
+2019,All 3 counties,4,Single-family attached (townhome),All,1,72,120,72,0,0,0,0,0.0,0.0,0.0,0.0
+2019,All 3 counties,4,Single-family detached,All,28,3083,1077,3083,1482,1168,853,12,0.379,0.245,0.379,0.245
+2019,All 3 counties,All,2-4 unit building,All,2,262,329,68,116,116,188,1,0.443,1.005,1.706,0.761
+2019,All 3 counties,All,5+ unit apartment building,All,13,1691,910,1397,502,502,479,5,0.297,0.268,0.359,0.318
+2019,All 3 counties,All,All,All,74,8492,1879,7832,3710,2533,1143,23,0.298,0.134,0.323,0.141
+2019,All 3 counties,All,All,Owner,54,5822,1559,5822,2909,1732,971,16,0.297,0.154,0.297,0.154
+2019,All 3 counties,All,All,Renter,17,2010,876,2010,801,801,530,7,0.399,0.249,0.399,0.249
+2019,All 3 counties,All,All,Vacant,3,660,639,0,0,0,0,0,0.0,0.0,0,0.0
+2019,All 3 counties,All,Mobile home,All,2,123,153,123,0,0,0,0,0.0,0.0,0.0,0.0
+2019,All 3 counties,All,Single-family attached (townhome),All,7,856,703,684,187,187,330,1,0.218,0.327,0.273,0.37
+2019,All 3 counties,All,Single-family detached,All,50,5560,1467,5560,2905,1728,1099,16,0.311,0.176,0.311,0.176
+2019,Clackamas,All,All,All,19,2373,1186,2201,1635,662,563,7,0.279,0.228,0.301,0.241
+2019,Multnomah,All,All,All,23,2463,938,2269,361,224,352,2,0.091,0.144,0.099,0.156
+2019,Washington,All,All,All,32,3656,1231,3362,1714,1647,821,14,0.45,0.24,0.49,0.262
+2019-2024 pooled,All 3 counties,2,2-4 unit building,All,4,346,286,346,0,0,0,0,0.0,0.0,0.0,0.0
+2019-2024 pooled,All 3 counties,2,5+ unit apartment building,All,49,7413,2105,6066,617,487,526,4,0.066,0.07,0.08,0.085
+2019-2024 pooled,All 3 counties,2,All,All,90,12594,2507,11021,1246,861,652,8,0.068,0.051,0.078,0.058
+2019-2024 pooled,All 3 counties,2,Mobile home,All,4,396,379,396,0,0,0,0,0.0,0.0,0.0,0.0
+2019-2024 pooled,All 3 counties,2,Other,All,1,89,143,89,0,0,0,0,0.0,0.0,0.0,0.0
+2019-2024 pooled,All 3 counties,2,Single-family attached (townhome),All,11,1520,814,1520,0,0,0,0,0.0,0.0,0.0,0.0
+2019-2024 pooled,All 3 counties,2,Single-family detached,All,21,2830,1162,2604,629,374,382,4,0.132,0.125,0.144,0.135
+2019-2024 pooled,All 3 counties,3,2-4 unit building,All,7,1154,842,816,1003,1003,869,7,0.869,0.53,1.229,0.752
+2019-2024 pooled,All 3 counties,3,5+ unit apartment building,All,8,998,711,998,949,949,952,6,0.951,0.798,0.951,0.798
+2019-2024 pooled,All 3 counties,3,All,All,135,15819,2684,14541,7035,5194,1853,41,0.328,0.114,0.357,0.122
+2019-2024 pooled,All 3 counties,3,Mobile home,All,5,388,413,388,0,0,0,0,0.0,0.0,0.0,0.0
+2019-2024 pooled,All 3 counties,3,Single-family attached (townhome),All,30,3479,1146,3172,772,772,556,7,0.222,0.159,0.243,0.165
+2019-2024 pooled,All 3 counties,3,Single-family detached,All,85,9800,2133,9167,4311,2470,1288,21,0.252,0.132,0.269,0.14
+2019-2024 pooled,All 3 counties,3-4,2-4 unit building,All,9,1403,913,884,1119,1119,883,8,0.798,0.49,1.266,0.695
+2019-2024 pooled,All 3 counties,3-4,5+ unit apartment building,All,9,1332,797,998,949,949,952,6,0.712,0.745,0.951,0.798
+2019-2024 pooled,All 3 counties,3-4,Mobile home,All,5,388,413,388,0,0,0,0,0.0,0.0,0.0,0.0
+2019-2024 pooled,All 3 counties,3-4,Single-family attached (townhome),All,33,3958,1218,3651,908,908,611,8,0.229,0.153,0.249,0.158
+2019-2024 pooled,All 3 counties,3-4,Single-family detached,All,194,23350,3360,21944,12825,8476,3091,65,0.363,0.128,0.386,0.135
+2019-2024 pooled,All 3 counties,4,2-4 unit building,All,2,249,316,68,116,116,188,1,0.466,0.969,1.706,0.761
+2019-2024 pooled,All 3 counties,4,5+ unit apartment building,All,1,334,533,0,0,0,0,0,0.0,0.0,0,0.0
+2019-2024 pooled,All 3 counties,4,All,All,115,14612,2507,13324,8766,6258,2320,46,0.428,0.151,0.47,0.164
+2019-2024 pooled,All 3 counties,4,Single-family attached (townhome),All,3,479,499,479,136,136,222,1,0.284,0.366,0.284,0.366
+2019-2024 pooled,All 3 counties,4,Single-family detached,All,109,13550,2309,12777,8514,6006,2325,44,0.443,0.161,0.47,0.169
+2019-2024 pooled,All 3 counties,All,2-4 unit building,All,13,1749,953,1230,1119,1119,883,8,0.64,0.397,0.91,0.501
+2019-2024 pooled,All 3 counties,All,5+ unit apartment building,All,58,8745,2217,7064,1566,1436,1084,10,0.164,0.127,0.203,0.153
+2019-2024 pooled,All 3 counties,All,All,All,340,43025,4143,38886,17047,12313,3265,95,0.286,0.077,0.317,0.085
+2019-2024 pooled,All 3 counties,All,All,Owner,245,28198,3306,28198,14609,10005,3072,77,0.355,0.109,0.355,0.109
+2019-2024 pooled,All 3 counties,All,All,Renter,77,10688,2515,10688,2438,2308,1333,18,0.216,0.122,0.216,0.122
+2019-2024 pooled,All 3 counties,All,All,Vacant,18,4139,1437,0,0,0,0,0,0.0,0.0,0,0.0
+2019-2024 pooled,All 3 counties,All,Mobile home,All,9,784,555,784,0,0,0,0,0.0,0.0,0.0,0.0
+2019-2024 pooled,All 3 counties,All,Other,All,1,89,143,89,0,0,0,0,0.0,0.0,0.0,0.0
+2019-2024 pooled,All 3 counties,All,Single-family attached (townhome),All,44,5478,1373,5171,908,908,611,8,0.166,0.111,0.176,0.114
+2019-2024 pooled,All 3 counties,All,Single-family detached,All,215,26180,3460,24548,13454,8850,3086,69,0.338,0.114,0.361,0.122
+2019-2024 pooled,Clackamas,All,All,All,100,12549,2325,10707,5414,3702,2115,30,0.295,0.17,0.346,0.193
+2019-2024 pooled,Multnomah,All,All,All,102,13197,2423,12121,3672,1925,928,18,0.146,0.07,0.159,0.076
+2019-2024 pooled,Washington,All,All,All,138,17279,2521,16058,7961,6686,2317,47,0.387,0.125,0.416,0.133
+2021,All 3 counties,2,5+ unit apartment building,All,4,306,271,306,0,0,0,0,0.0,0.0,0.0,0.0
+2021,All 3 counties,2,All,All,6,490,320,490,0,0,0,0,0.0,0.0,0.0,0.0
+2021,All 3 counties,2,Mobile home,All,1,83,141,83,0,0,0,0,0.0,0.0,0.0,0.0
+2021,All 3 counties,2,Single-family attached (townhome),All,1,101,165,101,0,0,0,0,0.0,0.0,0.0,0.0
+2021,All 3 counties,3,2-4 unit building,All,1,144,234,0,0,0,0,0,0.0,0.0,0,0.0
+2021,All 3 counties,3,5+ unit apartment building,All,1,67,144,67,0,0,0,0,0.0,0.0,0.0,0.0
+2021,All 3 counties,3,All,All,21,1693,608,1549,564,503,368,5,0.297,0.207,0.325,0.225
+2021,All 3 counties,3,Mobile home,All,1,26,43,26,0,0,0,0,0.0,0.0,0.0,0.0
+2021,All 3 counties,3,Single-family attached (townhome),All,5,457,296,457,352,352,314,3,0.77,0.599,0.77,0.599
+2021,All 3 counties,3,Single-family detached,All,13,999,490,999,212,151,181,2,0.151,0.171,0.151,0.171
+2021,All 3 counties,3-4,2-4 unit building,All,2,325,375,0,0,0,0,0,0.0,0.0,0,0.0
+2021,All 3 counties,3-4,5+ unit apartment building,All,1,67,144,67,0,0,0,0,0.0,0.0,0.0,0.0
+2021,All 3 counties,3-4,Mobile home,All,1,26,43,26,0,0,0,0,0.0,0.0,0.0,0.0
+2021,All 3 counties,3-4,Single-family attached (townhome),All,5,457,296,457,352,352,314,3,0.77,0.599,0.77,0.599
+2021,All 3 counties,3-4,Single-family detached,All,26,2215,749,2215,1464,1195,982,9,0.54,0.358,0.54,0.358
+2021,All 3 counties,4,2-4 unit building,All,1,181,292,0,0,0,0,0,0.0,0.0,0,0.0
+2021,All 3 counties,4,All,All,14,1397,781,1216,1252,1044,1047,7,0.747,0.57,0.859,0.601
+2021,All 3 counties,4,Single-family detached,All,13,1216,686,1216,1252,1044,1047,7,0.859,0.601,0.859,0.601
+2021,All 3 counties,All,2-4 unit building,All,2,325,375,0,0,0,0,0,0.0,0.0,0,0.0
+2021,All 3 counties,All,5+ unit apartment building,All,5,373,308,373,0,0,0,0,0.0,0.0,0.0,0.0
+2021,All 3 counties,All,All,All,41,3580,967,3255,1816,1547,1119,12,0.432,0.271,0.475,0.292
+2021,All 3 counties,All,All,Owner,30,2554,785,2554,1816,1547,1119,12,0.606,0.359,0.606,0.359
+2021,All 3 counties,All,All,Renter,9,701,389,701,0,0,0,0,0.0,0.0,0.0,0.0
+2021,All 3 counties,All,All,Vacant,2,325,375,0,0,0,0,0,0.0,0.0,0,0.0
+2021,All 3 counties,All,Mobile home,All,2,109,146,109,0,0,0,0,0.0,0.0,0.0,0.0
+2021,All 3 counties,All,Single-family attached (townhome),All,6,558,340,558,352,352,314,3,0.631,0.533,0.631,0.533
+2021,All 3 counties,All,Single-family detached,All,26,2215,749,2215,1464,1195,982,9,0.54,0.358,0.54,0.358
+2021,Clackamas,All,All,All,11,964,593,964,843,670,959,4,0.695,0.758,0.695,0.758
+2021,Multnomah,All,All,All,10,1065,600,740,115,115,173,1,0.108,0.16,0.155,0.21
+2021,Washington,All,All,All,20,1551,547,1551,858,762,607,7,0.491,0.357,0.491,0.357
+2022,All 3 counties,2,2-4 unit building,All,2,168,194,168,0,0,0,0,0.0,0.0,0.0,0.0
+2022,All 3 counties,2,5+ unit apartment building,All,5,686,554,422,0,0,0,0,0.0,0.0,0.0,0.0
+2022,All 3 counties,2,All,All,12,2113,1037,1849,0,0,0,0,0.0,0.0,0.0,0.0
+2022,All 3 counties,2,Single-family attached (townhome),All,2,378,495,378,0,0,0,0,0.0,0.0,0.0,0.0
+2022,All 3 counties,2,Single-family detached,All,3,881,792,881,0,0,0,0,0.0,0.0,0.0,0.0
+2022,All 3 counties,3,2-4 unit building,All,3,242,247,242,437,437,554,5,1.806,1.601,1.806,1.601
+2022,All 3 counties,3,5+ unit apartment building,All,1,135,238,135,0,0,0,0,0.0,0.0,0.0,0.0
+2022,All 3 counties,3,All,All,39,4359,1070,4224,1872,1322,884,13,0.303,0.196,0.313,0.203
+2022,All 3 counties,3,Mobile home,All,2,278,393,278,0,0,0,0,0.0,0.0,0.0,0.0
+2022,All 3 counties,3,Single-family attached (townhome),All,9,1241,776,1106,0,0,0,0,0.0,0.0,0.0,0.0
+2022,All 3 counties,3,Single-family detached,All,24,2463,681,2463,1435,885,633,8,0.359,0.24,0.359,0.24
+2022,All 3 counties,3-4,2-4 unit building,All,3,242,247,242,437,437,554,5,1.806,1.601,1.806,1.601
+2022,All 3 counties,3-4,5+ unit apartment building,All,1,135,238,135,0,0,0,0,0.0,0.0,0.0,0.0
+2022,All 3 counties,3-4,Mobile home,All,2,278,393,278,0,0,0,0,0.0,0.0,0.0,0.0
+2022,All 3 counties,3-4,Single-family attached (townhome),All,9,1241,776,1106,0,0,0,0,0.0,0.0,0.0,0.0
+2022,All 3 counties,3-4,Single-family detached,All,53,6238,1264,5855,3008,2153,1044,16,0.345,0.145,0.368,0.157
+2022,All 3 counties,4,All,All,29,3775,1136,3392,1573,1268,813,8,0.336,0.18,0.374,0.202
+2022,All 3 counties,4,Single-family detached,All,29,3775,1136,3392,1573,1268,813,8,0.336,0.18,0.374,0.202
+2022,All 3 counties,All,2-4 unit building,All,5,410,310,410,437,437,554,5,1.066,1.225,1.066,1.225
+2022,All 3 counties,All,5+ unit apartment building,All,6,821,635,557,0,0,0,0,0.0,0.0,0.0,0.0
+2022,All 3 counties,All,All,All,80,10247,1637,9465,3445,2590,1196,21,0.253,0.118,0.274,0.127
+2022,All 3 counties,All,All,Owner,61,7110,1376,7110,3008,2153,1044,16,0.303,0.133,0.303,0.133
+2022,All 3 counties,All,All,Renter,15,2355,1119,2355,437,437,554,5,0.186,0.268,0.186,0.268
+2022,All 3 counties,All,All,Vacant,4,782,685,0,0,0,0,0,0.0,0.0,0,0.0
+2022,All 3 counties,All,Mobile home,All,2,278,393,278,0,0,0,0,0.0,0.0,0.0,0.0
+2022,All 3 counties,All,Single-family attached (townhome),All,11,1619,942,1484,0,0,0,0,0.0,0.0,0.0,0.0
+2022,All 3 counties,All,Single-family detached,All,56,7119,1387,6736,3008,2153,1044,16,0.302,0.139,0.32,0.15
+2022,Clackamas,All,All,All,25,3521,1218,2874,1207,860,809,6,0.244,0.227,0.299,0.268
+2022,Multnomah,All,All,All,22,2377,913,2242,885,587,575,7,0.247,0.282,0.262,0.299
+2022,Washington,All,All,All,33,4349,1245,4349,1353,1143,876,8,0.263,0.187,0.263,0.187
+2023,All 3 counties,2,5+ unit apartment building,All,16,2640,1376,2421,0,0,0,0,0.0,0.0,0.0,0.0
+2023,All 3 counties,2,All,All,25,3598,1402,3379,399,277,324,3,0.077,0.098,0.082,0.105
+2023,All 3 counties,2,Mobile home,All,2,261,338,261,0,0,0,0,0.0,0.0,0.0,0.0
+2023,All 3 counties,2,Single-family attached (townhome),All,2,232,292,232,0,0,0,0,0.0,0.0,0.0,0.0
+2023,All 3 counties,2,Single-family detached,All,5,465,357,465,399,277,324,3,0.596,0.416,0.596,0.416
+2023,All 3 counties,3,2-4 unit building,All,1,467,685,467,566,566,668,2,1.212,0.766,1.212,0.766
+2023,All 3 counties,3,5+ unit apartment building,All,1,192,329,192,436,436,771,2,2.271,1.089,2.271,1.089
+2023,All 3 counties,3,All,All,28,3648,1349,3648,1596,1507,1053,9,0.413,0.254,0.413,0.254
+2023,All 3 counties,3,Single-family attached (townhome),All,6,601,435,601,99,99,166,1,0.165,0.259,0.165,0.259
+2023,All 3 counties,3,Single-family detached,All,20,2388,1118,2388,495,406,474,4,0.17,0.21,0.17,0.21
+2023,All 3 counties,3-4,2-4 unit building,All,1,467,685,467,566,566,668,2,1.212,0.766,1.212,0.766
+2023,All 3 counties,3-4,5+ unit apartment building,All,2,526,479,192,436,436,771,2,0.829,1.736,2.271,1.089
+2023,All 3 counties,3-4,Single-family attached (townhome),All,6,601,435,601,99,99,166,1,0.165,0.259,0.165,0.259
+2023,All 3 counties,3-4,Single-family detached,All,42,5282,1605,5282,3355,1585,928,14,0.3,0.178,0.3,0.178
+2023,All 3 counties,4,5+ unit apartment building,All,1,334,533,0,0,0,0,0,0.0,0.0,0,0.0
+2023,All 3 counties,4,All,All,23,3228,1285,2894,2860,1179,796,10,0.365,0.251,0.407,0.271
+2023,All 3 counties,4,Single-family detached,All,22,2894,1177,2894,2860,1179,796,10,0.407,0.271,0.407,0.271
+2023,All 3 counties,All,2-4 unit building,All,1,467,685,467,566,566,668,2,1.212,0.766,1.212,0.766
+2023,All 3 counties,All,5+ unit apartment building,All,18,3166,1421,2613,436,436,771,2,0.138,0.252,0.167,0.289
+2023,All 3 counties,All,All,All,76,10474,2073,9921,4855,2963,1359,22,0.283,0.125,0.299,0.125
+2023,All 3 counties,All,All,Owner,56,6975,1861,6975,4419,2527,1102,20,0.362,0.147,0.362,0.147
+2023,All 3 counties,All,All,Renter,18,2946,1356,2946,436,436,771,2,0.148,0.253,0.148,0.253
+2023,All 3 counties,All,All,Vacant,2,553,643,0,0,0,0,0,0.0,0.0,0,0.0
+2023,All 3 counties,All,Mobile home,All,2,261,338,261,0,0,0,0,0.0,0.0,0.0,0.0
+2023,All 3 counties,All,Single-family attached (townhome),All,8,833,496,833,99,99,166,1,0.119,0.202,0.119,0.202
+2023,All 3 counties,All,Single-family detached,All,47,5747,1640,5747,3754,1862,980,17,0.324,0.17,0.324,0.17
+2023,Clackamas,All,All,All,26,2596,923,2596,811,592,532,8,0.228,0.196,0.228,0.196
+2023,Multnomah,All,All,All,21,3953,1503,3953,1828,649,625,4,0.164,0.149,0.164,0.149
+2023,Washington,All,All,All,29,3925,1102,3372,2216,1722,1100,10,0.439,0.265,0.511,0.272
+2024,All 3 counties,2,2-4 unit building,All,2,178,216,178,0,0,0,0,0.0,0.0,0.0,0.0
+2024,All 3 counties,2,5+ unit apartment building,All,12,2141,1332,1571,230,100,164,1,0.047,0.091,0.064,0.12
+2024,All 3 counties,2,All,All,26,3972,1631,3176,363,100,164,1,0.025,0.043,0.031,0.053
+2024,All 3 counties,2,Other,All,1,89,143,89,0,0,0,0,0.0,0.0,0.0,0.0
+2024,All 3 counties,2,Single-family attached (townhome),All,5,718,585,718,0,0,0,0,0.0,0.0,0.0,0.0
+2024,All 3 counties,2,Single-family detached,All,6,846,598,620,133,0,0,0,0.0,0.0,0.0,0.0
+2024,All 3 counties,3,2-4 unit building,All,1,107,171,107,0,0,0,0,0.0,0.0,0.0,0.0
+2024,All 3 counties,3,5+ unit apartment building,All,4,553,541,553,398,398,553,2,0.72,0.936,0.72,0.936
+2024,All 3 counties,3,All,All,24,3271,1488,2638,1375,1097,1045,8,0.335,0.305,0.416,0.37
+2024,All 3 counties,3,Mobile home,All,1,13,21,13,0,0,0,0,0.0,0.0,0.0,0.0
+2024,All 3 counties,3,Single-family attached (townhome),All,5,487,379,487,134,134,230,2,0.275,0.547,0.275,0.547
+2024,All 3 counties,3,Single-family detached,All,13,2111,1252,1478,843,565,789,4,0.268,0.353,0.382,0.505
+2024,All 3 counties,3-4,2-4 unit building,All,1,107,171,107,0,0,0,0,0.0,0.0,0.0,0.0
+2024,All 3 counties,3-4,5+ unit apartment building,All,4,553,541,553,398,398,553,2,0.72,0.936,0.72,0.936
+2024,All 3 counties,3-4,Mobile home,All,1,13,21,13,0,0,0,0,0.0,0.0,0.0,0.0
+2024,All 3 counties,3-4,Single-family attached (townhome),All,7,894,612,894,270,270,324,3,0.302,0.33,0.302,0.33
+2024,All 3 counties,3-4,Single-family detached,All,30,4693,1789,3670,2190,1912,1804,11,0.407,0.383,0.521,0.485
+2024,All 3 counties,4,All,All,19,2989,1527,2599,1483,1483,1594,8,0.496,0.557,0.571,0.635
+2024,All 3 counties,4,Single-family attached (townhome),All,2,407,487,407,136,136,222,1,0.334,0.429,0.334,0.429
+2024,All 3 counties,4,Single-family detached,All,17,2582,1278,2192,1347,1347,1596,7,0.522,0.631,0.615,0.728
+2024,All 3 counties,All,2-4 unit building,All,3,285,275,285,0,0,0,0,0.0,0.0,0.0,0.0
+2024,All 3 counties,All,5+ unit apartment building,All,16,2694,1458,2124,628,498,573,3,0.185,0.235,0.234,0.287
+2024,All 3 counties,All,All,All,69,10232,2686,8413,3221,2680,1898,17,0.262,0.181,0.319,0.216
+2024,All 3 counties,All,All,Owner,44,5737,1856,5737,2457,2046,1803,13,0.357,0.307,0.357,0.307
+2024,All 3 counties,All,All,Renter,18,2676,1346,2676,764,634,608,4,0.237,0.231,0.237,0.231
+2024,All 3 counties,All,All,Vacant,7,1819,1224,0,0,0,0,0,0.0,0.0,0,0.0
+2024,All 3 counties,All,Mobile home,All,1,13,21,13,0,0,0,0,0.0,0.0,0.0,0.0
+2024,All 3 counties,All,Other,All,1,89,143,89,0,0,0,0,0.0,0.0,0.0,0.0
+2024,All 3 counties,All,Single-family attached (townhome),All,12,1612,835,1612,270,270,324,3,0.167,0.202,0.167,0.202
+2024,All 3 counties,All,Single-family detached,All,36,5539,1777,4290,2323,1912,1804,11,0.345,0.319,0.446,0.413
+2024,Clackamas,All,All,All,19,3095,1473,2072,918,918,1009,5,0.297,0.32,0.443,0.47
+2024,Multnomah,All,All,All,26,3339,1505,2917,483,350,307,4,0.105,0.109,0.12,0.126
+2024,Washington,All,All,All,24,3798,1466,3424,1820,1412,1571,8,0.372,0.4,0.412,0.44
