@@ -123,3 +123,21 @@ The p.19 header reads "519 Enrollment, 45 SpEd Students (9%), 25.7% Direct Certi
   - Math: 5% to 11%, against co-located programs' 11% to 8% [BB:14654774 p.33](https://meetings.boardbook.org/Documents/DownloadPDF/14654774?org=915#page=33).
   - Analysis: the summary percentages can't be reproduced from these charts. They may describe all Lent students rather than MLs; the deck doesn't say.
 - Staffing at Chávez, the enrollment-intent process and final bus routes are all deferred to the superintendent's recommendation or to fall 2027 [BB:14654774 pp.22, 24, 26](https://meetings.boardbook.org/Documents/DownloadPDF/14654774?org=915).
+
+## Revised versions posted Nov 10 (v.3)
+
+PPS replaced both decks on BoardBook on Nov 10. The originals are kept. The revisions are BB:14663333 (special education, 61 pages) and BB:14671905 (DLI, 31 pages).
+
+**Special education v.3.** Compared page by page with BB:14654773:
+- **Southwest page unchanged.** The "Maplewood, Rieke, Hayhurst and Markham" profile is identical to the original. It still reads "519 Enrollment 45 SpEd Students 9% 25.7% Direct Certification", and its caseload still lists only "38 Students - Rieke LC", "12 Students - ISC Markham" and "9 Students - Hayhurst SES" [BB:14663333 p.19](https://meetings.boardbook.org/Documents/DownloadPDF/14663333?org=915#page=19). Findings 1-5 above still apply.
+- **Other group profiles changed:**
+  - "Peninsula, Chavez(Eng) and Rosa Parks": special-ed count 122 → 152 (31% → 34%), speech-only 23 → 43, teacher FTE 5.5 → 6.5 [BB:14663333 p.14](https://meetings.boardbook.org/Documents/DownloadPDF/14663333?org=915#page=14).
+  - "Sabin, King, and Vernon": 84 → 85 special-ed students, 65 → 49 [BB:14663333 p.17](https://meetings.boardbook.org/Documents/DownloadPDF/14663333?org=915#page=17).
+  - "Stephenson and Capitol Hill": enrollment 417 → 381 and special ed 23% → 25% [BB:14663333 p.23](https://meetings.boardbook.org/Documents/DownloadPDF/14663333?org=915#page=23). Analysis: 381 is Capitol Hill's Scenario A 2027-28 projection (`analysis/data/school_impact.csv`), replacing the 417 that had no match. The header's 18.3% "Direct Certification" figure is unchanged.
+- **New page:** a Mt. Tabor current-state profile (CRIS middle-school deaf and hard-of-hearing site) [BB:14663333 p.52](https://meetings.boardbook.org/Documents/DownloadPDF/14663333?org=915#page=52).
+
+**DLI v.3.**
+- Cut to 31 pages, mostly by dropping appendix charts.
+- Adds Sitton to the "Current Dual Language Enrollment in North Portland" slide [BB:14671905 p.6](https://meetings.boardbook.org/Documents/DownloadPDF/14671905?org=915#page=6).
+- Keeps the Lent summary claims ("17%", "8%", "4%") [BB:14671905 p.9](https://meetings.boardbook.org/Documents/DownloadPDF/14671905?org=915#page=9).
+- Adds the line "In our implementation plan submitted with the Superintendent's recommendation, we will include a process and timeline for impacted families to indicate their plans for the fall" [BB:14671905 p.26](https://meetings.boardbook.org/Documents/DownloadPDF/14671905?org=915#page=26).

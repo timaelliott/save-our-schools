@@ -1,0 +1,9 @@
+# Nov 2, 2026 budget press release: notes
+
+Source: [PPS:pps_net/media/press_releases/2027-28_budget_press_release_2026-11-02.pdf p.1](https://github.com/timaelliott/save-our-schools/blob/main/sources/pps_net/media/press_releases/2027-28_budget_press_release_2026-11-02.pdf)
+
+- PPS projects a $65 million General Fund shortfall for 2027-28, citing four straight years of shortfalls, declining enrollment, rising costs and a large increase in PERS obligations [PPS:pps_net/media/press_releases/2027-28_budget_press_release_2026-11-02.pdf p.1](https://github.com/timaelliott/save-our-schools/blob/main/sources/pps_net/media/press_releases/2027-28_budget_press_release_2026-11-02.pdf).
+- Enrollment is down 9.5% since 2020 "while the district continues to operate essentially the same number of school buildings" [PPS:pps_net/media/press_releases/2027-28_budget_press_release_2026-11-02.pdf p.1](https://github.com/timaelliott/save-our-schools/blob/main/sources/pps_net/media/press_releases/2027-28_budget_press_release_2026-11-02.pdf).
+- The district has made $171.8 million in reductions since 2023-24 [PPS:pps_net/media/press_releases/2027-28_budget_press_release_2026-11-02.pdf p.1](https://github.com/timaelliott/save-our-schools/blob/main/sources/pps_net/media/press_releases/2027-28_budget_press_release_2026-11-02.pdf).
+- Closures "will not eliminate the need for broader budget reductions": closures and consolidations are "among several strategies" [PPS:pps_net/media/press_releases/2027-28_budget_press_release_2026-11-02.pdf p.1](https://github.com/timaelliott/save-our-schools/blob/main/sources/pps_net/media/press_releases/2027-28_budget_press_release_2026-11-02.pdf).
+- KATU's Nov 4 report adds a $237 million deficit over four years, and says officials expect limited savings from closures because most staff would be reassigned [NEWS:NEWS-20261104-katu-1](https://katu.com/news/local/parents-hold-protest-as-portland-public-schools-weighs-school-closures).
