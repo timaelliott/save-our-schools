@@ -1,0 +1,743 @@
+{
+ "generated": "2026-11-10T20:54:19Z",
+ "source": "https://meetings.boardbook.org/public/Organization/915",
+ "meetings": [
+  {
+   "id": "776248",
+   "head": "November 10, 2026 at 4:30 PM - Teaching, Learning, and Enrollment Committee Meeting",
+   "type": "Committee (Teaching, Learning, and Enrollment Committee)",
+   "loc": "Dr. Matthew Prophet Education Center",
+   "vids": [],
+   "det": [
+    {
+     "t": "Public Notice",
+     "h": "/Public/PublicNotice/915?meeting=776248"
+    },
+    {
+     "t": "Agenda",
+     "h": "/Public/Agenda/915?meeting=776248"
+    }
+   ],
+   "items": [
+    {
+     "file": "14663333",
+     "name": "TLE Presentation--Special Education v.3",
+     "item": "3. Rightsizing: Special Education"
+    },
+    {
+     "file": "14663627",
+     "name": "Follow Up_Board_TLE_Committee_PPS_DLI Programs .pptx (1)",
+     "item": "4. Rightsizing: Dual Language Immersion"
+    }
+   ]
+  },
+  {
+   "id": "776737",
+   "head": "November 10, 2026 at 12:00 PM - Intergovernmental Affairs Committee Meeting",
+   "type": "Committee (Intergovernmental Affairs Committee)",
+   "loc": "Virtual",
+   "vids": [],
+   "det": [
+    {
+     "t": "Public Notice",
+     "h": "/Public/PublicNotice/915?meeting=776737"
+    },
+    {
+     "t": "Agenda",
+     "h": "/Public/Agenda/915?meeting=776737"
+    }
+   ],
+   "items": [
+    {
+     "file": "14644698",
+     "name": "PPS Legislative Agenda (draft)",
+     "item": "3. Review of draft Legislative Agenda for the 2027 Legislative Session"
+    }
+   ]
+  },
+  {
+   "id": "776245",
+   "head": "November 9, 2026 at 4:30 PM - Facilities Improvement and Oversight Committee Meeting",
+   "type": "Committee (Facilities Improvement and Oversight Committee)",
+   "loc": "Dr. Matthew Prophet Education Center",
+   "vids": [],
+   "det": [
+    {
+     "t": "Public Notice",
+     "h": "/Public/PublicNotice/915?meeting=776245"
+    },
+    {
+     "t": "Agenda",
+     "h": "/Public/Agenda/915?meeting=776245"
+    }
+   ],
+   "items": [
+    {
+     "file": "14644366",
+     "name": "FIO Presentation 11.09.26",
+     "item": "4. Rightsizing Update: Facilities School Readiness"
+    }
+   ]
+  },
+  {
+   "id": "775084",
+   "head": "November 4, 2026 at 6:00 PM - Regular Meeting",
+   "type": "Regular",
+   "loc": "Benson High School",
+   "vids": [],
+   "det": [
+    {
+     "t": "Supplemental Resources",
+     "h": "/Meeting/Supplementals/915?meeting=775084"
+    },
+    {
+     "t": "Public Notice",
+     "h": "/Public/PublicNotice/915?meeting=775084"
+    },
+    {
+     "t": "Agenda",
+     "h": "/Public/Agenda/915?meeting=775084"
+    }
+   ],
+   "items": [
+    {
+     "file": "14611849",
+     "name": "OSAS Memo",
+     "item": "6. 7:00 pm - 2025-26 Oregon Statewide Assessment System (OSAS) Results"
+    },
+    {
+     "file": "14615681",
+     "name": "Fall 2026 Board Memo OSAS",
+     "item": "6. 7:00 pm - 2025-26 Oregon Statewide Assessment System (OSAS) Results"
+    },
+    {
+     "file": "14639691",
+     "name": "OSAS Focal Students Board Presentation",
+     "item": "6. 7:00 pm - 2025-26 Oregon Statewide Assessment System (OSAS) Results"
+    },
+    {
+     "file": "14615901",
+     "name": "11.04.26 BOE Meeting_Rightsizing",
+     "item": "7. 7:30 pm - Rightsizing"
+    },
+    {
+     "file": "14625294",
+     "name": "Preliminary Findings: What We Heard in Rightsizing Engagements",
+     "item": "7. 7:30 pm - Rightsizing"
+    },
+    {
+     "file": "14610696",
+     "name": "Board Memo - GenAI Systems Inventory and Policy Update",
+     "item": "8. 8:30 pm - GenAI Systems Inventory and Policy Update"
+    },
+    {
+     "file": "14623348",
+     "name": "Presentation: Update on AI Pause resolution",
+     "item": "8. 8:30 pm - GenAI Systems Inventory and Policy Update"
+    },
+    {
+     "file": "14609860",
+     "name": "Reso 7392 - Expenditure Contracts",
+     "item": "9.(a) Resolution 7392 - Expenditure Contracts"
+    },
+    {
+     "file": "14609865",
+     "name": "Reso 7393 - Revenue Contracts",
+     "item": "9.(b) Resolution 7393 - Revenue Contracts"
+    },
+    {
+     "file": "14611800",
+     "name": "Resolution 7394 - Adoption of the Minutes",
+     "item": "9.(c) Resolution 7394 - Adoption of the Minutes"
+    },
+    {
+     "file": "14611852",
+     "name": "26-10-28_Resolution_Appointment of Community Budget Review Committee Members",
+     "item": "9.(d) Resolution 7395 - Appointment of Community Budget Review Committee Members"
+    },
+    {
+     "file": "14611853",
+     "name": "26-10-28_Staff Report to the Board",
+     "item": "9.(d) Resolution 7395 - Appointment of Community Budget Review Committee Members"
+    },
+    {
+     "file": "14638549",
+     "name": "Reso 7396 -  to Appoint Members to the Climate Crisis Response Committee 2026-2027 Revised",
+     "item": "9.(e) Resolution 7396 - to Appoint Three Members to the 2026-2027 Climate Crisis Response Committee (CCRC)"
+    },
+    {
+     "file": "14638666",
+     "name": "Audit Committee Report to the Board_ 10_27_2026",
+     "item": "12. Board Committee and Conference Reports Audit Committee Facilities Improvement Oversight Committee Policy Committee Teaching, Learning, & Enrollment Committee Intergovernmental Committee"
+    },
+    {
+     "file": "14639799",
+     "name": "Intergovernmental Affairs Committee Report",
+     "item": "12. Board Committee and Conference Reports Audit Committee Facilities Improvement Oversight Committee Policy Committee Teaching, Learning, & Enrollment Committee Intergovernmental Committee"
+    }
+   ]
+  },
+  {
+   "id": "774181",
+   "head": "October 27, 2026 at 6:30 PM - Audit Committee Meeting",
+   "type": "Committee (Audit Committee)",
+   "loc": "Dr. Matthew Prophet Education Center - Board Auditorium",
+   "vids": [
+    "https://www.youtube.com/watch?v=Y08divelF5k"
+   ],
+   "det": [
+    {
+     "t": "Public Notice",
+     "h": "/Public/PublicNotice/915?meeting=774181"
+    },
+    {
+     "t": "Agenda",
+     "h": "/Public/Agenda/915?meeting=774181"
+    },
+    {
+     "t": "Minutes",
+     "h": "/Public/Minutes/915?meeting=774181"
+    }
+   ],
+   "items": [
+    {
+     "file": "14594897",
+     "name": "Audit Committee Liaison Annual Support Plan",
+     "item": "3. Audit Committee Roles and Responsibilities"
+    },
+    {
+     "file": "14607440",
+     "name": "10272026 Audit Committee Meeting (1)",
+     "item": "3. Audit Committee Roles and Responsibilities"
+    },
+    {
+     "file": "14602889",
+     "name": "1 Article_Why Professional Skepticism Is Too Important To Leave To Internal Audit Alone",
+     "item": "4. Office of Internal Performance Audit (OIPA) Updates"
+    },
+    {
+     "file": "14602890",
+     "name": "2 Board Policy 1.60.040-P_ District Performance Auditing",
+     "item": "4. Office of Internal Performance Audit (OIPA) Updates"
+    },
+    {
+     "file": "14602891",
+     "name": "3 PPS Audit Committe and Internal Performance Audit Charter and Process",
+     "item": "4. Office of Internal Performance Audit (OIPA) Updates"
+    },
+    {
+     "file": "14602892",
+     "name": "4 White Paper_Internal Auditing In The Big City Schools_September2025",
+     "item": "4. Office of Internal Performance Audit (OIPA) Updates"
+    },
+    {
+     "file": "14602893",
+     "name": "5 Essential Conditions",
+     "item": "4. Office of Internal Performance Audit (OIPA) Updates"
+    },
+    {
+     "file": "14602894",
+     "name": "Communications Protocol",
+     "item": "4. Office of Internal Performance Audit (OIPA) Updates"
+    },
+    {
+     "file": "14602895",
+     "name": "OIPA Overview_10_27_26",
+     "item": "4. Office of Internal Performance Audit (OIPA) Updates"
+    },
+    {
+     "file": "14594907",
+     "name": "2026 Communications to TCWG - Planning",
+     "item": "7. Other Audit Updates"
+    }
+   ]
+  },
+  {
+   "id": "773233",
+   "head": "October 27, 2026 at 4:30 PM - Policy Committee Meeting",
+   "type": "Committee (Policy Committee)",
+   "loc": "Dr. Matthew Prophet Education Center",
+   "vids": [
+    "https://www.youtube.com/watch?v=GvsV7fMZrlQ"
+   ],
+   "det": [
+    {
+     "t": "Public Notice",
+     "h": "/Public/PublicNotice/915?meeting=773233"
+    },
+    {
+     "t": "Agenda",
+     "h": "/Public/Agenda/915?meeting=773233"
+    },
+    {
+     "t": "Minutes",
+     "h": "/Public/Minutes/915?meeting=773233"
+    }
+   ],
+   "items": [
+    {
+     "file": "14594722",
+     "name": "Policy Committee workplan timeline",
+     "item": "3. Update: Committee Work Plan"
+    },
+    {
+     "file": "14595013",
+     "name": "3.30.080-P Engelsman proposed amendment (vegetarian lunch options)",
+     "item": "3. Update: Committee Work Plan"
+    },
+    {
+     "file": "14573971",
+     "name": "DSC Bylaws 26-27",
+     "item": "4. District Student Council Bylaws"
+    },
+    {
+     "file": "14594741",
+     "name": "Staff Report - Comprehensive Health & Wellness Policy.docx",
+     "item": "6. Health and Wellness Policy"
+    },
+    {
+     "file": "14594815",
+     "name": "6.40.013-P Revised - Comprehensive Health & Wellness Policy.docx",
+     "item": "6. Health and Wellness Policy"
+    },
+    {
+     "file": "14594806",
+     "name": "360060-PStudentWellnessthroughNutritionPhysicalEducationPhysicalActivityandSchool-BasedActivities",
+     "item": "6. Health and Wellness Policy"
+    },
+    {
+     "file": "14594807",
+     "name": "640013-PComprehensiveHealthEducationPolicy",
+     "item": "6. Health and Wellness Policy"
+    },
+    {
+     "file": "14574016",
+     "name": "26-10-27 Proposed Revisions for Board Policy 3.30.080-P Wang/Greathouse",
+     "item": "7. Proposed Revisions to 3.30.080-P: PPS Climate Crisis Response, Climate Justice and Sustainable Practices Policy"
+    },
+    {
+     "file": "14594712",
+     "name": "3.30.080-P Climate Crisis Policy redline staff proposed",
+     "item": "7. Proposed Revisions to 3.30.080-P: PPS Climate Crisis Response, Climate Justice and Sustainable Practices Policy"
+    },
+    {
+     "file": "14594676",
+     "name": "SBS Portland Screen Use Policy Revised DRAFT 10.12  (2)",
+     "item": "8. Digital Device and Screen Use Policy"
+    },
+    {
+     "file": "14606553",
+     "name": "Digital Device and Screen Use Policy clean staff proposal corrected",
+     "item": "8. Digital Device and Screen Use Policy"
+    },
+    {
+     "file": "14606555",
+     "name": "PPS Screen Time Use Policy redlined staff proposal corrected",
+     "item": "8. Digital Device and Screen Use Policy"
+    },
+    {
+     "file": "14607992",
+     "name": "Screen Time Policy Board Presentation - Oct.  (1)",
+     "item": "8. Digital Device and Screen Use Policy"
+    }
+   ]
+  },
+  {
+   "id": "774309",
+   "head": "October 27, 2026 at 12:00 PM - Intergovernmental Affairs Committee Meeting",
+   "type": "Committee (Intergovernmental Affairs Committee)",
+   "loc": "Virtual",
+   "vids": [
+    "https://www.youtube.com/watch?v=7nN8RQAAt8E"
+   ],
+   "det": [
+    {
+     "t": "Public Notice",
+     "h": "/Public/PublicNotice/915?meeting=774309"
+    },
+    {
+     "t": "Agenda",
+     "h": "/Public/Agenda/915?meeting=774309"
+    },
+    {
+     "t": "Minutes",
+     "h": "/Public/Minutes/915?meeting=774309"
+    }
+   ],
+   "items": [
+    {
+     "file": "14605906",
+     "name": "IGA Committe Presentation",
+     "item": "3. Legislative Priorities: Multnomah Education Service District Northwest Regional Service District Salem-Keizer School District"
+    }
+   ]
+  },
+  {
+   "id": "772442",
+   "head": "October 20, 2026 at 6:00 PM - Work Session with a Consent Agenda",
+   "type": "Working",
+   "loc": "Benson High School",
+   "vids": [
+    "https://www.youtube.com/watch?v=SHPKPJyRfX0"
+   ],
+   "det": [
+    {
+     "t": "Supplemental Resources",
+     "h": "/Meeting/Supplementals/915?meeting=772442"
+    },
+    {
+     "t": "Public Notice",
+     "h": "/Public/PublicNotice/915?meeting=772442"
+    },
+    {
+     "t": "Agenda",
+     "h": "/Public/Agenda/915?meeting=772442"
+    },
+    {
+     "t": "Minutes",
+     "h": "/Public/Minutes/915?meeting=772442"
+    }
+   ],
+   "items": [
+    {
+     "file": "14549578",
+     "name": "PPS Bond Performance Audit Report for FY 24-25 and FY 25-26 (1)",
+     "item": "5. 7:00 pm - Report: Bond Performance Audit - Year 7 & 8"
+    },
+    {
+     "file": "14576326",
+     "name": "10.20.26 BOE Meeting_Rightsizing",
+     "item": "6. 7:30 pm - Update: Rightsizing"
+    },
+    {
+     "file": "14581091",
+     "name": "2025-26 Division 22 Assurances Report FINAL",
+     "item": "7. 8:30 pm - Division 22 Annual Report"
+    },
+    {
+     "file": "14580600",
+     "name": "2025-26 Required Instructional Time and Exemption Board Report",
+     "item": "7. 8:30 pm - Division 22 Annual Report"
+    },
+    {
+     "file": "14581086",
+     "name": "PPS 2025-26 Compliance Report - Oregon Public School Standards",
+     "item": "7. 8:30 pm - Division 22 Annual Report"
+    },
+    {
+     "file": "14549626",
+     "name": "Reso 7388  - Expenditure Contracts.docx",
+     "item": "8.(a) Resolution 7388 - Expenditure Contracts"
+    },
+    {
+     "file": "14549627",
+     "name": "Reso 7389 - Revenue Contracts.docx",
+     "item": "8.(b) Resolution 7389 - Revenue Contracts"
+    },
+    {
+     "file": "14549637",
+     "name": "Resolution 7390 Seismic Projects 2027 RFP",
+     "item": "8.(c) Resolution 7390 - Seismic Construction Projects: Exemption from Competitive Bidding and Authorization for Use of Requests for Proposals Contracting Method"
+    },
+    {
+     "file": "14549640",
+     "name": "Staff Report to Board_ Seismic Projects 2027 RFP",
+     "item": "8.(c) Resolution 7390 - Seismic Construction Projects: Exemption from Competitive Bidding and Authorization for Use of Requests for Proposals Contracting Method"
+    },
+    {
+     "file": "14549641",
+     "name": "Draft Findings 2027 Seismic Projects",
+     "item": "8.(c) Resolution 7390 - Seismic Construction Projects: Exemption from Competitive Bidding and Authorization for Use of Requests for Proposals Contracting Method"
+    },
+    {
+     "file": "14564830",
+     "name": "Resolution 7391 - Adoption of the Minutes",
+     "item": "8.(d) Resolution 7391 - Adoption of the Minutes"
+    },
+    {
+     "file": "14581905",
+     "name": "Superintendent Board Report 10.20.26",
+     "item": "11. Superintendent's Report"
+    }
+   ]
+  },
+  {
+   "id": "772940",
+   "head": "October 20, 2026 at 5:00 PM - Executive Session",
+   "type": "Closed",
+   "loc": "Benson High School",
+   "vids": [],
+   "det": [
+    {
+     "t": "Public Notice",
+     "h": "/Public/PublicNotice/915?meeting=772940"
+    },
+    {
+     "t": "Agenda",
+     "h": "/Public/Agenda/915?meeting=772940"
+    }
+   ],
+   "items": []
+  },
+  {
+   "id": "771664",
+   "head": "October 13, 2026 at 4:30 PM - Teaching, Learning, and Enrollment Committee Meeting",
+   "type": "Committee (Teaching, Learning, and Enrollment Committee)",
+   "loc": "Dr. Matthew Prophet Education Center",
+   "vids": [
+    "https://www.youtube.com/watch?v=As3VpeDGx70&t=5217s"
+   ],
+   "det": [
+    {
+     "t": "Public Notice",
+     "h": "/Public/PublicNotice/915?meeting=771664"
+    },
+    {
+     "t": "Agenda",
+     "h": "/Public/Agenda/915?meeting=771664"
+    }
+   ],
+   "items": [
+    {
+     "file": "14549009",
+     "name": "TLE Presentation: DLI Programs",
+     "item": "3. Rightsizing: Dual Language Immersion Design"
+    },
+    {
+     "file": "14535647",
+     "name": "TLE Presentation: Middle Grades",
+     "item": "4. Rightsizing: Middle Grades Learning"
+    }
+   ]
+  },
+  {
+   "id": "771676",
+   "head": "October 13, 2026 at 12:00 PM - Intergovernmental Affairs Committee Meeting",
+   "type": "Committee (Intergovernmental Affairs Committee)",
+   "loc": "Virtual",
+   "vids": [
+    "https://www.youtube.com/watch?v=nkNf4ceJcj8&t=8s"
+   ],
+   "det": [
+    {
+     "t": "Public Notice",
+     "h": "/Public/PublicNotice/915?meeting=771676"
+    },
+    {
+     "t": "Agenda",
+     "h": "/Public/Agenda/915?meeting=771676"
+    },
+    {
+     "t": "Minutes",
+     "h": "/Public/Minutes/915?meeting=771676"
+    }
+   ],
+   "items": []
+  },
+  {
+   "id": "769955",
+   "head": "October 6, 2026 at 6:00 PM - Regular Meeting",
+   "type": "Regular",
+   "loc": "Dr. Matthew Prophet Education Center - Board Auditorium",
+   "vids": [
+    "https://www.youtube.com/watch?v=zOUH2Jq7Owo"
+   ],
+   "det": [
+    {
+     "t": "Supplemental Resources",
+     "h": "/Meeting/Supplementals/915?meeting=769955"
+    },
+    {
+     "t": "Agenda",
+     "h": "/Public/Agenda/915?meeting=769955"
+    },
+    {
+     "t": "Minutes",
+     "h": "/Public/Minutes/915?meeting=769955"
+    }
+   ],
+   "items": [
+    {
+     "file": "14498905",
+     "name": "BAC Report",
+     "item": "6. 7:00 pm - Bond Accountability Committee Quarterly Report"
+    },
+    {
+     "file": "14513371",
+     "name": "PTMP - Cleveland_HS R1 (1)",
+     "item": "6. 7:00 pm - Bond Accountability Committee Quarterly Report"
+    },
+    {
+     "file": "14513372",
+     "name": "PTMP - Ida B Wells 050626 (1)",
+     "item": "6. 7:00 pm - Bond Accountability Committee Quarterly Report"
+    },
+    {
+     "file": "14513373",
+     "name": "PTMP - Jefferson_HS - 050726 (1)",
+     "item": "6. 7:00 pm - Bond Accountability Committee Quarterly Report"
+    },
+    {
+     "file": "14513374",
+     "name": "PMP PPS V8 - signed",
+     "item": "6. 7:00 pm - Bond Accountability Committee Quarterly Report"
+    },
+    {
+     "file": "14564716",
+     "name": "Reso 7383 - Resolution to Adopt the Budget Calendar for 2027-28",
+     "item": "7. 7:15 pm - Resolution to Adopt the Budget Calendar for 2027-28 (Resolution 7383) Vote - Public Comment Accepted"
+    },
+    {
+     "file": "14511742",
+     "name": "10.06.26 PowerPoint",
+     "item": "8. 7:30 pm - Update: Rightsizing"
+    },
+    {
+     "file": "14509719",
+     "name": "Rightsizing Update Scenario Release Memo",
+     "item": "8. 7:30 pm - Update: Rightsizing"
+    },
+    {
+     "file": "14505788",
+     "name": "District wide scenarios 10.04.26",
+     "item": "8. 7:30 pm - Update: Rightsizing"
+    },
+    {
+     "file": "14505790",
+     "name": "Regional summary - Cleveland-Franklin",
+     "item": "8. 7:30 pm - Update: Rightsizing"
+    },
+    {
+     "file": "14505791",
+     "name": "Regional summary - Grant-McDaniel",
+     "item": "8. 7:30 pm - Update: Rightsizing"
+    },
+    {
+     "file": "14505792",
+     "name": "Regional summary - Jefferson-Roosevelt",
+     "item": "8. 7:30 pm - Update: Rightsizing"
+    },
+    {
+     "file": "14505793",
+     "name": "Regional summary - Wells-Lincoln",
+     "item": "8. 7:30 pm - Update: Rightsizing"
+    },
+    {
+     "file": "14505794",
+     "name": "Scenario A - Attendance Boundaries 6-8",
+     "item": "8. 7:30 pm - Update: Rightsizing"
+    },
+    {
+     "file": "14505795",
+     "name": "Scenario A - Attendance Boundaries 9-12",
+     "item": "8. 7:30 pm - Update: Rightsizing"
+    },
+    {
+     "file": "14505796",
+     "name": "Scenario A - Attendance Boundaries K-5",
+     "item": "8. 7:30 pm - Update: Rightsizing"
+    },
+    {
+     "file": "14505797",
+     "name": "Scenario A - Attendance Boundaries K-12",
+     "item": "8. 7:30 pm - Update: Rightsizing"
+    },
+    {
+     "file": "14505798",
+     "name": "Scenario B - Attendance Boundaries 6-8",
+     "item": "8. 7:30 pm - Update: Rightsizing"
+    },
+    {
+     "file": "14505799",
+     "name": "Scenario B - Attendance Boundaries 9-12",
+     "item": "8. 7:30 pm - Update: Rightsizing"
+    },
+    {
+     "file": "14505800",
+     "name": "Scenario B - Attendance Boundaries K-5",
+     "item": "8. 7:30 pm - Update: Rightsizing"
+    },
+    {
+     "file": "14505801",
+     "name": "Scenario B - Attendance Boundaries K-12",
+     "item": "8. 7:30 pm - Update: Rightsizing"
+    },
+    {
+     "file": "14505802",
+     "name": "Status Quo - Attendance Boundaries 6-8",
+     "item": "8. 7:30 pm - Update: Rightsizing"
+    },
+    {
+     "file": "14505803",
+     "name": "Status Quo - Attendance Boundaries 9-12",
+     "item": "8. 7:30 pm - Update: Rightsizing"
+    },
+    {
+     "file": "14505804",
+     "name": "Status Quo - Attendance Boundaries K-5",
+     "item": "8. 7:30 pm - Update: Rightsizing"
+    },
+    {
+     "file": "14505805",
+     "name": "Status Quo - Attendance Boundaries K-12",
+     "item": "8. 7:30 pm - Update: Rightsizing"
+    },
+    {
+     "file": "14493475",
+     "name": "Resolution 7384 - Adoption of the Minutes",
+     "item": "9.(a) Adoption of the Minutes (Reso 7384)"
+    },
+    {
+     "file": "14493794",
+     "name": "Resolution 7385 - Expenditure Contracts.docx",
+     "item": "9.(b) Expenditure Contracts (Reso 7385)"
+    },
+    {
+     "file": "14493803",
+     "name": "Resolution 7386 - Revenue Contracts .docx",
+     "item": "9.(c) Revenue Contracts (Reso 7386)"
+    },
+    {
+     "file": "14493809",
+     "name": "Resolution 7387-Resolution to Approve 2027 Legislative Principles",
+     "item": "9.(d) Resolution to Approve 2027 Legislative Principles (Reso 7387)"
+    },
+    {
+     "file": "14483988",
+     "name": "2027 PPS Legislative Principles",
+     "item": "9.(d) Resolution to Approve 2027 Legislative Principles (Reso 7387)"
+    }
+   ]
+  },
+  {
+   "id": "770670",
+   "head": "October 6, 2026 at 5:00 PM - Annual Ethics Training",
+   "type": "Working",
+   "loc": "Dr. Matthew Prophet Education Center - Board Auditorium",
+   "vids": [
+    "https://www.youtube.com/watch?v=k0wbO5egtWA"
+   ],
+   "det": [
+    {
+     "t": "Public Notice",
+     "h": "/Public/PublicNotice/915?meeting=770670"
+    },
+    {
+     "t": "Agenda",
+     "h": "/Public/Agenda/915?meeting=770670"
+    },
+    {
+     "t": "Minutes",
+     "h": "/Public/Minutes/915?meeting=770670"
+    }
+   ],
+   "items": [
+    {
+     "file": "14511996",
+     "name": "Annual Ethics and Public Meetings Training",
+     "item": "1. Annual Ethics and Public Meetings Training"
+    }
+   ]
+  }
+ ]
+}

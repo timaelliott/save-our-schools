@@ -22,13 +22,13 @@ Attachments:
 (
 1
 )
-TLE Presentation--Special Education
+TLE Presentation--Special Education v.3
 4. Rightsizing: Dual Language Immersion
 Attachments:
 (
 1
 )
-TLE Presentation_PPS_DLI Programs
+Follow Up_Board_TLE_Committee_PPS_DLI Programs 26-11-10 v.3.pptx
 5. Other Business and Future Agenda Items
 6. Adjourn
 Web Viewer

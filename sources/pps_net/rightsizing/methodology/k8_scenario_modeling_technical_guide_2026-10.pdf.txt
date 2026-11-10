@@ -1,0 +1,2635 @@
+           K–8 Rightsizing & Consolidation Scenario Modeling
+   Technical Documentation
+   Portland Public Schools Data and Accountability · October 2026
+
+
+       About this document: This document gathers in one place the technical description of how the
+       rightsizing scenarios are modeled. It combines four documents written during the work. Part 2, the
+       Enrollment Methodology, is kept as the Portland State University Population Research Center (PRC)
+       reviewed it, apart from its title and references to other parts. The other three were edited for
+       readability. An overview and two short parts, on how scenarios are evaluated and on the underlying
+       assumptions, were added.
+
+   A note on names and figures: The examples in Parts 2, 3 and 4 use generic names (School A, Boundary
+   Area 1) and simplified figures. Real schools are named only where a part describes a rule or a published
+   result.
+
+
+   Contents
+Part                                   What it covers
+
+1. Overview                            Inputs to a scenario, which are measured and which are assumed, and how the
+                                       parts connect.
+
+2. Enrollment Methodology              How a scenario’s rules are combined with PRC’s forecast. Rule types,
+                                       rounding, the audit ledger and verification are all described. Reviewed by
+                                       PRC
+
+3. Reading Grade-Level Detail in       Why students are returned to their home schools are reported as a grade-band
+Redistribution Results                 total rather than a grade-level forecast.
+
+4. Boundary Modeling and Spatial       How proposed boundaries are drawn by census block and become the shares
+Analysis                               in the rule table, the residency table, and walking distance.
+
+5. Demographic Impact Model            How each enrolled student is placed under each scenario, this year and next,
+                                       for the demographic measures
+
+6. Floors, Capacity and Utilization How each school’s modeled enrollment is tested against its enrollment floor
+                                    and its functional capacity
+
+7. Assumptions, Limits and             What the scenarios assume, what the data cannot support, and how a range of
+Sensitivity                            outcomes is produced
+
+
+
+
+                    K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 1
+Part 1. Overview
+The rightsizing scenarios are evaluated with two models, both of which are built upon the same data. The
+enrollment model (Part 2) starts from PRC’s forecast and applies each scenario’s rules to produce
+enrollment by school, grade and year through the 2035-2036 school year. The demographic impact model
+(Part 5) places each currently enrolled student under each scenario to show who would be affected. Both
+the enrollment model and demographic impact model read the same boundary work (Part 4).
+
+
+1. What goes into a scenario
+Most of what a scenario rests on are measured inputs, with two involving planning assumptions (see Part
+7). Main inputs:
+
+Input          What it is                                Measured or assumed                   Described in
+
+PRC            Students by school, residency             PRC’s forecast, from its own          Part 2: Section
+enrollment     group, grade and school year,             methods                               2.1
+forecast       2026-2027 through 2035-2036
+
+Boundary       The share of a school’s residents         Measured. student counts by           Part 4: Sections 3
+shares         who live in the census blocks a           block, checked against eleven         to 5
+               proposal reassigns                        school years
+
+Residency      Where each school’s and program’s         Measured: three school years of       Part 2: Section
+table          students live, by current attendance      geocoded enrollment                   2.3, Part 4:
+               area                                                                            Section 5.2
+
+Follow         The share of transfer and                 Planning judgment                     Part 7: Section 1
+shares         immersion students who follow a
+               closed school or a moved program
+
+Capture rate   The share of an area’s resident           PRC’s rate for the current            Part 7: Section 1
+               families who attend its                   school, held unchanged at the
+               neighborhood school                       receiving school
+
+Enrollment     The minimum enrollment for each           District thresholds; the district’s Part 6
+Floor and      type of school, and each building’s       school utilization model
+Enrollment     functional capacity
+capacity
+
+
+
+
+               K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 2
+Figure 1. How the pieces connect. The modeling tool at the center of the diagram is the core scenario
+development tool. The diagram shows how information flows into the modeling tool and how it connects
+to the other component processes and scenario outputs. Starting at top left: addresses become a roster
+with a census block for every student; the roster also yields the residency table. Starting at the center top:
+a proposal drawn in ArcGIS Pro becomes block-by-grade assignments in the scenario archive. The two
+meet in the counting views, whose shares go into the scenario rule table. The rule table, the residency
+table and PRC’s forecast feed the modeling tool. The tool’s scenarios and closed-school successors are
+loaded into SQL Server, where, with the archive and the roster, they drive the student-level placements
+behind the demographic pages and walking measures.
+
+
+
+                K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 3
+2. What the scenario numbers are for
+The scenario numbers compare proposals on a common basis: which schools reach their enrollment floors
+in 2031-2032, which exceed their capacity in any year, how many students move and to where, and how
+student groups and walking distances change.
+Scenario numbers are not the enrollment forecast that staffing rests on. After the Board adopts boundaries,
+grade configurations and program locations, PPS will give PRC the October 2026 enrollment together
+with the adopted changes. PRC, using its own methods, will produce its own forecast, and the PRC result
+becomes the one-year forecast for staffing in 2027-2028.
+
+
+3. Names and conventions
+  •​    Scenarios. The two scenarios compared throughout are Scenario A and Scenario B. Status Quo is
+        PRC’s forecast with no scenario applied.
+  •​    Years. A year written alone is the Fall of the school year. 2027 is the 2027-2028 school year. The
+        first year of change in Scenarios A and B is 2027-2028.
+  •​    Student groups. Students are grouped as PRC forecasts them: residents attending the
+        neighborhood program, non-residents attending it (transfer and lottery students), each language
+        immersion program, and special programs. Part 2, Section 2.1 defines them.
+  •​    The 2027 boundaries. Every scenario is drawn against the 2027 boundary set: today’s attendance
+        areas with the one change already adopted for 2027-2028, the end of a dual assignment at one
+        high school.
+
+
+
+
+               K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 4
+Part 2. Enrollment Methodology
+How Portland Public Schools Combines PRC's Enrollment Forecasts with Proposed Planning Scenarios
+Prepared by Portland Public Schools Data and Accountability · Reviewed by the Portland State
+University Population Research Center (PRC) · October 2026
+
+A note on the examples in this part: PPS is currently evaluating preliminary consolidation
+scenarios in which the specific schools involved may still change. To keep this methodology usable
+on its own — and appropriate for wider sharing — every example below uses generic placeholder
+names ("School A," "Boundary Area 1," and so on) and simplified figures rather than real projected
+counts. The method illustrated is identical to what runs on real data; only the labels and numbers
+have been replaced.
+
+What changed in this revision: This revision supersedes the August 2026 draft and incorporates
+PRC’s review. Five things changed materially, each described in the section noted: how the tool
+interprets a percentage below 100 versus a percentage of exactly 100 (Section 3.5); the adjustment of
+the residency table when a scenario closes a school outright (Section 3.3); the consolidation of all
+rounding for one school, program, grade and year into a single step (Section 3.7); the replacement of
+the earlier constrained-optimization solver with an exact, reproducible equivalent (Section 3.7); and
+the addition of an automatic verification report (Section 5). Section 6 is new and explains how to
+read the tool’s detailed output.
+
+
+
+1. Purpose and Scope
+Each year, the Population Research Center (PRC) at Portland State University provides Portland Public
+Schools (PPS) with independent, ten-year enrollment forecasts for every school, program, and grade in
+the district. PPS's planning process then asks a further question: what would enrollment look like under a
+proposed change — a school consolidation, a boundary adjustment, or a program merger?
+To answer that question consistently and transparently, PPS built a modeling tool that takes a proposed
+change (a "scenario") and mathematically combines it with PRC's forecast to produce a revised,
+school-by-school and grade-by-grade projection. This part explains, in plain terms, exactly how that
+combination is done — the rules the tool follows, and the mathematics behind them — so that PRC could
+review and validate the approach, which it has done.
+This part is limited to that combination step. It does not describe how PRC develops its underlying
+forecasts — PRC's own methodology governs that — and it does not describe how PPS staff decide which
+scenarios to propose in the first place, which is a separate planning and community engagement process.
+
+In Brief: The Method in Eight Steps
+   •​    Start from PRC's forecast exactly as provided. This baseline is never altered.
+   •​    If a scenario closes a school outright, first adjust the historical residency table so that the
+         closing school’s attendance boundary is carried forward to the school or schools that absorb
+         it.
+   •​    Once a proposed change takes effect in a given year, assume it continues in every later year
+         of the ten-year forecast, unless a further change supersedes it.
+
+
+                  K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 5
+  •​     Decide which students are affected: either everyone in the specified grades right away, or a
+         gradual, grade-by-grade phase-in that protects students who are already enrolled.
+  •​     Determine how many students each rule moves. A percentage below 100 moves that share
+         of PRC's original projection; a percentage of exactly 100 moves everyone present, including
+         students an earlier rule has just moved in.
+  •​     Move the affected students: either directly to one receiving school, or — when a school or
+         program closes outright — split proportionally across the surrounding attendance
+         boundaries, based on where those students have historically lived.
+  •​     Convert every fractional count leaving a given school, program, grade and year into whole
+         numbers together, in a single step, so that rounding never inflates or reduces the
+         district-wide total.
+  •​     Record the result as additions and subtractions layered on top of PRC's untouched baseline,
+         then verify the finished scenario automatically before any figure is published.
+The rest of this part walks through each of these steps in detail.
+
+Key Terms
+
+Term                     Meaning
+
+Baseline ("Status        PRC's original enrollment forecast, exactly as provided, before
+Quo")                    any scenario is applied.
+
+Scenario                 A proposed change PPS wants to model — for example,
+                         closing a program, merging two schools, or shifting a boundary
+                         — defined by which students are affected, where they would
+                         go, and when the change begins.
+
+Rule                     One line of a scenario. A scenario is normally made up of
+                         several rules, each covering one originating school, program
+                         category and grade range.
+
+Cell                     One school, one program category, one grade, one year. This is
+                         the smallest unit the model works in, and the unit at which
+                         rounding is settled.
+
+Share rule               A rule whose percentage is below 100. It moves that share of
+                         PRC’s original projection for the cell (Section 3.5).
+
+Sweep rule               A rule whose percentage is exactly 100. It moves every student
+                         present in the cell at that point, including any who arrived from
+                         an earlier rule (Section 3.5).
+
+Cohort                   A group of students who entered school in the same year and
+                         move up one grade together each year, used to track a
+                         phased-in change as it follows the same students over time.
+
+
+
+
+                K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 6
+Term                     Meaning
+
+Ledger                   The running record of every increase and decrease produced by
+                         a scenario, kept separately from — and without altering —
+                         PRC's original baseline forecast.
+
+Successor boundary       The school or schools that absorb a closing school’s attendance
+                         boundary, and therefore inherit its share of historical residency
+                         (Section 3.3).
+
+Functional Capacity      The number of students a school building can reasonably serve,
+                         used together with modeled enrollment to calculate utilization.
+
+
+2. The Three Inputs to the Model
+2.1 PRC's Enrollment Forecast (the Baseline)
+For every school, enrollment category, grade, and year, PRC supplies a single projected headcount. This
+complete set of numbers is the starting point — the "baseline" or "status quo" — against which every
+scenario is compared, and it is never edited or overwritten anywhere in the process.
+PRC organizes its forecast into a small number of enrollment categories that distinguish why a student is
+enrolled where they are:
+  •​     Residents Attending Neighborhood Program — students who live within a school's
+         official attendance boundary and attend that school's standard program. This is the core
+         population most directly driven by neighborhood demographic change, and generally the
+         largest share of the district’s enrollment.
+  •​     Non-residents Attending Neighborhood Program — students attending a standard
+         program outside their own attendance boundary, typically because of a grandfathered
+         boundary change, an approved hardship transfer, admission by lottery to a focus option
+         housed at a neighborhood school, or a family that moved but chose to let a student finish out
+         their remaining grades at their original school.
+  •​     Special Programs — district-managed programs that are not tied to a residential boundary,
+         including alternative and charter-style programs.
+  •​     Language immersion programs (for example, Spanish, Mandarin, Russian, Japanese, and
+         Vietnamese Immersion) — these draw from two sources at once: neighborhood residents
+         who choose the immersion track at their local school, and transfer students who travel from
+         elsewhere in the district specifically for that language pathway.
+PPS's modeling tool uses these same categories throughout, without reinterpreting them. A group of
+students keeps its original category before and after a scenario is applied, unless a scenario specifically
+calls for recategorizing them — which happens, for example, when a school closes and its "non-resident"
+population is reassigned into the standard resident category at their new home school.
+
+
+
+
+                K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 7
+2.2 Scenario Definitions
+PPS planning staff describe each proposed change — a consolidation, a boundary shift, a program merger
+— in a simple, structured way. For every rule within a scenario, they specify:
+  •​    The originating school, program category, and grade range the change applies to;
+  •​    The receiving school and program category — or, for changes that dissolve a program or
+        close a school outright, an instruction to return the affected students to their home
+        attendance boundaries rather than to one specific receiving school. This option is used for
+        students whose enrollment is not tied to where they live — non-resident, language
+        immersion and special-program students — for the share assumed not to follow when their
+        school or program closes or moves, or when a school stops enrolling non-residents. Students
+        who live within a closing school’s own boundary are instead sent to the named receiving
+        school or schools, as in the worked example in Section 3.9;
+  •​    The year the change takes effect;
+  •​    What share of the projected group is affected, from a small fraction up to the entire group;
+  •​    Whether the change should apply to everyone in the affected grades immediately, or phase
+        in gradually (Section 3.4 explains the difference); and
+  •​    A short written note describing what the rule is part of, in the planner’s own words. This
+        note is carried through the calculation and appears alongside every figure the rule produces,
+        so that a reader of the detailed output can see the planning intent behind a number without
+        consulting a separate document.
+A single scenario is typically made up of many such rules — one for each school, program, and grade
+range it touches — which the modeling tool applies together, as described below. The percentage on each
+rule is always applied to a specific number. A percentage below 100 is applied to the PRC’s original
+projection for the group; a percentage of exactly 100 percent instead moves every student in the group,
+including any moved there by rules the tool applies before it. Section 3.5 explains this distinction and the
+order in which the rules are applied.
+
+2.3 Historical Residency Proportions
+When a scenario calls for returning students to their home attendance boundaries rather than sending them
+to one specific receiving school — for example, non-resident, immersion or special-program students
+whose school or program closes (Section 2.2) — the tool needs to know how a program’s enrolled
+population has actually been distributed across the surrounding boundary areas. PPS maintains this as a
+supporting table: for a given school, program, and grade band, the share of enrolled students who have, on
+average over the three most recent school years, lived in each nearby attendance boundary.
+For any given school, program, and grade band, these shares always add up to 100 percent across every
+boundary area that program has historically drawn from. Some of that draw is legitimately from outside
+the district; where that is the case it is carried as such, and students apportioned there are understood to be
+leaving PPS rather than arriving at another PPS school.
+This table describes history, and history does not know which schools a scenario is about to close. Section
+3.3 describes the adjustment the tool makes before each scenario runs so that a closing school’s boundary
+
+
+                K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 8
+is carried forward correctly. The table is used only for the boundary-based redistribution mechanism
+described in Section 3.6, and has no effect on scenarios that specify a direct, one-to-one destination
+school.
+
+
+3. How a Scenario Is Applied, Step by Step
+3.1 Establishing the Baseline
+Before any scenario is considered, the tool takes PRC's complete forecast and sets it aside, untouched, as
+the reference point every scenario will be compared against. Every subsequent calculation adds to or
+subtracts from this reference — it never changes the reference numbers themselves. PRC's original
+forecast, unaltered, therefore remains available for inspection at every stage, alongside however many
+alternative scenarios PPS chooses to evaluate.
+
+3.2 A Change, Once Made, Carries Forward
+A scenario rule takes effect starting in a specified year and, once in effect, is assumed to remain in place
+for every later year of the ten-year forecast, unless a separate rule specifically supersedes it. In other
+words, a scenario describes a new steady state going forward, not a one-time event confined to a single
+year: a boundary change made effective in the fourth year of the model is assumed to still be in place in
+the tenth year, consistent with how these decisions function in practice. This lets PPS see a full ten-year
+trajectory for every school under a proposed change, not just a single snapshot year.
+
+3.3 Preparing the Residency Table When a School Closes
+The historical residency table described in Section 2.3 records where a program’s students have lived. If a
+scenario closes a school, that school’s attendance boundary still appears in the table as a place students
+live — and without an adjustment, a redistribution elsewhere in the district could assign students to a
+school the same scenario has just closed.
+The tool therefore prepares a corrected copy of the residency table before each scenario runs. The master
+table is never edited; each scenario works from its own corrected copy.
+Identifying a closure. A school is treated as closed in a given year when every group and grade it is
+projected to hold that year is fully reassigned elsewhere. A single program leaving is not a closure: a
+scenario can move an immersion program from School A to School B while School A continues to
+operate its neighborhood program, and School A is correctly not treated as closed.
+Identifying the successors. A closing school’s attendance boundary does not disappear — the families in
+it are absorbed by whichever school or schools the scenario reassigns its resident students to. The tool
+reads those destinations, and their relative shares, from the scenario’s own rules, so the boundary follows
+the students rather than being assigned by a separate assumption.
+Carrying the boundary forward. Every reference to the closing school as a place students live is
+replaced by one entry per successor, each carrying the original share multiplied by that successor’s share
+of the reassignment. Suppose School A closes, with its resident students divided evenly between School B
+and School C, and suppose School A’s boundary historically accounted for 8 percent of the students in a
+program at School D. In the corrected table that 8 percent is carried as 4 percent living in School B’s
+
+
+                K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 9
+boundary and 4 percent in School C’s. The families have not moved; the boundary they live in now
+belongs to two different schools, and the total is unchanged.
+Where a successor is itself closed by the same scenario, the tool follows the chain through to the schools
+that remain open, composing the shares along the way. Where the successors differ by grade — for
+example, elementary grades to one school and middle grades to another — the boundary is carried
+forward separately for each grade range. Where a scenario closes a program that has no residential
+boundary at all, there is nothing to carry forward and nothing is changed.
+Every reassignment the tool makes is written to a "Closed School Successors" report alongside the results,
+naming each closed school, the year it closes, each successor, and the share carried to it.
+
+3.4 Determining Which Students Are Affected: Immediate vs. Phased-In Change
+Not every change is meant to apply to every enrolled student the moment it takes effect. PPS planning
+staff mark each rule as either immediate, or — by leaving this unspecified, which is the current default —
+a gradual, phased-in change.
+Immediate: every student in the specified grade range at the originating school and program is affected,
+starting in the effective year and in every year after.
+Phased (default): the change protects students already enrolled above the starting grade, applying instead
+only to the incoming class at the youngest specified grade, and to every class that enters afterward. As
+those students move up a grade each year, the change follows them — the same idea behind standard
+cohort-survival forecasting, where a group of students is tracked not by name but by the size of the class
+that entered together and ages up as a group. Practically, this means a change phases in one grade at a
+time: in the first year, only the newly entering class at the starting grade is affected; the next year, that
+same class — now one grade higher — is still affected, and a new entering class is added as well; and so
+on, until the entire specified grade range is fully phased in and remains so for every year after.
+
+                               Immediate                        Phased (default)
+
+Students affected in the       Everyone in the specified        Only the incoming class at the youngest
+first year                     grade range                      specified grade
+
+Students affected in later     Everyone in the specified        That same class, plus each new incoming
+years                          grade range, every year          class, until the full range is phased in
+
+Students already enrolled      Included right away              Grandfathered — they finish their remaining
+above the starting grade                                        grades at the original school
+when the change begins
+
+Framed around real families: under a phased change, a student already partway through the affected grade
+range when the change is announced finishes out their remaining grades at their original school; a student
+entering the starting grade in the year the change begins — or in any year after — is affected for the entire
+specified grade range.
+
+
+
+
+               K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 10
+3.5 What a Percentage Means: Share Rules and Sweep Rules
+A scenario rule specifies what share of a group is affected. Because a single school, program and grade
+can be touched by several rules at once — some students moving to one receiving school, some to
+another, some returning to their home boundaries — the tool must be precise about what each percentage
+is measured against. It distinguishes two cases.
+A share rule is any rule below 100 percent. It moves that share of PRC’s original projection for the
+school, program, grade and year — never a share of whatever an earlier rule happened to leave behind.
+Every share rule drawing on the same group is therefore measured against the same number, so
+complementary shares add up exactly as written.
+This is what allows a scenario to divide a group cleanly. If a group of 100 projected students is split by
+three rules — 50 percent returning to home boundaries, 25 percent to School B, and 25 percent to School
+C — all three are measured against the same 100, they remove 50, 25 and 25, and the originating group
+empties completely. Had each rule instead been applied to the students remaining after the previous one,
+the same three rules would remove 50, then 12.5, then about 9.4, leaving more than a quarter of the
+students enrolled at a school the scenario closes.
+A sweep rule is a rule of exactly 100 percent. It moves every student present in that group at that point,
+which includes any students an earlier rule in the same scenario has just moved in. This is deliberate: it is
+what allows a closing school to land on exactly zero even when the scenario routes students through it. A
+school projected to have 31 students that also receives 1 student from another rule will show a sweep of
+32. Rules below 100 percent are applied first, then 100 percent rules that return students to their home
+boundaries, then 100 percent rules to named schools; each moves the students present after the stages
+before it.
+The distinction concerns the denominator, not the destination. Both kinds of rule may send students
+directly to a receiving school or return them to their home boundaries, as described in Section 3.6.
+In practice this means a closure should be written either as a single 100 percent rule, or as a set of share
+rules that add to 100 percent. One case deserves note: if a school’s closure is written entirely as share
+rules totaling 100 percent, and that same school also receives students from another rule in the same
+scenario, the share rules will not carry those arrivals away, because they are measured against PRC’s
+projection rather than against the arrivals. For example, if School B is projected to have 40 students in a
+grade and its closure is written as 60 percent to School C and 40 percent to School D, those two rules
+move exactly 40 students. If another rule in the same scenario also sends 2 students from School A to
+School B in that grade, those students are left behind at a school that has closed.
+This case is narrow. It arises only when a scenario sends students into a school that the same scenario also
+closes. One way students could arrive at a closing school — a closed program returning students who live
+in its boundary — cannot cause it, because the adjustment in Section 3.3 sends those students to the
+schools that absorb the boundary instead. What remains is a scenario in which one school’s students are
+sent to a second school that itself is closing. The reliable way to avoid it is send the first school’s students
+directly to the final destinations. Closing the second school with a single 100 percent rule also works
+when the students arrive by a rule below 100 percent. In the scenarios PPS has evaluated to date, the
+verification step has not found this case.
+
+
+
+                K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 11
+If it did occur, it does not pass unnoticed. The verification step described in Section 5 reports the students
+left behind as an error, naming the school, program, grade and year, and they are resolved as described
+there; the scenario’s rules are corrected and the scenario is run again, rather than the students being moved
+by hand.
+
+3.6 Two Kinds of Destinations: Direct Transfers and Boundary-Based Redistribution
+Once the tool has determined how many students a rule moves, it sends them in one of two ways,
+depending on how the rule is written.
+Direct transfers are the more common case: the affected students in a specific school, program, and
+grade range are reassigned to one specific receiving school and program. If a scenario specifies moving
+100 percent of Kindergarten through Grade 5 from School A to School B starting in a given year, then
+every projected student in that group — at School A that year, and in every following year’s incoming
+Kindergarten class — is reassigned to School B for as long as the rule remains in effect.
+Boundary-based redistribution applies when a scenario instead dissolves a program or closes a school
+and returns its students to their home attendance boundaries, rather than sending them to one specific
+receiving school. Because those students could live across several different surrounding boundary areas,
+the tool cannot send them to just one place. Instead, it uses the historical residency proportions described
+in Section 2.3 — as corrected for any school the scenario closes, per Section 3.3 — to split the departing
+group across every boundary area it has historically drawn from, in the same shares history shows. For
+example, if a program with a historical draw of 50 percent from Boundary Area 1, 31 percent from
+Boundary Area 2, and 19 percent from Boundary Area 3 is discontinued, a departing group of students
+from that program is split across the three areas in those same proportions, each added into that area’s
+standard neighborhood program count.
+In both cases, the number of students affected and the year the change takes effect come from the rule
+itself; only the destination logic differs.
+Grade-level detail within a redistribution
+The residency shares described in Section 2.3 are quoted for a grade band — typically elementary and
+middle grades — rather than for a single grade. The same share therefore drives every grade in the band,
+and the model has no grade-level signal within it. This has one consequence worth stating plainly and one
+worth guarding against.
+The consequence worth stating is that the grade a returning student is assigned to should not be read as a
+grade-level forecast. The model knows how many students each boundary area should receive across the
+band, but not which grades they are in. For example, suppose a closing program sends 25 students home
+from each grade, Kindergarten through Grade 5, and one boundary area has historically supplied 2 percent
+of the program’s students. That area’s exact share is half a student in every grade, or 3 students across the
+band. Because the model reports whole students, the area’s students appear in some grades and not others.
+The band total is a meaningful projection; which grades show a student is not, because every grade has
+the same claim of half a student and the data gives no reason to prefer one grade over another. Part 3
+walks through a real case of this kind.
+The same caution applies when comparing scenarios. Two scenarios that make the same change can place
+a returning student in different grades, because each grade is settled together with every other boundary
+
+               K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 12
+area in the band, and a closure elsewhere in one scenario changes those other shares. Compare scenarios
+on band totals for returning students, not grade by grade.
+Computing the shares grade by grade instead would not improve this. A program of roughly 25 students
+per grade drawn from 40 or more boundary areas produces per-grade, per-boundary counts that are almost
+entirely zeros and ones, and a three-year average of those figures is noise rather than signal. For example,
+if one boundary area happened to send the program a first grader in each of the last three years but no
+second graders, grade-level shares would credit it with 4 percent of first grade and none of second grade
+— a difference created by which families happened to enroll in those particular years, not a pattern there
+is any reason to expect to continue. The band-level average is the appropriate granularity for the data
+available.
+The risk worth guarding against is subtler. Because the same share applies to every grade in the band,
+settling each grade’s split independently would repeat one near-identical rounding decision once per
+grade, always in the same direction. A boundary whose exact claim is slightly more than half a student in
+each grade would collect a whole student in every grade of the band; one whose claim is slightly less
+would collect none in any of them. Over a six-grade band that turns an exact claim of, for example, 3.6
+students into 6, or 2.4 into none — in the same direction in every forecast year, since the shares do not
+change. The tool avoids this by settling the band as a whole, as described in Section 3.7, which works
+through this example.
+
+3.7 Keeping Every Student Whole: The Rounding Problem and How It's Solved
+Applying a percentage to a whole-number forecast will usually produce a fraction. Thirty percent of
+seventeen students is 5.1 — and while a forecast can describe a fraction of a student on paper, a modeled
+outcome cannot. This is not a new problem; it is a version of a well-known issue in applied mathematics,
+the same one that arises whenever a fixed total has to be divided among several groups in proportion to
+unequal shares, such as apportioning a fixed number of legislative seats among states of different
+populations.
+Rounding each share independently — the obvious first approach — can quietly gain or lose whole
+students. If ten departing students are split three ways in roughly equal shares (3.33, 3.33 and 3.33),
+rounding each independently gives 3, 3 and 3 — only nine students, with a tenth vanishing from the
+model even though ten clearly left the originating school.
+Two decisions follow from this: which numbers must be rounded together, and how the rounding itself is
+done.
+One rounding decision per cell
+All students leaving one school, program, grade and year are converted to whole numbers together, in a
+single step — regardless of how many rules are moving them or whether those rules send students to
+different receiving schools or back to home boundaries. The cell, not the individual rule, is the unit at
+which rounding is settled.
+Settling each rule separately would break the total. Suppose 27 students in one grade are divided evenly
+between two receiving schools. Each rule’s exact share is 13.5. Rounded independently, both round the
+same way, and the two together remove either 26 or 28 students from a group of 27 — leaving a student
+
+
+
+               K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 13
+stranded at a school the scenario has closed, or removing one who was never there. Settled together, the
+pair is required to total exactly 27, and one school receives 14 while the other receives 13.
+The same principle governs a boundary-based redistribution, one grade band at a time. Because that step
+builds on the rounding method described next, it is explained with a worked example, under “Setting a
+grade band as a whole” at the end of this section.
+How the whole numbers are chosen
+The tool uses the Largest Remainder Method, also known as Hamilton’s method in the apportionment
+literature. Each site first receives the whole-number part of its exact share. That will normally leave a
+small number of whole students still to be assigned, and those go, one each, to the sites whose fractional
+remainders are largest.
+Stated formally: for a group of n sites sharing a departing or arriving student count, let vᵢ be the exact
+fractional share calculated for site i. Write vᵢ as a whole-number part aᵢ plus a remainder rᵢ between 0 and
+1, and let k be the number of whole students left over once every site has received its aᵢ:
+
+k = round(v₁ + v₂ + ... + v ) − (a₁ + a₂ + ... + a )
+
+Each site receives aᵢ. The k sites with the largest remainders each receive one additional student.
+
+
+This is not an approximation. Ranking the remainders from largest to smallest as r₍₁₎ through r₍ ₎, the
+largest gap between any site’s exact share and the whole number it receives is max(1 − r₍ₖ₎, r₍ₖ₊₁₎), and
+no other assignment can do better: any alternative must round up a site with a remainder no larger than
+r₍ₖ₎, producing a gap of at least 1 − r₍ₖ₎, and must round down a site with a remainder no smaller than
+r₍ₖ₊₁₎, producing a gap of at least r₍ₖ₊₁₎. The same assignment also rounds up the largest total remainder
+available, so it minimizes the sum of all the gaps as well as the largest one.
+This reaches the same optimum described by the constrained-optimization formulation in the earlier draft
+of this methodology — the smallest possible largest gap, subject to the whole numbers summing to the
+correct total. It reaches it directly rather than by search, which means the tool no longer depends on a
+third-party optimization solver, runs substantially faster, and produces identical results on any computer
+and in any future run.
+When two sites tie
+Two sites can have identical remainders at the point where the leftover students run out. The clearest case
+is an odd number of students split evenly two ways: each side’s exact share ends in one half, one side
+must receive the extra student, and neither has a better claim to it. Every such combination scores
+identically on both measures above, so the choice is genuinely free — but it should not always fall the
+same way.
+The tool settles these ties by a fixed rule that depends on the cell being calculated and on the names of the
+sites involved. Two consequences follow. Within a grade range, the extra student alternates between the
+receiving schools rather than accumulating at one of them: under the previous approach, a school could
+receive the odd student in every grade of a K–5 span, ending several students ahead purely as a
+by-product of how ties were resolved. And because the rule depends only on the inputs, it produces the
+same answer on every computer and in every rerun.
+
+
+                  K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 14
+The tie-breaking rule is governed by a published setting recorded with the model. Re-running a scenario
+under a different setting produces a different, equally valid resolution of the same ties, which allows PPS
+to confirm directly that no conclusion depends on how ties happened to fall. In testing to date, changing
+this setting has moved no school by more than three students in any year and has never changed a school’s
+closure, a district total, or a utilization conclusion.
+Direct transfers need no second rounding
+For a direct transfer with a single receiving school, no second rounding decision is needed at all: whatever
+whole number of students is confirmed as leaving the originating school is credited to the receiving
+school as that same exact number. Direct transfers are therefore conserved exactly, down to the student.
+The Largest Remainder Method is applied at two points only: when settling the departures from a cell,
+and when splitting a confirmed whole-number departure across the boundary areas it returns to.
+Settling a grade band as a whole
+When students return to their home boundaries, every grade in a band is split using the same residency
+shares, so settling each grade on its own would repeat the same rounding decision in every grade, always
+in the same direction (Section 3.6). The tool therefore settles the band as a whole. It still works through
+the band one grade at a time, and every grade still places exactly the students who left it. What changes is
+the amount each boundary area is treated as entitled to in that grade: not its share of that one grade alone,
+but what it is still owed across the band — its share of every student who has left the band so far, less the
+students it has already received. Within each grade, the whole numbers are then chosen by the Largest
+Remainder Method, exactly as described under “How the whole numbers are chosen” above.
+An example makes this concrete. Suppose a program closes and sends 2 students home from each grade,
+Kindergarten through Grade 5, and that its students have historically lived in three boundary areas: 50
+percent in Area 1, 30 percent in Area 2 and 20 percent in Area 3. In each grade, the exact shares are 1.0,
+0.6 and 0.4 students; across the band, they are 6.0, 3.6 and 2.4. The two approaches compare as follows:
+
+                                       Area 1              Area 2             Area 3
+
+Exact share, Kindergarten–Grade        6                   3.6                2.4
+5
+
+Each grade settled on its own          6                   6                  0
+
+Band settled as a whole                6                   4                  2
+
+Settled one grade at a time, every grade comes out the same. Area 1 receives its whole student, and the
+second student goes to Area 2, whose remainder of 0.6 is larger than Area 3’s 0.4. Repeated in all six
+grades, that gives Area 2 six students and Area 3 none, even though one in five of the program’s students
+has historically lived in Area 3.
+Settled as a band, Area 1 still receives one student in every grade, since it is owed exactly one each time.
+The second student goes to whichever of the other two areas is owed more at that point:
+
+
+
+
+               K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 15
+Grade                  Still owed to Area     Still owed to Area      Second student goes
+                       2                      3                       to
+
+Kindergarten           0.6                    0.4                     Area 2
+
+Grade 1                0.2                    0.8                     Area 3
+
+Grade 2                0.8                    0.2                     Area 2
+
+Grade 3                0.4                    0.6                     Area 3
+
+Grade 4                1                      0                       Area 2
+
+Grade 5                0.6                    0.4                     Area 2
+
+Take Grade 1. By then 4 students have left the band, so Area 2’s share of them is 1.2; it received 1 in
+Kindergarten, so it is owed 0.2. Area 3’s share is 0.8 and it has received no one, so it is owed 0.8, and the
+student goes to Area 3. By the end of the band, Area 2 has 4 students against an exact share of 3.6 and
+Area 3 has 2 against 2.4 — each within 0.4 of a student, where settling grade by grade missed each by
+2.4.
+Nothing already placed is ever changed. When an area receives more than its running share in one grade
+— as Area 2 does in Kindergarten, receiving 1 student against a share of 0.6 — that student stays where
+they were placed. The extra simply reduces what the area is owed in the grades that follow, which is why
+Area 2 receives no one in Grade 1, and an area that is further ahead receives no one until its share catches
+up. The adjustment only ever works forward; once a grade has been settled, it is not revisited.
+In practice the tool does not always begin at Kindergarten. Each year it starts the band at a different grade,
+chosen by a fixed published setting, so that the rounding does not fall in the same grade in every year of
+the forecast; Part 3 explains why that matters for how the output reads. In testing against a full ten-year
+scenario, settling the band as a whole reduced the average error in a receiving school’s band total from
+about 1.4 students to about 0.2, and eliminated every case where a school’s band total was wrong by two
+or more students.
+
+3.8 Recording the Result: An Audit Ledger, Not an Overwrite
+Rather than editing PRC's baseline numbers directly, the tool records every scenario's effect as a running
+ledger of paired entries, much like an accounting ledger: a decrease at the originating school, program,
+grade, and year, and a matching increase at the receiving school, program, grade, and year — always
+adding to exactly the whole-number amount determined in Section 3.7. The baseline itself is never edited.
+This has several practical benefits. PRC's original forecast remains fully intact and inspectable at every
+stage, as the "Status Quo" reference point. Every change traces directly back to the specific scenario rule
+that produced it. Multiple scenarios can be modeled side by side against the same untouched baseline
+without interfering with one another or with PRC's source data. And a school's fully modeled enrollment,
+for a given scenario, year, and grade, is simply its baseline count plus every ledger entry that applies to
+that same cell under that scenario.
+
+
+
+
+               K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 16
+Each ledger entry also records the reasoning behind its own figure: which rule produced it, what the rule’s
+percentage was applied to, the exact fractional result before rounding, whether the figure was rounded up
+or down and why, and the planner’s written note for the rule. Section 6 describes how to read this record.
+
+3.9 Worked Example (Illustrative Only)
+The example below is entirely generic and does not describe any real school, program, or projected count;
+it is meant only to show how the pieces above work together.
+Suppose School A is proposed for closure starting in a given year. Its resident students are divided evenly
+between School B and School C. Its non-resident students — those attending School A from outside its
+boundary — are treated differently: half are assumed to return to the standard program at their own home
+school, and the remaining half follow the residents, one quarter to School B and one quarter to School C.
+The change is marked as immediate.
+Follow one grade of the non-resident group, for which PRC projects 18 students in the first effective year.
+  •​    Preparing the residency table. Because School A closes entirely, its attendance boundary
+        is carried forward before anything else happens (Section 3.3). School A’s residents split
+        evenly between School B and School C, so every place the residency table records a student
+        as living in School A’s boundary is replaced by two entries at half the share, one for School
+        B and one for School C.
+  •​    Determining the amounts. All three rules affecting this group are share rules, so all three
+        are measured against PRC’s projection of 18 (Section 3.5). They remove 9.00, 4.50 and 4.50
+        students respectively — exactly 18 in total, so the group empties completely.
+  •​    Converting to whole students. The three fractional departures are settled together (Section
+        3.7). They must total 18. The first is already whole at 9. The other two are tied at 4.50, and
+        one of them must give up the extra student; the tie-breaking rule assigns it, and the
+        departures are recorded as 9, 5 and 4. In the next grade up, where the projected count differs,
+        the tie may well fall the other way.
+  •​    Distributing the boundary return. The 9 students returning to their home boundaries are
+        split using the corrected residency table (Section 3.6). If that table shows shares of 50, 31
+        and 19 percent across three boundary areas, the exact shares are 4.50, 2.79 and 1.71. Each
+        area first receives its whole-number part — 4, 2 and 1, totaling 7 — which leaves 2 students
+        still to assign, and those go to the two largest remainders, 0.79 and 0.71. The tool therefore
+        assigns 4, 3 and 2, totaling exactly the 9 who left. Note that the first area is not rounded up
+        even though its exact share ends in one half: rounding each figure independently to the
+        nearest whole number would give 5, 3 and 2 — ten students from a departure of nine.
+        Settling the three together instead holds the total at nine and keeps the largest single gap to
+        0.50 of a student, which is the smallest it can be.
+  •​    Recording the result. The ledger records three decreases against School A for this group,
+        grade and year — 9, 5 and 4 — and matching increases: 5 at School B, 4 at School C, and 4,
+        3 and 2 at the three boundary areas’ standard neighborhood programs. PRC’s original
+        forecast for School A is left completely untouched.
+
+
+
+               K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 17
+  •​    Reading the result. A planner asking what School A’s modeled enrollment is for this group
+        and grade would see PRC’s original 18 plus decreases totaling 18, netting to zero, consistent
+        with the school having closed. A planner asking about School B would see PRC’s original
+        forecast plus its share of the transfer and its share of the returning students — including
+        students who live in what used to be School A’s boundary.
+
+
+4. From Modeled Enrollment to Building Utilization
+Once a scenario's fully modeled enrollment is assembled for every school, grade, and year, PPS compares
+it against each building's functional capacity – the number of students a building can reasonably serve – to
+calculate a utilization rate (modeled enrollment divided by functional capacity) and the number of seats
+available or short at each site.. This comparison is produced twice for every school and year: once using
+PRC's forecast before any scenario changes, and again using the fully modeled result after a scenario's
+changes are applied, so that planners can see directly how a proposed change would affect each building's
+utilization.
+
+
+5. Built-In Verification and Reconciliation
+Every scenario is checked automatically after it is calculated and before any figure is published. The
+checks are deliberately mechanical: each one states a property the finished numbers must have if the
+method has been applied correctly, and reports every instance where they do not.
+  •​    Every school, program and grade that a scenario reassigns in full ends at exactly zero. A
+        residual of even one student is reported as an error, identified down to the grade and year.
+        The students are not moved by hand; instead, the scenario’s rules are corrected and the
+        scenario is run again, so that every student who moves does so through a rule recorded in
+        the ledger (Section 3.8), Section 3.5 describes one way a residual can arise and how it is
+        avoided.
+  •​    No school’s modeled enrollment is negative in any group, grade or year.
+  •​    District-wide totals are unchanged year by year: the fully modeled result must reconcile
+        exactly to PRC's baseline total, since a scenario moves students between schools but never
+        creates or removes them. Students apportioned to an out-of-district boundary (Section 2.3)
+        are carried on their own line, so this reconciliation still holds; the school-by-school tables
+        leave that line out, so their sum is below PRC’s total by exactly those students.
+  •​    No students are routed into a school the scenario closes, in the closure year or any year after.
+  •​    No set of rules claims more than 100 percent of the same group, which would otherwise
+        drive a school’s enrollment below zero.
+  •​    Every receiving boundary is a school that exists in PRC’s forecast. Out-of-district
+        destinations are recognized as legitimate and reported separately from genuine errors.
+Findings are written to a "Guard Findings" report alongside the results, giving the scenario, school, group,
+grade, year, the check that failed, and a plain description of the discrepancy. Findings are graded: an error
+means the numbers should not be published as they stand, while a warning marks something that may be
+
+
+
+               K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 18
+defensible but deserves a human decision. The tool can be set to halt the run outright if any error is
+present, so that a scenario with a known defect cannot reach a published utilization table.
+Conditions that could previously have passed unnoticed now stop and report. A redistribution with no
+matching residency record, a boundary area left with no successors after a closure, and a group of students
+that cannot be placed are each named explicitly rather than being silently dropped.
+Alongside the findings, the tool publishes the "Closed School Successors" report described in Section 3.3,
+so that every adjustment made to the residency table is visible next to the results it produced.
+
+
+6. How to Read the "rounded" Tab
+The "rounded" tab is the ledger described in Section 3.8, published in full. Every row is either a line of
+PRC’s baseline or a single increase or decrease produced by one scenario rule. Each row is self-contained:
+it states which rule moved the students, what the rule’s percentage was applied to, where they went, and
+how the figure became a whole number. No lookups into other tabs are required to check a number.
+The tab is a record of the calculation, not a summary of it. A school’s modeled enrollment for a given
+scenario, year, group and grade is the sum of the baseline row and every ledger row for that same cell —
+which is how the summary and utilization tabs are built.
+
+6.1 Column Reference
+
+Column                What it tells you                                          Defined in
+
+school, group,        The cell this row affects. For a decrease this is the      Section 2.1
+grade, year           originating school; for an increase, the receiving
+                      school.
+
+count                 The students this row adds or removes. Decreases           Section 3.8
+                      are negative. A departure can show 0 when its
+                      fraction rounded away; it then has no matching
+                      arrival.
+
+direction             Baseline, Departure, or Arrival.                           Section 3.8
+
+from_school,          Where the students are leaving.                            Section 3.6
+from_group
+
+to_school,            Where they are going. On a departure that                  Section 3.6
+to_group              disperses students, this reads "home boundaries";
+                      the individual receiving boundaries appear on the
+                      matching arrival rows.
+
+rule_kind             Share or Sweep — what the rule’s percentage was            Section 3.5
+                      measured against.
+
+rule_pct              The percentage as written in the scenario                  Section 2.2
+                      definition.
+
+
+
+                 K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 19
+Column               What it tells you                                          Defined in
+
+basis_count          The number that percentage was applied to: PRC’s           Section 3.5
+                     projection for a share rule, the students present for
+                     a sweep.
+
+boundary_share       This boundary's historical share of the originating        Section 2.3
+                     program, on redistribution arrivals only.
+
+unrounded_count      The exact fractional result before rounding.               Section 3.7
+                     Negative on departures, like count.
+
+rounded_count        The whole number assigned. Negative on                     Section 3.7
+                     departures, like count.
+
+rounding             Up, Down, or Exact — stated in students, so "Up"           Section 3.7
+                     always means one more student moved.
+
+explanation          The row restated as one sentence, for readers who          —
+                     will not pivot the data.
+
+calc_note            Populated only when something happened that the            Section 6.3
+                     other columns do not make obvious. Blank on
+                     ordinary rows.
+
+scenario_note        The planner's written note for the rule that               Section 2.2
+                     produced this row.
+
+cell_id              A single filter key for the cell this row affects: one     Section 3.7
+                     school, group, grade and year. For a departure, this
+                     is also where rounding was settled.
+
+scenario_name,       Which scenario (reads "Baseline" on PRC's                  Section 3.8
+audit_log,           baseline rows), which rule, and the key linking a
+transaction_id       departure to the arrivals it produced: several for a
+                     return to home boundaries, none when the
+                     departure rounded to zero.
+
+eval_scenario        The scenario run that this row belongs to. PRC's           Section 3.8
+                     baseline rows repeat in every run with
+                     scenario_name "Baseline", so filter on
+                     eval_scenario, not scenario_name, to see one
+                     scenario's complete picture. |
+
+6.2 Reading One Cell End to End
+The clearest way to read the tab is to filter on a single cell_id, which brings together the baseline and
+every rule that touched it. Taking the non-resident group from the worked example in Section 3.9 —
+School A, one grade, the first effective year — the tab shows four rows:
+
+
+
+                K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 20
+Row                  What the tab says
+
+18                   Baseline. PRC projection.
+
+−9                   Departure to home boundaries. Share rule, 50% of basis 18 = 9.00.
+                     Rounding: Exact. Explanation: 50% of the 18 students PRC projects
+                     for this cell = 9.00, moving to home boundaries.
+
+−5                   Departure to School B. Share rule, 25% of basis 18 = 4.50.
+                     Rounding: Up. Explanation: 25% of the 18 students PRC projects
+                     for this cell = 4.50, moving to School B. Rounded up to 5 so this
+                     cell’s departures total exactly 18. Note: tied at 0.50 of a student with
+                     School C; the tie-break rule awarded the extra student here.
+
+−4                   Departure to School C. Share rule, 25% of basis 18 = 4.50.
+                     Rounding: Down. Explanation: 25% of the 18 students PRC
+                     projects for this cell = 4.50, moving to School C. Rounded down to
+                     4 so this cell’s departures total exactly 18. Note: tied at 0.50 of a
+                     student with School B; the extra student went to School B.
+
+Read together, the four rows account for the cell completely: 18 projected, 18 removed, ending at zero as
+a closure requires. The two rules that appear identical in the scenario definition — both 25 percent, both
+producing 4.50 — are distinguished by their receiving school, and the reason one became 5 and the other
+4 is stated on the rows themselves.
+The matching arrival rows appear at the receiving schools and boundary areas. A redistribution arrival
+carries the boundary share that sent the students there, and reads, for example: 3 of the 9 students
+returning from School A grade 3 to their home boundaries. Boundary Area 2 is 31.0% of School A’s
+historical residency for this group and grade = 2.79. Rounded up to 3.
+
+6.3 Checking a Figure by Hand
+Any number in the tab can be verified in three steps, each corresponding to a section above.
+     •​   The rule’s arithmetic (Section 3.5). Multiply rule_pct by basis_count. The result should
+          equal unrounded_count, which is negative on a departure because students are leaving. If
+          rule_kind is Sweep, rule_pct is 100 percent, so unrounded_count simply equals basis_count.
+          This check works on every departure, and on every arrival from a direct transfer, which
+          carries the same rule_pct and basis_count as its departure. An arrival from a redistribution
+          follows different arithmetic; check it with the third step below.
+     •​   The rounding (Section 3.7). Filter on cell_id and sum count across the rows where
+          direction is Departure. That total should be a whole number equal to the sum of the
+          unrounded departures, rounded once. The rounding column shows which rows absorbed the
+          fraction.
+     •​   The redistribution (Section 3.6). On a redistribution arrival, multiply boundary_share by
+          the total number of students who left that cell for their home boundaries. The result should
+
+
+
+
+                 K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 21
+        equal unrounded_count, and the shares across all arrivals from that departure should sum to
+        100 percent.
+Filtering calc_note to non-blank rows shows everything unusual the run did. Four notes are possible, and
+a row can carry more than one:
+
+Note                      Meaning
+
+A tie                     Two rules or two boundaries had identical claims on one
+                          student. The note names the other party and states which way
+                          the tie fell (Section 3.7).
+
+A reassigned              The receiving school’s historical share includes the attendance
+boundary                  boundary of a school this scenario closes. The note names the
+                          closed school and the share carried over (Section 3.3).
+
+A sweep that              A 100 percent rule moved more students than PRC projected
+collected arrivals        for that cell, because students had arrived from an earlier rule.
+                          The note gives the number that arrived (Section 3.5).
+
+A phased rule             The rule applies only to cohorts that have reached the starting
+                          grade since the year of change, so it does not affect every
+                          grade in its stated range in early years (Section 3.4).
+
+One presentational note: the numeric columns are written as zero rather than left blank on baseline rows,
+where a rule percentage and basis do not apply. The direction column reads "Baseline" and the
+explanation reads "PRC projection" on every such row.
+
+
+7. Summary
+Throughout this process, PPS's modeling tool is built around five guarantees. PRC's original forecast is
+preserved exactly and is never overwritten. Every scenario's effects are layered on top of that forecast as a
+fully traceable set of additions and subtractions, each carrying the reasoning behind its own figure.
+Percentage-based moves are measured against PRC's projection and converted to whole numbers a cell at
+a time, so that complementary rules add up as written and rounding never gains or loses students in
+aggregate. Changes are modeled in a way that reflects how they actually unfold in practice — carrying
+forward year over year, protecting students already partway through an affected grade range by default,
+and carrying a closing school's attendance boundary forward to the schools that absorb it. And every
+finished scenario is verified automatically against a set of stated properties before any figure is published.
+
+This methodology has been reviewed by the PRC. PPS welcomes questions about the approach described
+above.
+
+
+
+
+                K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 22
+Part 3. Reading Grade-Level Detail in Redistribution Results
+Why students returning to a neighborhood school do not appear to move up a grade
+A companion to Part 2 · August 2026, revised October 2026
+
+About this part: This is a supplement to Part 2, written because one feature of the model’s output
+reliably surprises people who look at it closely — including the staff who built it. It concerns how to
+read grade-by-grade figures when a school or program closes and its students return to their home
+attendance boundaries. Nothing here describes a defect. It describes a limit on what the underlying
+data can support, and the choice PPS made about how to present a result honestly within that limit.
+
+A note on the figures: The numbers below are taken from an actual run of an earlier exploratory
+scenario, not from the scenarios currently proposed; school names have been replaced with generic
+labels so that this part can be shared independently of any particular proposal. "Program P" stands for
+a special program proposed for closure; "School R" stands for one neighborhood school whose
+attendance boundary supplied a small share of that program’s students.
+
+
+
+1. The observation
+When a special program closes and its students are returned to their home attendance boundaries, a reader
+looking at a single receiving school’s results year by year may notice something odd. The students appear
+in the same grade in every year of the ten-year forecast.
+In the case that prompted this part, School R gained two students in second grade in the first year of the
+closure — and two students in second grade in every year afterwards, for nine consecutive years, with
+nothing in any other grade until late in the forecast.
+That looks wrong in a specific way. If a second grader returns to School R this year, common sense says
+they should be a third grader there next year. A stack of students sitting permanently in one grade looks
+like the model has failed to age anyone.
+It has not. The explanation involves three separate things that are easy to run together, so this part takes
+them one at a time.
+
+
+
+
+                  K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 23
+2. The short answer
+The model does not contain students. It contains counts.
+
+Nothing inside the model has an identity that could get a year older, so nothing can move from one
+grade to the next. Each year’s figure is computed from scratch.
+
+Cohort progression has already happened before the model runs.
+
+PRC’s forecast is built by tracking cohorts as they age. The model applies a percentage to numbers
+that already carry that work.
+
+The repeated grade was a rounding artifact, not a statement about students.
+
+The model’s honest answer for School R is about half a student in every grade in every year. Whole
+students have to be printed somewhere, and they were all landing in the same row.
+
+
+
+3. What the model is made of
+The model works on counts held in boxes. A box is one school, one enrollment category, one grade, one
+year. PRC supplies a number for every box; a scenario adds to some boxes and subtracts from others.
+When the tool "moves students," it subtracts a number from one box and adds the same number to another
+box in the same grade and the same year. There is no student record, no roster, no identifier attached to
+anyone. Nothing in the model is the kind of thing that could have a birthday.
+So the question "why don’t these students move up a grade next year?" has an unexpected answer: there is
+nothing there to move. The figure in School R’s third-grade box for next year was not produced by aging
+this year’s second-grade figure. It was calculated independently, from PRC’s forecast for that school, that
+grade, and that year.
+
+
+4. Where cohort progression actually happens
+Cohort progression is central to this work — it simply happens earlier in the chain than people expect.
+PRC builds its forecast using cohort survival: it tracks a group of students as they move up one grade each
+year and estimates how many remain. That work is finished before PPS receives the file. In the run behind
+this part, PRC projects that Program P has 26 students in second grade in one year and 27 in third grade
+the year after. Those are largely the same children, one year older. The progression is already inside those
+two numbers.
+The model then does something much simpler. School R’s attendance boundary historically supplied a
+small, fixed share of Program P’s enrollment, so the tool multiplies that share by each year’s projected
+count:
+
+Year 1, grade 2: 26 students × School R’s share = 0.44 students returning to School R
+
+Year 2, grade 3: 27 students × the same share = roughly the same figure again (the table in Section 5
+has every grade and year)
+
+
+
+
+                 K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 24
+The progression lives in 26 becoming 27. That is PRC’s work, and the multiplication rides on top of it.
+A useful way to picture it is a pipe with a small tap. PRC decides how much water flows through the pipe
+each year at each grade — all the demographic and cohort reasoning happens there. The tap diverts a
+fixed fraction into School R. The tap does not need to know anything about cohorts, because the pipe
+already does. Building cohort logic into the tap as well would do the same work twice.
+
+
+5. What the model actually knows about a receiving school
+Here is the whole of what the model knows about School R under this scenario: its exact expected
+arrivals, before anything is rounded, for every grade in every year.
+
+Grade    2027-     2028-     2029-     2030-     2031-     2032-     2033-     2034-     2035-
+         2028      2029      2030      2031      2032      2033      2034      2035      2036
+
+KG       0.41      0.44      0.42      0.41      0.41      0.41      0.41      0.41      0.41
+
+1        0.44      0.44      0.47      0.45      0.44      0.44      0.44      0.44      0.44
+
+2        0.44      0.44      0.44      0.46      0.44      0.44      0.44      0.44      0.44
+
+3        0.43      0.44      0.44      0.44      0.47      0.45      0.45      0.45      0.45
+
+4        0.40      0.45      0.45      0.46      0.46      0.49      0.47      0.46      0.46
+
+5        0.52      0.40      0.45      0.45      0.46      0.46      0.49      0.47      0.46
+
+Every one of these 54 figures falls between 0.40 and 0.52 of a student. It is a flat plane, not a ridge. There
+is no grade that stands out and no year that stands out.
+This flatness is the signature of cohort progression working, not failing. If there were one identifiable
+group of returning students aging through the grades, this table would show a diagonal ridge — larger
+figures stepping down and to the right as that group moved up a grade each year. There is no such ridge,
+because the situation is a steady state. The program closes permanently, so in every year of the forecast a
+fresh set of students who would have attended it return home instead. Each year a new kindergarten
+cohort joins the flow and a fifth-grade cohort ages out of it, and the expectation settles at roughly the
+same value in every grade, every year.
+Real children do of course progress. The students School R gains in the first year are largely the same
+people it has in the second year, one grade higher. But that continuity is invisible in the totals, because it
+is exactly offset by the cohorts entering and leaving. What remains is a plateau.
+
+
+6. Why whole numbers force an arbitrary choice
+A forecast can describe 0.44 of a student. A modeled result cannot. Every figure PPS publishes has to be a
+whole number of children.
+School R’s exact claim comes to roughly 2.6 students a year across the six elementary grades. The model
+must show a whole number, so it shows 2 in most years and 3 in others. That number then has to be
+
+
+                 K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 25
+placed in one or two of the six grade rows — and the table in Section 5 gives no basis whatsoever for
+choosing which. Every row has an equal claim of about half a student.
+Whichever rows are chosen, the result is wrong by roughly the same amount in every box: the model
+prints 1 where the truth is 0.44, and 0 where the truth is 0.44. This is unavoidable. It is not a shortcoming
+of the method but a consequence of reporting a fractional expectation as whole children.
+What is avoidable is the shape of that error.
+
+
+7. The original behavior, and what changed
+The tool settles a whole grade band together, so that a receiving school’s total across the band is accurate
+(see Part 2, Section 3.7). Originally it worked through the grades in order, youngest first, in every year.
+Because a school’s share of a program does not change from year to year, and because grade sizes barely
+change either, that produced the same answer every time. School R’s running claim first crossed a whole
+student at second grade, and it did so in every year of the forecast:
+Whole students assigned to School R — grades worked through youngest first, every year
+
+Grad     2027-     2028-     2029-     2030-     2031-     2032-     2033-     2034-     2035-
+e        2028      2029      2030      2031      2032      2033      2034      2035      2036
+
+0        0         0         0         0         0         0         0         0         0
+
+1        0         0         0         0         0         0         0         0         0
+
+2        2         2         2         2         2         2         2         2         2
+
+3        0         0         0         0         0         0         0         0         0
+
+4        0         0         0         0         0         0         0         0         0
+
+5        0         0         0         0         0         0         1         1         1
+
+The stripe down second grade is the visible problem. Read casually, it says something specific and
+actionable about second grade at School R. It says nothing of the kind. It is 21 rounding decisions all
+landing in the same row for the same arithmetic reason.
+The tool begins each year’s band at a grade chosen from the published tie-break setting and works around
+the band from there, so the starting grade varies from year to year and from program to program, but
+never between runs. The same students, the same totals, distributed differently:
+Whole students assigned to School R — starting grade varied by year
+
+Grad     2027-     2028-     2029-     2030-     2031-     2032-     2033-     2034-     2035-
+e        2028      2029      2030      2031      2032      2033      2034      2035      2036
+
+KG       0         0         1         0         0         1         0         0         0
+
+
+
+
+                 K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 26
+Grad     2027-     2028-     2029-     2030-     2031-      2032-    2033-     2034-      2035-
+e        2028      2029      2030      2031      2032       2033     2034      2035       2036
+
+1        1         1         0         1         0          0        1         1          2
+
+2        0         0         0         0         1          0        0         1          0
+
+3        0         0         1         0         1          0        0         0          0
+
+4        1         0         0         0         0          0        2         0          1
+
+5        0         1         0         1         0          1        0         1          0
+
+Every year’s total is identical between the two tables, and every grade in every year still receives exactly
+the students who left it. Nothing about where students go has changed. The only difference is which box
+absorbs the rounding.
+This is a presentation choice, not an accuracy improvement. Neither table is closer to the truth than
+the other; both are wrong by about half a student in every box, because the truth is half a student in every
+box. What the second avoids is a false pattern. A reader of the first table would reasonably conclude that
+second grade at School R is affected and the other grades are not. A reader of the second sees what is
+actually the case: a couple of students a year, somewhere in the elementary grades, with no particular
+grade implied.
+
+
+8. The tool does show cohort patterns — when there is one to show
+It is fair to ask whether a model that produces a flat result is capable of showing a cohort pattern at all. It
+is, and the contrast is easy to demonstrate.
+Below are two runs of the same closure at the same school, moving 100 percent of grades K–5, with one
+difference. The first is marked immediate; the second is phased, meaning students already enrolled above
+the starting grade are grandfathered and finish where they are (Part 2, Section 3.4). Figures are simplified
+to a flat 30 students per grade so the pattern is unmistakable.
+Immediate closure — students leaving, by grade and year
+
+Grad     2027-2028      2028-2029      2029-2030       2030-2031      2031-2032      2032-2033
+e
+
+KG       30             30             30              30             30             30
+
+1        30             30             30              30             30             30
+
+2        30             30             30              30             30             30
+
+3        30             30             30              30             30             30
+
+4        30             30             30              30             30             30
+
+
+
+
+                 K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 27
+Grad     2027-2028     2028-2029      2029-2030       2030-2031      2031-2032      2032-2033
+e
+
+5        30            30             30              30             30             30
+
+Phased closure — same school, same 100 percent, same years
+
+Grad     2027-2028     2028-2029      2029-2030       2030-2031      2031-2032      2032-2033
+e
+
+KG       30            30             30              30             30             30
+
+1        0             30             30              30             30             30
+
+2        0             0              30              30             30             30
+
+3        0             0              0               30             30             30
+
+4        0             0              0               0              30             30
+
+5        0             0              0               0              0              30
+
+The staircase in the second table is a cohort pattern, and the tool produces it without being asked, because
+under a phased change there genuinely is one protected group aging through while everyone above them
+is grandfathered.
+Under an immediate closure there is no such group. Every grade departs in every year, so a flat result is
+the correct one. The stripe described in Section 7 was never a missing cohort pattern; it was rounding, and
+it has been addressed as rounding.
+
+
+9. How to read the output
+Three practical points follow from all of this.
+    •​   Trust the school and year totals. A receiving school’s total arrivals in a given year are
+         accurate. Across the current scenario runs, a receiving boundary’s total from one closing
+         program across the grade band lands within an average of 0.3 students of its exact share and
+         never more than a student away; a boundary that receives no one had an exact share of less
+         than one student.
+    •​   Do not read grade-level redistribution figures as a grade-level forecast. Which grade a
+         returning student is assigned to is decided by whole-number arithmetic, not by evidence.
+         This applies only to students arriving through a boundary-based redistribution; every other
+         figure in the model, including PRC’s baseline and all direct school-to-school transfers, is
+         grade-specific in the ordinary sense.
+    •​   Expect the grade to vary between years, and do not read meaning into the variation
+         either. A school that gains two students may see them in different grades in successive
+
+
+
+                K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 28
+        years. That variation is not a projection of movement between grades. It is the visible form
+        of a choice the data cannot make.
+For anyone wanting to check a particular figure, the detailed output records the reasoning behind every
+number — the rule that produced it, the historical share applied, the exact fractional result, and whether it
+was rounded up or down. Part 2, Section 6 explains how to read it.
+
+
+10. Why not simply use grade-level residency data?
+The natural response to all of this is to ask for better data: if the residency shares were calculated for each
+grade separately rather than for a grade band, the model would know which grades the students belong in.
+It would not, and the attempt would make matters worse. A program of roughly 25 students per grade
+draws from more than 40 boundary areas. Computing shares grade by grade means dividing 25 students
+among 40 areas, which produces counts that are almost entirely zeros and ones. Averaging three years of
+such figures does not produce a stable rate; it produces noise with the appearance of precision, and the
+model would then distribute students according to which boundary happened to have a child in a
+particular grade in a particular past year.
+The grade band is the level at which this data is statistically meaningful. The honest course is to use it at
+that level and to be clear, as this part is, about what it can and cannot support.
+
+
+11. Summary
+When a program closes and its students return to their neighborhood schools, the model applies a
+historical residency rate to a forecast that has already accounted for cohort progression. It holds counts
+rather than students, so nothing within it ages from one grade to the next; the aging has already been done
+by PRC and is carried in the figures the model starts from.
+For a school whose boundary supplied only a small share of a closing program, the resulting expectation
+is a fraction of a student in each grade in each year. Reporting that as whole children requires choosing
+grades for which there is no evidence. The tool varies that choice across the forecast rather than
+concentrating it in one grade, so that an arbitrary decision looks arbitrary instead of looking like a finding.
+Totals by school and year remain accurate and can be relied on. Grade-level detail arising from a
+boundary redistribution should be read as an allocation, not a forecast.
+
+
+
+
+                K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 29
+Part 4. Boundary Modeling and Spatial Analysis
+How proposed attendance boundaries become the counts in the scenario rules
+A companion to Part 2 · October 2026
+
+ About this part: Part 2 explains how PRC’s forecast is combined with a scenario’s rules. Several of
+ those rules carry a percentage for resident students: an attendance area split 55 percent to one school
+ and 45 percent to another, say. This part explains where those percentages come from. It describes
+ how proposed boundaries are drawn and stored, how the students who live in the affected blocks are
+ counted, how the counts reach the rule table, and where the same block assignments are used again for
+ the demographic and walking-distance measures. It is written for readers who want to verify that the
+ work is residence-based rather than be told that it is.
+
+ A note on names and figures: As in Part 2, the examples use generic names (School A, Area 1) and
+ simplified figures. The database objects are named as they exist, so that a reader with access to the
+ GIS database can follow the path from a block to a number.
+
+
+1. The question this component answers
+Two of the three kinds of values in a scenario come from enrollment history. PRC’s forecast, and the
+residency table, are used when a closed school or program returns students to their home areas. The third
+type of value comes from the map. When a scenario changes an attendance boundary, the share of a
+school’s resident students who move with it is not a planning judgment. It is a count of the students who
+live in the blocks being reassigned, under the current boundary and under the boundary being proposed,
+divided by the students who live in the area today. Part 4 follows that count from the map to the rule table.
+
+
+2. The data
+2.1 Blocks
+The unit of all boundary work is the 2010 census block. Every block in the district carries its census
+identifier (GEOID10), the planning area it falls in, and a school program assignment for each grade from
+kindergarten through 12th grade. A school’s boundary in this system is not a drawn line; it is the set of
+blocks assigned to a school for a grade. Drawing a proposed boundary means reassigning blocks.
+The block geography is old. The district’s boundaries were drawn against these blocks when they were
+first created, and one boundary change since then, between Lincoln and Ida B. Wells-Barnett in 2016, cut
+across a block. The work-around for that divided block is described under residency below. PPS states the
+age of the geography plainly: While the block geography is dated, it is sufficient for modeling by school
+and year which is the same way scenarios are being compared. The block is the unit in which boundaries
+are drawn and counted. It does not describe individual homes or residential complexes.
+
+
+
+
+               K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 30
+2.2 Students
+Each year’s roster (STU_Profiles_2913) holds one row per student per school year, going back to
+2007-2008, and includes the geocoded home location (state plane, SRID 2913), the census block it falls in
+(Block_id), the school and program the student attends, and the school boundary assignment in which the
+student resides at each grade band. This is the chain that produces it:
+  •​    Addresses come from the student information system, are processed into the enrollment profile
+        table, and are geocoded by a scheduled PPS job. This job runs daily, and updates a
+        geocoded-address table. An address the geocoder cannot place is carried as Undetermined until it
+        can be geocoded.
+  •​    Residency is derived from the geocoded address point, not from the school of enrollment. A point
+        inside the district’s boundary polygons receives a resident school for each level; a point outside
+        them is Out of District; a student with no point is Undetermined. The resident high school is taken
+        from the school’s boundary polygon rather than from the census block, because one high school
+        boundary divides a block.
+  •​    A load procedure joins each point to its census block and rebuilds the spatial roster for every year.
+        The roster also carries a second set of resident-school columns, ending in “_living_2027”,
+        updated in a one-time update from two GIS polygon layers: the K–8 boundaries adopted for
+        2023-2024, and the high school boundaries, which have not changed since 2021-2022. The one
+        change already adopted for 2027-2028 is the end of a dual assignment at Jefferson High School.
+        Those are the boundaries every scenario is drawn against and the residency table in Part 2 is built
+        on them as well.
+  •​    PRC_group, the enrollment category PRC forecasts (including: residents attending the
+        neighborhood program, non-residents attending it, each immersion program, special programs), is
+        a computed column in the roster, derived from the resident school and the school of enrollment.
+        The groups the forecast is organized by, and the groups the GIS counts, are therefore one
+        definition, not two.
+
+2.3 School programs
+sdss_SCHOOL_PROGRAMS lists every program that can be assigned to a block: a program id, the school
+program name (the same names the forecast uses), the facility code that links it to the school site, and the
+neighborhood id used to select a whole attendance area at once.
+
+2.4 Assignments, scenarios and settings
+Four tables carry the boundary work:
+  •​    SDSS_Block_Grade_Assignments is the working layer. This table has one row per block and one
+        column per grade (gr00 to gr12) holding the program id assigned. This is the layer edited in
+        ArcGIS Pro. A spatial copy (SDSS_Block_Grade_Assignments_2913) is kept up to date by a
+        programmatic trigger and is what the maps and the spatial joins read.
+  •​    SDSS_Scenario_Block_GRADE_Assignments is the archive and contains one row per block, grade,
+        and scenario, along with the date of the last change and the user who made the change.
+
+
+               K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 31
+  •​    SDSS_scenarios is the registry and includes scenario number, scenario name, and a locked flag.
+
+  •​    SDSS_Parameters is a single-row settings table (a trigger refuses a second row or an empty table)
+        which contains the active scenario, the comparison scenario, the school and grades currently
+        being assigned, the list of selected blocks, and the enrollment year the counts use.
+
+
+3. Drawing a proposal
+The Enrollment Balancing Toolbox (EnrollBal.pyt) runs inside ArcGIS Pro and reaches the GIS
+database through a small helper (db_helper.py) that calls the stored procedures named below. Its tools
+count the students in a map selection, assign the selected blocks to a school for chosen grades, manage
+scenarios, preview a scenario, and generate a report. Everything the toolbox does is a database call, so
+every operation can be repeated and audited in SQL independent of ArcGIS Pro.
+Scenarios. A scenario is created with Save As (SDSS_SProc_Add_Scenario), which registers a new name
+and number and copies the block-by-grade assignments of an existing scenario into the archive. Choosing
+a scenario (SDSS_SProc_Choose_Scenario) writes its name and number into the settings row, rebuilds the
+comparison table described in Section 4 and refreshes the school site points; a trigger on the settings row
+(sdss_TRIG_Scenario_Parameter) then copies the scenario’s archived assignments into the working
+layer, pausing the archive trigger so that the load is not written back (Figure 2a). The map the analyst
+looks at is this working layer based on the scenarios assignments and nothing else. The census blocks in
+the map are symbolized by the program id in one grade column, so changing the active scenario in the
+settings row replaces the program ids in the grade columns and redraws the map. No boundary is drawn or
+stored anywhere as a line; what looks like a boundary on the screen is the edge between blocks that carry
+different program ids. A locked scenario cannot be edited. The triggers that write to the archive check the
+flag and do nothing for a locked scenario, which is how a published scenario is protected while the next
+one is drawn.
+
+
+
+
+               K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 32
+Figure 2a. Choosing a scenario. The Choose Scenario tool writes the scenario’s name and number into
+the settings row. A trigger on that row copies the scenario’s archived program ids into the working layer,
+grade by grade, with the archive trigger paused so that the load is not written back. The map is the
+working layer, so it redraws.
+The comparison scenario. The official boundaries are themselves a scenario, called the comparison
+scenario. Once a year a stored procedure (SDSS_Parameters_update_Scenario_Name_Compare) names
+the official boundaries as the comparison scenario and writes onto every geocoded address the
+neighborhood school, by grade, that the scenario’s blocks assign. Each student then has two records of
+their resident school: this block-based one on the address, and the polygon-based one on the roster
+(Section 2.2). The two are compared each year when the roster is loaded. They should differ only at the
+adopted high school change and for students with no in-district address point. Because the comparison
+scenario is the official boundary, and the 2027-2028 columns are that boundary plus the one adopted
+change, the residency groups in the forecast and the block counts describe the same areas.
+Assigning blocks. The analyst selects blocks on the map and chooses the school and the grades. The
+selection is passed to the database as a list of block ids; the procedure
+(SDSS_SProc_update_block_grade_assign_schools_by_csv_list) writes the chosen program into those
+blocks for the chosen grades in the working layer. Two triggers fire on that update:
+SDSS_TRIG_Scenario_update_from_block_grade_assignments copies each changed grade into the
+archive for the active scenario, stamped with the date and user, and
+SDSS_TRIG_Sync_Block_Grade_Assignments_2913 refreshes the spatial copy, from which the map layers
+in Figure 2b are drawn. A whole attendance area can be moved in one step: a procedure selects every
+block whose kindergarten assignment is a given school and reassigns the K–5 grades (a counterpart does
+
+
+
+               K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 33
+the same for 6–8), which is how a closing school’s entire area is handed to a successor before a split is
+drawn.
+
+
+
+
+Figure 2b. Assigning blocks, and the map layers built from the assignments. Assigning blocks writes new
+program ids into the working layer; one trigger copies each change into the archive for the active
+scenario (unless it is locked) and another refreshes the spatial copy. Views on these tables are the layers
+drawn on the maps: the change areas, from the block-by-block comparison with the comparison scenario,
+and the school boundary, feeder-pattern and walking-distance layers, each made by dissolving blocks into
+larger shapes.
+
+
+
+               K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 34
+Because assignments are per grade, a block can send its K–5 residents to one school and its 6–8 residents
+to another, or a block within a K–8 school can keep its K–5 area while its middle grades are reassigned.
+The same mechanism carries the first-year form of a proposal: a boundary scenario can be stored twice,
+once as the end state and once as the first year only, so that first-year demographics can be computed on
+first-year boundaries.
+
+
+4. Counting
+4.1 Change areas
+A comparison view (vw_SDSS_Block_GRADE_Assignments_AND_comparison, with a twin on the spatial
+copy, vw_SDSS_Block_GRADE_Assignments_AND_comparison_2913) lists, for every block, its school under
+the comparison scenario and under the active scenario, grade by grade; a procedure writes it to a table for
+speed whenever the scenario changes. A second view
+(sdss_polygon_change_areas_scenario_compare_scenario_by_level) dissolves the blocks whose
+assignment differs into one polygon per pair of schools and per level (K–5, 6–8, 9–12). That is the
+change-area layer drawn on the maps (Figure 2b).
+
+4.2 Residents in a selection
+For any list of blocks, a table-valued function (SDSS_Count_comparison_grade_group_csv) returns by
+grade group and by the pair of comparison school and scenario school: the number of students living in
+those blocks, the number of them attending their neighborhood program, and each as a proportion of the
+comparison school’s total.
+
+4.3 Residents by pair, across eleven years
+The summary view (vw_SDSS_Assignments_AND_comparison_summary_2913) does the same for every pair
+of comparison school and scenario school, with no selection, and for every school year from 2015-2016
+through 2025-2026: the count of residents attending the neighborhood program who live in the blocks the
+pair covers, and the share of the comparison school’s residents they represent in that year. A three-year
+aggregate (2022-2023 through 2024-2025) is carried alongside. The eleven-year series is the stability
+check. A split that reads 55 percent today and ranged between 52 and 57 percent over the decade is a
+different kind of number from one that swung between 35 and 70, and the series shows which kind a
+proposal rests on.
+
+4.4 From the count to the rule
+The percentage on a resident rule in the scenario table is this share: the fraction of the comparison
+school’s residents attending the neighborhood program who live in the blocks the scenario sends to the
+receiving school, read from the current year and checked against the series. The percentages are the
+output of an iteration between a planner and an analyst. The planner proposes a split, the analyst draws it
+and counts, and either the line or the intent is revised until the count serves the area’s goals. They are not
+starting assumptions.
+Worked example (illustrative only). School A closes and its K–5 area is divided: the blocks north of a
+main street go to School B, the rest to School C. The working scenario assigns them. The count returns,
+for grades K–5 in the current year, 120 residents attending the neighborhood program at School A, of
+
+                K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 35
+whom 66 live in blocks now assigned to School B and 54 in blocks assigned to School C. The summary
+view shows the north-side share at 55 percent this year and between 52 and 57 percent in each of the
+previous ten. The rule table records School A’s residents, grades K–5, as 55 percent to School B and 45
+percent to School C, and Part 2 takes it from there: PRC’s forecast of School A’s residents is split in those
+shares in every forecast year, and School A’s boundary is carried forward to Schools B and C in the
+residency table in the same shares (Part 2, Section 3.3).
+
+
+
+
+Figure 3. The worked example. Top: the blocks of School A’s K–5 area under the comparison scenario
+and under the proposal, with the residents attending who live in each block. Bottom: the north-side share
+in each school year as the summary view reports it; the current year’s 55 percent is the share written into
+the rule.
+
+
+5. Where the GIS work enters Scenarios A and B
+The modeling tool described in Part 2 does no spatial work of its own. It consumes two tables built here,
+and the student-level measures read the block assignments directly. The three hand-offs:
+
+
+
+
+               K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 36
+What the GIS work              Where it lands            How it is applied
+produces
+
+The share of a school’s        The percentage on         A share rule: that fraction of
+residents attending the        each resident rule in     PRC’s forecast of the school’s
+neighborhood program who       the scenario rule         residents is moved to the
+live in the blocks a           table                     receiving school in every
+proposal reassigns (Section                              forecast year (Part 2, Section
+4)                                                       3.5); at a closure, the school’s
+                                                         boundary is carried into the
+                                                         residency table in the same
+                                                         shares (Section 3.3)
+
+The residency table: where     The Proportions tab       Every rule whose destination is
+each school’s students live,   of the scenario           “neighborhood”: the departing
+by 2027-2028 attendance        workbook                  students are split across the areas
+area (Section 5.2)                                       in the table’s shares, after the
+                                                         table is corrected for schools the
+                                                         scenario closes (Part 2, Sections
+                                                         2.3, 3.3 and 3.6)
+
+The block-by-grade             The scenario              Each enrolled resident is placed
+assignments of each            archive, read by the      at the school assigned to their
+scenario                       student-level             block and grade; the
+                               procedure                 demographic and walking
+                                                         measures follow (Sections 5.3
+                                                         and 5.4)
+
+5.1 The resident rules
+In the published rule table, Scenario A carries 43 rules that move residents attending the neighborhood
+program to a named school, 25 of them at a share below 100 percent; Scenario B carries 39, 23 of them
+below 100 percent. Every one of those shares is a block count from Section 4: a 100 percent rule is an
+attendance area handed whole to a successor, and a share below 100 percent is a split, read from the
+comparison count and checked against the eleven-year series. The rule table is published with the
+scenarios, so each share can be traced to the blocks it came from with the objects named in this part.
+
+5.2 The residency table
+The second table is built from the roster by a query rather than from the map. For every school and
+program of enrollment, every PRC group and every grade band (K–5, 6–8, 9–12), it gives the share of that
+program’s students who live in each attendance area, where the area is the student’s es_living_2027,
+ms_living_2027 or hs_living_2027 school for the band, and Out of District where there is none. The
+query computes the share separately for each school year in its window, the years since the K–8 boundary
+change of 2023-2024 (2023-2024 through 2025-2026 at the time of writing), averages the yearly shares
+with equal weight, and renormalizes so that each program’s shares add to 100 percent across its areas.
+Pre-kindergarten is excluded. The result is loaded into the Proportions tab of the scenario workbook,
+2,669 rows covering 101 schools and programs and 76 areas.
+
+
+               K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 37
+The modeling tool reads that tab for every rule whose destination is “neighborhood” rather than a named
+school: 22 rules in Scenario A (14 for transfer students at closing schools, 6 for immersion programs that
+move, 2 for special programs) and 20 in Scenario B. Before each scenario runs, the tool prepares its own
+corrected copy of the table in which every area belonging to a school the scenario closes is carried
+forward to that school’s successors in the shares of the resident rules (Part 2, Section 3.3), so the two GIS
+products are consistent with each other: a closed area is split the same way in the residency table as on the
+map. Because the areas in the table come from the 2027-2028 living columns and the comparison scenario
+is the same boundary set, the residency table and the block assignments describe the same areas.
+
+5.3 The demographic pages
+The student-level procedure (sdss_student_data_w_scenario_assignments_INSERT) is described in Part
+5 and shows for status quo and each scenario each student’s assignments. For every student with a usable
+point it reads the block assignment under each scenario from the same archive table, at the student’s own
+grade, and that is the school a resident is shown at when a boundary changes. The procedure requires that
+every scenario in the rule table have block assignments under exactly the same name in the GIS registry; a
+scenario with none is reported as an error, not returned as a quiet result. Part 5 describes the placement
+rules in full. Student data in the table can be aggregated then by demographics to describe the
+compositions of schools under a scenario.
+
+5.4 Walking distance
+A table (SDSS_Walking_Distance_Time) holds the walking distance in feet and the time in minutes from
+each census block to each school site: an origin–destination list generated in ArcGIS around 2016. The
+one-mile threshold for K–5 and the one-and-a-half-mile threshold for 6–8 are the district’s transportation
+thresholds, and two views (sdss_walking_K5_GT_1 and sdss_walking_68_GT_1_5) dissolve the blocks
+beyond each threshold into one polygon per school for the map (Figure 2b).
+The published measure comes from a second view
+(sdss_student_data_w_scenario_assignments_chg_walking). It joins the student-level scenario
+assignments of Section 5.3 to the distance table twice: once for the distance from the student’s block to
+the school attended today, and once for the distance from the same block to the school the scenario
+assigns. It covers students who attend their neighborhood program and have a block. For each receiving
+school under each scenario, and for the district as a whole, it reports the number and the share of those
+students more than a mile and more than a mile and a half from the assigned school. It also shows the
+median, mean, and quartiles of the change in walking distance. A Status Quo row carries the same
+measures against the school attended today, so every scenario is read against one baseline. Two
+consequences follow. The measure counts residents attending the neighborhood program only, so a
+scenario that moves only transfer or immersion students does not change it. And because it reads the
+student-level assignments, it carries that model’s whole-group placement rules rather than the enrollment
+model’s shares.
+
+
+
+
+               K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 38
+6. Limits
+  •​   A block is the smallest unit. A boundary that divides a block cannot be represented at the block
+       level. In the one instance where a block is divided, the polygon layer governs the student’s
+       residency and the block layer governs the scenario, and the two are reconciled by hand.
+  •​   Students without a usable point get no block and no scenario assignment. They are carried as
+       “Undetermined”. They are few, and their number is checked at each load.
+  •​   The two all-immersion elementary areas. Rigler and Lent are only Spanish Immersion schools,
+       and their attendance areas work as dual-assignment areas. A family living in either is guaranteed
+       an immersion place or otherwise attends a neighboring school’s English program, Scott’s for the
+       Rigler area and Marysville’s for the Lent area. For residents and non-residents alike, PRC
+       forecasts incoming students with its own method, and the forecast PPS receives is by school,
+       enrollment group, grade, and year; it does not include a forecast of the students living in each
+       attendance area. PRC counts the two areas as Scott’s and Marysville’s and forecasts Rigler and
+       Lent as immersion only. The model reassigns each neighborhood school’s residents by the
+       scenario’s boundaries and, in Scenarios A and B, moves immersion students to the immersion
+       hubs. In the district’s GIS, however, the two areas are still drawn as Rigler’s and Lent’s own
+       attendance areas rather than as Scott’s and Marysville’s. That difference has two small effects on
+       the published scenarios. The return-home step reads the residency table built on those layers, so a
+       few returning students who live in the two areas are placed in a neighborhood program at Rigler
+       or Lent that PRC does not forecast: 5 in 2027-2028 in each of Scenarios A and B, and no more
+       than 13 in any year. And the student-level demographic and walking figures at Scott and
+       Marysville treat those schools’ students from the two areas as living in Rigler’s or Lent’s area. A
+       baseline that maps the two areas to Scott and Marysville has been built for the next iteration.
+  •​   Planned housing is not in the blocks. Block counts and the residency table describe where
+       students live today. PRC’s forecast carries development at the school level, so a scenario splits a
+       housing-aware total by housing-blind shares. The question is within the scope of PRC’s review.
+  •​   The eleven-year series crosses boundary changes. The K–8 boundaries changed for 2023-2024,
+       so the early years are read as a check on stability, not as current shares. The view’s three-year
+       aggregate (2022-2023 through 2024-2025) is a different window from the residency table’s
+       (2023-2024 through 2025-2026).
+  •​   The walking distances are from 2016. The origin–destination list was generated once, in
+       ArcGIS, around 2016, and has not been regenerated. Streets and crossings change slowly, and the
+       list serves the same school-and-year purpose as the block geography; it should be read with the
+       same caution.
+  •​   Very small reassignments are real. A handful of students per grade who live much closer to a
+       neighboring school may be assigned there deliberately. Such a move shows in the rule table as a
+       share of a few percent and is not an error.
+
+
+
+
+              K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 39
+7. Checks
+  •​     One program per block, grade, and scenario. The student-level procedure stops on a duplicate
+         rather than counting a student twice.
+  •​     Every scenario in the rule table has assignments in the GIS registry under exactly the same name.
+  •​     Block counts reconcile to the roster. The residents attending the neighborhood program counted
+         by block for a school equal the roster’s count for that school and year.
+  •​     Every change to an assignment carries the date and the user who made it. A locked scenario
+         cannot change.
+  •​     The settings row cannot be duplicated or emptied, so there is always exactly one active scenario
+         and one comparison scenario.
+  •​     At the annual roster load, the polygon-based living school on the roster and the block-based
+         neighborhood school stamped on the geocoded address are compared; they are expected to differ
+         only at the adopted high school change and for students with no in-district point.
+
+
+8. Object reference
+The objects named in this part, in the GIS database, by role.
+
+Object                                          Role
+
+STU_Profiles_2913                               Annual student roster with geocoded location, census block,
+                                                school of enrollment, living school by level (current, and
+                                                the 2027-2028 set the scenarios are drawn against) and the
+                                                computed PRC group.
+
+REV_ADDRESS_GEOCODED                            Geocoded addresses, with the neighborhood school by
+                                                grade stamped from the comparison scenario’s block
+                                                assignments.
+
+Residency proportions query →                   Share of each school and program’s students living in each
+Proportions tab                                 2027-2028 attendance area, by PRC group and grade band,
+                                                averaged over the school years since 2023-2024; read by the
+                                                modeling tool for every “neighborhood” destination.
+
+sdss_SCHOOL_PROGRAMS                            Every assignable school program: id, name, facility code,
+                                                neighborhood id.
+
+SDSS_Block_Grade_Assignments                    Working layer edited in ArcGIS Pro: one row per block, one
+                                                program id per grade.
+
+SDSS_Block_Grade_Assignments_2913               Spatial copy of the working layer, kept in step by trigger.
+
+SDSS_Scenario_Block_GRADE_Assignmen             Archive: one row per block, grade and scenario, with date
+ts                                              and user of the last change.
+
+
+
+                K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 40
+Object                                      Role
+
+SDSS_scenarios                              Scenario registry: number, name, locked flag.
+
+SDSS_Parameters                             Single-row settings: active scenario, comparison scenario,
+                                            school and grades being assigned, selected blocks,
+                                            enrollment year.
+
+SDSS_SProc_Add_Scenario                     Save As: registers a scenario and copies another scenario’s
+                                            assignments into the archive.
+
+SDSS_SProc_Choose_Scenario                  Makes a scenario active: writes it into the settings row,
+                                            rebuilds the comparison table and refreshes the school site
+                                            points.
+
+SDSS_SProc_update_block_grade_assig         Assigns the selected blocks to the chosen program for the
+n_schools_by_csv_list                       chosen grades.
+
+SDSS_TRIG_Scenario_update_from_bloc         Copies each changed grade of a block into the archive for
+k_grade_assignments                         the active scenario, unless it is locked.
+
+SDSS_TRIG_Sync_Block_Grade_Assignme         Refreshes the spatial copy of the working layer.
+nts_2913
+
+sdss_TRIG_Scenario_Parameter                On a change of active scenario, copies that scenario’s
+                                            archived assignments into the working layer, with the
+                                            archive trigger paused.
+
+SDSS_Parameters_update_Scenario_Nam         Names the official boundaries as the comparison scenario
+e_Compare                                   and stamps geocoded addresses with their neighborhood
+                                            school by grade.
+
+vw_SDSS_Block_GRADE_Assignments_AND         Per block and grade: school under the comparison scenario
+_comparison                                 and under the active scenario; written to a table when the
+                                            scenario changes, and read by the change-area view.
+
+vw_SDSS_Block_GRADE_Assignments_AND         The same comparison on the spatial copy.
+_comparison_2913
+
+sdss_polygon_change_areas_scenario_         Change areas dissolved to polygons by pair of schools and
+compare_scenario_by_level                   level.
+
+sdss_K5_aggrigates2913,                     School boundary layers: the spatial copy’s blocks dissolved
+sdss_68_aggrigates2913,                     into one shape per school, read from grades 2, 7 and 10.
+sdss_912_aggrigates2913
+
+sdss_K12_aggrigates2913                     Feeder-pattern areas: one shape per combination of K–5,
+                                            middle and high school.
+
+sdss_walking_K5_GT_1,                       Blocks more than a mile (K–5) or a mile and a half (6–8)
+sdss_walking_68_GT_1_5                      from their assigned school, dissolved by school for the map.
+
+
+            K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 41
+Object                                      Role
+
+SDSS_Count_comparison_grade_group_c         Residents in a selection of blocks by grade group and school
+sv                                          pair, with proportions of the comparison school.
+
+vw_SDSS_Assignments_AND_comparison_         Residents attending the neighborhood program by school
+summary_2913                                pair for each school year 2015-2016 through 2025-2026,
+                                            with proportions.
+
+sdss_student_data_w_scenario_assign         Places each enrolled student under each scenario using the
+ments_INSERT                                archived block assignments.
+
+SDSS_Walking_Distance_Time                  Origin–destination list of walking distance and time from
+                                            each block to each school site, generated in ArcGIS around
+                                            2016.
+
+sdss_student_data_w_scenario_assign         For residents attending the neighborhood program: students
+ments_chg_walking                           more than a mile and more than a mile and a half from the
+                                            assigned school, and the median, mean and quartiles of the
+                                            change in walking distance, by receiving school and
+                                            scenario and for the district, with a Status Quo baseline.
+
+
+
+
+            K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 42
+Part 5. Demographic Impact Model
+Student-level scenario assignment and next-year roll-forward
+A companion to Part 2 · October 2026 · Procedure:
+GIS.dbo.sdss_student_data_w_scenario_assignments_INSERT
+
+
+1. Purpose
+Rightsizing scenarios are evaluated in two complementary ways. The PRC enrollment model forecasts
+how many students would attend each school under each scenario. The model described here answers a
+different question: which of today's students would be affected, and how. It takes every currently enrolled
+student, determines where that student would be assigned under each scenario, and compares the result
+with where they would be under the status quo. Because it works with real students rather than projected
+counts, its results can be summarized by demographic group and by geography.
+This model reports composition, not enrollment. Its counts are today's students redistributed under a
+scenario. They are not a forecast, they do not include next year's kindergarteners or any in-migration, and
+they will not match the PRC enrollment model. The two models are built for different questions and
+should be read side by side, not reconciled.
+The model produces two location assignments for every student and every scenario:
+  •​     This year's assignment. Where the student would be assigned at their current grade if the
+         scenario were fully implemented. This is the original demographic-impact output.
+  •​     Next year's assignment (the roll-forward). Where the student would be one grade older,
+         under the status quo and under the scenario. This captures the transitions that drive most of
+         the real movement: 5th graders entering middle school, 8th graders entering high school,
+         and immersion strands moving between buildings.
+
+
+2. Inputs
+Four sources feed the model. Two of them are primary for different kinds of change, and the distinction
+matters throughout.
+
+Source                  What it provides                                            Primary for
+
+Scenario workbook       One row per scenario, school, PRC group, and                Program changes:
+(Google Sheet,          grade band, giving the share of that group moving           immersion strands, special
+loaded to SQL           to a destination school and group. A destination of         programs, closures of a
+Server)                 "neighborhood" means the program dissolves and              program rather than a
+                        students revert to the school their address is zoned        building.
+                        to.
+
+
+
+
+                K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 43
+Source                   What it provides                                            Primary for
+
+GIS boundary             For each scenario, the school each census block is          Neighborhood boundary
+scenarios (ArcGIS        zoned to at each grade. Drawn block by block,               changes for residents.
+Pro, Enrollment          because demographics vary block to block and one
+Balancing Toolbox)       boundary is usually split several ways.
+
+Closed School            The primary receiving school when a building                Transfer students at a
+Successors tab           closes, by grade band.                                      closing school who have no
+                                                                                     boundary to fall back on.
+
+Student roster           Every enrolled student for the modeled school year:         Who the students are and
+(STU_Profiles_291        campus, PRC group, grade, census block, living              where they live.
+3)                       schools under the 2027 boundary set at each level,
+                         and demographics.
+
+Students are classified by PRC group, the same grouping the enrollment model uses: Residents
+Attending Neighborhood Program, Non-residents Attending Neighborhood Program, each immersion
+strand (Spanish, Japanese, Mandarin, Russian, Vietnamese), and Special Programs (focus options,
+charters, alternative programs, and similar). The group decides which rules apply to a student.
+All "living" schools come from the 2027 boundary set (the columns suffixed _2027). Boundary changes
+already scheduled for next year are built into that set, and every scenario is drawn against it. The
+un-suffixed living columns reflect boundaries that are about to change and are not used.
+
+
+3. Population and scope
+  •​     This year: all students enrolled in grades K-12 in the modeled school year (pre-kindergarten
+         excluded). Each student appears once per scenario.
+  •​     Next year: continuing students only, meaning this year's grades K-11. Next year's
+         kindergarteners are not on the roster, so their demographics cannot be modeled. This year's
+         12th graders are expected to graduate, and it can’t be projected which ones do not graduate.
+  •​     School years: the procedure runs for the latest roster year by default and can run for a prior
+         year in the same call, publishing each year separately. Scenario definitions and boundaries
+         are not year-specific; only the roster changes.
+
+
+4. Modeling principles
+A handful of rules govern every decision in the model. They are stated once here because the same
+choices recur in both potential outcomes.
+
+A student cannot be split
+The enrollment model can send 60% of a program to one school and 40% to another. A student cannot be
+divided, so where a workbook row moves part of a group, the whole group follows the plurality
+destination. Ties are broken deterministically (by share, then by name) so repeated runs on the same
+
+
+
+                 K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 44
+inputs produce identical results. A partial reassignment, below the 99% threshold that defines a full move,
+leaves students in place.
+
+Two sources of truth
+Residents of a neighborhood program follow their census block in the GIS layer, whatever the modeling
+tool workbook says about that school; the workbook's share for residents is informational. Students in
+immersion strands and special programs follow the modeling tool workbook, because the boundary layer
+says nothing about programs. This split is what lets a scenario redraw a boundary and move a strand
+independently.
+
+First match wins, and every placement is explained
+Rules run in a fixed order and each fills only students not yet placed. Every rule writes a note naming
+itself, so any count in a dashboard can be traced back to the rule and the inputs that produced it. The
+distribution of students across rules is recorded on every run and compared with the previous run, which
+is the primary signal that a change to the workbook or the procedure has moved something.
+
+The status quo and the scenario are built the same way
+For next year, the status-quo columns and the scenario columns are produced by the same rules from the
+same inputs, differing only in which boundary set and which program locations they read from. The
+output is a matched pair, the status quo and the scenario, built to be compared. It is not a forecast of either.
+For transfer students that the rules cannot see (Benson, da Vinci, special education placements, hardship
+transfers, lottery outcomes), the model places them in the same place on both status quo and scenario and
+contributes nothing to the difference, which is the intended treatment of anything unmodeled. The one
+thing that would bias the comparison is a rule applied to the status quo or the scenario but not both so
+every next-year rule is written as a pair.
+
+
+5. This year's assignment
+For each scenario, every student is assigned a school and group at their current grade by a cascade of
+twenty-five rules. The rules fall into the categories below; the full list is in Appendix A.
+
+Category               What it does                                            Reads
+
+Immersion              A workbook row moving an immersion strand to            Workbook
+program moved          a named school takes the whole strand there.
+                       Runs first so the workbook's authority over
+                       immersion is preserved.
+
+Program dissolved      A program whose workbook destination is                 Workbook,
+to neighborhood        "neighborhood" closes, and its students revert to       then GIS
+                       the school their block is zoned to under the
+                       scenario. Honored only when the program is
+                       fully reassigned and neighborhood is the
+                       plurality destination, the same test a named
+                       destination must pass.
+
+
+
+
+                K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 45
+Category                What it does                                             Reads
+
+Boundary change         A resident whose block is zoned to a different           GIS
+for residents           school under the scenario moves there.
+                        Residents of a fully reassigned school go to their
+                        scenario boundary school regardless of the
+                        workbook's named destinations.
+
+Named full              A school and group fully reassigned by the               Workbook
+reassignment            workbook go to the largest named destination.
+
+Untouched by the        Students at schools and in groups no row or              Workbook
+scenario                boundary change affects stay where they are.             and GIS, by
+                        Most students in most scenarios.                         absence
+
+Transfers and           Non-residents at a school that stays open keep     Workbook
+out-of-district         their place. Out-of-district students, who have no
+students                boundary, follow the largest named destination
+                        of their school and group.
+
+High school             Grades 9-12 continue at their current school,            Policy
+students                reflecting the district rule that secondary
+                        boundary changes apply to incoming students.
+                        The model therefore shows little high school
+                        movement even where a scenario redraws high
+                        school boundaries.
+
+Successors              A transfer student whose assigned school itself          Successors
+                        closes is redirected to that school's primary            tab
+                        successor; a student at a fully reassigned school
+                        with no in-district boundary and no named
+                        destination goes to the successor or is recorded
+                        as out of district.
+
+School names that differ between the GIS layer and the student system (Jefferson, Bridger) are
+normalized once after the cascade so that lookups keyed on a school name behave the same on both sides.
+
+
+6. Next year's assignment
+6.1 One set of placement rules for both status quo and scenarios
+Each student receives two next-year placements:
+  •​    Status quo: NY_Campus_Enrolled and NY_PRC_Group, derived from where the student is
+        enrolled today under current boundaries and program locations.
+  •​    Scenario: NY_Assignment_School and NY_Assignment_Group, derived from this year's
+        scenario assignment under the scenario's boundaries and program locations.
+
+
+
+
+                  K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 46
+Every rule below has an "a" form that sets the status-quo columns from the enrolled campus and PRC
+group, and a "b" form that sets the scenario columns from the scenario school and group, joined to the
+scenario. Each side is first-match-wins on its own null test, so the two can diverge for the same student,
+which is the point. A note on each side records the rule that placed the student.
+
+6.2 Grade progression
+Next year's grade is this year's grade plus one for every student in grades K-11. It does not depend on
+which school the student attends, so it is set once before any placement rule runs.
+
+6.3 Moving up in place
+A student moves up a grade at the same school when next year's grade falls within the span of grades that
+school serves for the student's group. The gradespan is the minimum to maximum grade enrolled (status
+quo) or assigned under the scenario (scenario side), not "someone is enrolled one grade up", so a sparse
+group with an empty grade in the middle still carries forward. The student's own grade is irrelevant: a 5th
+grader at a K-8 stays, a 5th grader at a K-5 does not, and K-8 schools need no special treatment.
+Three groups inherit a wider gradespan than their own enrollment would show:
+  •​    Non-residents inherit the residents' gradespan at their school. Under board policy a
+        non-resident may stay through the school's top grade unless the school closes; their own
+        gradespan is narrow only because there are few of them.
+  •​    Special programs inherit the school's full gradespan. A charter or focus option is its own
+        campus, so nothing changes; a co-located program continues at its host through the host's
+        top grade.
+  •​    Immersion strands inherit the school's full gradespan, so a program still growing into its
+        final grade continues to 12, such as McDaniel's Vietnamese strand, grades 9-11 today . To
+        keep a K-5 strand at a K-8 building from being carried to 6th grade in place, a student
+        whose school, group, and grade have an immersion feeder row (6.4) is excluded from this
+        rule and leaves instead.
+On the scenario side the gradespan is read from scenario assignments. So for a K-8 where the scenario
+converts to K-5, the school has no one assigned above grade 5, and does not carry its 5th graders forward.
+In a scenario where the K-5 converts to K-8, the 5th grader does carry forward.
+
+6.4 Immersion feeder patterns
+Immersion strands move between buildings in fixed patterns that the boundary layer does not describe. A
+K-5 strand feeds one middle school and a middle school strand feeds one high school. These patterns are
+held in a single table (Appendix C) and applied in five steps, each reached only if the step before did not
+place the student:
+  1.​   Status quo. For a student whose enrolled campus, group, and grade match a row, they are
+        assigned to that row's destination, in the same group.
+  2.​   Scenario. The same immersion feeder pattern lookup on the scenario school and group,
+        with one additional condition: the destination must still have the strand one grade up in that
+
+
+
+               K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 47
+        scenario. If the scenario moved or closed the program at the destination, the student is not
+        assigned there.
+  3.​   Program moved by the scenario. If the destination's strand was fully moved by the
+        workbook at next year's grade, the student follows it to the workbook's named destination,
+        in the workbook's group.
+  4.​   Strand relocated by the scenario. If the scenario closed or moved the student's own
+        school, so that the scenario school matches no feeder row, the student still follows the feeder
+        pattern of the school attended today, provided they remain in the strand and the destination
+        still has that strand one grade up. A strand dissolved into the neighborhood program is
+        excluded and goes through the neighborhood rules instead.
+  5.​   Strand at the student's own school moved at the next grade. A K-8 strand whose 6-8
+        portion is relocated in the scenario is covered by none of the above. The school's scenario
+        gradespan stops at grade 5, a K-8 has no feeder row, and any feeder destination that a
+        merged-in strand brought with it may also have moved. If the workbook fully moves the
+        strand at the student's own scenario school at next year's grade, the student follows it to the
+        workbook's destination. This is step 3 applied to the school itself rather than to a feeder
+        destination.
+The feeder table is checked against the roster on every run source row that matches no students, or a
+destination with nobody in that group one grade up today, is reported. Several corrections to the table, and
+the fifth step above, came from those checks and from the comparison scripts in section 8.
+
+6.5 If a Spanish Immersion program has no one-to-one feeder HS
+At grade 8 a student goes to the Spanish Immersion program serving their high school attendance area,
+which a crosswalk maps from the HS boundary school to the HS that houses the program (Appendix C).
+The crosswalk was read off the roster as the most common high school attended by current 10th-grade
+Spanish Immersion students in each attendance area. The status-quo side keys on the student's HS living
+school under the 2027-2028 set; the scenario side keys on the HS boundary school of the student's block
+under the scenario, with the same "program still there" condition as the feeders.
+
+6.6 Neighborhood transitions
+Everyone at a transition grade who is not in an immersion strand goes to the school serving their address
+at the next level, as a resident: 5th graders to the middle school, 8th graders to the high school. The
+status-quo model reads the roster's living school at that level under the 2027-2028 set; the scenario model
+reads the block's school at that level under the scenario, taken from the GIS layer at a fixed anchor grade
+(grade 7 for middle school, grade 10 for high school) rather than the student's own grade.
+This rule includes non-residents because a transfer does not carry to the next level, as well as
+special-program students whose program ends at the transition grade. A student with no living school
+(out-of-district or undetermined address) has nowhere to fall back to and is left unplaced on that model.
+
+6.7 The change flag
+For every K-11 student, NY_change is 1 when the scenario's next-year school differs from the status
+quo's, and 0 when they are the same. A student whose next-year school is unknown under both the status
+
+
+               K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 48
+quo and the scenario is not a move and is marked 0. A student placed on one side and not the other is 1, so
+that anything the rules could not resolve stays visible as a difference rather than disappearing into the
+unchanged. The flag compares schools only; a student who stays in the same building in a different group
+is 0.
+
+
+7. What the model does not do
+  •​    Forecast. It does not show cohort-survival ratios, in-migration, attrition, or new
+        kindergarteners. Every count is a subset of today's students.
+  •​    Split students. A 50/50 workbook split is modeled as 100% to the plurality destination. For
+        residents this rarely matters because they follow the GIS block; for programs it means a split
+        strand is shown entirely at one school.
+  •​    Predict individual transfers. Lottery programs, hardship transfers, special education
+        placements and similar are not predicted. They are treated identically on both status quo and
+        scenario and so do not affect the comparison.
+  •​    Move current high school students. Grades 9-12 are held at their current school by policy,
+        so scenarios that redraw high school boundaries show movement only through next year's
+        9th graders.
+  •​    Place students with no address. Out-of-district and undetermined-address students at a
+        transition grade have no living school to fall back to and are left unplaced on both sides,
+        which the change flag treats as no change.
+  •​    Place a dissolved strand next year. Where a scenario dissolves an immersion strand into
+        neighborhood schools, its 5th and 8th graders go through the neighborhood rules as
+        residents rather than following a program.
+
+
+8. Validation and quality assurance
+8.1 Checks built into the procedure
+Every run performs input validation before the cascade and output validation before publishing. It returns
+five result sets per school year: the problems found; the distribution of students across rules with the
+change since the previous recorded run; and the three change summaries described in section 10. With the
+fail-on-validation flag set, an error blocks publishing and nothing after it runs.
+
+Check                                     Catches
+
+Workbook scenario has GIS block           A rename on either side, which otherwise
+assignments under the same name           produces a scenario with almost no impact and
+                                          reads as a finding.
+
+One block-grade-scenario row in the       A duplicate that would multiply a student and
+GIS layer                                 inflate a count.
+
+
+
+
+               K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 49
+Check                                     Catches
+
+Every student assigned; count per         A rule gap, or a join that fanned out.
+scenario equals the roster
+
+No student assigned to a school the       A workbook that closes a building but leaves a
+scenario closes                           program there.
+
+The literal "neighborhood" never          A rule reading the workbook destination
+written as a school                       without the guard.
+
+Next-year coverage, each side, by         Students the next-year rules did not place.
+scenario and grade
+
+Feeder and crosswalk names match          A spelling difference, or a destination that no
+the roster                                longer has the program.
+
+Immersion strand ends below its           A K-5 strand at a K-8 building that the span
+campus top grade with no feeder row       rule would carry in place.
+
+Scenario school names present in the      A GIS program name the normalization does
+roster                                    not cover, which the change flag would read as
+                                          a move.
+
+Output table shape                        A column added out of order, which select *
+                                          would load silently into the wrong place.
+
+Per-run counts by scenario and rule are written to an audit table keyed by run time, which is how the rule
+distribution is compared across runs and across procedure changes.
+
+8.2 Comparison scripts
+Four standalone queries sit alongside the procedure:
+  •​    Forecast comparison. Next-year counts by school, subgroup, and grade against the
+        PRC-modified forecasts, as a full outer join. The two are not expected to agree, since the
+        forecast applies cohort survival and in-migration. What the comparison catches is a school
+        or strand present on one side only, which is almost always a scenario defined differently in
+        the workbook and the forecast sheet, or a school spelled differently. This is the check that
+        surfaced a partial "neighborhood" row emptying a program, and a feeder row pointing at a
+        middle school that no longer takes that strand's 6th graders.
+  •​    This year against next year. Counts by school, group and grade, this year's assignment
+        against the roll-forward, on both sides. In a steady-state school the two agree grade for
+        grade; the entry grade of each level is where feeder and crosswalk problems show. A second
+        result set lists every immersion student not simply carried forward in place, with the rule
+        that placed them on each side.
+
+
+
+
+               K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 50
+  •​    Drill-down. For a school and scenario: a name audit across all schools, the workbook and
+        successor rows that mention the school, where its current students went and by which rule,
+        and who lands there next year.
+  •​    Feeder patterns by scenario. For every immersion strand, source school and transition
+        grade: where the students go next year under the status quo and under each scenario, with
+        counts, and a column naming the scenarios whose pattern differs from the status quo. Read
+        from the published table rather than from the feeder definition, so it shows what the rules
+        did, including an unplaced strand. This is the view that surfaced the fifth feeder step.
+
+8.3 Regression check
+Before and after any change to the procedure, the published table is copied and compared with an
+EXCEPT in both directions on student, scenario, school, and group. A change that should only affect one
+rule, one scenario, or one feeder row is expected to show exactly that, and nothing else.
+
+
+9. Outputs and how to read them
+The published table holds one row per student per scenario, carrying the roster fields and the columns
+below.
+
+Column                             Meaning
+
+assignment_school,                 This year's scenario assignment and the rule that
+Assignment_group,                  made it.
+Assignment_note
+
+living_2027                        The school the student's address is zoned to under the
+                                   2027 set, at the student's grade.
+
+scenario_es_living,                The ES, MS, and HS boundary schools for the
+scenario_ms_living,                student's block under the scenario. These are what
+scenario_hs_living                 next-year results are summarized by ("scenario HS
+                                   area").
+
+NY_grade                           Next year's grade; null for grade 12.
+
+NY_Campus_Enrolled,                Next year's status-quo school and group, and the rule
+NY_PRC_Group,                      that set them.
+NY_Campus_Note
+
+NY_Assignment_School,              Next year's scenario school and group, and the rule
+NY_Assignment_Group,               that set them.
+NY_Assignment_Note
+
+NY_change                          1 if the scenario's next-year school differs from the
+                                   status quo's; 0 if the same or both unplaced; null for
+                                   grade 12.
+
+
+
+
+               K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 51
+This year's impact is the difference between assignment_school and campus_enrolled. Next year's impact
+is NY_change, and its sum over any demographic group is the number of students in that group the
+scenario moves. Both can be grouped by the student's demographics and by the scenario's attendance
+areas.
+
+
+10. Summarizing the roll-forward
+The roll-forward is incomplete. Next year's lottery results, special education placements, and hardship
+placements are not known when it runs, so the moves they will make are not in it (section 7). Within that
+limit it is faithful to the data PPS has: every placement follows a recorded rule, and the status quo and the
+scenarios are built from the same students in the same way.
+It measures who is affected, not school composition. The demographic composition of schools under a
+scenario, as shown on the demographic pages, comes from this year's assignment (section 5), which
+places every current student as though the scenario took effect all at once. The roll-forward is for counting
+the students a scenario affects next year, overall, and by demographic group. It should not be read as any
+school's composition, or school by school. Transfers it cannot predict will move students in and out of
+individual schools.
+The next-year results are reported as one measure, the share of continuing students the scenario moves:
+the sum of NY_change over the number of K-11 students, within whatever group the table is cut by. It is a
+share of students whose next-year school differs between the scenario and the status quo, built the same
+way on both model outputs (section 4). Students unplaced on both model outputs count as unmoved;
+students placed on one model output only count as moved. The procedure returns three summaries as its
+last three result sets, each a grid with the scenarios as columns, built from the same student rows it has
+just published, so the summaries always describe the run that produced them.
+
+By high school region
+Schools are grouped into four regions named for their high school pairs (Cleveland/Franklin, Ida B.
+Wells-Barnett/Lincoln, Grant/McDaniel, Jefferson/Roosevelt) plus Other. Each school is placed in the
+region where the plurality of the students it serves as a boundary school live, counted across the
+elementary, middle, and high school boundary columns of the roster under the 2027 set. Focus options
+and other non-boundary schools (da Vinci, Odyssey, Winterhaven, Richmond, MLC, ACCESS) are
+placed by hand. A student's region is the region of their status-quo next-year campus, so a 5th grader is
+counted in the region of the middle school they would attend next year under the status quo, not of the
+elementary school they are leaving.
+
+By demographic group
+Four metrics, each a partition of all students: direct certification for free meals (certified or not), special
+education (IEP or not), limited English proficiency (LEP or not), and race and ethnicity as recorded by the
+district, with a missing value reported as Unknown. An “All students” row carries the district rate, which
+is the baseline each group is read against. The question these tables answer is disproportionality: whether
+a scenario moves one group at a higher rate than it moves students overall.
+
+
+
+
+               K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 52
+By demographic group within region
+The two summaries combined, with an All regions block and an All students row in each region, so any
+cell can be read against its region's overall rate and against the district's rate for that group. This is the
+table that distinguishes a scenario that moves one region heavily from one that moves one group heavily
+within a region.
+
+Conventions shared by all three
+  •​    Scenario columns are built from the scenarios in the run; nothing in the procedure names
+        one. The @SummaryScenarios parameter selects which appear, in what order, and under
+        what presentation name, such as Scenario A.
+  •​    Rates for groups smaller than the @SummaryMinCell parameter (default ten) are
+        suppressed, with the group size still shown so the reader can see the group exists and why
+        the rate is blank.
+  •​    Each set describes one school year and leads with it; a two-year run returns a set per year
+        rather than a blend. The workbook that carries them records the year in its title.
+  •​    The region definitions, the high school pairs and the hand-placed non-boundary schools, are
+        tables inside the procedure, so a change to the regions is made in one place and applies to
+        every summary.
+  •​    Alongside the three rate tables, the feeder-pattern grid (section 8.2) is the companion view
+        for immersion: for each strand and transition, the school the students go to next year under
+        the status quo and under each scenario.
+
+
+11. Running the model
+  •​    Load the scenario workbook and the Closed School Successors tab (Python loaders), and
+        draw or update the GIS boundary scenario with the Enrollment Balancing Toolbox. The
+        scenario name must match exactly between the workbook and the GIS layer.
+  •​    Run the procedure. By default it models the latest roster year; it can be asked to model the
+        preceding year in the same call. The first run after a change is made with validation set to
+        report rather than block, so the result sets can be inspected.
+  •​    Read result set 1 (problems) and result set 2 (rule distribution and change since the last run)
+        before using the output. A rule that suddenly places thousands more students, or drops to
+        zero, is the signal that something moved.
+  •​    Result sets 3 to 5 are the change summaries. Pass @SummaryScenarios to choose and label
+        the scenarios they show, and copy them into the summary workbook for that year.
+  •​    When the feeder table or crosswalk changes, rerun the this-year-against-next-year
+        comparison for the affected strand.
+
+
+
+
+                K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 53
+Part 6. Floors, Capacity and Utilization
+Each scenario is tested school by school against two limits, (1) an enrollment floor, tested against
+predicted 2031-2032 scenario enrollment, (2) the building’s functional capacity, tested using each year's
+predicted scenario enrollment.
+
+
+1. The thresholds
+School type                  Floor (minimum enrollment)          Ceiling
+
+K–5                          360                                 Functional capacity
+
+K–8                          500                                 Functional capacity
+
+Middle school (6–8)          500                                 Functional capacity
+
+High school (9–12)           1,100                               Functional capacity
+
+Floors are minimum student enrollments, not targets. A school may sit below its floor or above its
+capacity only temporarily, or where a scenario deliberately limits how many schools close. In scenarios
+with fewer consolidations, not every school reaches an enrollment above its floor. Functional capacity is
+the number of students a building can reasonably serve, based on the district’s school utilization model.
+
+
+2. How the tests are applied
+  •​    School type comes from the modeled grades. For each scenario, school, and year, the school
+        type used is identified based on grade levels served in the scenario. A K–8 that a scenario
+        converts to K–5 is tested as a K–5 from the conversion year on.
+  •​    The floor is tested in 2031-2032. Enrollment in other years is reported against the floor for
+        information. The goal is to get to sustainable school sizes in five years.
+  •​    Capacity is tested in each forecast year, 2027-2028 through 2035-2036. A school with no
+        functional capacity on file receives the floor test only. Testing each year helps ensure there is not
+        overcrowding as PPS transitions to sustainable school sizes.
+  •​    Anything that cannot be tested is reported as an error, not passed, such as a grade span that
+        the test does not recognize, or a group of students still enrolled at a school the scenario closes.
+  •​    Utilization is modeled enrollment divided by functional capacity. This is computed for PRC’s
+        baseline and for each scenario (Part 2, Section 4).
+
+3. Outputs
+The Floor Ceiling Detail table lists every school, scenario and year with its school type, enrollment, floor,
+functional capacity, utilization, seats available, and status. The Floor Ceiling Summary gives one row per
+school and scenario. Each row shows the school’s type and enrollment in 2031-2032, whether scenario
+enrollment falls between its floor and its capacity, the result of the floor test, whether enrollment stays
+within capacity every year, the school’s peak enrollment and the year of the peak, and the year the school
+closes if the scenario closes it.
+
+               K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 54
+K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 55
+Part 7. Assumptions, Limits and Sensitivity
+The scenario numbers rest on measured data and on a small number of planning judgments. Part 7
+describes the judgment calls, the limits of the data, and how a range of outcomes is produced.
+
+
+1. Planning judgments
+What the model assumes            Value in Scenarios A and B                 Basis
+
+When a school closes, most of     At ten closing schools or grade       Planning judgment
+its transfer students follow it   spans, 66 to 90 percent of transfer
+to the school named to receive    students follow, and the rest return
+them.                             to the school for where they live. At
+                                  the other nine, all of them follow.
+
+When an immersion program         80 percent of immersion students           Planning judgment. The share is
+moves, most of its students       follow at most programs. At a few          set lower where the new site is
+move with it.                     programs the share is 70, 90 or 100        farther from the old one.
+                                  percent.
+
+Resident families attend their    PRC's forecast rate for the current        PRC's rate is carried over to the
+new neighborhood school at        school.                                    receiving school unchanged.
+the same rate as their current
+one (the capture rate).
+
+No more families leave PPS        No added loss of students. PRC's           Assuming zero excess attrition
+because of a closure or           forecast already includes the share        provides an upper-bound stress
+program move than PRC's           of students who leave PPS each             test on a receiving school's
+forecast already expects.         year.                                      functional capacity. If
+                                                                             consolidation-induced attrition
+                                                                             occurs, building utilization will be
+                                                                             lower than modeled, so attrition
+                                                                             alone will not push a school over
+                                                                             capacity, though individual
+                                                                             schools may experience additional
+                                                                             downward pressure toward
+                                                                             enrollment floors. The SEGC
+                                                                             equity audit found that past
+                                                                             immersion program moves did not
+                                                                             appear to cause widespread
+                                                                             departures from PPS (page 49).
+
+Changes take effect in the        Closures and program moves take            District rule
+year the scenario sets.           effect in full in that year. Boundary
+                                  changes between two schools that
+                                  both stay open apply to incoming
+                                  students only.
+
+
+
+               K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 56
+The first two percentages in the table are the follow shares: the share of transfer and immersion students
+assumed to move with their school or program. They are not measured from past moves. For immersion
+programs, the district’s SEGC equity audit (Green and Hanson, June 2026) found that when programs
+moved, students who stayed in PPS mostly moved with their program (pages 11 and 49). The audit does
+not give a percentage. PPS will review the follow shares, the 100 percent transfer rules and the
+capture-rate assumption with PRC before the Superintendent’s final proposal to the Board.
+
+
+2. Limits of the data
+  •​    Census blocks are based on the 2010 geography. The walking distances are an ArcGIS
+        origin–destination list generated in 2016. Both are adequate for comparing scenarios school by
+        school and year by year. Neither is a parcel-level description (Part 4, Sections 2 and 6).
+  •​    The residency table describes where students live today, over the three school years since the
+        2023-2024 K–8 boundary change. It does not include housing that is planned but not yet built.
+        PRC's forecast does account for new housing in each school's total, but when a scenario divides a
+        school's forecast among receiving schools, it uses the shares of where students live today.
+        Students expected from new housing are split as if they lived where current students do.
+  •​    Students without a usable address are carried as Undetermined. These students have no
+        block, so boundary counts and the student-level placement processes cannot assign them to a
+        school. There are not many students without a usable address and their number is checked each
+        year when we make October Enrollment reports.
+  •​    Grade-level detail in a redistribution is an allocation, not a forecast. Grade band totals are
+        reliable, but the grade a returning student is shown in is not (Part 3).
+  •​    The two models answer different questions. The enrollment model applies percentage shares to
+        PRC's forecast counts, so it can move part of a group. The demographic impact model places each
+        of today's students at a single school and does not split groups. Their counts are not meant to
+        match (Part 5, Section 1).
+
+3. A range of outcomes
+Each scenario is a single estimate. Because the follow shares are judgments, PPS produces a range for
+each receiving school by repeating the calculation with the shares set lower and higher, everything else
+held fixed, and reading each school’s enrollment by year beside its floor and capacity. The example below
+is the Atkinson immersion program in Scenario A.
+
+Atkinson immersion students following to          30%        50%        80%           100%
+Lent                                                                    (modeled)
+
+Lent, 2027-2028 (floor 360, capacity 798)         310        346        401           437
+
+Atkinson, 2027-2028 (floor 360, capacity          425        413        395           383
+519)
+
+At a 30 percent follow share, Lent would hold 330 students in 2031-2032, below its floor. PPS modeled
+the scenario at 80 percent, as shown in the table. These figures replace the modeled share in the ledger
+directly. A full rerun differs by a few students because of rounding (Part 2, Section 3.7).
+
+
+               K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 57
+The exposure runs in both directions. Schools receiving a program are exposed to a low follow share,
+which can leave them below their floor. Neighborhood schools near capacity that receive a closed
+school’s area are exposed to a high one. Schools that lose a program or transfer students carry the mirror
+image. PPS will publish the range for every receiving school and every year through 2031-2032 for the
+scenario the Superintendent recommends.
+
+
+4. Review
+PRC has reviewed the enrollment methodology in Part 2. Before adoption, the proposal will also be
+reviewed by district leadership and by the Board in public session. After adoption, PRC’s own forecast,
+built on October 2026 enrollment and the adopted changes, becomes the forecast for staffing (Part 1,
+Section 2).
+
+
+
+Appendix A. This-year cascade rules
+Rules run in this order; each applies only to students not yet placed. The note written by each rule begins
+with its code.
+
+Rule    Placement
+
+R01     Immersion program moved by the workbook to a named school; whole strand
+        follows.
+
+R02     Program dissolved to neighborhood: fully reassigned, neighborhood the
+        plurality destination; student goes to scenario boundary school as a resident.
+
+R03     Resident whose block is zoned elsewhere under the scenario moves to that
+        school.
+
+R04     Resident or non-resident at a fully reassigned school goes to the scenario
+        boundary school.
+
+R05     A single workbook row fully reassigning the school and group to a named
+        destination.
+
+R06     Special or alternative school not in the scenario: no change.
+
+R07     No boundary change and school not in the scenario: no change.
+
+R08     Immersion program not in the scenario: no change.
+
+R09     Special program not in the scenario: no change.
+
+R10     Out-of-district student at a school the scenario does not affect: no change.
+
+R11     Neighborhood student at a school neither closing nor changing boundaries: no
+        change.
+
+
+               K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 58
+Rule      Placement
+
+R12       Out-of-district student at a changing school follows the largest named
+          destination.
+
+R13       Transfer student whose school stays open: no change.
+
+R14       Student with no in-district boundary at a school that stays open: no change.
+
+R15       Non-resident at a school not on the neighborhood change list: no change.
+
+R16       Resident whose workbook destination matches the GIS boundary school.
+
+R17       Resident with no workbook row follows the GIS boundary school.
+
+R18       Grades 9-12 continue at their current school (except MLC).
+
+R19       Fully reassigned school and group go to the largest named destination.
+
+R20       Resident already at their scenario boundary school: no change.
+
+R21       Out-of-district student at a closing special school: largest named destination,
+          else out of district.
+
+R22       School and group not fully reassigned: no change.
+
+R23       Immersion student with no workbook row: no change.
+
+R24       Transfer student assigned to a school that itself closes is redirected to its
+          primary successor.
+
+R25       Fallback: fully reassigned, no destination; primary successor, else out of
+          district.
+
+
+Appendix B. Next-year rules
+Each rule has a status-quo form (a) and a scenario form (b) unless noted. Notes begin with the rule code.
+
+Rule             Placement
+
+NY-01            Next year's grade = this year's grade + 1, grades K-11.
+
+NY-02 /          Move up in place when next year's grade is within the school's grade
+NY-03            span for the group (NY-02 status quo, NY-03 scenario). Non-residents,
+                 special programs and immersion inherit wider spans; a feeder row at the
+                 student's grade excludes them.
+
+NY-04a / b       Immersion feeder pattern; scenario side requires the destination to still
+                 have the strand one grade up.
+
+
+
+
+                 K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 59
+Rule            Placement
+
+NY-04c          Scenario only: feeder destination's strand fully moved by the workbook;
+                follow it.
+
+NY-04d          Scenario only: the student's own school was moved by the scenario;
+                follow the feeder pattern of the school attended today.
+
+NY-04e          Scenario only: the strand at the student's own scenario school is fully
+                moved by the workbook at next year's grade; follow it.
+
+NY-05a / b /    HS Spanish Immersion via the attendance-area crosswalk; c follows a
+c               program the workbook moved.
+
+NY-06a / b      Grade 5, not immersion: middle school serving the address, as a
+                resident.
+
+NY-07a / b      Grade 8, not immersion: high school serving the address, as a resident.
+
+NY-08           Change flag.
+
+
+Appendix C. Reference tables
+Immersion feeder patterns
+These are today's feeder patterns, used for the status quo. A scenario changes them only through the
+modeling tool's workbook. In Scenarios A and B, for example, the workbook moves Ockley Green's
+Spanish Immersion program to George, so on the scenario side Beach's 5th graders, who feed Ockley
+Green today, go to George (Section 6.4, step 3).
+
+From                        Strand                     Grade       To
+
+Mt Tabor                    Japanese Immersion         8→9         Grant
+
+Hosford                     Mandarin Immersion         8→9         Cleveland
+
+Harrison Park               Mandarin Immersion         8→9         Cleveland
+
+Harriet Tubman              Mandarin Immersion         8→9         Jefferson
+
+Roseway Heights             Vietnamese                 8→9         McDaniel
+                            Immersion
+
+Brentwood                   Russian Immersion          8→9         Franklin
+
+Clark                       Mandarin Immersion         5→6         Harrison Park
+
+Woodstock                   Mandarin Immersion         5→6         Harrison Park
+
+MLK Jr                      Mandarin Immersion         5→6         Harriet Tubman
+
+
+                K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 60
+From                         Strand                     Grade       To
+
+Richmond                     Japanese Immersion         5→6         Mt Tabor
+
+Rose City Park               Vietnamese                 5→6         Roseway Heights
+                             Immersion
+
+Kelly                        Russian Immersion          5→6         Brentwood
+
+Lent                         Spanish Immersion          5→6         Kellogg
+
+Atkinson                     Spanish Immersion          5→6         Kellogg
+
+Bridger Creative             Spanish Immersion          5→6         Kellogg
+Science
+
+Sitton                       Spanish Immersion          5→6         George
+
+James John                   Spanish Immersion          5→6         George
+
+Scott                        Spanish Immersion          5→6         Roseway Heights
+
+Rigler                       Spanish Immersion          5→6         Beaumont
+
+Beach                        Spanish Immersion          5→6         Ockley Green
+
+Ainsworth                    Spanish Immersion          5→6         West Sylvan
+
+Spanish Immersion middle school strands continue to their high school program through the
+attendance-area crosswalk below rather than a fixed feeder.
+
+High school Spanish Immersion crosswalk
+
+HS attendance area (hs_living_2027)              HS Spanish Immersion program
+
+Cleveland                                        Franklin
+
+Franklin                                         Franklin
+
+Grant                                            McDaniel
+
+Ida B. Wells-Barnett                             Lincoln
+
+Jefferson                                        Roosevelt
+
+Lincoln                                          Lincoln
+
+McDaniel                                         McDaniel
+
+Roosevelt                                        Roosevelt
+
+
+
+
+                 K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 61
+K–8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation | Page 62
+
