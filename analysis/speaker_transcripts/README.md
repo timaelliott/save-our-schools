@@ -6,6 +6,7 @@ checked by reading the transcript**.
 | Meeting | Transcript | Source |
 |---|---|---|
 | 2026-10-20 Board work session (BoardBook 772442), video [xByUlijpcnE](https://www.youtube.com/watch?v=xByUlijpcnE) | [`2026-10-20_xByUlijpcnE.txt`](2026-10-20_xByUlijpcnE.txt) | Vendor word-level export, supplied by the repository owner 2026-10-21 ([raw](../../sources/youtube/vendor_transcripts/2026-10-20_xByUlijpcnE.timestamps.json)) |
+| 2026-11-09 Facilities Improvement and Oversight Committee (BoardBook 776245), video [cyHU9UOQqvc](https://www.youtube.com/watch?v=cyHU9UOQqvc) | [`2026-11-09_cyHU9UOQqvc.txt`](2026-11-09_cyHU9UOQqvc.txt) | Vendor paragraph export, supplied by the repository owner 2026-11-09 ([raw](../../sources/youtube/vendor_transcripts/2026-11-09_cyHU9UOQqvc.paragraphs.json)); build script `_build/build_2026-11-09_cyHU9UOQqvc.py` |
 
 Files per meeting:
 - `<date>_<videoId>.txt`: one line per speaker turn, `[H:MM:SS] Name (role) {confidence if not high}: words`. Words are as
@@ -28,3 +29,9 @@ otherwise.
 
 Citations use the video: `[YT:xByUlijpcnE@H:MM:SS]`. `tools/merge_quotes.py` and `tools/window.py` read the caption-style
 copy in `sources/youtube/transcripts/2026-10-20_xByUlijpcnE.txt`, which has the same words without speaker tags.
+
+**Re-check notes (2026-11-09 FIO committee):** the export's speakers are letters A–O, and several were reused for different people:
+- "D" is the student representative's self-introduction, then Director Engelsman for most of the meeting, and the board manager reading the public-comment list.
+- "L" is Chief Buno, and also Chair Wang when the chair called on him online.
+- "B" is legal counsel at the introductions, then a public commenter.
+Engelsman is identified from her self-introduction, Franco's "Thanks, Director Engelsman", and her reference to "Chair DePass". Chase-Miller is identified from the chair's question "Is that Director [Chase-Miller]?". The meeting summary is in `analysis/meetings/2026-11-09_fio_meeting.md`.

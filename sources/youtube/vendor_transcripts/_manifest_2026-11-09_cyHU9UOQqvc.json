@@ -1,0 +1,18 @@
+[
+ {
+  "file": "2026-11-09_cyHU9UOQqvc.paragraphs.json",
+  "video_id": "cyHU9UOQqvc",
+  "video_url": "https://www.youtube.com/watch?v=cyHU9UOQqvc",
+  "video_title": "2026-11-09  Board of Education’s Facilities Improvement and Oversight Committee",
+  "video_length_s": 7391,
+  "boardbook_meeting": "2026-11-09|776245",
+  "format": "JSON {paragraphs:[{text,start,end,confidence,words:[{text,start,end (ms into the video),confidence,speaker}]}], id, confidence, audio_duration, speech_model_used}. 223 paragraphs, 14,335 words. Speaker tags are the vendor's automatic letters (A-O), reused for different people.",
+  "provenance": "Speech-to-text paragraph export supplied by the repository owner in chat on 2026-11-09 as 'paragraphs.json'. Not fetched by us; vendor not stated (speech model 'universal-3-5-pro').",
+  "received": "2026-11-09",
+  "sha256": "c89629be716420d11c88d0724fba0e9f5001f612d51bbaec0694e83e90754bdf",
+  "derived": [
+   "sources/youtube/transcripts/2026-11-09_cyHU9UOQqvc.{txt,tsv,meta.json}: the same words regrouped into caption-length lines (no speaker tags)",
+   "analysis/speaker_transcripts/2026-11-09_cyHU9UOQqvc.txt: speaker-labeled turns with every speaker re-checked (evidence in the CSVs next to it)"
+  ]
+ }
+]

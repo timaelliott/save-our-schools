@@ -1,0 +1,23 @@
+{
+ "id": "cyHU9UOQqvc",
+ "fetched_at": "2026-11-10T03:30:00Z",
+ "meta": {
+  "videoId": "cyHU9UOQqvc",
+  "title": "2026-11-09  Board of Education\u2019s Facilities Improvement and Oversight Committee",
+  "lengthSeconds": "7391",
+  "author": "PPS Board of Education",
+  "uploadDate": "2026-11-09"
+ },
+ "meetings": "2026-11-09|776245",
+ "caption_kind": "vendor_stt",
+ "caption_lang": "en",
+ "n_lines": 1386,
+ "fetch_method": "Word-level speech-to-text paragraph export with automatic speaker tags (paragraphs.json, model universal-3-5-pro), supplied by the repository owner 2026-11-09; raw file archived at sources/youtube/vendor_transcripts/2026-11-09_cyHU9UOQqvc.paragraphs.json. Title from YouTube oEmbed 2026-11-10; length = the export's audio_duration.",
+ "url": "https://www.youtube.com/watch?v=cyHU9UOQqvc",
+ "boardbook_meetings": [
+  [
+   "2026-11-09",
+   "776245"
+  ]
+ ]
+}

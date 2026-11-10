@@ -1,0 +1,21 @@
+id,label,role,kind,turns,words,first_turn
+DEP,Michelle DePass,"Board member, Zone 2; FIO Committee chair",board,94,1789,0:28:14
+ENG,Stephanie Engelsman,"Board member, Zone 6; FIO Committee member",board,32,1623,0:30:50
+CM,Rashelle Chase-Miller,Board Vice-Chair (online),board,3,157,1:38:45
+WANG,Eddie Wang,Board Chair (online),board,2,52,1:54:18
+ALM,Lila Almeida,Student representative (as introduced),board,1,4,0:30:41
+ARM,Kimberlee Armstrong,Superintendent,staff,8,350,0:30:32
+FRA,Jon Franco,Senior Chief of Operations,staff,56,4210,0:30:55
+EVE,Joanna Evenson,"Senior Director, RISE (facilities construction projects)",staff,32,1125,0:49:05
+LEA,Frank Leavitt,"Senior Director, Facilities & Maintenance (as introduced)",staff,3,212,1:02:10
+BUNO,Jey Buno,Chief of Student Support Services,staff,19,1648,1:06:52
+COON,Brandon Coonrod,"Senior Director, Student Transportation",staff,8,440,1:21:06
+CLERK,Rosanne Powell,Board Manager,staff,5,51,0:31:44
+LEGAL,Emily Courtneidge,Senior Legal Counsel,staff,1,4,0:30:27
+EGG,Jennifer Eggers,Holmes Structural Engineering (seismic consultant),guest,4,850,1:30:41
+PC1,Public commenter 1,Maplewood parent,public,2,289,0:32:29
+PC2,Public commenter 2,PPS parent; Lincoln Youth Baseball board member,public,6,342,0:35:05
+PC3,Public commenter 3,Cleveland High School baseball/softball board member,public,2,439,0:38:22
+PC4,Public commenter 4,Parent; Lincoln Little League Softball president,public,1,376,0:40:59
+PC5,Public commenter 5,Forensic architect; Rose City Park parent,public,2,334,0:43:22
+UNK,Unidentified,Speaker not identifiable from the recording,other,21,41,0:14:28

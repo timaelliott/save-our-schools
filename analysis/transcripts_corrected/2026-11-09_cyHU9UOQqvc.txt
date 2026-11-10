@@ -1,0 +1,1394 @@
+# 2026-11-09  Board of Education’s Facilities Improvement and Oversight Committee
+# Video: https://www.youtube.com/watch?v=cyHU9UOQqvc
+# Source: NOT YouTube captions. Word-level speech-to-text export (sources/youtube/vendor_transcripts/2026-11-09_cyHU9UOQqvc.paragraphs.json),
+#   supplied by the repository owner 2026-11-09; the vendor's words regrouped into caption-length lines. Speaker-labeled copy:
+#   analysis/speaker_transcripts/2026-11-09_cyHU9UOQqvc.txt
+# BoardBook meeting(s): 2026-11-09|776245
+# Link to a moment: https://www.youtube.com/watch?v=cyHU9UOQqvc&t=<seconds>s
+
+[0:14:28] Certainly in the second. Thank you.
+[0:28:14] We'll just get started in just a few minutes.
+[0:28:18] We're running— oh, we're actually a couple minutes early.
+[0:29:58] All right, is your computer ready to go?
+[0:30:02] Hello and welcome everybody. Nice to see so much interest in the
+[0:30:07] topic. This is— sorry, this is the Facilities Improvement Facilities Improvement and
+[0:30:15] Oversight Committee, and I'll start out with introductions as we're called to
+[0:30:20] order. And we'll start, I guess, with you, Emily, and then we'll
+[0:30:25] just come this way. Emily Courtenage, legal counsel.
+[0:30:32] Kim Armstrong, superintendent. I know you have my designee tonight, but I'm
+[0:30:35] sitting in. Lila Almeida, student representative.
+[0:30:44] From Lincoln, Michelle DePass. I'm the chair of this committee.
+[0:30:50] Stephanie Engelsman. I'm a Zone 6 representative and part of this committee.
+[0:30:55] John Franco. John Franco, senior chief operations.
+[0:31:00] Excellent. So this board meeting is called to order, and welcome everyone.
+[0:31:04] We have 2 things on the agenda.
+[0:31:06] The first is something I've asked to be added regularly, and if
+[0:31:10] we have something to report, great.
+[0:31:12] And that's on any wins that we have, because it's really easy
+[0:31:16] to focus on all the things that are going wrong.
+[0:31:18] I'd like to pay some attention to things that are going right.
+[0:31:22] The second thing is a right-sizing update on the facilities school readiness,
+[0:31:27] and I know that's a topic that I've heard a lot about,
+[0:31:30] and I have a lot of questions about myself, um, readiness.
+[0:31:32] So I'm looking forward to the presentation.
+[0:31:36] I think the first thing we'll do is we'll have public comment.
+[0:31:38] Roseanne, do we have— I should say, who do we have signed
+[0:31:41] up to testify tonight? Yes, and before I call anybody up, I
+[0:31:46] want to let you know that Vice Chair Chase Miller and Chair
+[0:31:49] [Wang] are both virtually with us.
+[0:31:52] Excellent, thank you. For public comment, we have Michelle Adlong and Nicole
+[0:31:58] Kemper. And you know, there's a strange echo coming.
+[0:32:02] Do you hear that too?
+[0:32:07] I'm not the tech expert, so.
+[0:32:14] Is everybody muted? I don't know if that makes a difference.
+[0:32:18] I don't think it does because sometimes we all forget.
+[0:32:22] Hello. If you'll state your name and spell your last name, I'll
+[0:32:26] put you in my little informal database.
+[0:32:29] Michelle Adlong, A-D-L-O-N-G. Can you hear me okay?
+[0:32:36] Yes, we can hear you just really well.
+[0:32:38] Thank you. Michelle Adlong. Excellent.
+[0:32:40] Go ahead, please. All right, good evening.
+[0:32:44] My name is Michelle Adlong.
+[0:32:46] I am a Maplewood parent, and we have a Hayhurst neighbor here
+[0:32:52] too today. Uh, thank you First of all, to the hardworking central
+[0:32:57] staff delivering this right-sizing project.
+[0:33:00] This is a really heavy lift.
+[0:33:04] First, because safety should always come first, I appreciate seeing seismic concerns
+[0:33:10] being discussed today. But today's— beyond today's slides, we ask for more,
+[0:33:17] a plan for seismic retrofits with timelines guaranteed funding, and confirmation that
+[0:33:24] bond seismic funds are going to the highest priority schools.
+[0:33:29] And with that said, I want to pivot to what else could
+[0:33:32] happen if we don't get right-sizing right— overcrowding.
+[0:33:36] If Maplewood closes, Hayhurst and Rickey could run out of space.
+[0:33:42] Hayhurst's recent history is an example.
+[0:33:46] 10 years ago, Hayhurst had 499 students.
+[0:33:50] It was a lot. It was so overcrowded that there was a
+[0:33:53] kindergarten class in half of the library.
+[0:33:58] In response, the district moved Odyssey out of the building and redrew
+[0:34:03] Southwest boundaries, adjusting Hayhurst to a more manageable 340 students.
+[0:34:10] But next year, both scenarios would cram many more students than that
+[0:34:15] back in. And the capacity math we've seen, we have concerns about
+[0:34:20] because it does not fully set aside the special education classrooms that
+[0:34:25] Hayhurst needs today. And Ricci, which has not yet received a facility
+[0:34:30] walkthrough, is being asked to absorb more students than ever before in
+[0:34:35] a seismically unsafe building with a combined gym and cafeteria.
+[0:34:42] These are the schools I know best, but I can imagine others
+[0:34:45] are running into similar issues.
+[0:34:48] Let's not do another boundary revision.
+[0:34:50] Let's not make our kids go through this twice.
+[0:34:53] Let's get this right. Thank you.
+[0:35:00] Thank you. Hi. Hi. Would you like my name first, or—.
+[0:35:09] Please, and spell your last name.
+[0:35:10] Sure. Nicole Kemper. N-I-C-O-L-E K-E-M-P-E-R.
+[0:35:19] Whenever you're ready. Sure, thank you.
+[0:35:21] Um, I'm a PPS parent and volunteer on the Lincoln Youth Baseball
+[0:35:25] Board of Directors, and as an advocate of the Cardinal Nest Project,
+[0:35:30] I want to talk about the impact of field capacity constraints on
+[0:35:34] student athletes. And I'm very proud to be here with Wells and
+[0:35:38] Lincoln Baseball and softball communities.
+[0:35:41] I will be honest, our teams compete fiercely on the field.
+[0:35:46] We know. But we are here today with the united ask for
+[0:35:49] PPS to accelerate the West Sylvan turf project.
+[0:35:54] I am cognizant of what it means to be here talking about
+[0:35:57] fields while PPS is engaged in a rightsizing conversation, but capital project
+[0:36:03] delivery is a separate responsibility with separate funding, and we recognize the
+[0:36:09] district's focus on rightsizing is necessary.
+[0:36:12] But with due respect, it's been nearly 10 years since a 2017
+[0:36:17] bond allocated funding for West Sylvan, and it's time that those funds
+[0:36:21] are used. In January and March, we came to you to ask
+[0:36:25] for status. Multiple families sent letters to the board, and our petition
+[0:36:29] has over 265 signatures and counting.
+[0:36:33] We applaud Director Patty Smith for requesting the topic on this committee's
+[0:36:38] agenda, and as you can see, we are committed to the cause.
+[0:36:42] Of the many questions raised in our outreach, I'd like to ask
+[0:36:45] these 3. What prompted the schedule acceleration from Q1 2029 to August
+[0:36:51] 2028, and did it indeed restart on August 1st, 2026?
+[0:36:57] What design, engineering, and land use approvals can be reused so that
+[0:37:01] the 2017 dollars and time are not wasted?
+[0:37:05] And are you coordinating with the City of Beaverton to secure the
+[0:37:09] conditions that allow the facility to function as intended.
+[0:37:13] Communities supporting Powell Park and other PPS projects are asking the same
+[0:37:18] questions. And for those here today, our organizations are about more than
+[0:37:24] just a sport. They're about dedicated volunteers teaching our children sportsmanship and
+[0:37:30] civic values. So this is more—.
+[0:37:32] I'm going to ask you to wrap up your statement.
+[0:37:34] I'm sorry, we have to limit the time of public testimony to
+[0:37:38] give everyone the same time.
+[0:37:39] Thank you for allowing the comments.
+[0:37:40] If you have materials you'd like us to see, if you don't
+[0:37:42] mind handing them to, uh, Roseanne in the corner here, and she'll
+[0:37:46] make sure that we, uh, see and read those.
+[0:37:48] Thank you very much. Thank you too.
+[0:37:55] We also have Megan Stepek, Sylvan Cambier, and Jenna Blanchard.
+[0:38:02] Thank you. If you can just say your name and spell your
+[0:38:11] last name, please. And you've got two minutes each.
+[0:38:21] I think if you keep talking.
+[0:38:22] Okay. If I keep talking, there we go.
+[0:38:24] There you go. Okay. Good evening.
+[0:38:25] My name is Megan Steffek.
+[0:38:26] S T E F F E K.
+[0:38:29] I am Cleveland High School baseball and softball board member.
+[0:38:33] Member of the Cleveland Modernization Design Advisory Group, and co-founder of Turf
+[0:38:37] Pal Park, which is probably mostly how you know me.
+[0:38:40] At the September 15th PPS board meeting, all of you learned at
+[0:38:43] the same time that I did that legal review of the lease
+[0:38:45] agreement for Pal Park has not in fact been progressing, and therefore
+[0:38:50] the turf field opening quietly changed from spring 2028 to spring 2029.
+[0:38:55] My question to you tonight echoes that of Dr.— or excuse me,
+[0:38:59] Director Engelsman at the September 15th board meeting.
+[0:39:02] How can it take the same 3-year duration to deliver turf facilities
+[0:39:06] at Powell Park that it also takes to completely demolish and build
+[0:39:11] a new high school? Here's what I know to be true.
+[0:39:15] It has been 18 months since voters approved the May 2025 PPS
+[0:39:19] bond, which included the design timeline and the funding for off-site turf
+[0:39:23] fields for Cleveland High School athletics.
+[0:39:26] It has been 13 months since this board approved Resolution 7188 in
+[0:39:30] October 2025. 2025, excuse me, approving the comprehensive plan for Cleveland Modernization,
+[0:39:36] which included off-site multi-use turf fields for baseball, softball, lacrosse, PE, unified
+[0:39:41] PE, all at Powell Park.
+[0:39:44] The high school stadium proceeded on to the land use— the high
+[0:39:46] school site and the stadium proceeded to land use review while turf
+[0:39:49] fields proceeded through this lease agreement between PPS, Parks and Rec, and
+[0:39:54] the City of Portland. And it's a process, and I realize that
+[0:39:56] takes time. During that time, student athletes lost 45 to 50 instructional
+[0:40:03] hours in the spring of 2026.
+[0:40:04] That's just this year. Those are the same students that are expected
+[0:40:09] to maintain their grades in order to play.
+[0:40:12] Offsite fields require daily travel to practice, and we estimate that the
+[0:40:17] softball team will increase their travel time by 10 miles from the
+[0:40:20] Marshall campus, and the baseball team will increase their travel time by
+[0:40:24] 14 miles from the Marshall Campus, all with the same permit hours
+[0:40:27] from Parks and Rec. Sorry, let me conclude here real quick.
+[0:40:33] My ask to you tonight is simple: name the sticking point in
+[0:40:35] the lease agreement with Portland Parks and Rec, own the failure, assign
+[0:40:39] accountability to resolving the issue.
+[0:40:42] This is about fair and equitable treatment for Cleveland High School.
+[0:40:45] Lean in fully to complete the negoti— negotiation with Portland Parks and
+[0:40:49] Rec and prioritize students by returning to the spring 2028 opening date
+[0:40:54] for Powell Park. Thank you.
+[0:40:57] Hello. Hi, my name is Jenna Blancher, B-L-A-N-C-H-E-R, and I am the
+[0:41:05] parent of 2 daughters, one at Forest Park Elementary and one at
+[0:41:08] West Sylvan Middle School. But today I am here as president of
+[0:41:12] Lincoln Little League Softball to urge the committee to build home fields
+[0:41:16] for both Lincoln High School Safe softball and baseball at West Sylvan.
+[0:41:21] Over the last 3 years, both Lincoln and Wells softball programs have
+[0:41:25] grown. It has been really incredible to see the coaches dig in
+[0:41:29] and work to get more girls involved in this sport.
+[0:41:32] As their programs grow, obviously so does the need for field space.
+[0:41:36] While this is a wonderful problem to have, it creates a problem
+[0:41:40] for the youth programs. The high school teams are pushed into parks,
+[0:41:44] which then takes those fields from the youth programs.
+[0:41:47] Currently, Lincoln High School plays at Wallace Park, a city park in
+[0:41:51] Northwest Portland. There is no dedicated home field.
+[0:41:55] At Lincoln, softball is a no-cut sport.
+[0:41:57] Head Coach Almeida has committed to keep larger teams in order to
+[0:42:00] keep girls in sports. The benefits of sports for female athletes goes
+[0:42:05] beyond simply playing a sport or being connected to school.
+[0:42:09] According to the Women's Sports Foundation, keeping young women in sports matters
+[0:42:13] immensely. Female athletes on average have higher grades compared to their peers.
+[0:42:18] They are more likely to graduate high school, and they have higher
+[0:42:20] self-esteem and confidence. Further, 80% of female executives in Fortune 500 companies
+[0:42:27] played sports as a youth.
+[0:42:29] The lessons, mindset, and positive self-image that are taken away from participating
+[0:42:33] on a team sport carry female athletes throughout their lives.
+[0:42:36] A dedicated home field allows for the high school program to grow
+[0:42:40] but opens more fields for young female athletes to join as well.
+[0:42:45] During this right-sizing process, many parents have shown skepticism to trust PPS
+[0:42:49] with the process. Voters first approved funding for this project in 2017
+[0:42:54] and again in 2025. These fields matter.
+[0:42:59] Yet the fields are still in pre-planning with no start date scheduled.
+[0:43:03] This adds to the list of broken promises from PPS.
+[0:43:06] One way to begin to rebuild trust with the community is to
+[0:43:09] follow through on voter-approved projects and get these fields built immediately.
+[0:43:13] Thank you. Hi. Hello. Good evening.
+[0:43:24] My name is Sylvan Cambier, C-A-M-B-I-E-R.
+[0:43:30] I am a forensic architect.
+[0:43:32] I'm also a parent at Rose City Park Elementary School.
+[0:43:36] What I'm presenting to you tonight is information that's been collected by
+[0:43:40] other concerned parents and prepared by my esteemed and formidable wife.
+[0:43:45] You all have copies of it.
+[0:43:47] It's about facilities data that's been inconsistent or incorrect and potentially unreliable.
+[0:43:54] So regarding functional capacity, the— that which was presented by PPS for
+[0:43:58] right-sizing doesn't always add up.
+[0:44:01] Uh, Vestal is listed as having 18 accessible ground floor classrooms when
+[0:44:06] there are only 10. There are not enough classrooms to receive the
+[0:44:10] Vietnamese dual language program from Rose City Park, which would require 12
+[0:44:15] for program fidelity. Another example is portable classrooms are being counted despite
+[0:44:20] the fact that portables are in disrepair across many schools.
+[0:44:24] And some of these inaccuracies look similar to what I recognize as
+[0:44:28] AI hallucinations. I'm a little concerned that PPS is using programs like
+[0:44:33] Truriga, which can use generative AI to analyze plans.
+[0:44:37] Okay. Another example regarding facility conditions is that PPS commissioned a long-range
+[0:44:43] facilities plan in 2021. Subsequent data provided by PPS has conflicted with
+[0:44:50] the LRFP. For example, it notes that Arleta does not have an
+[0:44:55] elevator in the LRFP, but in the proposed changes document, Marysville students
+[0:45:00] moving to Arleta would, quote, gain full elevator access at Arletta.
+[0:45:06] Another example would be Rose City Park being listed as better condition
+[0:45:09] than most of the elementary schools in the district in the LRFP,
+[0:45:13] but then PPS's proposed changes document states that, quote, severe building conditions
+[0:45:17] were the primary reason considered for school closure.
+[0:45:21] Regarding seismic improvements, some schools such as Marysville have already received seismic
+[0:45:25] upgrades, and we're concerned that closing this school may risk defaulting on
+[0:45:29] state contract. The bottom line is that PPS owes the school board
+[0:45:32] and the public consistent, verifiable, accurate data in a timely way to
+[0:45:36] make these critical decisions, and we hope to help support that.
+[0:45:41] Thank you. Do we have any others?
+[0:45:57] That's it. Excellent. All right, thank you very much.
+[0:46:02] Um, heard some concerns about home fields, West Sylvan, um, a concern
+[0:46:09] about what's happening with the lease process for Powell.
+[0:46:15] Powell Park, by the way, has been on the— I mean, since
+[0:46:19] I worked for the parks in the '90s, so Um, it's been
+[0:46:24] a subject of contention. I'm wondering if we can get some follow-up,
+[0:46:27] just maybe for, for our next meeting, so we can report out.
+[0:46:31] Yes. The status of that.
+[0:46:32] Yep. And then I was just going to ask, just because I
+[0:46:35] know that we have some folks from the Little League here, if
+[0:46:38] we had— while we have the team, I don't know when the
+[0:46:41] next facility meeting is, and even on the Turf Pal Park, is
+[0:46:45] there a quick update you can share or a resource you can
+[0:46:48] point people to? Yes, can we bring the When you do your
+[0:46:50] thing, I can bring the team up and we could provide updates.
+[0:46:53] Okay, that would be, that would be great to get an update.
+[0:46:55] Um, I, I know those, those, um, city processes are a process
+[0:46:59] and land use process. Um, I know it's been going on for
+[0:47:02] like more than 20 years, so yeah, I would be interested in
+[0:47:05] getting an update. And then the last thing we heard about was
+[0:47:07] the fidelity about the, um, between the right-sizing conversation and the long-range
+[0:47:14] facilities plan and I don't know if you can provide an update
+[0:47:16] tonight, but I would be also interested in finding out, um, I
+[0:47:20] mean, I'm, I'm assuming that there's a measurement that I don't know
+[0:47:23] about, but I would like to get an update on— I think
+[0:47:26] there's interest in getting an update on where, um, how we're reconciling
+[0:47:30] discrepancies. Yep. So thank you.
+[0:47:39] I guess we're, uh, ready next, once we've heard from people, for
+[0:47:41] right-sizing any departmental wins and right-sizing school readiness.
+[0:47:45] Can Can we start with the wins?
+[0:47:47] Great. And, um, thank you, um, Director DePass.
+[0:47:51] I'm going to go ahead and call my team up here.
+[0:47:54] So we have quite a few folks, which I think is great
+[0:47:58] because this was an immense collective effort.
+[0:48:02] And so up to the dais, we have Joanna Evenson, who's one
+[0:48:07] of our senior directors in RISE.
+[0:48:09] We have Frank Levitt, who's our senior director over facilities and maintenance.
+[0:48:14] We have Brandon Coonrod, who's our Senior Director of Transportation, and we
+[0:48:19] have Chief Jay Buno, who's our Chief of Educational Services.
+[0:48:24] Also, there's going to be a seismic portion towards the very end,
+[0:48:28] and Jennifer Eggers is here to talk us through that from Home
+[0:48:32] Structures, and then Margaret Calvert is also here.
+[0:48:36] She's very handy with data dashboards and those types of things, as
+[0:48:40] I'm not that quick to pull things up, and so she is
+[0:48:43] going to be ready, uh, with all the data ready at hand.
+[0:48:48] And so first, before we get started, Joanna, and, and we also
+[0:48:52] have Sarah Norman who's also online, and so I think we've heard,
+[0:48:57] um, and if we could provide some just quick updates in regards
+[0:49:00] to Powell Park, uh, that would be outstanding.
+[0:49:05] Yeah, I can, I can provide an update to Powell Park.
+[0:49:07] We are still in lease negotiations with Parks and Rec.
+[0:49:11] We have gone back and forth, um, quite a few times, and
+[0:49:15] it is currently with the city attorney and PPS attorney.
+[0:49:19] That is the latest update we have on Powell Park.
+[0:49:24] Thank you. And what, what about an update regarding, uh, West Sylvan,
+[0:49:29] uh, for our Lincoln kids and community who's here?
+[0:49:35] That would be Joanna, or Joanna, I can take either one.
+[0:49:40] Can you speak into the mic, Jo?
+[0:49:43] Now, can you— oh, there we go.
+[0:49:44] Yeah, that's better. Okay, great.
+[0:49:45] Um, Wes Sylvan. Yes, so we have under contract our land use
+[0:49:51] planning consultants. We've started our kickoffs for multiple athletic projects so that
+[0:49:57] we're all trying to kick them off all at once, and that's
+[0:50:00] really where we're at at the moment, to start land use With
+[0:50:04] regards to reusing our previous land use, we need to double-check through
+[0:50:09] our Land Use Council and our designers if any requirements have changed
+[0:50:14] and what, if anything, could possibly be reused.
+[0:50:18] But as you know, communities change, and so any reporting we would
+[0:50:22] have done, we're going to have to redo it to make sure
+[0:50:25] it's still accurate. So are we just starting the land use process
+[0:50:30] right now, or I mean restarting it.
+[0:50:32] So it was started a long time ago, that whatever determination has
+[0:50:36] been expired, and then correct, we need to restart, but we're looking
+[0:50:40] at what can be recycled from that process.
+[0:50:44] I've been in—. Generally, we wouldn't recycle it, which is— I was
+[0:50:47] just trying to answer the question.
+[0:50:49] We're gonna have to start from scratch.
+[0:50:52] Because the zoning has changed, or because the land use determination has
+[0:50:56] run out? It's run out.
+[0:50:58] It ran out. Okay. It was originally part of the Lincoln— it
+[0:51:03] was envisioned as a temporary athletics space for Lincoln while the Lincoln
+[0:51:09] field was under modernization, and in order to use that for a
+[0:51:14] Lincoln athletics temporary space, additional lights and fencing and some potentially other
+[0:51:21] requirements from the City of Beaverton pushed it into land use.
+[0:51:26] Okay. Through those determinations and appeals, the timings of it pushed it
+[0:51:32] beyond where the Lincoln High School students would have been able to
+[0:51:36] use it, and so a different facility was used for Lincoln High
+[0:51:40] School athletics during the modernization.
+[0:51:46] The—. Anything in that land use package beyond lighting and fencing that
+[0:51:52] was covered by the bond at the time, the Lincoln bond, for
+[0:51:58] use for temporary Lincoln athletics, like a swing site, just like Cleveland
+[0:52:03] and Marshall. Since that was no longer used, there was no act—
+[0:52:08] there was no funding for any other— for the potential future use
+[0:52:15] of West Sylvan as an additional Lincoln High School or Lincoln athletic
+[0:52:20] space. Okay, so it's— we're going to try to recycle some of
+[0:52:25] the determinations from the land use process from before.
+[0:52:29] We're going to use the information that we have, but we'll have
+[0:52:32] to do an entirely new submission based on the criteria required by
+[0:52:37] the City of Beaverton for land use.
+[0:52:40] Do you have an estimated completion date?
+[0:52:45] I did have a schedule out and I don't know it off
+[0:52:47] the top of my head.
+[0:52:50] We have an overall athletic schedule.
+[0:52:52] It would—. It's going— I think we've shared it before, but I
+[0:52:55] don't know. Is it posted somewhere, or—.
+[0:53:00] Yes, we can post it on the website.
+[0:53:02] Absolutely. Yeah, that's great. Even if something's out in the future, it's
+[0:53:05] great to know. It's like, okay, well, it's not happening anytime soon,
+[0:53:07] but at least we know that it's in the Yeah, with our
+[0:53:10] new consultant coming on for our land use, um, they are building
+[0:53:14] the schedules and we will post them.
+[0:53:15] Excellent, I appreciate that. Thank you.
+[0:53:18] Okay, I appreciate the update opportunity.
+[0:53:22] Can I please move on?
+[0:53:23] Director DePasquale? Yes, can I, can I just say something too?
+[0:53:26] Um, I wonder, because I hear especially for Powell Park, but, um,
+[0:53:31] it sounds like every time I hear, um, an update it's someone
+[0:53:35] else isn't doing something or we're waiting on someone else to do
+[0:53:37] something. And so I'm going to reach out to Director [Splitt] and
+[0:53:40] see whether intergovernmental committee may be a place to invite all the
+[0:53:44] parties to give an update there so we can sort of get
+[0:53:47] everyone in the same room and see what needs to happen.
+[0:53:50] Great, thank you. Okay, so we have, um, quite an agenda today,
+[0:53:59] and so, um, Here it is.
+[0:54:01] I introduced my team. We're happy to be here.
+[0:54:03] We know there's been a lot of questions regarding facilities, and so
+[0:54:06] we're happy to walk through our process to, to determine school readiness
+[0:54:11] in the midst of our right-sizing conversation.
+[0:54:14] The first part is we have a slide very specific.
+[0:54:16] There's a lot of wins, but we had to limit it to
+[0:54:19] one slide, and I really appreciate Director DePass and your focus on
+[0:54:24] talking about wins every time.
+[0:54:26] Uh, we'll then do— I'll talk a little bit about what we
+[0:54:30] did from a school readiness perspective so you can have an idea
+[0:54:33] about our process and our findings.
+[0:54:36] We'll actually do a school-by-school review on the schools that we actually
+[0:54:40] walked, um, because I think this speaks to the, the question from
+[0:54:45] one of, um, the parents regarding some inconsistencies in data.
+[0:54:50] That, that's one of the, the reasons why we went out and
+[0:54:53] walked. Because we had to verify the information.
+[0:54:57] Yeah, I hear this a lot, like, well, there's not enough height,
+[0:55:00] there's not enough classrooms at that other school.
+[0:55:03] Did you walk the school, or— I mean, I don't know how
+[0:55:05] people are getting the information, but—.
+[0:55:07] Yes, so we had— and we'll talk through that, but we had
+[0:55:10] teams, um, you know, once the scenario is released, we prioritize, and
+[0:55:16] we actually walked spaces, uh, with members or department members from each
+[0:55:21] department within operations, and that includes facilities and maintenance, RISE, technology, Technology,
+[0:55:25] transportation, safety and security. It was quite a push, but we had
+[0:55:31] to verify it. Also special ed, apparently there's a multiplier for, you
+[0:55:36] know, 100 by 100 room, but if you have special ed facilities,
+[0:55:39] there's a little bit more.
+[0:55:40] I'm not an expert on that, but—.
+[0:55:42] No, and I appreciate that, and that actually will come up, and
+[0:55:44] this is why, um, you know, Chief, uh, D'Uno was up here,
+[0:55:48] and we could talk very specific too.
+[0:55:50] And actually, when we run through the slides you'll see, you know,
+[0:55:54] the various categories, and special education is a part of that to
+[0:55:57] make sure we're very cognizant of, um, you know, because we could
+[0:56:01] always say from a facilities perspective that, you know, we're ready to
+[0:56:05] roll. At the same time, then it amounts to programming, and special
+[0:56:09] education is obviously a huge part of that.
+[0:56:11] Yeah, yeah. I, I would love to know more about, um, you
+[0:56:14] know, there is a building that's 1,500 square feet, and how are
+[0:56:18] we— what's the methodology we're using to determine what the space needs
+[0:56:22] are. Yes, yes, we will walk through that.
+[0:56:25] So we'll do a school-by-school review, and then we'll confirm readiness, and
+[0:56:28] then just outline some next steps about where we go from here.
+[0:56:33] Thank you. Okay, Joanna, you want to take this one?
+[0:56:39] Let's start out with those departmental wins.
+[0:56:42] Um, so Idyllwhee Wells, uh, we finally have the land use approval
+[0:56:46] for that, so Yay! Yay!
+[0:56:48] We've been through a couple appeals and finally have that approval.
+[0:56:52] Uh, Graysidair put out the, uh, proposal request for CMGC firms and
+[0:56:59] had 6 responses, which is twice the number of historical, uh, response—
+[0:57:04] participant responses to a CMGC proposal.
+[0:57:07] So that was exciting. Excellent.
+[0:57:10] All of our roofing projects from the summer and closeout, including Vestal,
+[0:57:13] Chavez, Marshall, the first Bays and Woodmere.
+[0:57:18] We have issued our Beverly Cleary seismic retrofit, is in for its
+[0:57:24] permit, and the contractor RFP has been issued for that.
+[0:57:28] And then we have also issued contractor RFPs for Richmond, Ainsworth, and
+[0:57:34] Kelly seismic retrofits, which we expect back mid-December.
+[0:57:39] Excellent, thank you. Um, I think the bullet point that's the most
+[0:57:43] interesting is that we had 6 responses, um, for Grice Adair.
+[0:57:48] Yeah, I think there's a lot—.
+[0:57:49] Which seems very high. A lot of passion, um, for that project,
+[0:57:52] and so I think there were a lot of people in this
+[0:57:54] community who wanted to be a part of that.
+[0:57:57] Did you hear that in the, in the proposals, that people were—
+[0:58:01] there was some mission behind responsive— responding to the RFP?
+[0:58:06] Some—. What a mission. In other words, you know, we are from
+[0:58:09] this community, we believe in what this is.
+[0:58:11] Yes, that was definitely seen in those proposal responses.
+[0:58:15] It's really cool. And I think it also speaks to the level
+[0:58:18] of, um, relationships that we're trying to build up with our contract.
+[0:58:21] I think that's really important to note because I asked the exact
+[0:58:23] same question about, boy, if you think about when we went out
+[0:58:27] for our modernizations and we didn't get the level of response, but
+[0:58:30] we got a significant increase here.
+[0:58:32] So that's been a concerted effort in terms of building those relationships
+[0:58:36] with our contractors in our community.
+[0:58:38] Yeah, it does say a lot about, um, just our reputation.
+[0:58:42] I mean, for people to come— 6, uh, general contractors to come
+[0:58:47] forth is— it just seems like a lot.
+[0:58:49] So it's really good. Yes, thanks for reporting that.
+[0:58:52] If we're doing— if we're doing comments on each slide, or are
+[0:58:56] we going to just roll through?
+[0:58:58] Because I have comments on that slide, but I, I want to
+[0:59:00] just roll through instead of just—.
+[0:59:02] Why don't you go ahead and make a comment?
+[0:59:03] Okay, we can. Thank you.
+[0:59:04] I can't help but I hate to point it out.
+[0:59:08] I can't help but notice that Woodmere is on here as a
+[0:59:10] roofing project that we've spent bond money on and are now looking
+[0:59:14] at closing, and that the work started in the summertime.
+[0:59:19] And I have to speak on behalf of the Woodmere families who
+[0:59:22] are now still experiencing work that didn't finish in time, and they
+[0:59:26] are feeling that they are going to have all of the, quote,
+[0:59:29] garbage— is how they put it— garbage from the from the construction
+[0:59:32] without any of the benefits.
+[0:59:34] And so I just, you know, I see on here that, um,
+[0:59:39] communities are noticing that we spent money on Marysville and now we
+[0:59:41] are looking to close them.
+[0:59:42] And so I, I don't consider that necessarily a departmental win if
+[0:59:45] we have spent bond money on a, on a building that we
+[0:59:48] are now going to look to do something different other than teach
+[0:59:52] our students in. So sorry.
+[0:59:53] Yeah, no, I appreciate that.
+[0:59:54] If I could just, just real quickly respond, I think the reality
+[0:59:58] is is that, um, with our aging infrastructure, with what we've had,
+[1:00:03] and then since 2012, we've had to upgrade every single facility.
+[1:00:07] And that's just a reality, right?
+[1:00:09] We have over a billion dollars in deferred maintenance.
+[1:00:11] And so, uh, we are, are, are— we have to keep our
+[1:00:15] kids and our staff warm, safe, and dry.
+[1:00:17] And so the reality is any building, even on ones that are
+[1:00:21] proposed for closure, have had some level of facility upgrade.
+[1:00:25] And I've, and I've been really clear about this, is that yes,
+[1:00:28] we are very cognizant of upgrades.
+[1:00:30] At the same time, our driver has always been our guiding principles
+[1:00:35] with the board, and then also with the, the key performance indicators.
+[1:00:40] And so, but we're also very— as you'll see in the seismic
+[1:00:42] presentation, we're very cognizant of schools like Marysville who've had been fully
+[1:00:48] seismic retrofitted and where they potentially could be going.
+[1:00:51] And then potential improvements that we would look to make.
+[1:00:53] So it is definitely something at the forefront.
+[1:00:56] But I'll give you an example.
+[1:00:57] You know, we've had 51 buildings that have been either fully retrofitted
+[1:01:02] or targeted retrofitted since 2012, right?
+[1:01:05] And so we can't just come out and say we're not going
+[1:01:08] to— we can't put buildings potentially on the closure list if they
+[1:01:12] have some level of upgrade, because all of them have.
+[1:01:16] Thank you. I think for me the difference specifically is that the
+[1:01:19] work is actively going on and started, I think, since this right-sizing
+[1:01:22] conversation started. Started versus some of the other work that has been
+[1:01:25] completed well before. That's, that's the disconnect that I see.
+[1:01:29] No, I get it. And, and mind you, and I think it's
+[1:01:31] important to note that we started this work in the summer and
+[1:01:34] we didn't release the lists until in the fall, and right until
+[1:01:38] later early fall. So I just want to make sure that we're
+[1:01:42] cognizant of the timeline. I'm just—.
+[1:01:44] I think with a roof also, you want to maintain the roofs
+[1:01:48] even in a building that's not occupied, especially for seismic.
+[1:01:54] Even if a building is abandoned, you— we're still responsible for maintaining
+[1:01:57] the roof and keeping it dry inside.
+[1:02:01] Yes, I agree. Thank you.
+[1:02:04] Any, any other questions? Director?
+[1:02:06] Okay. Frank, you want to take this one?
+[1:02:10] So our purpose here, we're going to review our processes for determining
+[1:02:16] the facility's readiness. We're going to walk through facilities readiness of the
+[1:02:19] schools receiving the highest number of students, and then we will model
+[1:02:25] Scenario A and B and discuss what a potential seismic plan would
+[1:02:29] look like. Okay, so I wanted to talk just real quick about
+[1:02:37] this. This talks— this speaks to our process.
+[1:02:39] So when initially assessing a school's readiness to welcome students, this was
+[1:02:45] initially Right, is we looked at a building's functional capacity, the current
+[1:02:51] utilization rates, and the number of work orders received from each building.
+[1:02:56] Given the sensitivity around this piece, we, we did not walk through
+[1:03:01] buildings until the, the scenarios were released.
+[1:03:05] I think that's— and so we use this initial data as an
+[1:03:08] initial assessment. So we utilize our data from our facilities teams who—
+[1:03:14] and Frank is a big part of that, and his team knows
+[1:03:16] distinctly about how our schools are from a facilities perspective in regards
+[1:03:22] to improvements. We pulled data from TriRega, which shows the number of
+[1:03:26] classrooms currently being used and for what purpose.
+[1:03:30] Uh, also too, in June, uh, we brought principals in to look
+[1:03:35] at their school's floor plan and then also provide feedback on how
+[1:03:39] they were using those spaces, because it does speak to, again, from
+[1:03:42] a facilities and operations or maintenance perspective, like, we could have everything
+[1:03:47] on a floor plan, but we really needed to gauge or gain
+[1:03:51] that input and feedback from principals.
+[1:03:53] And then when scenarios were released, our teams comprised of facilities, maintenance,
+[1:04:00] RISE, safety and security, IT, nutrition, and transportation did in-person walkthroughs with
+[1:04:06] principals and other staff of 21 buildings.
+[1:04:10] Set to experience the highest number of student increase.
+[1:04:12] And I just want to make sure that we understand that we,
+[1:04:14] we did prioritize, um, schools that were set to receive the largest
+[1:04:19] number of students and say there were questions regarding functional capacity, because
+[1:04:26] gross capacity is one thing, functional capacity is another.
+[1:04:29] Gross capacity is, is basically a building can legally hold all the
+[1:04:34] students that they're expected to receive Functional capacity takes into account specials.
+[1:04:40] They take in special education, right?
+[1:04:41] They take in programs like PE and arts and all those types
+[1:04:45] of things. And that really is where not only the team from
+[1:04:49] an operations perspective, but the principal plays a large role in ultimately
+[1:04:53] determine— determining can program work within that particular school.
+[1:04:58] So this just outlines a little bit in regards to our process
+[1:05:03] on how we determine what schools to go into.
+[1:05:08] So this is just a slide to— that speaks to— I mean,
+[1:05:11] you talk to, to this director [DePass].
+[1:05:15] Um, so classroom capacity. So classrooms must be at least 500 square
+[1:05:18] feet. Uh, and so, and, and I want, I want to say
+[1:05:22] this, like, these are planning assumptions.
+[1:05:24] They're not class size minimums or maximums, but these are things that
+[1:05:28] we we take into account within our planning.
+[1:05:31] So 24 students, for example, um, can fit into 500, 800 square
+[1:05:36] feet. You bump that up to 27, it's 800 to 1,000 square
+[1:05:40] feet, and then 30 students for the larger classrooms.
+[1:05:43] Enrichment and electives— if you think about K-5 and K-8, those calculations,
+[1:05:47] they don't include gyms and 1 or 2 art music rooms based
+[1:05:51] on enrollment. Middle and high school calculations, they use lower utilization assumptions
+[1:05:57] to account for rotating schedules and specialized instructional spaces.
+[1:06:01] So there is a difference there between grade levels when calculating utilization
+[1:06:06] rates. And this kind of speaks to what you're talking about, Director
+[1:06:10] DePass, and I'm going to have Jay kind of chime in here
+[1:06:13] in regards to special edu— special education classrooms.
+[1:06:17] They are intentionally protected. So special education classrooms, they're set aside from
+[1:06:22] the general instructional functional capacity So they are not assumed to be
+[1:06:27] available for other classroom use.
+[1:06:30] The model includes specialized program classrooms and learning centers in, in K-5
+[1:06:35] and K-8, and classrooms used for students who receive specialized instruction for
+[1:06:41] most of the school day.
+[1:06:43] The capacity in these rooms, we try to, to limit them to
+[1:06:46] 12 students. I don't know, Jay, if you want to chime in
+[1:06:49] here. Yeah. So thank you.
+[1:06:52] Um, so when we're looking at, uh, utilization for special education, or
+[1:06:57] specifically special education programs, um, so we call them specialized focus classrooms,
+[1:07:03] um, we are— we, in addition to what Dr.
+[1:07:05] Franco described, which is, is, is a set-aside process, we are also
+[1:07:09] looking at, um, what is the programming that's being provided.
+[1:07:13] And, and so consequently, when we are talking about perhaps, uh, a
+[1:07:18] uh, social-emotional skills classroom. Not only is it— are we looking at,
+[1:07:23] um, having a, a K-2 grade band and a 3-5 grade band,
+[1:07:27] or just a K-5 grade band, but we're also thinking about what
+[1:07:31] regulation space is, is needed.
+[1:07:33] And so, um, in the models, when we go through and identified,
+[1:07:37] for example, that, um, a social-emotional skills classroom might be needed or
+[1:07:42] moved there, we're also looking at we need a regulation space.
+[1:07:45] Um, and so quiet space to sort of calm down, basically.
+[1:07:50] But yeah, yes. Uh, and then the same thing's true for our
+[1:07:55] communication behavior classes or intensive skills classrooms.
+[1:07:58] It— those— in those particular instances, we're not looking at regulation spaces,
+[1:08:04] but we're looking at what we call a sensory space.
+[1:08:06] And so you really— when we're looking at special ed space for
+[1:08:09] focus classrooms, we're looking at whatever that grade band is which is
+[1:08:13] typically serving around 9 to 13 students, so around 12, uh, with
+[1:08:18] 1 adult and 3 paraeducators in that space.
+[1:08:22] But then we're also looking at what is the additional space we
+[1:08:25] need, which in, in these 2 scenarios are sensory spaces or regulation
+[1:08:28] spaces. And so, so with the model and what you'll, you'll see
+[1:08:33] in the recommendations or the proposals, I guess, is, um, that'll include
+[1:08:37] those. Also, then in addition to that, we also have other service
+[1:08:42] providers in special education that push into these classrooms.
+[1:08:46] They push into these classrooms and they push into general education classrooms,
+[1:08:50] and those are like school psychologists, SLPs, QMHPs.
+[1:08:56] Those, those staff don't have or require classrooms, but they do require
+[1:09:01] workspaces. And so That's not particularly outlined here, but that is part
+[1:09:07] of our planning as we move forward, is ensuring those staff have
+[1:09:11] space to work with kids.
+[1:09:12] Um, so psychologists would have— if there's one in every building, or
+[1:09:16] 0.5 in every building, there would be an office dedicated or some
+[1:09:21] square footage? Yeah, it looks a little different in every school depending
+[1:09:24] upon the school's overall usage right now.
+[1:09:26] Sometimes those folks have a whole classroom right now, sometimes they have
+[1:09:29] an office. We also have flexible learning spaces which are bigger in
+[1:09:34] offices, smaller in classrooms that, that folks use.
+[1:09:38] But, but those are all the things that we consider and, and
+[1:09:41] go into what space is needed in the recommendations that you'll see
+[1:09:45] here, um, also, um, tomorrow.
+[1:09:48] Uh, the other component, um, and the thing I didn't describe is
+[1:09:52] we have schools that are implementing what we call the inclusive schools
+[1:09:55] model. Um, now what the recommendation is, and we have program guides
+[1:10:00] for all of this that defines this is an SES program, this
+[1:10:03] is an ISC program, this is a CBE program.
+[1:10:06] We also have recommendations for this is what inclusive school communities looks
+[1:10:10] like, and the recommendations for that is one flexible learning environment for
+[1:10:14] K-2 and one for 3-5 for a fully enrolled school.
+[1:10:19] Um, and, and so these specific spaces and models consider and, and,
+[1:10:26] and include that. And so we want to ensure that our students
+[1:10:30] with disabilities have learning spaces and our staff have what they need
+[1:10:34] to serve them. Thank you.
+[1:10:36] Learned something today. Okay, okay.
+[1:10:41] So, um, and I'm curious how you want to go about this
+[1:10:45] because we have 21, uh, slides Uh, for each school.
+[1:10:51] So, um, and so, and just so you know, just give you
+[1:10:54] some context, so we've denoted, uh, a red, yellow, green.
+[1:11:00] And if I go, um, specific to like this next slide with
+[1:11:03] [Abernethy], this will give you an idea of what we did for
+[1:11:07] the 21 sites. And so, um, if you could see the green
+[1:11:11] dot at the very top, overall This means from our facilities perspective,
+[1:11:18] and also these were walkthroughs that we conducted with the principal, we
+[1:11:22] would say that we are good to go in terms of readiness.
+[1:11:24] And you could see we have safety and security, we have nutrition
+[1:11:29] services, transportation, and special education.
+[1:11:33] We also have at the very top, and this is a consistent
+[1:11:37] template, so urgent improvement, for example For [Abernethy], nutrition services additions for
+[1:11:44] kitchens, and it gives the amount.
+[1:11:47] So when it's listed under urgent improvement, we would say those things
+[1:11:50] have to be done before kids move in, right?
+[1:11:53] And the same thing for like additional Wi-Fi coverage, that is very
+[1:11:56] specific to the portables, right?
+[1:12:00] If it says needed improvement that does not affect school readiness, that's
+[1:12:03] exactly what it means. It, it's, it's something that we would like
+[1:12:07] to do moving forward But in terms of readiness, that the kids
+[1:12:13] are— or the school is ready to receive kids, that's not a
+[1:12:16] barrier. And then accessibility, we wanted to talk very specifically to, and
+[1:12:21] we have an ADA slide when we talk about accessibility, because many
+[1:12:25] of— again, we're talking about many of our buildings are older buildings
+[1:12:28] and not everybody has an elevator.
+[1:12:30] But accessibility, the first floor is accessible, right, to every student.
+[1:12:34] Yes, so the bathrooms on the first floor, there's, there's a ramping—
+[1:12:38] if there's stairs, there's ramping up to the first floor.
+[1:12:41] The, um, turning radius in the bathrooms are complete, and the classroom
+[1:12:47] doors, I mean, they're all correct.
+[1:12:49] So if you take a look— yeah, so if you take a
+[1:12:51] look here to— I wish I had a pointer, but if you
+[1:12:54] take a look there where it says classroom use, you know, 1
+[1:12:58] special education classroom and 21 classrooms, that's the total amount within the
+[1:13:02] building. And if you go back to the accessibility bullet, it's 11
+[1:13:07] accessible classrooms because they don't have an elevator.
+[1:13:10] So if you have to think on the second floor, right, if
+[1:13:13] you have a student comes in who needs— who's in a wheelchair
+[1:13:18] or something along those lines, obviously from a programming perspective as a
+[1:13:22] principal, I would say, okay, so I'm gonna make sure that they
+[1:13:26] have accessibility to that first floor, and I'm not, say, offering, say,
+[1:13:30] if if this was a middle school, an elective opportunity on the
+[1:13:32] second floor, right? Yes. So that's what I'm talking about in regards
+[1:13:35] to programming. And so what we did is, as you can see,
+[1:13:40] and this is just a template, so we feel like, for example,
+[1:13:43] [Abernethy] is ready. There are things that we're planning to address from
+[1:13:48] a nutrition services perspective in the summer of 2027 in order, in
+[1:13:54] order to be ready to roll in the fall of Excellent.
+[1:13:58] Before anyone worries that [Abernethy] had 80 extra students, the 2 modulars
+[1:14:03] have since been taken down, and so that's why they were taken
+[1:14:07] down like a year ago.
+[1:14:08] Yes, thank you. And then also, um, if you take a look,
+[1:14:12] I thought it was important data, or we thought it was important
+[1:14:14] data. So the functional capacity, you could see there on the left,
+[1:14:18] right? Remember, it's— that's different than gross capacity.
+[1:14:20] That takes into account the programming and those types of things, and
+[1:14:24] that can be adjusted depending on, you know, input and feedback and
+[1:14:28] how programming is offered. The peak enrollment— again, and I will say
+[1:14:33] that this is based on scenarios A and B, right, because the
+[1:14:36] recommendation has not come out yet— the peak enrollment will be in,
+[1:14:40] in 2029 at 369 kids.
+[1:14:44] And just for a point of reference, the largest historic enrollment At
+[1:14:49] [Abernethy] was 528. So we think that that's a really good data
+[1:14:54] point for us to noodle on.
+[1:14:56] And so this is— I'm assuming you don't want me to do
+[1:15:00] this level of detail for each slide, but—.
+[1:15:02] I wonder if we could— it's interesting.
+[1:15:05] I love that that's a template that we can follow if we
+[1:15:07] can kind of do it at a glance, because this is all
+[1:15:10] available if people actually want to read it themselves.
+[1:15:14] And so if you could maybe spend a minute on— a minute
+[1:15:16] or 2 on each slide, if that's Yes, that sounds great.
+[1:15:20] Really good information. I love the red, yellow, uh, green.
+[1:15:23] It's helpful. Okay, so we'll move on to our LIDA, and I'll
+[1:15:29] just give you an opportunity to kind of read through there.
+[1:15:31] Really, the only— it's, it's ready from our opinion, and the only
+[1:15:36] piece there is, you know, Frank, you could jump in there if
+[1:15:38] you— if need be. We thought that we could highlight or talk
+[1:15:42] just real quickly about what we've noted in yellow.
+[1:15:45] Yeah, absolutely. So all of our schools now, we are obviously cooking
+[1:15:50] and preparing and serving food to our students.
+[1:15:52] In an ideal world, with the increase in students, I use the
+[1:15:56] analogy of, you know, most of us are accustomed to cooking for,
+[1:16:00] you know, ourselves and a couple kids maybe.
+[1:16:03] If you doubled that every single night, could you do it?
+[1:16:05] You could probably do it.
+[1:16:07] You could do it a lot better if you had additional equipment.
+[1:16:10] Mhm. Um, and so the team and I went through and we
+[1:16:12] really looked at what do we need to make sure that this
+[1:16:15] goes off, that this happens without any hitches.
+[1:16:19] So that's what we're talking about with things like an additional double
+[1:16:22] oven and a warming cabinet.
+[1:16:24] Preparing additional food without adding additional staff is making sure that we're
+[1:16:28] able to prepare food, keep it warm and safe at appropriate temperatures,
+[1:16:32] and so that it's ready to serve when the students come through.
+[1:16:36] Thank you, Frank. I'll note one more thing.
+[1:16:39] Um, we also, for the receiving schools, we have some planned future
+[1:16:43] investments already in planning before we even had the right-sizing discussion, and
+[1:16:49] so those are noted at the bottom as well.
+[1:16:52] Excellent. Okay, so we'll move on to Boise.
+[1:16:56] Everything here is green. We feel like we are ready to go
+[1:17:01] for Boise. Capitol Hill, and you'll see some consistent threads in regards
+[1:17:07] to nutrition services. Um, it's very comparable to what Frank mentioned last
+[1:17:13] time with [Abernethy], and those are expected improvements that we'll make in
+[1:17:18] the summer 2027 to be ready.
+[1:17:23] Cesar Chavez, you could see here again, same pieces here.
+[1:17:29] In terms of the warming cabinet, um, being ready to roll in
+[1:17:33] that upgrade will take place in summer of 2027.
+[1:17:37] Uh, Chief Joseph, you could see again pretty consistent there in terms
+[1:17:43] of a warming cabinet. And, and if you need me to pause
+[1:17:48] or anything, I, I can as well to talk through the team
+[1:17:50] is ready. Uh, same thing for [Duniway].
+[1:17:53] Thank you. Uh, George. George is one I think we'll just spend
+[1:17:59] a little bit of time here in regards to George.
+[1:18:02] So you could see there from a safety, security, transportation, um, and,
+[1:18:07] and special education, we've noted, um, that they are green and ready.
+[1:18:15] The piece that we're working through, and I see Amy in, in,
+[1:18:18] in, in the in the crowd there, and I've had many a
+[1:18:21] conversation with Amy as, as our team.
+[1:18:24] I think the piece here with George that we have to be
+[1:18:27] really cognizant, and we're being very objective here, is that, um, with
+[1:18:32] the level of enrollment they're set to receive, from a functional capacity
+[1:18:36] perspective, facilities perspective, we say that they can all fit.
+[1:18:41] The issue with George is, is PE, and in order to meet
+[1:18:44] the required 3/4 of PE They have a tight gym, and we
+[1:18:50] are slated for an outdoor play structure to be started and completed
+[1:18:56] during the summer of 2028.
+[1:18:59] But that is something, in order to offer, in order to be
+[1:19:01] able to do the 3 quarters of PE, that's something we need
+[1:19:04] to address, right, moving forward.
+[1:19:06] So we did list this, list this as not yet ready to
+[1:19:11] receive. Um, unless we can, um, reduce the number of kids that
+[1:19:18] are going. Um, so this goes into that phase-in level of approach
+[1:19:23] or any level of adjust— because, because this information feeds into the
+[1:19:28] level of recommendation that will come about.
+[1:19:30] And so from a data and modeling perspective, like, can we reduce
+[1:19:35] the number of kids that are going through a phase-in approach or
+[1:19:38] something along those lines. But I'm just— we're just flagging this from
+[1:19:42] a facilities and maintenance perspective that PE is, is, um, something we're
+[1:19:47] going to have to address.
+[1:19:53] We are ready to roll here.
+[1:19:55] You could see very similar, the double ovens, the warming cabinet.
+[1:19:59] We feel that we are ready to go here.
+[1:20:06] I do want to point out a clarification because it was initially
+[1:20:09] the largest historic enrollment was not 650, it's actually 499 because Odyssey
+[1:20:18] was in a sense counted with Hayhurst.
+[1:20:21] Yeah. And so we made that adjustment to 499.
+[1:20:25] But even with that being said, you know, we have walked the
+[1:20:29] building. Nutrition services, again, a common theme is making sure that we
+[1:20:35] address some facilities improvements in regards to nutrition services.
+[1:20:40] But we feel, uh, Hayhurst from a facilities perspective is ready.
+[1:20:48] Uh, Hosford, I'm gonna have, um, as you can see, nutrition services.
+[1:20:52] I do want Brandon to chime in here because we did note
+[1:20:55] this is our first yellow in regards to transportation, and note that
+[1:20:58] yellow is conditionally ready, improvements are needed.
+[1:21:02] But Brandon, maybe you could talk real quick about transportation.
+[1:21:06] Yeah, so, uh, with Hosford, the, the amount of busing we already
+[1:21:11] have there is pretty full on the north end, and depending on
+[1:21:15] the year and the amount of SPED ridership there, we also utilize
+[1:21:19] the parking lot. Parents utilize the east side.
+[1:21:23] Those roads are very tight, and the estimated capacity— we are going
+[1:21:29] to fill up that east side road as well.
+[1:21:31] So it would be very tight with a lot of large buses
+[1:21:35] and no access for parents.
+[1:21:37] It all depends on the amount of buses that actually happen.
+[1:21:39] So that's why it's a yellow and not a red.
+[1:21:41] It doesn't mean it can't happen.
+[1:21:42] It just means there's— we've got to get very creative with the
+[1:21:45] city. And I'm going to pause here and say my kids are
+[1:21:50] at Hosford, so I'm like, my eyes are going up because I
+[1:21:53] just did swim team bag exchange on that east side.
+[1:21:58] And buses drive down it to turn east or west on Division
+[1:22:02] to get kids home. Uh, it's already very quite dangerous with kids.
+[1:22:07] There's a teacher who works on the crossing guard area, but these
+[1:22:13] are middle schoolers and they don't often always look for the adult
+[1:22:18] to help them cross the road because they know better.
+[1:22:20] And, uh, yeah, it's it's a very, very full setup.
+[1:22:25] Yeah, it definitely is the situation.
+[1:22:27] I would also say our Safe Routes to School coordinator has gone
+[1:22:31] and reviewed these sites as well and will be working with, uh,
+[1:22:35] schools, incoming schools, all schools, but incoming schools especially, to help build
+[1:22:39] new traffic flow plans and things like that with those teams too.
+[1:22:42] It's not noted up here though.
+[1:22:43] Thank you. Can I ask you a question?
+[1:22:44] I, I have a— I'll go back when we get there, but
+[1:22:46] since we're pausing on Hosford, you have 28 classrooms and 5 bed
+[1:22:51] classrooms for a total of 33, but on the long-range facility plan,
+[1:22:56] Hosford has 32 classrooms, so I'm— and zero modulars.
+[1:23:01] So I'm just curious where that extra— what is that extra one?
+[1:23:07] If you don't know now, but maybe you can let me know.
+[1:23:10] I can go back and check.
+[1:23:11] I, I did have some typos on a couple of these.
+[1:23:14] Um, yeah, I can go back and look Okay, we'll make note
+[1:23:20] of that. Thanks, Director Engelsman.
+[1:23:24] Okay, so, so Markham is another one we have, we have outlined
+[1:23:30] this as not yet ready.
+[1:23:31] There's significant barriers very specific to transportation, and so I'm going to
+[1:23:37] call on Brandon again to kind of talk through this, this one.
+[1:23:41] Yeah, so Markham is uniquely situated between many very busy roads.
+[1:23:47] And so there's a lot of hazard boundary in that area.
+[1:23:49] We do a lot of busing.
+[1:23:51] And the, uh, even right now, the flow into that building with
+[1:23:55] parents and buses is tight.
+[1:23:58] And it, um, Tranice out there does a fantastic job running a
+[1:24:02] tight ship. Um, good friends with her.
+[1:24:05] Yeah. But, uh, the increase in numbers would make it so we
+[1:24:09] would be backing up down Capitol Um, there is, uh, idea of
+[1:24:16] running around the building and changing the traffic flow pattern, but that
+[1:24:19] would require working with the city and actually working with a traffic
+[1:24:23] engineer to change the signal as well.
+[1:24:27] The frontage of the property is not something we can utilize because
+[1:24:30] they've put the bike lane in.
+[1:24:32] Right, and then they have that little driveway that you can kind
+[1:24:35] of go around. It's an awkward spot.
+[1:24:38] Yeah, we have been able to put buses 2-wide in there.
+[1:24:41] It doesn't work well, so we've actually stopped doing that.
+[1:24:45] But going around the building, there is enough room.
+[1:24:48] It would require putting a small pathway on the— was that the
+[1:24:52] south side of the building?
+[1:24:54] It's on the south. Yeah, that's the, the one area that's not
+[1:24:57] connected. Other than that, it's fully around the building, and it would
+[1:24:59] actually put our kids on site, families separated from the buses, which
+[1:25:04] is always Uh, what I would like to strive for.
+[1:25:07] Yes, makes perfect sense. And so is that, is that a we
+[1:25:13] will do or a thought?
+[1:25:15] Because obviously backing up on Capitol Hill, there's a lot of problems
+[1:25:19] with it. Most importantly, there's kids who are going to be late
+[1:25:22] to school, missing instructional time.
+[1:25:23] Yep. Um, so are we going to just— I mean, that sounds
+[1:25:27] like a great—. So this is just us reviewing the site of
+[1:25:32] its readiness. This. At that point, it becomes a, are we moving
+[1:25:37] forward with this as the recommendation, and what does that take?
+[1:25:40] Got it. Thanks. Can I answer that?
+[1:25:41] I was just sitting here thinking that we're probably going to get
+[1:25:44] another round of thousands of emails referencing the presentations and the materials.
+[1:25:51] And so I think just so you all know, the work that
+[1:25:55] the teams have been doing, and I know this is specific strictly
+[1:25:58] on facilities, but we also have that happening with instructional continuity, specialized
+[1:26:05] programming for DLI and for students receiving special services.
+[1:26:10] And so in order for the— to make the superintendent recommendation list,
+[1:26:17] if you will, there are several readiness factors that have to be
+[1:26:21] met either for '27-'28 or for '28-'29.
+[1:26:26] And so I just, I just want to flag that, like, all
+[1:26:30] these pieces will come together for you at the end of the
+[1:26:33] week and be informational when you get the final packet, which is
+[1:26:39] going to be over, well over 50, 60, 70 pages of data
+[1:26:44] and information that we've been collecting alongside the qualitative data that's been
+[1:26:51] shared throughout the last 6 weeks.
+[1:26:53] Thank you. So this was the way the process was designed, um,
+[1:26:56] and so that's— I just wanted to reference before all the emails
+[1:27:00] start coming in. We know this, we're in this, we're referencing this,
+[1:27:05] and it will inform the final recommendation.
+[1:27:10] Great. Can I ask, Ms.
+[1:27:11] Powell, are you able to move that text box so we can
+[1:27:14] see the color of the circle for special ed?
+[1:27:16] Is that possible? Like, can we stick it up in the blue
+[1:27:17] up top or something? Let me go talk.
+[1:27:20] That's Terry Proctor who's making that happen.
+[1:27:22] Thank you, Terry. Okay, so we will move to MLC.
+[1:27:28] So very similar, we feel MLC is ready aside from what's there
+[1:27:35] in nutrition services earmarked with the yellow.
+[1:27:40] Mount Tabor is very similar.
+[1:27:45] You could see that piece there.
+[1:27:50] Akeley Green is also, again, no issues aside from the warming cabinets
+[1:27:56] within nutrition services. [Rigler] as well, you could see that a warming
+[1:28:07] cabinet may need an additional cooler.
+[1:28:10] The cafeteria is incredibly tight.
+[1:28:11] We'll need detailed scheduling the principal to accommodate.
+[1:28:14] So that talks to the programming piece of things.
+[1:28:20] Rosa Parks is, um, again very similar here in regards to Rosa
+[1:28:26] Parks. And I'm just speeding through these.
+[1:28:29] I hope you're okay with it.
+[1:28:30] That's perfect. Um, Sitton, uh, very similar— double ovens, warming cabinet, dishwasher.
+[1:28:44] Uh, Vestal is also, uh, very similar as well.
+[1:28:49] Double ovens would need additional tables.
+[1:28:52] Again, all set to complete if the recommendation goes through in the
+[1:28:56] summer. And then Whitman is our Last one, and you can see
+[1:29:05] there we are ready to go.
+[1:29:08] And again, these are pieces too, because if you may, is that
+[1:29:11] when you're— again, when you're talking about gross capacity versus functional capacity,
+[1:29:15] this is where the walks are very helpful in coming into play,
+[1:29:18] is can we actually fit the kids, number one?
+[1:29:21] And yes, we can. And can the programming work, number two?
+[1:29:25] And yes, it can. So this is— just wanted to just, uh,
+[1:29:33] talk just real quick about ADA and accessibility.
+[1:29:36] I mentioned this a little earlier, is that, um, in a nutshell,
+[1:29:42] if you look at that 4th bullet, all of our campuses are
+[1:29:44] ADA accessible to the main floor.
+[1:29:46] I think that's really important to note because there's been questions about
+[1:29:51] elevators and kind of those types of things to the main floor.
+[1:29:54] And some of our buildings do have elevators, but we don't— but
+[1:29:56] quite a few don't. But it goes— speaks to they're all accessible
+[1:30:00] classrooms and spaces to the main floor.
+[1:30:03] So it does speak to if you have multiple stories or multiple
+[1:30:08] floors and you don't have an elevator, you just have to be
+[1:30:11] cognizant of how you're then you're offering your programming so all of
+[1:30:15] our kids have access. Okay, so I'm going to go ahead and
+[1:30:22] call up, um, Jennifer Eggers, who can— there's an extra chair there.
+[1:30:27] Jennifer can talk to— again, this is based on Scenario A and
+[1:30:30] B. Um, potential plans for seismic on Scenario A and Scenario B.
+[1:30:41] Hi everybody, can you hear me okay?
+[1:30:43] We can, thank you. Okay, great, thank you, thank you for having
+[1:30:45] me. Um, yes, so I will talk through, um, Scenario A and
+[1:30:50] the option that we go with Scenario A.
+[1:30:53] There are seismic funds for Rose City Park park and beach that
+[1:30:57] will be reallocated, um, to a number of different schools.
+[1:31:02] Um, so these were selected based on, uh, prioritizing upgrades for campuses
+[1:31:06] receiving schools and also highest risk building parts or elements in the
+[1:31:10] district, all to fit within the budget, um, available to reallocate.
+[1:31:16] So I'll just go through these real quick.
+[1:31:18] Um, so if at [Abernethy] we have a load-bearing unreinforced masonry wall
+[1:31:23] in the gymnasium, so we would like to address that high-risk element.
+[1:31:27] At Arlita, we would like to upgrade Building Part A.
+[1:31:31] Brentwood, upgrade Building Part D.
+[1:31:35] [Duniway], upgrade a load-bearing unreinforced masonry wall in Building Part D and
+[1:31:40] also improve the cafeteria connections to the diaphragm.
+[1:31:45] At Hosford, upgrade the cafeteria building, which is Building Part B.
+[1:31:51] Markham, there are 3 sections of load-bearing URM walls spread throughout the
+[1:31:58] building, so we would like to address those load-bearing unreinforced masonry walls.
+[1:32:03] At Rigler, very similar to Vernon, we have a load-bearing unreinforced masonry
+[1:32:10] wall in the gymnasium and also another one in a different part
+[1:32:15] of the building that we would like to address.
+[1:32:17] Um, at Reekie, we would like to address Building Parts A, B,
+[1:32:22] and C. Um, B and C are, um, connected.
+[1:32:27] Um, Building Part B is the, um, gymnasium, and we're also applying
+[1:32:33] for an SRGP grant for Reekie, which is currently in progress for
+[1:32:37] Building Parts B and C.
+[1:32:39] And again, that's the Seismic Rehabilitation Grant Program put on by the
+[1:32:43] State of Oregon. Whitman, we would propose to upgrade building part A,
+[1:32:50] which is a reinforced masonry portion of that campus.
+[1:32:54] So for Scenario B, with Beach seismic funding being able to reallocate
+[1:33:01] to— we would reallocate that to both [Duniway] and Reekie for the
+[1:33:05] same building elements just discussed.
+[1:33:09] Yeah, go for it. Um, we also took a moment and took
+[1:33:16] a step back and looked at district-wide, um, scores.
+[1:33:20] So, um, these were not provided before because the original seismic assessment
+[1:33:26] excluded new builds and recent retrofits for scoring, um, but what we
+[1:33:31] did was we assigned placeholder scores for these, um, So a new
+[1:33:36] build was given a score of 1.5, a retrofit for risk category,
+[1:33:40] uh, 4, so if it's funded by a grant, was given a
+[1:33:43] score of 3, um, a retrofit for risk category 3 was given
+[1:33:47] a score of 4. So, um, these are placeholders to give you,
+[1:33:52] um, relative values for district-wide seismic scores, and these were put together
+[1:33:58] by averaging each building part seismic risk Weighted by the floor area.
+[1:34:02] So for example, larger buildings count for more.
+[1:34:06] So a larger building with a higher score counts for more than
+[1:34:09] a smaller building with a high score.
+[1:34:12] So we separated these because so much work has been completed or
+[1:34:16] in progress on the high school levels that we separated these into
+[1:34:20] pre-K through 8 ages of buildings and also looked at a full
+[1:34:26] district. So you can see here the 2025 values.
+[1:34:30] This was, um, pre-bond. This was kind of status as the— when
+[1:34:36] the report was being completed.
+[1:34:39] Status quo values are, um, the original allocation of all the seismic
+[1:34:44] funds, um, assuming all that work gets completed.
+[1:34:47] We put in some placeholders for rescoring those, um, building elements.
+[1:34:52] And then Scenario A values and Scenario B values.
+[1:34:55] So you can see That we do have a decrease in those
+[1:35:00] based on which scenario is selected.
+[1:35:08] It was also asked how many students or what percentage of students
+[1:35:12] would be moving from building parts rated 9.0 and above or with
+[1:35:18] campuses containing unreinforced masonry. So we put together this study based on
+[1:35:27] a student count, and I will send your eyes to the right,
+[1:35:33] the normalized student count, mainly because there are a couple different variables
+[1:35:39] when we're looking at student count and enrollment with the projected enrollment
+[1:35:44] declining as well. So what we did was we normalized that student
+[1:35:47] count so we'd be comparing a bit more apples to apples.
+[1:35:51] Um, so we're looking at, um, campuses with building parts greater than
+[1:35:55] 9.0 and campuses with unreinforced masonry as well.
+[1:35:59] Um, you can see there the percentage of total enrollment for each
+[1:36:03] of those scenarios, um, based on 2025 values.
+[1:36:07] Um, standing on the right there, it's 45% for building parts greater
+[1:36:11] than 9.0 and, um, 31%, 32% for campuses with URM.
+[1:36:18] So you can see, based on the targeted seismic approaches, that that
+[1:36:23] decreases for the status quo and Scenario A and Scenario B.
+[1:36:29] So, and the bottom sections there, I won't go through all the
+[1:36:32] numbers with you, but it's here for review.
+[1:36:36] But you can see the changes there from the 2025 values.
+[1:36:40] So all the deltas are compared to the original 2025 values.
+[1:36:44] So you can see the numbers of change and the percent change.
+[1:36:49] Happy to answer any questions.
+[1:36:52] Are there any questions here or online?
+[1:36:58] For the whole thing or just this?
+[1:37:00] Because I have questions. Well, just for this for now and then
+[1:37:03] at the end. And we've got about 20 minutes, 23 minutes left,
+[1:37:07] so. Not on this yet.
+[1:37:10] Are there any questions from online?
+[1:37:14] Lila? No? Okay, I guess we can move on.
+[1:37:20] Okay, great. So this is just, um, to talk a little bit
+[1:37:25] about next steps. Obviously, we, we were— um, this is modeled off
+[1:37:30] of Scenario A and Scenario B.
+[1:37:33] And so once the recommendation, um, is finalized and goes to the
+[1:37:39] board, The collaboration with principals has been ongoing.
+[1:37:43] That will continue. We'll look to refine school-specific implementation plans aligned to
+[1:37:49] each school's transition year. We will confirm all receiving school space plans
+[1:37:54] and priority upgrades. And I think you've seen through this presentation of
+[1:37:58] things that we've denoted on things that we absolutely will have to
+[1:38:01] improve to be ready. We'll finalize transportation, the arrival, dismissal, and safe
+[1:38:07] routes to school improvements. We'll coordinate moving schedules, technology equipment, and classroom
+[1:38:12] setup, and then share school-specific milestones with families and staff and modernize
+[1:38:18] and monitor— continue to monitor readiness through opening.
+[1:38:24] So with that, we are happy to take any questions.
+[1:38:29] Great. Are there any questions from online on the entire presentation?
+[1:38:39] Nope, I'm good. Thank you.
+[1:38:41] I see a hand up.
+[1:38:42] Is that Director Chase Miller?
+[1:38:44] I can't see that far.
+[1:38:45] Yeah, that's me. Hi. Hi.
+[1:38:50] Um, so, uh, thank you for this presentation and, uh, particularly the
+[1:38:58] parts that talk about special education.
+[1:39:02] Just wanting to clarify, like, what happened with SPED?
+[1:39:07] Were, were we not planning for those kiddos in those spaces in
+[1:39:11] the first place, or were we just— I don't even want to
+[1:39:15] say just, but were we not including those, those, uh, specs in
+[1:39:23] the overall materials that were provided to the public?
+[1:39:31] Do you want to take that?
+[1:39:33] Um, yeah, no, thank you for the question.
+[1:39:35] Um, I think that— so we, we've always been planning, um, related
+[1:39:40] specifically to students with disabilities, and, and in the materials that we
+[1:39:45] put forth, um, we've talked about programming and, and where programming could
+[1:39:49] potentially be in proposal. Um, we had not Gotten to the point
+[1:39:56] where we were able to discuss or where we had put out
+[1:39:59] yet, um, specific space usage, um, and I, I think that's something
+[1:40:03] that, um, you know, needed to happen, um, and, and we're, we're
+[1:40:08] there now. Um, I, I, um, the programming itself, students, um, and,
+[1:40:13] and specifically the amount of staff needed in each, uh, scenario are,
+[1:40:19] um, are central to it.
+[1:40:20] Um, but ensuring that families and staff and, and, and the system
+[1:40:26] understands that there is actually, in addition to that designated space, I
+[1:40:29] think is important. Okay, thank you.
+[1:40:36] Um, I just want to reinforce for everyone that special education students
+[1:40:41] are one of our focal groups, and these types of changes uh,
+[1:40:48] produce a lot of, a lot of anxiety for families of our
+[1:40:52] most vulnerable students. So, um, just as, as proactive and thorough as
+[1:40:59] we can be with information in general, but especially pertaining to special
+[1:41:04] education kiddos. Um, I know I will appreciate it, and I think
+[1:41:10] other families as well. Thank you.
+[1:41:12] Yes, thank you. Okay, thank you.
+[1:41:18] Um, so I had sent very last minute 6 special ed questions.
+[1:41:23] I don't know if they got sent on yet.
+[1:41:25] I don't expect answers today, but I would love to have them
+[1:41:28] as part of the final recommendation so we can discuss it by
+[1:41:32] next Tuesday. And specifically, I was curious what capacity the model assumes
+[1:41:39] for learning centers The minimum square footage applied to special education classrooms.
+[1:41:45] Why doesn't the model set aside the LRFP's minimum, minimum special education
+[1:41:50] spaces? And that might have been answered with Director Chase Miller's question.
+[1:41:55] Why doesn't the model set aside space for related services?
+[1:41:58] What safeguards keep special education rooms from being repurposed?
+[1:42:03] And are students in focus classrooms and learning centers counted in both
+[1:42:07] special education and general education capacity.
+[1:42:10] Um, so I just sent those today.
+[1:42:13] I don't know if you can answer any of those or if
+[1:42:14] you just want to hold off until the 17th.
+[1:42:19] I, I'm happy to address as much as I can right now.
+[1:42:23] Um, and I pulled up your, your email.
+[1:42:25] Thank you. So, uh, what capacity does the model assume for learning
+[1:42:30] centers? So specifically in each facility recommendation, you could see an allocation
+[1:42:37] for space for learning center.
+[1:42:40] So, um, we in our learning center program, um, outside of this,
+[1:42:46] we don't— learning center teachers don't always have classroom size, like typical
+[1:42:51] classroom size spaces assigned to them.
+[1:42:54] It's— and it varies depending on whether we're talking about K-5, middle
+[1:42:57] school, or high school. So it looks different at all 3 different
+[1:43:00] levels. Um, but, but we, um, but they do have space designated.
+[1:43:06] And then so specifically in K-5, in this circumstance, we went through
+[1:43:09] and identified, um, in, in, in the specific slides, which are gone
+[1:43:13] now, I apologize, uh, we identified learning center space specifically.
+[1:43:17] Can you put the slides back on?
+[1:43:18] Square footage, um, when we're looking at focal classrooms or the focal
+[1:43:23] specialized we're looking at spaces that would be a typical classroom environment.
+[1:43:29] Okay, I think that— yeah, I think that was more the question.
+[1:43:31] Yeah, so, um, in addition to that, we have some spaces that
+[1:43:36] serve in their intensive skills classrooms that may have more students with
+[1:43:40] mobility issues and whatnot. And so when we're looking at— we're looking
+[1:43:44] specifically for space even more intently, we look at larger spaces to
+[1:43:51] accommodate that need. Sorry, my phone went black.
+[1:43:59] Yeah, we, we needed to in our initial proposals, which were what
+[1:44:05] supported the scenarios, be more specific related to special education spaces.
+[1:44:11] We— when I talk about— and we did include in the recommendations,
+[1:44:14] and actually you'll see in TLD lead tomorrow also, like when we
+[1:44:18] talk about related services, which are like speech language services, school psychology
+[1:44:22] supports, QMHPs, we do talk about spaces for them.
+[1:44:26] Um, those, those folks, um, don't, um, they don't have classroom space
+[1:44:30] per se, but they do need space to work with students.
+[1:44:33] And so, um, that, that's important.
+[1:44:35] And, and depending on programming, there's different amounts of that that is
+[1:44:40] assigned. Yeah. And then, uh, what would safeguards keep— well, so in,
+[1:44:46] in our, um, facility usage, uh, I apologize, I'm not using the
+[1:44:51] right term, but—. You're not, that's okay.
+[1:44:53] What we, what we identify within the space to say it can
+[1:44:57] be used for this, we, we identify special ed spaces and functional
+[1:45:01] capacity, general education spaces, and special education spaces are saved and supported,
+[1:45:07] correct? So if they're delineated special education spaces, they will not be
+[1:45:11] used for anything other than special education.
+[1:45:13] And so that's where it was, you know, in conversations with our
+[1:45:17] special education team. Like, if you use Whitman as a perfect example,
+[1:45:22] they're an inclusive school community, 4 learning center teachers when combined with
+[1:45:27] Woodmere. And it does denote one, along with the 4 classrooms or
+[1:45:33] 4 to 5 classrooms, that one of them needs to be a
+[1:45:36] regulation/sensory space. And so that— and I think too, back to what
+[1:45:43] Jay said, is that we're really trying to earmark classrooms for, for
+[1:45:49] those spaces if possible. And then can I ask a clarification question
+[1:45:55] to answer your last question?
+[1:45:56] Yeah. Um, you, you talked about, are students in focus classrooms and
+[1:46:00] learning centers counted in both special ed and general education capacity?
+[1:46:04] Are you specifically in reference to facility usage or just generally?
+[1:46:11] I think in reference to facility usage.
+[1:46:12] Yeah, so, so yes, both for facility usage because we need 2
+[1:46:21] things. We need to identify the space required for focused or specialized
+[1:46:25] programming, but then every one of those students also access this general
+[1:46:28] education programming at some part of their day every single day.
+[1:46:32] So students are included in both counts.
+[1:46:36] Perfect, thank you. You got them there.
+[1:46:37] Okay, um, does it—. Does that answer all, all the questions?
+[1:46:42] I think it answers all of them, and I'm cognizant of time,
+[1:46:44] and I don't want to take all the time, and I don't
+[1:46:46] want to make us late.
+[1:46:46] So I'm just gonna— I appreciate that there are some typos.
+[1:46:50] There are, I think, quite a few typos, and so I would
+[1:46:52] just respectfully request that you go through and make sure— I noticed
+[1:46:55] that Chief Joe, the slides here have 18, huh?
+[1:47:01] Well, [Abernethy] tore— yeah, [Abernethy] tore down too.
+[1:47:03] I think that's dealt with.
+[1:47:03] But Chief Joe has 18 classrooms listed, but the long-range facility plan
+[1:47:07] only has 17. Mount Tabor, there are more on these slides than
+[1:47:11] the LRFP. So I just—.
+[1:47:14] I think in the long-range facility plan, the gymnasium is counted as
+[1:47:18] a classroom. Ah, so this would do the one, one—.
+[1:47:22] Perfect. Okay, that's probably— Explains—.
+[1:47:25] We went through and our teams walked through, we had our space
+[1:47:29] moves, our space planning teams walking through to count actually what a
+[1:47:35] regular classroom, large classroom is.
+[1:47:37] Yeah, and then also on our plans we have things listed as
+[1:47:43] flex rooms, and they are smaller, and so we did not count
+[1:47:47] them in our classroom counts.
+[1:47:49] Great. Um, I think this slide has Chief Joe as having more
+[1:47:53] classrooms than the LRFP, and so if the LRFP was counting gymnasiums
+[1:47:59] and other things, then it should be reversed than this slide's having
+[1:48:03] more. So maybe I get it.
+[1:48:05] And the reason I say I'll get back to you is I
+[1:48:07] can't remember. No, no, I get it.
+[1:48:08] Yeah. And so I don't remember if some campuses have modulars, and
+[1:48:12] so those classrooms were also included if they're usable for classrooms.
+[1:48:16] Right. Um, let's see, uh, it's already— um, Chair DePass already mentioned
+[1:48:23] the Marysville, whether there's an elevator.
+[1:48:27] We now know there's not.
+[1:48:27] So if we can just make sure that leading up to November
+[1:48:31] 17th that our one-pagers match our current ones, because Community needs to
+[1:48:37] know what they can rely on and where they can go to
+[1:48:38] get the accurate information. And, and kind of back to the long-range
+[1:48:42] facility plan, this is actually a good jumping-off point that we need
+[1:48:46] to update our long-range facility plan because, as you've seen, we've had
+[1:48:53] our teams do in-person visits and verifying information so that we can
+[1:48:58] be more accurate in terms of what is being communicated in our
+[1:49:01] plans to the community. Yeah, thank you.
+[1:49:04] Generally, the long-range facility plan is updated every 10 years, so 2031
+[1:49:09] would be the next target.
+[1:49:11] But if we have a lot of change, yeah, we may elect
+[1:49:13] to do that slightly sooner.
+[1:49:15] Okay, that makes sense. Um, last 2, and I'm just gonna type
+[1:49:18] all these up and send them in so that, um, but I
+[1:49:21] guess I'm curious why when we're looking at '21 that have the
+[1:49:25] most amount of students coming in, why Atkinson wasn't looked at because
+[1:49:30] they're getting about the same number of students as, um, Hosford, for
+[1:49:34] example, with all of Creston going there.
+[1:49:37] And I also understand that the Creston community sent documents saying it
+[1:49:42] won't fit, and so would have been— would be great to see
+[1:49:46] a walkthrough of that since there are community members raising a lot
+[1:49:49] of concerns about size. And then Glencoe, while they're only receiving a
+[1:49:54] very few number of students to know that they're going to be
+[1:49:57] ready by the fall of '27.
+[1:49:59] There's significant upgrades that need to be done for the CRIS program,
+[1:50:03] um, and to know that we can get that ready so that
+[1:50:06] the— I was talking to Dr.
+[1:50:08] Armstrong about this— so that the lights are connected so that kids
+[1:50:11] who can't hear the sound of fire alarms can see it.
+[1:50:13] And so, um, they have deaf reader boards and carpets in classrooms
+[1:50:18] for acoustics. And so this is a program that while they're only
+[1:50:21] getting a Potentially a few students, the students need a lot of
+[1:50:26] work done to those spaces to know that they can be ready.
+[1:50:29] And it doesn't sound like it'll take a long time, but we
+[1:50:31] need to confirm that before—.
+[1:50:32] Yes, yes. In regards to the deaf and hard of hearing, the
+[1:50:36] potential moving to Glencoe, we did work with our— with Chief Bruno
+[1:50:43] to talk through what specifically, because, you know, we've also visited Creston.
+[1:50:47] We know of the upgrades that they've had.
+[1:50:49] And so if we'd be prepared to make the same level upgrades
+[1:50:54] to Glencoe to make sure that that happens.
+[1:50:56] And then in regards to Atkinson, so just to remind— I mean,
+[1:50:59] we did model scenarios A and B.
+[1:51:01] Atkinson, based on the scenarios, they have a functional capacity of 519.
+[1:51:07] And then in modeling both the scenarios, they would increase to 413,
+[1:51:12] which was well above of or well below their functional capacity, which
+[1:51:16] is why we didn't necessarily— they weren't prioritized to do a walkthrough.
+[1:51:21] Those are the ones, you know, if you have the projected comes
+[1:51:27] in well below the potential for— or the functional capacity, and then
+[1:51:31] we look at the number of work orders and those types of
+[1:51:33] things, if it was deemed that, okay, there isn't a ton of
+[1:51:36] work orders and the functional capacity, they're projected enrollment is well below,
+[1:51:41] it didn't fall then within the, the 21.
+[1:51:42] It doesn't mean that we wouldn't continually do a walkthrough, um, it's
+[1:51:47] just saying for that initial phase it didn't.
+[1:51:49] And then Glencoe, just, uh, I just want to pull up some
+[1:51:52] data. So Glencoe has a functional capacity of 573, and their peak
+[1:51:57] enrollment is projected with deaf and hard of hearing coming over would
+[1:52:01] be 318 in '23. Oh, I don't disagree that it's small.
+[1:52:05] It's just the students coming in have unique needs that are unique
+[1:52:11] to that school. Those will be done.
+[1:52:12] Those will absolutely be done before the final recommendation or before the
+[1:52:17] vote or when? Well, well, the upgrades won't be done.
+[1:52:21] No, no, just the walkthroughs.
+[1:52:22] Yeah. Yeah. Well, we've had those conversations.
+[1:52:25] We've already started the process of understanding what would be needed specifically
+[1:52:29] at Glencoe to support those deaf and hard of hearing students.
+[1:52:32] So, so that is in process, and should the vote go forward
+[1:52:36] in that way, we'll start that work immediately to make sure it's
+[1:52:39] ready. And the walkthroughs of the other affected schools will also happen
+[1:52:43] before the vote, I'm assuming?
+[1:52:45] So we have that information that it works?
+[1:52:47] Um, we again, so based on— we, it— we will not, just
+[1:52:52] because from a timing perspective, we won't have time to do the
+[1:52:55] walkthroughs before the materials Right, happen.
+[1:52:59] But we will definitely do walkthroughs after the, the recommendation comes through
+[1:53:04] on the 17th. Perfect, thank you.
+[1:53:06] Yeah, I think if they— if the question is, will all of
+[1:53:10] this information that was shared tonight be available for every recommended site,
+[1:53:16] um, then that answer is yes.
+[1:53:18] I mean, it's a part of the readiness factor.
+[1:53:20] If it's a change that's recommended for 27 Perfect.
+[1:53:25] Thank you. That's very helpful.
+[1:53:26] And then the last one that a community member drew my attention
+[1:53:28] to is the Whitman sit-in, that— but the number of students that
+[1:53:33] they're projected to have divided by the number of classrooms that they
+[1:53:38] have, um, there's just— I would just love to have a deeper
+[1:53:43] dive look at whether we are going to have to increase, um,
+[1:53:48] blending or increase sizes of classrooms in order to accommodate based on
+[1:53:54] the math that I confirmed that we came in from the email.
+[1:53:56] So again, I will send this, but I have some concerns that
+[1:53:59] I, I hadn't read that when we chatted earlier about my concerns
+[1:54:02] about women, but now I have.
+[1:54:03] So that's my last, my last thought.
+[1:54:06] Um, thank you. Can I go?
+[1:54:07] Yes. We just have a few minutes.
+[1:54:09] I want to be very respectful of people's time.
+[1:54:16] Chair [Wang]? Oh, um, yeah, I think Dr.
+[1:54:21] Armstrong answered my question, but I just have a, a really quick
+[1:54:25] one, hopefully. I'm just curious what the funding sources would be for,
+[1:54:29] say, the nutrition services updates as well as the, um, outdoor potential
+[1:54:35] outdoor structure for George. Where—.
+[1:54:37] What funding sources would cover that?
+[1:54:39] Yeah, so everything that we can tie to the bond, we will.
+[1:54:44] And I will say specifically with PE for George, um, that there
+[1:54:48] in the 2025 bond there were some designated, um, PE funds, and
+[1:54:54] George was one of those schools with the designated PE funds for
+[1:54:57] that outdoor structure. I also noticed on that slide for George there's
+[1:55:02] a Department of Land Conservation Development.
+[1:55:05] Um, I just wrote a really large grant to them for about
+[1:55:07] $500,000 for green playgrounds. Yes, so we have a DLCD grant, uh,
+[1:55:13] for vision planning. We've done some vision planning in the past that
+[1:55:16] was, um, PTA funded in some cases, donated in others, um, so
+[1:55:23] we've continued those vision plans, which is concept plans for what an
+[1:55:27] outdoor green space could be, um, based on community, uh, feedback for
+[1:55:33] those spaces. So we do have a grant to do that for
+[1:55:36] George as well as some other schools?
+[1:55:38] I think with combining like the Title I status and the poverty
+[1:55:43] level in the surrounding neighborhood would make it a really good candidate
+[1:55:47] for those grants. Also, there's several other partners that are— I mean,
+[1:55:50] these playgrounds are $1 million.
+[1:55:53] Um, other partners, local partners such as Metro, some of the watersheds
+[1:55:59] that have money for green playgrounds.
+[1:56:01] Yeah, so it would be, um, if we can get that vision
+[1:56:05] planning going ahead of placing that outdoor structure, it'll be fantastic.
+[1:56:10] Thank you for that. I had a couple of questions, um, if
+[1:56:12] there are no more online.
+[1:56:16] Um, I just have a couple questions, I guess, time-wise.
+[1:56:18] Um, you mentioned historic work orders and, and readiness.
+[1:56:24] Are we basing readiness on the amount of— are they historic work
+[1:56:30] orders, are they current? I mean, are we trying to assess the
+[1:56:33] condition of the building or how much work has already been put
+[1:56:35] into the building? For some of our walkthroughs, so when we were
+[1:56:39] figuring out which schools we should walk through as teams, we were—
+[1:56:46] what was the impact of adding additional students, right?
+[1:56:49] So that's why we were walking through the buildings that had the
+[1:56:53] highest impact if students on them, and then in addition to that,
+[1:56:57] we looked through our work orders to see if there were any
+[1:57:00] particular buildings that we wanted to confirm adding more students to the
+[1:57:07] system would still function, and so that was really on a plumbing
+[1:57:11] kind of basis, right? Like a mechanical—.
+[1:57:13] Yeah, and so we did that for 5 buildings and there were
+[1:57:16] no significant red flags for any of those.
+[1:57:19] That's like this one, we get a work order every couple of
+[1:57:22] months, on the heating ventilating system, we should probably take a look
+[1:57:25] at that in person. Um, thank you.
+[1:57:29] The other question I had was, um, how do we determine what
+[1:57:32] the demand for SPED programming— how's that determined?
+[1:57:37] Is that— are we doing assuming a demand across the district, or
+[1:57:43] are we looking at population level?
+[1:57:46] No. You know, in order to do a sensory space versus a
+[1:57:51] Regulation space. How are we calculating what the demand is?
+[1:57:57] So what we've done, so every year, so special education is forecasted
+[1:58:02] separately from the, the enrollment projections and, and, and core programming projections
+[1:58:08] that we do. And special education forecasting is, we, because of how
+[1:58:13] special education works, it, we start serving students, and we don't, but
+[1:58:19] another agency does start serving students when they're 3, and of course
+[1:58:22] we serve them through 21.
+[1:58:24] And so why special education forecasting and projections are done separately is
+[1:58:29] because we, we, we are actually counting students versus using forecasting models.
+[1:58:34] And so what we've done in this circumstance, getting ready for recommendations
+[1:58:39] and in response to scenarios, is we've We usually do that in,
+[1:58:43] in January and February time frame for the next school year.
+[1:58:47] We've done that early right now.
+[1:58:49] So, so, so, um, what it— then we add to that some,
+[1:58:54] some percentages, um, for, um, transfer students because every year we have
+[1:58:59] hundreds of students come in and out of PPS, um, and, and
+[1:59:04] we need to, um, and we account for those just using some
+[1:59:08] typical turnover percentages. But so specifically, in response to your question, we,
+[1:59:14] we have counted the students and we know who is coming to
+[1:59:17] us from 3 to 5-year-old programming, and then we forecast it out
+[1:59:22] based upon what we know we need and IEP teams have decided
+[1:59:26] we need for students moving into next year.
+[1:59:30] Excellent, thank you. And I have one more quick question, um, it's
+[1:59:33] 1 minute to 6. Um, in terms of community, community engagement around
+[1:59:38] SPED families, um, can you report?
+[1:59:42] I think that I've missed a session.
+[1:59:44] Yeah, but so we have done some engagement.
+[1:59:46] I'm asking if we've done engagement, if we're still doing continued engagement
+[1:59:50] for those families. So we've done, um, 3 engagements, uh, for specifically
+[1:59:55] for special students, the— for families of students that receive special education
+[1:59:58] services. The first 2 were done in collaboration with our Special Education
+[2:00:02] Advisory Committee, and then there was one that was specifically hosted by
+[2:00:08] the special education— the district.
+[2:00:10] And, um, I don't remember the time, I apologize.
+[2:00:15] I think it was the 3rd week in October.
+[2:00:17] Um, and then we're actually in conversation with the Special Education PTA,
+[2:00:23] which is a different group Um, to host another listening session, and
+[2:00:28] I think that's scheduled next week.
+[2:00:30] It's a virtual listening session.
+[2:00:32] Okay. And there's one, there's one tonight, right?
+[2:00:34] Isn't there? Uh, there's a meeting tonight, which is why our senior
+[2:00:39] director, uh, Sabrina Woods, who was here to join me here in
+[2:00:43] this conversation, but she had to go facilitate that meeting.
+[2:00:47] Okay. That was an engagement.
+[2:00:49] It's not a specific right-sizing engagement.
+[2:00:50] That's just a SPIAC leadership meeting.
+[2:00:54] Um, I'm going to ask if, um, we committee members, are there
+[2:00:58] any other topics we'd like to add for our next meeting, which
+[2:01:01] is going to be held, uh, January 27th?
+[2:01:07] It's close to our birthday.
+[2:01:08] I know, we should have cupcakes.
+[2:01:11] Um, you had already mentioned, uh, talking about Southwest Parks and Powell
+[2:01:17] Park. I had written that on top of talking about the Southwest
+[2:01:20] Parks and Powell Park, I'd like a sort of a history on
+[2:01:23] it all so we can understand how long places have been waiting,
+[2:01:26] and then sort of current and future— current goals and problems and
+[2:01:33] future pathways. And I just love to have an entire all things
+[2:01:40] Southwest Parks and Powell Park maybe, rather than just Okay, I could
+[2:01:47] give you a history of the parks and how long it takes
+[2:01:50] to get things through parks anytime over coffee.
+[2:01:53] It takes a long time.
+[2:01:55] Unbelievable. Um, what about you, Lila?
+[2:01:58] Anything? All right, um, I think with that we're gonna adjourn.
+[2:02:03] A couple minutes late. Thank you all.
+[2:02:05] Thank you. It was a great presentation.
+[2:02:07] Thank you. Okay, okay, got it.
