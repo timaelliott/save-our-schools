@@ -1,0 +1,56 @@
+{
+ "note": "Refresh 2026-11-10 (checking for the superintendent recommendation; not posted yet). Snapshots of rightsize pages and the newly linked Oct 29-Nov 2 What We Heard recap. No recommendation page or document found on pps.net, media.pps.net or BoardBook.",
+ "files": [
+  {
+   "file": "sources/pps_net/rightsizing/what_we_heard_2026-11-10.html",
+   "url": "https://www.pps.net/about/portland-public-schools-information/rightsize/what-we-heard",
+   "title": "Rightsize What We Heard page snapshot (adds Oct 29-Nov 2 recap)",
+   "fetched_at": "2026-11-10",
+   "sha256": "55a6a9bfebbcb5f286c91cfcccfbebf1154478d878ac3eacd009dc1cc6302ca7"
+  },
+  {
+   "file": "sources/pps_net/rightsizing/rightsize_landing_2026-11-10.html",
+   "url": "https://www.pps.net/about/portland-public-schools-information/rightsize",
+   "title": "Rightsize landing page snapshot",
+   "fetched_at": "2026-11-10",
+   "sha256": "ccf97c07e577e986ec1a9bf9f8d7ff48f7f7665c5b84fd866064040d0bba4110"
+  },
+  {
+   "file": "sources/pps_net/rightsizing/faq_2026-11-10.html",
+   "url": "https://www.pps.net/about/portland-public-schools-information/rightsize/frequently-asked-questions",
+   "title": "Rightsize FAQ page snapshot",
+   "fetched_at": "2026-11-10",
+   "sha256": "375fe67e385941a57c4968825f90357c7529ad32c3e04d86ef5b7d8b21db2b94"
+  },
+  {
+   "file": "sources/pps_net/rightsizing/timeline_2026-11-10.html",
+   "url": "https://www.pps.net/about/portland-public-schools-information/rightsize/timeline",
+   "title": "Rightsize timeline page snapshot",
+   "fetched_at": "2026-11-10",
+   "sha256": "bad6b223b4d9ccc06007e696ec48adab575d3ffb3606ae58b79048db5221c4e0"
+  },
+  {
+   "file": "sources/pps_net/rightsizing/scenarios_2026-11-10.html",
+   "url": "https://www.pps.net/about/portland-public-schools-information/rightsize/scenarios",
+   "title": "Rightsize scenarios page snapshot",
+   "fetched_at": "2026-11-10",
+   "sha256": "51db79617114d66bf1de77ead6a05c20235ded512280361f9da1d26e4b8acf34"
+  },
+  {
+   "file": "sources/pps_net/rightsizing/calendar_2026-11-10.html",
+   "url": "https://www.pps.net/about/portland-public-schools-information/rightsize/calendar",
+   "title": "Rightsize calendar page snapshot",
+   "fetched_at": "2026-11-10",
+   "sha256": "041f119498261d887ac4bddb161500e6209093cfae9204e1b3de9afa08907b02"
+  },
+  {
+   "file": "sources/pps_net/rightsizing/engagement/2026-10-29_to_11-02_engagement_recap_what_we_heard.pdf",
+   "url": "https://drive.google.com/file/d/1ApI1qCGVzS9yh0SMfca1hdJMvw0HUVkI/view",
+   "download_url": "https://drive.google.com/uc?export=download&id=1ApI1qCGVzS9yh0SMfca1hdJMvw0HUVkI",
+   "title": "October 29-November 2, 2026 Rightsizing Engagement Recap: What We Heard",
+   "linked_from": "What We Heard page",
+   "fetched_at": "2026-11-10",
+   "sha256": "ff742c47a3d538dba7dff34a64e7e4a87eb2a79ca940275137f88cdf05cf65b5"
+  }
+ ]
+}
