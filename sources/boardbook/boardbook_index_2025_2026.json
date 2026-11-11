@@ -1,7 +1,31 @@
 {
- "generated": "2026-11-10T22:55:43Z",
+ "generated": "2026-11-11T21:00:19Z",
  "source": "https://meetings.boardbook.org/public/Organization/915",
  "meetings": [
+  {
+   "id": "777890",
+   "head": "November 13, 2026 at 12:00 PM - Special Meeting",
+   "type": "Special",
+   "loc": "Virtual",
+   "vids": [],
+   "det": [
+    {
+     "t": "Public Notice",
+     "h": "/Public/PublicNotice/915?meeting=777890"
+    },
+    {
+     "t": "Agenda",
+     "h": "/Public/Agenda/915?meeting=777890"
+    }
+   ],
+   "items": [
+    {
+     "file": "14678231",
+     "name": "Reso 7397 - Resolution to Authorize Fact-finding Related to Use of Certain Non-PPS-approved Messaging Platforms",
+     "item": "2. Resolution to Authorize Fact-finding Related to Use of Certain Non-PPS-approved Messaging Platforms (Resolution 7397)"
+    }
+   ]
+  },
   {
    "id": "776248",
    "head": "November 10, 2026 at 4:30 PM - Teaching, Learning, and Enrollment Committee Meeting",
