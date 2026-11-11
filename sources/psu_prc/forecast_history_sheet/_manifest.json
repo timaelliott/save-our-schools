@@ -1,0 +1,25 @@
+{
+ "title": "Six Years of PSU projections (Google Sheet)",
+ "url": "https://docs.google.com/spreadsheets/d/1DVwDq3_fksJo2Xiw03oCwqQSqThchHiNAjkCxW2CGHs/edit?gid=1937831880#gid=1937831880",
+ "export_url": "https://docs.google.com/spreadsheets/d/1DVwDq3_fksJo2Xiw03oCwqQSqThchHiNAjkCxW2CGHs/export?format=xlsx",
+ "fetched_at": "2026-11-11T01:34:53+00:00",
+ "provenance": "Link supplied by the repository owner in chat on 2026-11-10. The sheet does not name its publisher. It matches the six-year PSU forecast-history tool PPS staff announced at the Nov 4 board meeting [YT:9kX3vnfRlvY@3:48:51], but that is not confirmed.",
+ "file": "six_years_of_psu_projections_2026-11-10.xlsx",
+ "sha256": "8ebbaff2bc7f4142bea1f734a783a92612dd97640827592ab2d3ad0e0fac783e",
+ "bytes": 471489,
+ "tabs": [
+  {
+   "tab": "6 years of PSU forecasts",
+   "csv": "tab_6_years_of_PSU_forecasts.csv",
+   "rows": 12935,
+   "cols": 7
+  },
+  {
+   "tab": "Historical enrollment",
+   "csv": "tab_Historical_enrollment.csv",
+   "rows": 311,
+   "cols": 39
+  }
+ ],
+ "notes": "Tab \"6 years of PSU forecasts\": long format (Standard=school, Report_Year=PSU edition, e.g. 2026 = 2026-27 report; School_Type; Program; Data_Type Actual/Forecast; Academic_Year; Enrollment). Report_Year 2021-2026. Tab \"Historical enrollment\": PPS October enrollment by school 1996-97 to 2025-26 with change columns."
+}
