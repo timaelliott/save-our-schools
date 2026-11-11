@@ -1,0 +1,22 @@
+{
+ "note": "PPS-published copy of the Six Years of PSU projections sheet; see sources/pps_net/_manifests/_manifest_refresh_2026-11-10_1907.json",
+ "files": [
+  {
+   "file": "sources/psu_prc/forecast_history_sheet/six_years_of_psu_projections_pps_published_2026-11-10.xlsx",
+   "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3SsTXRW7jO9DJYIzHKqEOFegXFwxc7kR5xrTsDTd22aX51eTX9zEiVzAvwwqIOTjgZYKuADqK4hEM/pubhtml?widget=true&headers=false",
+   "download_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3SsTXRW7jO9DJYIzHKqEOFegXFwxc7kR5xrTsDTd22aX51eTX9zEiVzAvwwqIOTjgZYKuADqK4hEM/pub?output=xlsx",
+   "title": "Six Years of PSU projections_v1 (Google Sheet published to web, embedded on the PPS PSU Enrollment Forecasts page)",
+   "linked_from": "https://www.pps.net/about/portland-public-schools-information/rightsize/psu-enrollment-forecasts",
+   "fetched_at": "2026-11-11T03:07:12+00:00",
+   "sha256": "0ca7f382fd97820292130f5334b1a9f6cc6cf928d2f525c68e5b5258e270c447",
+   "note": "Cell values in both tabs are identical to six_years_of_psu_projections_2026-11-10.xlsx (owner-supplied link), so that file is the sheet PPS publishes."
+  },
+  {
+   "file": "sources/psu_prc/forecast_history_sheet/six_years_of_psu_projections_pps_published_2026-11-10.pubhtml.html",
+   "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3SsTXRW7jO9DJYIzHKqEOFegXFwxc7kR5xrTsDTd22aX51eTX9zEiVzAvwwqIOTjgZYKuADqK4hEM/pubhtml?widget=true&headers=false",
+   "title": "Published-to-web HTML view of the same sheet",
+   "fetched_at": "2026-11-11T03:07:12+00:00",
+   "sha256": "6257ca37e1c28a6533b00475b26592b02051ba8c2837c0883c9313a6e6008ab5"
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "note": "Scheduled refresh 2026-11-10 19:07 PT. BoardBook: no new meetings or attachments (Nov 4-10 meetings unchanged; no Nov 17 meeting posted yet). media.pps.net: no new press releases. pps.net: first snapshot of the PSU Enrollment Forecasts page and its embedded published Google Sheet; landing/root snapshots. Still no superintendent recommendation.",
+ "files": [
+  {
+   "file": "sources/pps_net/rightsizing/psu_enrollment_forecasts_2026-11-10c.html",
+   "url": "https://www.pps.net/about/portland-public-schools-information/rightsize/psu-enrollment-forecasts",
+   "title": "PSU Enrollment Forecasts (2021–2026) page (first archived snapshot; page was already in the rightsize navigation). Embeds a published Google Sheet.",
+   "fetched_at": "2026-11-11T03:07:12+00:00",
+   "sha256": "d9ac9dda86f6e8daac29a5d56986b65db0a8745bb2e381ed165be3208b7cf1cd"
+  },
+  {
+   "file": "sources/psu_prc/forecast_history_sheet/six_years_of_psu_projections_pps_published_2026-11-10.xlsx",
+   "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3SsTXRW7jO9DJYIzHKqEOFegXFwxc7kR5xrTsDTd22aX51eTX9zEiVzAvwwqIOTjgZYKuADqK4hEM/pubhtml?widget=true&headers=false",
+   "download_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3SsTXRW7jO9DJYIzHKqEOFegXFwxc7kR5xrTsDTd22aX51eTX9zEiVzAvwwqIOTjgZYKuADqK4hEM/pub?output=xlsx",
+   "title": "Six Years of PSU projections_v1 (Google Sheet published to web, embedded on the PPS PSU Enrollment Forecasts page)",
+   "linked_from": "https://www.pps.net/about/portland-public-schools-information/rightsize/psu-enrollment-forecasts",
+   "fetched_at": "2026-11-11T03:07:12+00:00",
+   "sha256": "0ca7f382fd97820292130f5334b1a9f6cc6cf928d2f525c68e5b5258e270c447",
+   "note": "Cell values in both tabs are identical to six_years_of_psu_projections_2026-11-10.xlsx (owner-supplied link), so that file is the sheet PPS publishes."
+  },
+  {
+   "file": "sources/psu_prc/forecast_history_sheet/six_years_of_psu_projections_pps_published_2026-11-10.pubhtml.html",
+   "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3SsTXRW7jO9DJYIzHKqEOFegXFwxc7kR5xrTsDTd22aX51eTX9zEiVzAvwwqIOTjgZYKuADqK4hEM/pubhtml?widget=true&headers=false",
+   "title": "Published-to-web HTML view of the same sheet",
+   "fetched_at": "2026-11-11T03:07:12+00:00",
+   "sha256": "6257ca37e1c28a6533b00475b26592b02051ba8c2837c0883c9313a6e6008ab5"
+  },
+  {
+   "file": "sources/pps_net/rightsizing/rightsize_landing_2026-11-10c.html",
+   "url": "https://www.pps.net/about/portland-public-schools-information/rightsize",
+   "title": "Rightsize landing page snapshot (calendar widget adds Nov 18 Disability Voice Engagement, 6-8 PM, Zoom)",
+   "fetched_at": "2026-11-11T03:07:12+00:00",
+   "sha256": "97b0c2f73df8716ab6204459a00779371de9183e4535c1c45ce92512d148aa13"
+  },
+  {
+   "file": "sources/pps_net/rightsizing/rightsize_root_2026-11-10c.html",
+   "url": "https://www.pps.net/about/portland-public-schools-information/rightsize/rightsize",
+   "title": "Rightsize /rightsize/rightsize page snapshot (same visible content as landing; first snapshot since rightsize_root.html)",
+   "fetched_at": "2026-11-11T03:07:12+00:00",
+   "sha256": "56533e8726a8a0d1c6b54ae4fde449577e80c442b9f87466b5959d563cbdc2d5"
+  }
+ ]
+}
