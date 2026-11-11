@@ -7,6 +7,7 @@ checked by reading the transcript**.
 |---|---|---|
 | 2026-10-20 Board work session (BoardBook 772442), video [xByUlijpcnE](https://www.youtube.com/watch?v=xByUlijpcnE) | [`2026-10-20_xByUlijpcnE.txt`](2026-10-20_xByUlijpcnE.txt) | Vendor word-level export, supplied by the repository owner 2026-10-21 ([raw](../../sources/youtube/vendor_transcripts/2026-10-20_xByUlijpcnE.timestamps.json)) |
 | 2026-11-09 Facilities Improvement and Oversight Committee (BoardBook 776245), video [cyHU9UOQqvc](https://www.youtube.com/watch?v=cyHU9UOQqvc) | [`2026-11-09_cyHU9UOQqvc.txt`](2026-11-09_cyHU9UOQqvc.txt) | Vendor paragraph export, supplied by the repository owner 2026-11-09 ([raw](../../sources/youtube/vendor_transcripts/2026-11-09_cyHU9UOQqvc.paragraphs.json)); build script `_build/build_2026-11-09_cyHU9UOQqvc.py` |
+| 2026-11-10 Teaching, Learning, and Enrollment Committee (BoardBook 776248), video [V6r7UqxJ53s](https://www.youtube.com/watch?v=V6r7UqxJ53s) | [`2026-11-10_V6r7UqxJ53s.txt`](2026-11-10_V6r7UqxJ53s.txt) | Vendor paragraph export, supplied by the repository owner 2026-11-10 ([raw](../../sources/youtube/vendor_transcripts/2026-11-10_V6r7UqxJ53s.paragraphs.json)); build script `_build/build_2026-11-10_V6r7UqxJ53s.py` |
 
 Files per meeting:
 - `<date>_<videoId>.txt`: one line per speaker turn, `[H:MM:SS] Name (role) {confidence if not high}: words`. Words are as
@@ -35,3 +36,9 @@ copy in `sources/youtube/transcripts/2026-10-20_xByUlijpcnE.txt`, which has the 
 - "L" is Chief Buno, and also Chair Wang when the chair called on him online.
 - "B" is legal counsel at the introductions, then a public commenter.
 Engelsman is identified from her self-introduction, Franco's "Thanks, Director Engelsman", and her reference to "Chair DePass". Chase-Miller is identified from the chair's question "Is that Director [Chase-Miller]?". The meeting summary is in `analysis/meetings/2026-11-09_fio_meeting.md`.
+
+**Re-check notes (2026-11-10 TLE committee):** the export's speakers are letters A–W, and several were reused for different people:
+- "E" is Vice-Chair Chase-Miller's self-introduction, then the board manager reading the sign-up list, a student representative's question, and Sabrina Wood for the rest of the meeting.
+- "H" is the first (student) public commenter, then Chief Buno, and also Chase-Miller's four questions when she spoke online; four vendor turns that mix two voices are split at the phrase where the speaker changes (`SPLIT` in the build script).
+- "A" includes the board manager telling "Director [La Forte]" about the virtual sign-up.
+The DLI presenters are identified from Dr. Charles's introduction (2:26:59) and cross-references ("as Will was speaking", "what Margaret was sharing"); Angela Yee (tag W) and Alayna Papaiacovou (tag K) are medium. The first public commenter is a high-school student: his name is replaced with [student name] by word time in every derived file, and the correction log records it as "[withheld]". The meeting summary is in `analysis/meetings/2026-11-10_tle_meeting.md`.

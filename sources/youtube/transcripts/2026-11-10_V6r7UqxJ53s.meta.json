@@ -1,0 +1,23 @@
+{
+ "id": "V6r7UqxJ53s",
+ "fetched_at": "2026-11-11T05:20:00Z",
+ "meta": {
+  "videoId": "V6r7UqxJ53s",
+  "title": "2026-11-10  Board of Education’s Teaching, Learning, and Enrollment Committee",
+  "lengthSeconds": "12307",
+  "author": "PPS Board of Education",
+  "uploadDate": "2026-11-10"
+ },
+ "meetings": "2026-11-10|776248",
+ "caption_kind": "vendor_stt",
+ "caption_lang": "en",
+ "n_lines": 2643,
+ "fetch_method": "Word-level speech-to-text paragraph export with automatic speaker tags (paragraphs.json, model universal-3-5-pro), supplied by the repository owner 2026-11-10; raw file archived at sources/youtube/vendor_transcripts/2026-11-10_V6r7UqxJ53s.paragraphs.json. Title from YouTube oEmbed 2026-11-10; length = the export's audio_duration. A student commenter's name is redacted in this copy.",
+ "url": "https://www.youtube.com/watch?v=V6r7UqxJ53s",
+ "boardbook_meetings": [
+  [
+   "2026-11-10",
+   "776248"
+  ]
+ ]
+}

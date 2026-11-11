@@ -1,0 +1,279 @@
+start,end,seconds,speaker,role,confidence,evidence,vendor_tag,vendor_turns
+0:22:22,0:22:58,1342,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,0
+0:23:01,0:23:04,1381,Leonie Cook,"Student representative, McDaniel junior",high,"self-introduction: ""my name is Leonie Cook and I'm a junior at McDaniel High School""",B,1
+0:23:06,0:23:09,1386,Mel Schuller,"Student representative, Benson senior",high,"self-introduction: ""My name is Mel [Schuller]"" (0:23:06)",C,2
+0:23:12,0:23:25,1392,Christy Splitt,"Board member, Zone 1; TLE Committee member",high,"self-introduction (0:23:12); addressed as ""Director [Splitt]"" (2:49:25)",D,3
+0:23:27,0:23:29,1407,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,4
+0:23:32,0:23:37,1412,Rashelle Chase-Miller,"Board Vice-Chair, Zone 4; online",high,"self-introduction: ""[Rashelle Chase-Miller], uh, board vice chair""",E,5
+0:23:38,0:24:01,1418,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,6
+0:24:03,0:24:09,1443,Rosanne Powell,Board Manager,high,"chair: ""[Rosanne], who do we have signed up to speak first?""; reads the sign-up list",E,7
+0:24:22,0:24:25,1462,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,8
+0:24:30,0:24:36,1470,Kristina Howard,Senior Chief of Academics; committee staff liaison,high,"self-introduction: ""I'm [Kristina] Howard ... Senior Chief of Academics"" (0:24:30)",F,9
+0:24:36,0:24:41,1476,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,10
+0:24:46,0:24:47,1486,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,G,11
+0:24:47,0:24:51,1487,Public commenter 1,High-school student; former King Mandarin immersion student,medium,commenter stepping up; spells his name two turns later,H,12
+0:24:53,0:24:54,1493,Rosanne Powell,Board Manager,medium,"asks the commenter to spell his last name, as the board manager does for each speaker",I,13
+0:24:54,0:24:54,1494,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,E,14
+0:24:55,0:24:58,1495,Public commenter 1,High-school student; former King Mandarin immersion student,high,public commenter self-identifies (0:25:00),J,15
+0:24:59,0:24:59,1499,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,K,16
+0:25:00,0:27:05,1500,Public commenter 1,High-school student; former King Mandarin immersion student,high,public commenter self-identifies (0:25:00),J,17
+0:27:06,0:27:09,1626,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,H,18
+0:27:13,0:27:13,1633,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,H,19
+0:27:14,0:29:40,1634,Public commenter 2,PPS parent,high,public commenter self-identifies (0:27:14),M,20
+0:29:46,0:32:13,1786,Public commenter 3,James John DLI parent,high,public commenter self-identifies (0:29:46),O,21
+0:32:19,0:34:38,1939,Public commenter 4,James John DLI parent,high,public commenter self-identifies (0:32:19),P,22
+0:34:51,0:34:58,2091,Rosanne Powell,Board Manager,high,reads the next names on the sign-up list,D,23
+0:35:05,0:35:07,2105,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,H,24
+0:35:16,0:35:16,2116,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,F,25
+0:35:17,0:37:35,2117,Public commenter 5,MLC parent; Special Education PTSA board member,high,public commenter self-identifies (0:35:17),Q,26
+0:37:49,0:39:35,2269,Public commenter 6,Peninsula parent; special-education occupational therapist,high,public commenter self-identifies (0:37:49),R,27
+0:39:45,0:40:30,2385,Public commenter 7,Vietnamese DLI parent,high,public commenter self-identifies (0:39:45),S,28
+0:40:30,0:40:30,2430,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,R,29
+0:40:30,0:41:39,2430,Public commenter 7,Vietnamese DLI parent,high,public commenter self-identifies (0:39:45),S,30
+0:41:46,0:44:17,2506,Public commenter 8,MLK parent,high,public commenter self-identifies (0:41:46),L,31
+0:44:24,0:44:26,2664,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,H,32
+0:44:30,0:44:35,2670,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,33
+0:44:48,0:47:05,2688,Public commenter 9,Special Education PTSA president; Franklin and Vestal parent,medium,public commenter self-identifies (0:44:48),H+I,34 35 36
+0:47:12,0:49:11,2832,Public commenter 10,Atkinson Spanish DLI parent,high,public commenter self-identifies (0:47:12),T,37
+0:49:11,0:49:11,2951,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,N,38
+0:49:18,0:49:36,2958,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,39
+0:49:37,0:49:43,2977,Kimberlee Armstrong,Superintendent,high,chair welcomes Superintendent Armstrong (0:49:18) and this voice replies; speaks as superintendent throughout,G,40
+0:49:43,0:49:46,2983,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,B+H,41 42
+0:49:46,0:49:49,2986,Andrea,Senior Legal Counsel; surname not stated,high,"self-introduction: ""I'm Andrea, senior legal counsel""",D,43
+0:49:50,0:50:10,2990,Kimberlee Armstrong,Superintendent,high,chair welcomes Superintendent Armstrong (0:49:18) and this voice replies; speaks as superintendent throughout,G,44
+0:50:10,0:50:14,3010,Rosanne Powell,Board Manager,high,"addresses ""Director [La Forte]"" and reports the virtual sign-up; the chair then hands the meeting to ""[Rosanne]""",A,45
+0:50:14,0:50:24,3014,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"chair apologizes for running the meeting and hands over to ""[Rosanne]""",A,45.1
+0:50:26,0:52:27,3026,Public commenter 11,Virtual commenter on special education,high,virtual public commenter self-identifies (0:50:26),C,46
+0:52:35,0:52:46,3155,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,47
+0:52:49,0:55:43,3169,Kristina Howard,Senior Chief of Academics; committee staff liaison,high,"self-introduction: ""I'm [Kristina] Howard ... Senior Chief of Academics"" (0:24:30)",F,48
+0:55:44,0:56:13,3344,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,high,"Howard: ""starting with, um, Chief [Jey] Buno"" (0:52:49); this voice then begins the presentation (0:55:44)",H,49
+0:56:13,0:56:19,3373,Christy Splitt,"Board member, Zone 1; TLE Committee member",high,"self-introduction (0:23:12); addressed as ""Director [Splitt]"" (2:49:25)",D,50
+0:56:19,0:56:19,3379,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,high,"Howard: ""starting with, um, Chief [Jey] Buno"" (0:52:49); this voice then begins the presentation (0:55:44)",H,51
+0:56:19,0:56:23,3379,Christy Splitt,"Board member, Zone 1; TLE Committee member",high,"self-introduction (0:23:12); addressed as ""Director [Splitt]"" (2:49:25)",D,52
+0:56:23,0:57:54,3383,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,high,"Howard: ""starting with, um, Chief [Jey] Buno"" (0:52:49); this voice then begins the presentation (0:55:44)",H,53
+0:57:55,1:05:01,3475,Sabrina Wood,"Senior Director, Special Education",high,"Buno: ""I'll hand it to, um, Sabrina to get us started"" (0:56:23); she then presents (0:57:55)",E,54
+1:05:06,1:05:58,3906,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,high,"Howard: ""starting with, um, Chief [Jey] Buno"" (0:52:49); this voice then begins the presentation (0:55:44)",H,55
+1:05:58,1:05:58,3958,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,J,56
+1:05:59,1:06:05,3959,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,high,"Howard: ""starting with, um, Chief [Jey] Buno"" (0:52:49); this voice then begins the presentation (0:55:44)",H,57
+1:06:05,1:06:05,3965,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,G,58
+1:06:06,1:06:06,3966,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,high,"Howard: ""starting with, um, Chief [Jey] Buno"" (0:52:49); this voice then begins the presentation (0:55:44)",H,59
+1:06:06,1:06:23,3966,Christy Splitt,"Board member, Zone 1; TLE Committee member",high,"self-introduction (0:23:12); addressed as ""Director [Splitt]"" (2:49:25)",D,60
+1:06:23,1:06:25,3983,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,high,"Howard: ""starting with, um, Chief [Jey] Buno"" (0:52:49); this voice then begins the presentation (0:55:44)",H,61
+1:06:25,1:06:27,3985,Christy Splitt,"Board member, Zone 1; TLE Committee member",high,"self-introduction (0:23:12); addressed as ""Director [Splitt]"" (2:49:25)",D,62
+1:06:27,1:06:43,3987,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,high,"Howard: ""starting with, um, Chief [Jey] Buno"" (0:52:49); this voice then begins the presentation (0:55:44)",H,63
+1:06:43,1:06:43,4003,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,I,64
+1:06:44,1:07:55,4004,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,high,"Howard: ""starting with, um, Chief [Jey] Buno"" (0:52:49); this voice then begins the presentation (0:55:44)",H,65
+1:07:57,1:09:26,4077,Sabrina Wood,"Senior Director, Special Education",high,"Buno: ""I'll hand it to, um, Sabrina to get us started"" (0:56:23); she then presents (0:57:55)",E,66
+1:09:29,1:10:57,4169,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,high,"Howard: ""starting with, um, Chief [Jey] Buno"" (0:52:49); this voice then begins the presentation (0:55:44)",H,67
+1:11:01,1:13:03,4261,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,high,"Howard: ""starting with, um, Chief [Jey] Buno"" (0:52:49); this voice then begins the presentation (0:55:44)",H,68
+1:13:04,1:13:04,4384,Sabrina Wood,"Senior Director, Special Education",high,"Buno: ""I'll hand it to, um, Sabrina to get us started"" (0:56:23); she then presents (0:57:55)",E,69
+1:13:05,1:15:59,4385,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,high,"Howard: ""starting with, um, Chief [Jey] Buno"" (0:52:49); this voice then begins the presentation (0:55:44)",H,70
+1:16:03,1:19:48,4563,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,high,"Howard: ""starting with, um, Chief [Jey] Buno"" (0:52:49); this voice then begins the presentation (0:55:44)",H,71
+1:19:48,1:20:14,4788,Christy Splitt,"Board member, Zone 1; TLE Committee member",high,"self-introduction (0:23:12); addressed as ""Director [Splitt]"" (2:49:25)",D,72
+1:20:14,1:20:36,4814,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,high,"Howard: ""starting with, um, Chief [Jey] Buno"" (0:52:49); this voice then begins the presentation (0:55:44)",H,73
+1:20:39,1:20:44,4839,Christy Splitt,"Board member, Zone 1; TLE Committee member",high,"self-introduction (0:23:12); addressed as ""Director [Splitt]"" (2:49:25)",D,74
+1:20:44,1:20:44,4844,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,high,"Howard: ""starting with, um, Chief [Jey] Buno"" (0:52:49); this voice then begins the presentation (0:55:44)",H,75
+1:20:45,1:20:45,4845,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,S,76
+1:20:45,1:23:01,4845,Sabrina Wood,"Senior Director, Special Education",high,"Buno: ""I'll hand it to, um, Sabrina to get us started"" (0:56:23); she then presents (0:57:55)",E,77
+1:23:03,1:25:54,4983,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,high,"Howard: ""starting with, um, Chief [Jey] Buno"" (0:52:49); this voice then begins the presentation (0:55:44)",H,78
+1:26:01,1:29:11,5161,Sabrina Wood,"Senior Director, Special Education",high,"Buno: ""I'll hand it to, um, Sabrina to get us started"" (0:56:23); she then presents (0:57:55)",E,79
+1:29:12,1:30:02,5352,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,high,"Howard: ""starting with, um, Chief [Jey] Buno"" (0:52:49); this voice then begins the presentation (0:55:44)",H,80
+1:30:02,1:30:03,5402,Sabrina Wood,"Senior Director, Special Education",high,"Buno: ""I'll hand it to, um, Sabrina to get us started"" (0:56:23); she then presents (0:57:55)",E,81
+1:30:04,1:30:13,5404,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,82
+1:30:13,1:32:06,5413,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,high,"Howard: ""starting with, um, Chief [Jey] Buno"" (0:52:49); this voice then begins the presentation (0:55:44)",H,83
+1:32:07,1:32:29,5527,Christy Splitt,"Board member, Zone 1; TLE Committee member",high,"self-introduction (0:23:12); addressed as ""Director [Splitt]"" (2:49:25)",D,84
+1:32:29,1:36:20,5549,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,high,"Howard: ""starting with, um, Chief [Jey] Buno"" (0:52:49); this voice then begins the presentation (0:55:44)",H,85
+1:36:24,1:36:41,5784,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,high,"Howard: ""starting with, um, Chief [Jey] Buno"" (0:52:49); this voice then begins the presentation (0:55:44)",H,86
+1:36:42,1:36:42,5802,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,P,87
+1:36:42,1:39:26,5802,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,high,"Howard: ""starting with, um, Chief [Jey] Buno"" (0:52:49); this voice then begins the presentation (0:55:44)",H,88
+1:39:26,1:39:27,5966,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,89
+1:39:27,1:39:28,5967,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,G+P,90 91
+1:39:28,1:39:34,5968,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,92
+1:39:35,1:40:00,5975,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,high,"Howard: ""starting with, um, Chief [Jey] Buno"" (0:52:49); this voice then begins the presentation (0:55:44)",H,93
+1:40:00,1:40:24,6000,Christy Splitt,"Board member, Zone 1; TLE Committee member",high,"self-introduction (0:23:12); addressed as ""Director [Splitt]"" (2:49:25)",D,94
+1:40:25,1:40:56,6025,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,high,"Howard: ""starting with, um, Chief [Jey] Buno"" (0:52:49); this voice then begins the presentation (0:55:44)",H,95
+1:40:57,1:40:57,6057,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,O,96
+1:40:57,1:41:18,6057,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,high,"Howard: ""starting with, um, Chief [Jey] Buno"" (0:52:49); this voice then begins the presentation (0:55:44)",H,97
+1:41:19,1:42:03,6079,Sabrina Wood,"Senior Director, Special Education",high,"Buno: ""I'll hand it to, um, Sabrina to get us started"" (0:56:23); she then presents (0:57:55)",E,98
+1:42:04,1:42:17,6124,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,high,"Howard: ""starting with, um, Chief [Jey] Buno"" (0:52:49); this voice then begins the presentation (0:55:44)",H,99
+1:42:17,1:42:31,6137,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,100
+1:42:31,1:42:32,6151,Christy Splitt,"Board member, Zone 1; TLE Committee member",high,"self-introduction (0:23:12); addressed as ""Director [Splitt]"" (2:49:25)",D,101
+1:42:36,1:42:38,6156,Sabrina Wood,"Senior Director, Special Education",high,"Buno: ""I'll hand it to, um, Sabrina to get us started"" (0:56:23); she then presents (0:57:55)",E,102
+1:42:38,1:42:39,6158,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,103
+1:42:39,1:43:04,6159,Sabrina Wood,"Senior Director, Special Education",high,"Buno: ""I'll hand it to, um, Sabrina to get us started"" (0:56:23); she then presents (0:57:55)",E,104
+1:43:04,1:43:04,6184,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,K,105
+1:43:04,1:43:05,6184,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,106
+1:43:08,1:43:08,6188,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,N,107
+1:43:08,1:43:09,6188,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,high,"Howard: ""starting with, um, Chief [Jey] Buno"" (0:52:49); this voice then begins the presentation (0:55:44)",H,108
+1:43:09,1:43:10,6189,Sabrina Wood,"Senior Director, Special Education",high,"Buno: ""I'll hand it to, um, Sabrina to get us started"" (0:56:23); she then presents (0:57:55)",E,109
+1:43:11,1:46:57,6191,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,high,"Howard: ""starting with, um, Chief [Jey] Buno"" (0:52:49); this voice then begins the presentation (0:55:44)",H,110
+1:47:01,1:47:13,6421,Christy Splitt,"Board member, Zone 1; TLE Committee member",high,"self-introduction (0:23:12); addressed as ""Director [Splitt]"" (2:49:25)",D,111
+1:47:14,1:47:46,6434,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,high,"Howard: ""starting with, um, Chief [Jey] Buno"" (0:52:49); this voice then begins the presentation (0:55:44)",H,112
+1:47:48,1:48:13,6468,Christy Splitt,"Board member, Zone 1; TLE Committee member",high,"self-introduction (0:23:12); addressed as ""Director [Splitt]"" (2:49:25)",D,113
+1:48:13,1:48:14,6493,Sabrina Wood,"Senior Director, Special Education",high,"Buno: ""I'll hand it to, um, Sabrina to get us started"" (0:56:23); she then presents (0:57:55)",E,114
+1:48:14,1:48:19,6494,Christy Splitt,"Board member, Zone 1; TLE Committee member",high,"self-introduction (0:23:12); addressed as ""Director [Splitt]"" (2:49:25)",D,115
+1:48:20,1:48:20,6500,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,U,116
+1:48:20,1:48:23,6500,Christy Splitt,"Board member, Zone 1; TLE Committee member",high,"self-introduction (0:23:12); addressed as ""Director [Splitt]"" (2:49:25)",D,117
+1:48:23,1:48:24,6503,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,high,"Howard: ""starting with, um, Chief [Jey] Buno"" (0:52:49); this voice then begins the presentation (0:55:44)",H,118
+1:48:24,1:48:46,6504,Christy Splitt,"Board member, Zone 1; TLE Committee member",high,"self-introduction (0:23:12); addressed as ""Director [Splitt]"" (2:49:25)",D,119
+1:48:46,1:48:47,6526,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,120
+1:48:47,1:48:49,6527,Christy Splitt,"Board member, Zone 1; TLE Committee member",high,"self-introduction (0:23:12); addressed as ""Director [Splitt]"" (2:49:25)",D,121
+1:48:49,1:48:56,6529,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,122
+1:48:56,1:48:57,6536,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,high,"Howard: ""starting with, um, Chief [Jey] Buno"" (0:52:49); this voice then begins the presentation (0:55:44)",H,123
+1:48:57,1:48:57,6537,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,N,124
+1:49:01,1:49:07,6541,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,high,"Howard: ""starting with, um, Chief [Jey] Buno"" (0:52:49); this voice then begins the presentation (0:55:44)",H,125
+1:49:07,1:49:20,6547,Christy Splitt,"Board member, Zone 1; TLE Committee member",high,"self-introduction (0:23:12); addressed as ""Director [Splitt]"" (2:49:25)",D,126
+1:49:22,1:49:22,6562,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,K,127
+1:49:22,1:51:19,6562,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,high,"Howard: ""starting with, um, Chief [Jey] Buno"" (0:52:49); this voice then begins the presentation (0:55:44)",H,128
+1:51:21,1:56:36,6681,Sabrina Wood,"Senior Director, Special Education",high,"Buno: ""I'll hand it to, um, Sabrina to get us started"" (0:56:23); she then presents (0:57:55)",E,129
+1:56:42,1:56:42,7002,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,O,130
+1:56:43,1:56:54,7003,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,131
+1:56:55,1:57:20,7015,Mel Schuller,"Student representative, Benson senior",medium,student representative asked for questions by the chair; the other representative (Cook) asks hers at 2:00:06,E,132
+1:57:21,1:57:29,7041,Sabrina Wood,"Senior Director, Special Education",high,"answer in ""3 layers"" (repeated at 1:58:04 under her tag E)",E,132.1
+1:57:29,1:58:01,7049,Christy Splitt,"Board member, Zone 1; TLE Committee member",high,"self-introduction (0:23:12); addressed as ""Director [Splitt]"" (2:49:25)",D,133
+1:58:01,1:58:03,7081,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,medium,"one-word remark, vendor tag H",H,134
+1:58:04,2:00:01,7084,Sabrina Wood,"Senior Director, Special Education",high,"Buno: ""I'll hand it to, um, Sabrina to get us started"" (0:56:23); she then presents (0:57:55)",E,135
+2:00:03,2:00:03,7203,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,K,136
+2:00:06,2:00:37,7206,Leonie Cook,"Student representative, McDaniel junior",medium,vendor tag B; Cook introduces herself with this tag (0:23:01),B,137
+2:00:38,2:02:41,7238,Sabrina Wood,"Senior Director, Special Education",high,"Buno: ""I'll hand it to, um, Sabrina to get us started"" (0:56:23); she then presents (0:57:55)",E,138
+2:02:45,2:04:09,7365,Christy Splitt,"Board member, Zone 1; TLE Committee member",high,"self-introduction (0:23:12); addressed as ""Director [Splitt]"" (2:49:25)",D,139
+2:04:09,2:04:10,7449,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,L,140
+2:04:10,2:04:27,7450,Christy Splitt,"Board member, Zone 1; TLE Committee member",high,"self-introduction (0:23:12); addressed as ""Director [Splitt]"" (2:49:25)",D,141
+2:04:29,2:05:56,7469,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,high,"Howard: ""starting with, um, Chief [Jey] Buno"" (0:52:49); this voice then begins the presentation (0:55:44)",H,142
+2:05:56,2:05:57,7556,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,V,143
+2:05:58,2:06:16,7558,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,high,"Howard: ""starting with, um, Chief [Jey] Buno"" (0:52:49); this voice then begins the presentation (0:55:44)",H,144
+2:06:17,2:07:21,7577,Sabrina Wood,"Senior Director, Special Education",high,"Buno: ""I'll hand it to, um, Sabrina to get us started"" (0:56:23); she then presents (0:57:55)",E,145
+2:07:24,2:07:42,7644,Christy Splitt,"Board member, Zone 1; TLE Committee member",high,"self-introduction (0:23:12); addressed as ""Director [Splitt]"" (2:49:25)",D,146
+2:07:43,2:07:44,7663,Sabrina Wood,"Senior Director, Special Education",high,"Buno: ""I'll hand it to, um, Sabrina to get us started"" (0:56:23); she then presents (0:57:55)",E,147
+2:07:45,2:08:13,7665,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,high,"Howard: ""starting with, um, Chief [Jey] Buno"" (0:52:49); this voice then begins the presentation (0:55:44)",H,148
+2:08:14,2:08:48,7694,Christy Splitt,"Board member, Zone 1; TLE Committee member",high,"self-introduction (0:23:12); addressed as ""Director [Splitt]"" (2:49:25)",D,149
+2:08:49,2:08:49,7729,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,W,150
+2:08:49,2:10:02,7729,Sabrina Wood,"Senior Director, Special Education",high,"Buno: ""I'll hand it to, um, Sabrina to get us started"" (0:56:23); she then presents (0:57:55)",E,151
+2:10:03,2:14:10,7803,Christy Splitt,"Board member, Zone 1; TLE Committee member",high,"self-introduction (0:23:12); addressed as ""Director [Splitt]"" (2:49:25)",D,152
+2:14:11,2:14:14,8051,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,153
+2:14:18,2:14:18,8058,Christy Splitt,"Board member, Zone 1; TLE Committee member",high,"self-introduction (0:23:12); addressed as ""Director [Splitt]"" (2:49:25)",D,154
+2:14:19,2:14:19,8059,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,N,155
+2:14:20,2:14:52,8060,Rashelle Chase-Miller,"Board Vice-Chair, Zone 4; online",high,"chair: ""we've got Vice Chair [Chase-Miller] online. She has her hand up"" (2:14:11); ""I have 4 questions""",H,156
+2:14:52,2:15:39,8092,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,medium,"staff answer to the weighted-model question, same vendor tag as Buno",H,156.1
+2:15:42,2:15:57,8142,Rashelle Chase-Miller,"Board Vice-Chair, Zone 4; online",high,Chase-Miller resumes her list of questions,H,156.2
+2:15:57,2:16:13,8157,Sabrina Wood,"Senior Director, Special Education",high,"Buno: ""I'll hand it to, um, Sabrina to get us started"" (0:56:23); she then presents (0:57:55)",E,157
+2:16:15,2:16:15,8175,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,158
+2:16:15,2:16:16,8175,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,I,159
+2:16:17,2:16:27,8177,Rashelle Chase-Miller,"Board Vice-Chair, Zone 4; online",high,continues her four questions (second of the vendor turns merged under tag H),H,160
+2:16:29,2:16:59,8189,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,medium,"staff answer on CRIS accessibility, same vendor tag as Buno",H,160.1
+2:17:01,2:17:02,8221,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,W,161
+2:17:03,2:17:10,8223,Rashelle Chase-Miller,"Board Vice-Chair, Zone 4; online",high,"""And last question"" of her four",H,162
+2:17:13,2:18:10,8233,Sabrina Wood,"Senior Director, Special Education",high,"Buno: ""I'll hand it to, um, Sabrina to get us started"" (0:56:23); she then presents (0:57:55)",E,163
+2:18:10,2:18:41,8290,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,164
+2:18:41,2:18:41,8321,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,high,"Howard: ""starting with, um, Chief [Jey] Buno"" (0:52:49); this voice then begins the presentation (0:55:44)",H,165
+2:18:43,2:18:45,8323,Sabrina Wood,"Senior Director, Special Education",high,"Buno: ""I'll hand it to, um, Sabrina to get us started"" (0:56:23); she then presents (0:57:55)",E,166
+2:18:46,2:19:02,8326,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,167
+2:19:03,2:21:22,8343,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,high,"Howard: ""starting with, um, Chief [Jey] Buno"" (0:52:49); this voice then begins the presentation (0:55:44)",H,168
+2:21:23,2:21:45,8483,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,169
+2:21:45,2:21:46,8505,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,high,"Howard: ""starting with, um, Chief [Jey] Buno"" (0:52:49); this voice then begins the presentation (0:55:44)",H,170
+2:21:46,2:22:22,8506,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,171
+2:22:24,2:23:27,8544,Jey Buno,Chief of Student Support Services; introduced as Chief of Educational Services,high,"Howard: ""starting with, um, Chief [Jey] Buno"" (0:52:49); this voice then begins the presentation (0:55:44)",H,172
+2:23:27,2:24:37,8607,Sabrina Wood,"Senior Director, Special Education",high,"Buno: ""I'll hand it to, um, Sabrina to get us started"" (0:56:23); she then presents (0:57:55)",E,173
+2:24:40,2:24:40,8680,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,Q,174
+2:24:41,2:24:46,8681,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,175
+2:24:47,2:26:05,8687,Kimberlee Armstrong,Superintendent,high,chair welcomes Superintendent Armstrong (0:49:18) and this voice replies; speaks as superintendent throughout,G,176
+2:26:07,2:26:07,8767,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,N,177
+2:26:08,2:26:31,8768,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,178
+2:26:32,2:26:58,8792,Kristina Howard,Senior Chief of Academics; committee staff liaison,high,"self-introduction: ""I'm [Kristina] Howard ... Senior Chief of Academics"" (0:24:30)",F,179
+2:26:59,2:28:20,8819,Dr. Kelli Charles,"Interim Chief of Accountability, Equity, and Continuous Improvement",high,"Howard: ""turn it over to Uh, Dr. Charles, who's the interim chief equity, accountability ..."" (2:26:32); introduces the DLI team",N,180
+2:28:24,2:30:33,8904,Will Flores,"Director, Multilingual Services / DLI",high,"DLI director introduced by Dr. Charles; Papaiacovou refers to him as ""Will"" (2:37:41); ""As a Latino man myself"" (2:40:34)",V,181
+2:30:41,2:31:09,9041,Will Flores,"Director, Multilingual Services / DLI",high,"DLI director introduced by Dr. Charles; Papaiacovou refers to him as ""Will"" (2:37:41); ""As a Latino man myself"" (2:40:34)",V,182
+2:31:11,2:32:59,9071,Angela Yee,"Assistant Director, Secondary Multilingual Services",medium,"by elimination: the third presenter Dr. Charles introduced (secondary multilingual lead), distinct voice from Flores and Papaiacovou",W,183
+2:33:02,2:33:02,9182,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,R,184
+2:33:02,2:33:42,9182,Angela Yee,"Assistant Director, Secondary Multilingual Services",medium,"by elimination: the third presenter Dr. Charles introduced (secondary multilingual lead), distinct voice from Flores and Papaiacovou",W,185
+2:33:46,2:36:18,9226,Will Flores,"Director, Multilingual Services / DLI",high,"DLI director introduced by Dr. Charles; Papaiacovou refers to him as ""Will"" (2:37:41); ""As a Latino man myself"" (2:40:34)",V,186
+2:36:22,2:37:17,9382,Will Flores,"Director, Multilingual Services / DLI",high,"DLI director introduced by Dr. Charles; Papaiacovou refers to him as ""Will"" (2:37:41); ""As a Latino man myself"" (2:40:34)",V,187
+2:37:21,2:37:37,9441,Will Flores,"Director, Multilingual Services / DLI",high,"DLI director introduced by Dr. Charles; Papaiacovou refers to him as ""Will"" (2:37:41); ""As a Latino man myself"" (2:40:34)",V,188
+2:37:41,2:40:19,9461,Alayna Papaiacovou,"Assistant Director, K-5 Multilingual Services",medium,"K-5 multilingual lead (introduced by Dr. Charles, 2:26:59): speaks of K-5 ELD ""as Will was speaking"" (2:37:41) and of being an assistant principal at Bridger",K,189
+2:40:24,2:40:31,9624,Will Flores,"Director, Multilingual Services / DLI",high,"DLI director introduced by Dr. Charles; Papaiacovou refers to him as ""Will"" (2:37:41); ""As a Latino man myself"" (2:40:34)",V,190
+2:40:32,2:40:33,9632,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,P,191
+2:40:34,2:43:37,9634,Will Flores,"Director, Multilingual Services / DLI",high,"DLI director introduced by Dr. Charles; Papaiacovou refers to him as ""Will"" (2:37:41); ""As a Latino man myself"" (2:40:34)",V,192
+2:43:42,2:44:08,9822,Alayna Papaiacovou,"Assistant Director, K-5 Multilingual Services",medium,"K-5 multilingual lead (introduced by Dr. Charles, 2:26:59): speaks of K-5 ELD ""as Will was speaking"" (2:37:41) and of being an assistant principal at Bridger",K,193
+2:44:08,2:44:09,9848,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,194
+2:44:09,2:46:01,9849,Alayna Papaiacovou,"Assistant Director, K-5 Multilingual Services",medium,"K-5 multilingual lead (introduced by Dr. Charles, 2:26:59): speaks of K-5 ELD ""as Will was speaking"" (2:37:41) and of being an assistant principal at Bridger",K,195
+2:46:07,2:47:35,9967,Dr. Kelli Charles,"Interim Chief of Accountability, Equity, and Continuous Improvement",medium,vendor tag N (Dr. Charles); takes the King-to-Boise-Eliot transition question,N,196
+2:47:44,2:47:48,10064,Dr. Kelli Charles,"Interim Chief of Accountability, Equity, and Continuous Improvement",medium,same voice continues,N,197
+2:47:49,2:48:01,10069,Angela Yee,"Assistant Director, Secondary Multilingual Services",medium,"by elimination: the third presenter Dr. Charles introduced (secondary multilingual lead), distinct voice from Flores and Papaiacovou",W,198
+2:48:01,2:48:02,10081,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,J,199
+2:48:03,2:48:20,10083,Angela Yee,"Assistant Director, Secondary Multilingual Services",medium,"by elimination: the third presenter Dr. Charles introduced (secondary multilingual lead), distinct voice from Flores and Papaiacovou",W,200
+2:48:25,2:48:46,10105,Angela Yee,"Assistant Director, Secondary Multilingual Services",medium,"by elimination: the third presenter Dr. Charles introduced (secondary multilingual lead), distinct voice from Flores and Papaiacovou",W,201
+2:48:53,2:49:09,10133,Angela Yee,"Assistant Director, Secondary Multilingual Services",medium,"by elimination: the third presenter Dr. Charles introduced (secondary multilingual lead), distinct voice from Flores and Papaiacovou",W,202
+2:49:19,2:49:22,10159,Alayna Papaiacovou,"Assistant Director, K-5 Multilingual Services",medium,"K-5 multilingual lead (introduced by Dr. Charles, 2:26:59): speaks of K-5 ELD ""as Will was speaking"" (2:37:41) and of being an assistant principal at Bridger",K,203
+2:49:23,2:49:25,10163,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,H,204
+2:49:25,2:49:32,10165,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,205
+2:49:32,2:49:51,10172,Christy Splitt,"Board member, Zone 1; TLE Committee member",high,"self-introduction (0:23:12); addressed as ""Director [Splitt]"" (2:49:25)",D,206
+2:49:56,2:50:11,10196,Christy Splitt,"Board member, Zone 1; TLE Committee member",high,"self-introduction (0:23:12); addressed as ""Director [Splitt]"" (2:49:25)",D,207
+2:50:16,2:51:26,10216,Christy Splitt,"Board member, Zone 1; TLE Committee member",high,"self-introduction (0:23:12); addressed as ""Director [Splitt]"" (2:49:25)",D,208
+2:51:26,2:51:26,10286,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,L,209
+2:51:26,2:52:02,10286,Christy Splitt,"Board member, Zone 1; TLE Committee member",high,"self-introduction (0:23:12); addressed as ""Director [Splitt]"" (2:49:25)",D,210
+2:52:04,2:53:16,10324,Kimberlee Armstrong,Superintendent,high,chair welcomes Superintendent Armstrong (0:49:18) and this voice replies; speaks as superintendent throughout,G,211
+2:53:16,2:53:16,10396,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,N,212
+2:53:17,2:55:26,10397,Kimberlee Armstrong,Superintendent,high,chair welcomes Superintendent Armstrong (0:49:18) and this voice replies; speaks as superintendent throughout,G,213
+2:55:28,2:56:41,10528,Christy Splitt,"Board member, Zone 1; TLE Committee member",high,"self-introduction (0:23:12); addressed as ""Director [Splitt]"" (2:49:25)",D,214
+2:56:41,2:56:41,10601,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,E,215
+2:56:42,2:57:35,10602,Christy Splitt,"Board member, Zone 1; TLE Committee member",high,"self-introduction (0:23:12); addressed as ""Director [Splitt]"" (2:49:25)",D,216
+2:57:35,2:59:09,10655,Kristina Howard,Senior Chief of Academics; committee staff liaison,high,"self-introduction: ""I'm [Kristina] Howard ... Senior Chief of Academics"" (0:24:30)",F,217
+2:59:11,2:59:24,10751,Kimberlee Armstrong,Superintendent,high,chair welcomes Superintendent Armstrong (0:49:18) and this voice replies; speaks as superintendent throughout,G,218
+2:59:29,2:59:59,10769,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,219
+3:00:00,3:00:01,10800,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,R,220
+3:00:05,3:01:23,10805,Will Flores,"Director, Multilingual Services / DLI",high,"DLI director introduced by Dr. Charles; Papaiacovou refers to him as ""Will"" (2:37:41); ""As a Latino man myself"" (2:40:34)",V,221
+3:01:23,3:01:45,10883,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,222
+3:01:50,3:01:54,10910,Kristina Howard,Senior Chief of Academics; committee staff liaison,high,"self-introduction: ""I'm [Kristina] Howard ... Senior Chief of Academics"" (0:24:30)",F,223
+3:01:57,3:02:11,10917,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,224
+3:02:12,3:03:37,10932,Kimberlee Armstrong,Superintendent,high,chair welcomes Superintendent Armstrong (0:49:18) and this voice replies; speaks as superintendent throughout,G,225
+3:03:39,3:03:52,11019,Alayna Papaiacovou,"Assistant Director, K-5 Multilingual Services",medium,"K-5 multilingual lead (introduced by Dr. Charles, 2:26:59): speaks of K-5 ELD ""as Will was speaking"" (2:37:41) and of being an assistant principal at Bridger",K,226
+3:03:52,3:03:52,11032,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,U,227
+3:03:52,3:04:03,11032,Alayna Papaiacovou,"Assistant Director, K-5 Multilingual Services",medium,"K-5 multilingual lead (introduced by Dr. Charles, 2:26:59): speaks of K-5 ELD ""as Will was speaking"" (2:37:41) and of being an assistant principal at Bridger",K,228
+3:04:07,3:04:44,11047,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,229
+3:04:51,3:04:58,11091,Alayna Papaiacovou,"Assistant Director, K-5 Multilingual Services",medium,"K-5 multilingual lead (introduced by Dr. Charles, 2:26:59): speaks of K-5 ELD ""as Will was speaking"" (2:37:41) and of being an assistant principal at Bridger",K,230
+3:04:58,3:05:26,11098,Kimberlee Armstrong,Superintendent,high,chair welcomes Superintendent Armstrong (0:49:18) and this voice replies; speaks as superintendent throughout,G,231
+3:05:26,3:05:26,11126,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,I,232
+3:05:26,3:05:27,11126,Kimberlee Armstrong,Superintendent,high,chair welcomes Superintendent Armstrong (0:49:18) and this voice replies; speaks as superintendent throughout,G,233
+3:05:27,3:06:10,11127,Margaret Calvert,School Planning & Modernization (rightsizing data modeling),high,"Armstrong: ""Margaret Calvert, who is happy to join and speak to it"" (3:04:58); this voice answers ""Director [La Forte]"" (3:05:27); Papaiacovou later adds ""to what Margaret was sharing"" (3:16:20)",U,234
+3:06:10,3:06:10,11170,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,N,235
+3:06:11,3:06:20,11171,Margaret Calvert,School Planning & Modernization (rightsizing data modeling),high,"Armstrong: ""Margaret Calvert, who is happy to join and speak to it"" (3:04:58); this voice answers ""Director [La Forte]"" (3:05:27); Papaiacovou later adds ""to what Margaret was sharing"" (3:16:20)",U,236
+3:06:21,3:06:37,11181,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,237
+3:06:41,3:06:50,11201,Margaret Calvert,School Planning & Modernization (rightsizing data modeling),high,"Armstrong: ""Margaret Calvert, who is happy to join and speak to it"" (3:04:58); this voice answers ""Director [La Forte]"" (3:05:27); Papaiacovou later adds ""to what Margaret was sharing"" (3:16:20)",U,238
+3:06:50,3:06:50,11210,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,K,239
+3:06:50,3:07:16,11210,Margaret Calvert,School Planning & Modernization (rightsizing data modeling),high,"Armstrong: ""Margaret Calvert, who is happy to join and speak to it"" (3:04:58); this voice answers ""Director [La Forte]"" (3:05:27); Papaiacovou later adds ""to what Margaret was sharing"" (3:16:20)",U,240
+3:07:16,3:07:16,11236,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,K,241
+3:07:16,3:07:18,11236,Margaret Calvert,School Planning & Modernization (rightsizing data modeling),high,"Armstrong: ""Margaret Calvert, who is happy to join and speak to it"" (3:04:58); this voice answers ""Director [La Forte]"" (3:05:27); Papaiacovou later adds ""to what Margaret was sharing"" (3:16:20)",U,242
+3:07:19,3:07:35,11239,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,243
+3:07:39,3:08:35,11259,Margaret Calvert,School Planning & Modernization (rightsizing data modeling),high,"Armstrong: ""Margaret Calvert, who is happy to join and speak to it"" (3:04:58); this voice answers ""Director [La Forte]"" (3:05:27); Papaiacovou later adds ""to what Margaret was sharing"" (3:16:20)",U,244
+3:08:35,3:08:41,11315,Kimberlee Armstrong,Superintendent,high,chair welcomes Superintendent Armstrong (0:49:18) and this voice replies; speaks as superintendent throughout,G,245
+3:08:41,3:09:09,11321,Margaret Calvert,School Planning & Modernization (rightsizing data modeling),high,"Armstrong: ""Margaret Calvert, who is happy to join and speak to it"" (3:04:58); this voice answers ""Director [La Forte]"" (3:05:27); Papaiacovou later adds ""to what Margaret was sharing"" (3:16:20)",U,246
+3:09:10,3:09:55,11350,Kimberlee Armstrong,Superintendent,high,chair welcomes Superintendent Armstrong (0:49:18) and this voice replies; speaks as superintendent throughout,G,247
+3:09:58,3:10:08,11398,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,248
+3:10:13,3:11:11,11413,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,249
+3:11:12,3:12:26,11472,Kimberlee Armstrong,Superintendent,high,chair welcomes Superintendent Armstrong (0:49:18) and this voice replies; speaks as superintendent throughout,G,250
+3:12:28,3:12:29,11548,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,251
+3:12:29,3:12:29,11549,Leonie Cook,"Student representative, McDaniel junior",medium,vendor tag B; Cook introduces herself with this tag (0:23:01),B,252
+3:12:29,3:13:01,11549,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,253
+3:13:02,3:15:40,11582,Margaret Calvert,School Planning & Modernization (rightsizing data modeling),high,"Armstrong: ""Margaret Calvert, who is happy to join and speak to it"" (3:04:58); this voice answers ""Director [La Forte]"" (3:05:27); Papaiacovou later adds ""to what Margaret was sharing"" (3:16:20)",U,254
+3:15:41,3:16:18,11741,Kimberlee Armstrong,Superintendent,high,chair welcomes Superintendent Armstrong (0:49:18) and this voice replies; speaks as superintendent throughout,G,255
+3:16:20,3:18:25,11780,Alayna Papaiacovou,"Assistant Director, K-5 Multilingual Services",medium,"K-5 multilingual lead (introduced by Dr. Charles, 2:26:59): speaks of K-5 ELD ""as Will was speaking"" (2:37:41) and of being an assistant principal at Bridger",K,256
+3:18:29,3:19:19,11909,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,257
+3:19:20,3:20:07,11960,Alayna Papaiacovou,"Assistant Director, K-5 Multilingual Services",medium,"K-5 multilingual lead (introduced by Dr. Charles, 2:26:59): speaks of K-5 ELD ""as Will was speaking"" (2:37:41) and of being an assistant principal at Bridger",K,258
+3:20:08,3:20:10,12008,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,259
+3:20:10,3:20:15,12010,Alayna Papaiacovou,"Assistant Director, K-5 Multilingual Services",medium,"K-5 multilingual lead (introduced by Dr. Charles, 2:26:59): speaks of K-5 ELD ""as Will was speaking"" (2:37:41) and of being an assistant principal at Bridger",K,260
+3:20:16,3:20:23,12016,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,261
+3:20:28,3:20:52,12028,Kimberlee Armstrong,Superintendent,high,chair welcomes Superintendent Armstrong (0:49:18) and this voice replies; speaks as superintendent throughout,G,262
+3:20:52,3:21:27,12052,Leonie Cook,"Student representative, McDaniel junior",medium,vendor tag B; Cook introduces herself with this tag (0:23:01),B,263
+3:21:28,3:21:30,12088,Kimberlee Armstrong,Superintendent,high,chair welcomes Superintendent Armstrong (0:49:18) and this voice replies; speaks as superintendent throughout,G,264
+3:21:32,3:21:35,12092,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,265
+3:21:36,3:21:39,12096,Leonie Cook,"Student representative, McDaniel junior",medium,vendor tag B; Cook introduces herself with this tag (0:23:01),B,266
+3:21:40,3:23:07,12100,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,267
+3:23:08,3:23:08,12188,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,I,268
+3:23:08,3:23:53,12188,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,269
+3:23:56,3:23:58,12236,Alayna Papaiacovou,"Assistant Director, K-5 Multilingual Services",medium,"K-5 multilingual lead (introduced by Dr. Charles, 2:26:59): speaks of K-5 ELD ""as Will was speaking"" (2:37:41) and of being an assistant principal at Bridger",K,270
+3:23:59,3:24:19,12239,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,271
+3:24:23,3:24:32,12263,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,272
+3:24:32,3:24:33,12272,Rashelle Chase-Miller,"Board Vice-Chair, Zone 4; online",medium,reply after the chair asks Director [Chase-Miller] online whether she has questions,H,273
+3:24:35,3:24:48,12275,Virginia La Forte,"Board member, Zone 5; TLE Committee chair",high,"Chair: calls the meeting to order (0:22:22) and runs it throughout; addressed as ""Director [La Forte]""",A,274
+3:24:48,3:24:49,12288,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,K,275
+3:24:49,3:24:49,12289,Will Flores,"Director, Multilingual Services / DLI",high,"DLI director introduced by Dr. Charles; Papaiacovou refers to him as ""Will"" (2:37:41); ""As a Latino man myself"" (2:40:34)",V,276

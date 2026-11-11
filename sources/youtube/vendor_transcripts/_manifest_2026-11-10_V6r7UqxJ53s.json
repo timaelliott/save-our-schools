@@ -1,0 +1,19 @@
+[
+ {
+  "file": "2026-11-10_V6r7UqxJ53s.paragraphs.json",
+  "video_id": "V6r7UqxJ53s",
+  "video_url": "https://www.youtube.com/watch?v=V6r7UqxJ53s",
+  "video_title": "2026-11-10  Board of Education’s Teaching, Learning, and Enrollment Committee",
+  "video_length_s": 12307,
+  "boardbook_meeting": "2026-11-10|776248",
+  "format": "JSON {paragraphs:[{text,start,end,confidence,words:[{text,start,end (ms into the video),confidence,speaker}]}], id, confidence, audio_duration, speech_model_used}. 346 paragraphs, 28,115 words. Speaker tags are the vendor's automatic letters (A-W), reused for different people.",
+  "provenance": "Speech-to-text paragraph export supplied by the repository owner in chat on 2026-11-10 as 'tle.json'. Not fetched by us; vendor not stated (speech model 'universal-3-5-pro'). Title from YouTube oEmbed 2026-11-10.",
+  "received": "2026-11-10",
+  "sha256": "a96651cf3fc6333b7ae5baeec97f84650cb4aa5b2f9b4b1ba96bb953bbd3a320",
+  "derived": [
+   "sources/youtube/transcripts/2026-11-10_V6r7UqxJ53s.{txt,tsv,meta.json}: the same words regrouped into caption-length lines (no speaker tags)",
+   "analysis/speaker_transcripts/2026-11-10_V6r7UqxJ53s.txt: speaker-labeled turns with every speaker re-checked (evidence in the CSVs next to it)"
+  ],
+  "privacy": "The first public commenter is a high-school student who says his name (0:24:03-0:25:06). This raw export is kept unaltered as primary material; every derived file (caption copy, speaker transcript, artifact pages, correction log) replaces his name with [student name]."
+ }
+]

@@ -1,0 +1,2651 @@
+# 2026-11-10  Board of Education’s Teaching, Learning, and Enrollment Committee
+# Video: https://www.youtube.com/watch?v=V6r7UqxJ53s
+# Source: NOT YouTube captions. Word-level speech-to-text export (sources/youtube/vendor_transcripts/2026-11-10_V6r7UqxJ53s.paragraphs.json),
+#   supplied by the repository owner 2026-11-10; the vendor's words regrouped into caption-length lines (a student commenter's
+#   name redacted). Speaker-labeled copy: analysis/speaker_transcripts/2026-11-10_V6r7UqxJ53s.txt
+# BoardBook meeting(s): 2026-11-10|776248
+# Link to a moment: https://www.youtube.com/watch?v=V6r7UqxJ53s&t=<seconds>s
+
+[0:22:22] Good evening, everybody. That was a little loud.
+[0:22:25] Um, this public meeting of the Board of Education's Teaching, Learning, and
+[0:22:28] Enrollment Committee for November 10th, 2026 is called to order.
+[0:22:33] Uh, good afternoon and welcome.
+[0:22:34] The topics for today's meeting that we'll be discussing— discussing— discussing are
+[0:22:40] special education as it relates to right-sizing, and we're going to be
+[0:22:43] following up on dual language immersion from our last meeting.
+[0:22:46] But first, we'll go ahead and start with introductions.
+[0:22:49] My name is Virginia [La Forte].
+[0:22:51] I chair this committee. I reside in Zone 5, which is Northeast
+[0:22:54] Portland, and I would like to introduce or have our new student
+[0:22:57] reps introduce themselves. Um, my name is Leonie Cook and I'm a
+[0:23:02] junior at McDaniel High School.
+[0:23:06] My name is Mel Schuler and I'm a senior at Benson Polytechnic
+[0:23:08] High School. I'm Christy [Splitt] and I, um, am, uh, the Zone
+[0:23:16] 1 board member, which is Southwest Portland.
+[0:23:19] As a reminder, we represent the whole district, but we have to
+[0:23:22] live in a particular zone.
+[0:23:24] That's all it means. And then I believe we have Director Chase
+[0:23:29] Miller online. Yeah, hi, Rochelle Chase Miller, uh, board vice chair, uh,
+[0:23:36] elected out of Zone 4.
+[0:23:38] Okay, so next we have public comment.
+[0:23:41] Um, uh, just so you know, this is usually limited to 5
+[0:23:44] spots, but due to the, um, uh, great interest in the subjects
+[0:23:49] that we're discussing, we have added a number of slots.
+[0:23:51] I think we have about 10 or 11 today to make sure
+[0:23:54] that we hear from all of our communities.
+[0:23:56] So with that, Roseanne, who do we have signed up to speak
+[0:24:01] first? We have [student name], Afton Wilcox, Beth Van Beuken, and Jason Meyer.
+[0:24:22] And I feel really rude.
+[0:24:23] Christina, can you introduce yourself?
+[0:24:30] Hi, everyone. I'm Christina Howard.
+[0:24:31] I'm the Senior Chief of Academics, and I serve as a staff
+[0:24:33] liaison to the Teaching, Learning, and Enrollment Committee.
+[0:24:36] Sorry, you're a very important person here today.
+[0:24:39] OK, let's go ahead and get started.
+[0:24:46] Okay, okay, okay. Do I have to spell my name?
+[0:24:53] Okay, spell your last name.
+[0:24:54] Yeah. Um, last name [student name] spelled like the state.
+[0:24:59] Okay. Ni hao, 我叫[student name]，十一名九，年级十二生。Hello, my name is [student name].
+[0:25:07] I'm a ninth grader at Benson High School.
+[0:25:09] I attended Harriet Tubman Middle School, and before that I attended Dr.
+[0:25:13] Martin Luther King Jr. Elementary in the Mandarin immersion program.
+[0:25:16] Do not move the Mandarin program from King.
+[0:25:19] My sister was the very first Mandarin class at King.
+[0:25:22] I came next. My younger brother, who is in 3rd grade, is
+[0:25:25] there now, and my 3-year-old brother will eventually go there too.
+[0:25:28] My great-uncles Gary and Mark also went to King, even back when
+[0:25:31] it was still called Highland.
+[0:25:32] We are the past of— we are the part of the past,
+[0:25:35] present, and future of PPS and the Black community of Portland.
+[0:25:39] I feel that some of the ways that King has impacted me
+[0:25:41] in our community doesn't show up in your plans to move the
+[0:25:43] Mandarin program. Here are some of the things you are missing.
+[0:25:47] At King, I got to experience Chinese culture without losing connection to
+[0:25:50] my own. The King community helped me to be confident in who
+[0:25:53] I am, and because of that, when I went to Tubman, I
+[0:25:55] participated in Black Student Union, Native Student Union, and the Peacemakers Club.
+[0:26:00] Because of the Mandarin program, I was able to go to Taiwan
+[0:26:02] with my Mandarin classmates in 8th grade.
+[0:26:04] It was hard work, but it paid off.
+[0:26:06] The Mandarin program helped me feel like part of an international community,
+[0:26:10] and King was a part of that.
+[0:26:11] Almost every morning I walk my 3rd grade brother into school.
+[0:26:14] I say hello to many of my former teachers when I'm there.
+[0:26:17] Some of my favorite teachers I've ever had were at King.
+[0:26:20] Some of these teachers taught me— taught my sister too.
+[0:26:22] There's something special about being in a place that knows your family
+[0:26:25] and your history as well as the teachers at King knows ours.
+[0:26:29] King taught me that a real education teaches me how to speak
+[0:26:31] up for myself and my classmates.
+[0:26:34] I know that what I say today could change what happens for
+[0:26:35] my younger— youngest brother who isn't even at King yet.
+[0:26:38] King taught me to be brave enough to speak in a language
+[0:26:40] that I'm still learning, which gave me the courage to speak up
+[0:26:42] to you all today. As we say in the King Pledge of
+[0:26:45] Allegiance, if it's meant to be, it's up to me.
+[0:26:48] We aren't the only family with this tradition.
+[0:26:50] Many of my classmates' older or younger siblings also went into the
+[0:26:53] Mandarin immersion program. They also experienced many of these positive impacts, and
+[0:26:57] there are a ton of other students following in our footsteps.
+[0:27:01] We are the past, the present, and the future because we are
+[0:27:03] the dream. Don't destroy the dream.
+[0:27:06] Thank you, guys. Hi, Afton Wilcox, WILCOX.
+[0:27:17] I actually didn't get to prepare anything today.
+[0:27:20] My workday was a lot busier than I thought.
+[0:27:22] I'm a single parent, and I've come up here before.
+[0:27:27] Yelling about equity, you know, like us white people love to do.
+[0:27:31] We like to use other people's problems to serve ourselves.
+[0:27:34] But let me give you a personal anecdote so you can understand
+[0:27:37] a little bit more where I'm coming from today.
+[0:27:40] My son is 8 years old.
+[0:27:41] He is biracial. He presents as Black and brown.
+[0:27:46] And ask any cop on the street, they'll tell you he's a
+[0:27:49] Black kid. I want people to understand that.
+[0:27:54] I want people to understand that I'm not up here virtue signaling,
+[0:27:57] that I'm not one of the only white people who's allowed to
+[0:28:00] say equity. When I say it, I mean it.
+[0:28:04] And, uh, I hadn't even gotten around to talking about SPED yet.
+[0:28:08] I haven't gone to any of their meetings.
+[0:28:10] I would have loved to because my kid is failing in his
+[0:28:15] school right now, and his school is failing him.
+[0:28:18] I get calls every day.
+[0:28:20] He's constantly being disciplined. He's definitely in the minority at his DLI
+[0:28:24] school. It's a beautiful school, beautiful community, but I can tell you
+[0:28:28] that the learning and the education piece for teachers and administration is
+[0:28:36] sorely missing. And I'm going to tell you it's sorely missing in
+[0:28:42] this community as well, in Portland.
+[0:28:46] And people are going to come up here and they're going to
+[0:28:48] have all this energy about not closing their schools, but I'd like
+[0:28:52] to see what happen— happens when the vote comes, if and when,
+[0:28:56] if the schools get closed, if they don't get closed.
+[0:28:57] I want to see if these same people behind me keep showing
+[0:29:01] up for equity, if they keep using that word equity when it
+[0:29:06] doesn't affect their kids all of a sudden.
+[0:29:08] I want to see if that keeps happening.
+[0:29:11] And so what I want to tell you is that if we're
+[0:29:14] not going to close schools and reallocate the, the everything that we
+[0:29:18] have, not just the funds, not this whatever, okay?
+[0:29:22] If we're not going to do that, you need to come up
+[0:29:24] with a plan so that people in this city understand how privileged
+[0:29:30] they are, and that I couldn't even begin to talk about SPED
+[0:29:34] with my son because I, as a white woman, have to teach
+[0:29:37] him how not to get shot when he grows up.
+[0:29:46] My name is Beth Van Buecken, V-A-N B-U-E-C-K-E-N.
+[0:29:50] I'm a parent of 2 children in James Johns' DLI program.
+[0:29:53] I'm also a mental health therapist who specializes in trauma and provides
+[0:29:58] evaluations in support of immigrants seeking asylum.
+[0:30:02] Last November, ICE agents targeted North Portland.
+[0:30:05] They waited outside our schools to detain our parents.
+[0:30:08] James John went into a lockout and early dismissal so we could
+[0:30:11] get children safely home. We rushed to reunite the terrified families with
+[0:30:16] their children, and the next day, many of our DRLI classrooms were
+[0:30:20] nearly empty because families were too afraid to leave home.
+[0:30:24] We organized a rideshare program through our trusted school staff.
+[0:30:28] We provided hundreds of rides last year to immigrant students.
+[0:30:32] Families trusted us enough to put their children in strangers' cars because
+[0:30:37] of the relationships we had carefully built.
+[0:30:40] That meant that there were hundreds of times last year that children
+[0:30:43] who would have otherwise missed school could continue their education.
+[0:30:48] That support will be much harder for us to provide at Cesar
+[0:30:51] Chavez with dispersed and disconnected families.
+[0:30:55] I agree that DLI needs improvement, and Cesar Chavez deserves sustained investment.
+[0:31:01] But this time right now is a time of unprecedented trauma to
+[0:31:04] immigrant families because of ICE.
+[0:31:06] We cannot ask those families to put themselves and their children at
+[0:31:09] greater risk. ICE tracks people along their daily commutes, and there are
+[0:31:14] limited routes that connect St.
+[0:31:15] Johns to the rest of North Portland.
+[0:31:18] PPS cannot guarantee families' safety during their commute.
+[0:31:22] As a trauma therapist, I know that healing requires predictability, control, and
+[0:31:28] safety. Forcing families from their neighborhood schools during this period of immigration
+[0:31:32] enforcement will increase their fear and their trauma.
+[0:31:36] Children cannot learn when they don't feel safe, and families cannot trust.
+[0:31:40] And the community and the consistency that help offset trauma are exactly
+[0:31:44] what these children stand to lose.
+[0:31:48] At James John, 75% of Spanish-speaking DLI families identified safety and loss
+[0:31:54] of community as major concerns, and 84% said they would give up
+[0:31:58] DLI rather than leave their neighborhood school.
+[0:32:01] Immigrant families should not have to choose between safety and bilingual education.
+[0:32:06] Please work with and listen to your communities and create a plan
+[0:32:10] that can protect families' safety and respect their wishes.
+[0:32:13] Thank you. Thank you. My name is Jason Meyer, M-Y-E-R.
+[0:32:22] I am the father of a 2nd grade DLI student at James
+[0:32:26] John. Um, the district is about to give presentations to justify the
+[0:32:30] DLI consolidation. None of it is based on data gathered in the
+[0:32:34] communities themselves. PPS will claim that DLI programs are seeing low class
+[0:32:39] sizes resulting in one class per grade level.
+[0:32:41] This one class per grade level is set by the district.
+[0:32:45] James John and others would love a second DLI strand, and the
+[0:32:48] lottery waitlists establish that the community wants more DLI neighborhood classes, not
+[0:32:52] a diminished hub model. Also, we checked the slides on class size
+[0:32:57] numbers and they're wrong, just to let you know.
+[0:33:01] PPS projects that the DLI hub will result in 30% student attrition.
+[0:33:05] What is that 30% based on?
+[0:33:07] Nothing. There was no district survey of the DLI community, so our
+[0:33:11] community did it for them, and we found that 80% of DLI
+[0:33:14] families in St. John's were likely to leave DLI to stay in
+[0:33:17] their neighborhood school. With higher percentages for Spanish-speaking families, 84%.
+[0:33:22] Whichever elementary school remains in St.
+[0:33:24] John's, it would be overcrowded and leave an under-enrolled DLI hub.
+[0:33:30] James John is an inclusive school with 20 to 25%, uh, students
+[0:33:34] on IEPs where all kids are integrated into general classrooms including DLI
+[0:33:38] classes. There is no planned inclusive program for the DLI hub.
+[0:33:42] Will these students be forced out of the DLI?
+[0:33:45] The fact that IEPs and inclusive schools were overlooked in the scenario
+[0:33:48] planning is jaw-dropping. I imagine the intersectionality of IEP and DLI was
+[0:33:53] not considered at all. PPS has claimed the hub model will save
+[0:33:57] money, but their data doesn't back that claim.
+[0:33:59] The cost per student at James John and Sitton averages $1,000 less
+[0:34:03] per student per year than at the Lent hub.
+[0:34:07] DLI teachers and co-located neighborhood schools provide necessary language and representation to
+[0:34:12] MLL students across all strands.
+[0:34:15] That will be stripped out of those schools?
+[0:34:17] And what will the added cost be when you have to add
+[0:34:19] ELL support back into those neighborhood schools to support those students?
+[0:34:25] PPS has failed in the process by not involving the community in
+[0:34:28] the formulation of these plans, and I don't see a way that
+[0:34:31] these are things that can be fixed by delaying the same plan
+[0:34:34] or phasing it in multi-years or swapping in one school for another.
+[0:34:38] Thank you. Next, we have Gina Lipor, Allison Stones, Patrick Sung, and
+[0:34:58] Anna Riggs. Thank you. First.
+[0:35:17] Hi, um, my name is Gina Lipor, L-I-P-O-R, um, and I am
+[0:35:21] the parent of a disabled student at MLC, and I'm on the
+[0:35:24] board, um, for the special education PTSA.
+[0:35:28] Um, our disabled and neurodivergent students, um, are experiencing an unprecedented pediatric
+[0:35:34] mental and behavioral health crisis.
+[0:35:37] Every year since 2021, ODE has found that PPS suspends and expels
+[0:35:42] students in special education at significantly disproportionate rates.
+[0:35:46] Across Oregon, 8th graders with disabilities are 12 times as likely as
+[0:35:51] their peers to have attempted suicide in the past year.
+[0:35:56] Consolidating these vulnerable students without guaranteed space and staff to support them
+[0:36:02] is a recipe for for more discipline, more exclusion, and worse mental
+[0:36:06] health outcomes. And because of systemic racism and ableism, we know that
+[0:36:11] harm will continue to fall hardest on disabled students of color and
+[0:36:15] students with higher support needs.
+[0:36:18] This concern applies across the district, but I want to share one
+[0:36:22] case study to show what this looks like functionally.
+[0:36:26] Um, under the plan in tonight's slides Rosa Parks would absorb Peninsula
+[0:36:31] and Chavez's English students to have over 150 students with IEPs, more
+[0:36:37] than a third of the student body, 34%.
+[0:36:40] Today, those 150 students are served across 6 special education classrooms and
+[0:36:46] multiple sensory motor and break or wellness spaces.
+[0:36:50] The plan consolidates them into just 3 flexible learning spaces and a
+[0:36:55] single sensory room. That's about 50 students with IEPs for every learning
+[0:37:00] space and 150 students accessing one sensory space.
+[0:37:05] At last night's facilities meeting, PPS confirmed these spaces, the, the flexible
+[0:37:10] learning spaces, have no minimum size requirement and no capacity limit.
+[0:37:15] All 3 of these schools are inclusive school communities, so many of
+[0:37:19] these disabled students would typically be in separate folks focused classrooms elsewhere
+[0:37:24] in Portland. Here they're being promised inclusion while the needed— is that
+[0:37:30] okay— while the needed space to be meaningfully included, to regulate, and
+[0:37:34] to learn is gutted. My name is Anna Riggs, R-I-G-G-S.
+[0:37:52] I am the parent of a kindergartner and a 3rd grader at
+[0:37:55] Peninsula Elementary, and I'm also an occupational therapist and I work in
+[0:37:58] special education. A lot of what I have written here is kind
+[0:38:03] of, uh, similar to what Gina was saying and not as well
+[0:38:07] said, but I just want to express concern about the lack of
+[0:38:12] credible implementation plans within right-sizing for students who receive special education services.
+[0:38:18] Many of the children who receive special ed services have different sensory
+[0:38:22] needs and depend on dedicated regulation spaces in order to learn.
+[0:38:26] Crowded classrooms, increased noise and transitions, and reduced access to safe outdoor
+[0:38:31] spaces will negatively impact their ability to learn and engage at school.
+[0:38:36] The right-sizing scenarios are not taking into account the significance of physical
+[0:38:40] space and environment for children with special needs.
+[0:38:44] The Peninsula Community Survey, which my fellow PTA board members shared with
+[0:38:48] you last week, highlighted the concerns that many of the Peninsula community
+[0:38:51] have raised about the burden on Rosa Parks of absorbing so many
+[0:38:56] additional students, as well as a high number of students with IEPs.
+[0:39:01] Rosa Parks, Peninsula's proposed receiving school, is projected to triple in size
+[0:39:05] from 160 to 480 students, with 38% of the projected enrollment Having
+[0:39:10] IEPs. If facilities are the deciding factor in closing schools, I ask,
+[0:39:16] are the receiving schools equipped to support the students that they're being
+[0:39:19] asked to absorb? Will PPS be able to provide the level of
+[0:39:23] resources needed to meet the concentration of need?
+[0:39:26] Students who receive special education services are already more impacted by our
+[0:39:30] current system. I urge you to give their needs more thought and
+[0:39:33] consideration than these current scenarios do.
+[0:39:45] Thank you. I'm Allison Stones, S-T-O-N-E-S.
+[0:39:48] I'm a parent of a kindergartner in the Vietnamese DLI program, and
+[0:39:52] I prepared this in collaboration with our Vietnamese families.
+[0:39:56] Almost daily, including today, we learn of a new Vietnamese family who
+[0:40:00] is still not aware that PPS is considering moving VDLI to Vestal.
+[0:40:04] Even so, our Vietnamese community has tried to speak out through many
+[0:40:08] channels about what this plan would cost them, including a letter provided
+[0:40:12] today signed by over 80 Vietnamese parents.
+[0:40:15] Our neighborhood associations, PTAs, and the Oregon Vietnam Economic Education and Cultural
+[0:40:21] Association have also written letters in opposition.
+[0:40:24] Today, staff will present on DLI and right-sizing.
+[0:40:28] VDLI does not appear even once.
+[0:40:30] Thank you. This unfortunately is our consistent experience.
+[0:40:33] We are disregarded amid focus on the proposed Spanish whole school model.
+[0:40:37] Because VDLI is a co-located model, our students would experience the disruption
+[0:40:42] of a move without receiving the benefits presented today.
+[0:40:46] Whether our students follow to a new location isn't an implementation detail,
+[0:40:50] it is existential. Our parent survey shows only 37% of our students
+[0:40:55] will likely follow VDLI to Vestal.
+[0:40:58] Few students have the language proficiency to lottery in past first grade,
+[0:41:02] leaving no possibility for current cohorts to recover.
+[0:41:06] Is the existence of VDLI an acceptable right-sizing trade-off for the district?
+[0:41:11] Moving it conveys that it is.
+[0:41:14] Vietnamese is Oregon's third most spoken language.
+[0:41:17] Many Vietnamese families arrived in the U.S.
+[0:41:19] only in the past 50 years as refugees of a civil war.
+[0:41:23] Displacing them contradicts the district's commitments to equity and historically underserved communities.
+[0:41:29] Board members, do not let the district gloss over the VDLI program.
+[0:41:34] Ask what the benefits are for our students.
+[0:41:37] So far, these are lacking.
+[0:41:38] Thank you. Hi, I'm Patrick Soong, S-O-O-N-G, MLK parent.
+[0:41:51] You have in front of you our 2-page fact sheet, front and
+[0:41:54] back. On September 8th, the TLE committee heard PPS's right-sizing goal, which
+[0:42:00] was to increase stability and improve learning in every school, especially for
+[0:42:05] our historically underserved students. I want you to hold our school up
+[0:42:09] against that. Page 1 is who this moves.
+[0:42:13] Since 1990, King's neighborhood has lost more Black residents than any other
+[0:42:18] in Portland. Today our Mandarin program holds 56% of PPS's Black immersion
+[0:42:25] elementary students. That's 43 of them.
+[0:42:28] Scenarios A and B proposes to move all 43 of them— more
+[0:42:32] Black elementary students than any other single change in that plan.
+[0:42:36] That isn't stability measured against PPS's own goal.
+[0:42:40] This is disqualifying. If PPS chooses to ignore that Page 2 is
+[0:42:47] why this would fail. Later in this meeting, staff will present how
+[0:42:51] to support the transition of a fully, quote, fully enrolled program to
+[0:42:56] Boise. Similar to Rose City, it won't be fully enrolled.
+[0:43:00] Only 41% of our Mandarin families say that they would follow, and
+[0:43:04] if just 7% of Sabins students go elsewhere, leave PPS, King drops
+[0:43:10] below 360. Saban parents have told me about 30% could leave PPS
+[0:43:16] entirely. The slide that you'll see lists 6 focus areas.
+[0:43:22] King already does 5 of them as one school.
+[0:43:25] The 6th says monitor and learn, and PPS should already know this.
+[0:43:30] The Southeast audit found immersion enrollment declined after relocation and that for
+[0:43:35] communities of color, they bore the heaviest disruption.
+[0:43:39] It took King 13 years to build this program.
+[0:43:42] You don't need to rebuild it.
+[0:43:44] You already have it. So here's the good news.
+[0:43:48] PPS got it right. In 2014, PPS and Albina Head Start invested
+[0:43:53] in this Mandarin program together, and it's working.
+[0:43:55] We've been increasing enrollment, and there's room for more.
+[0:43:59] Keep Mandarin here and grow our English side by 125 students.
+[0:44:03] That does it right by this community.
+[0:44:05] And then you can truly hold Dr.
+[0:44:07] King's name up next to your goal.
+[0:44:10] And if PPS chooses to ignore this too, Black Albina families will
+[0:44:13] have one more policy to point to that reshaped their neighborhood without
+[0:44:17] them. Thank you. Next we have Gabby Mendez.
+[0:44:32] Renee Becerra and Kelly Hutchison.
+[0:44:48] Renee Becerra, last name is B-E-C-E-R-R-A.
+[0:44:51] I am the president of the PPS Special Education PTSA and a
+[0:44:55] parent of students at Franklin and Vestal.
+[0:44:58] We are the parents and caregivers of students who don't have other
+[0:45:01] educational options, the kids who get sent home for disability-related behaviors, who've
+[0:45:05] been told that their child needs to stay home because the paraeducators
+[0:45:09] that are trained on their specific medical needs are off for the
+[0:45:11] day, whose buses don't show up in the morning leading to meltdowns
+[0:45:14] and school refusal, and who haven't been included in after-school programs, specials,
+[0:45:20] or even general education class time with their peers.
+[0:45:23] None of this inspires trust in the district, and it all makes
+[0:45:26] it harder to support so many transitions at one time, especially for
+[0:45:28] our kids with complex needs.
+[0:45:30] Our children deserve better. We've also struggled with engagement with the district.
+[0:45:35] Parents of disabled children, especially those with complex needs, often don't have
+[0:45:38] the time or energy to attend meetings and typically aren't represented in
+[0:45:41] their PTAs, site councils, or district-wide engagements.
+[0:45:45] This is why SEPSA is so important, so families like ours have
+[0:45:48] a voice. We've been pursuing more right-sizing engagements for families of disabled
+[0:45:52] students because parents and caregivers are desperate to share their perspectives and
+[0:45:56] concerns about these scenarios and the impact on students receiving special education
+[0:46:00] services. These meetings need to be well planned with family involvement and
+[0:46:04] with enough notice for caregivers to make arrangements for child care.
+[0:46:08] In May and September 2026, before any scenarios were released, the Special
+[0:46:12] Education Advisory Council hosted 3 engagement sessions and put out a survey.
+[0:46:16] These were not district-wide engagements and should not be counted as such.
+[0:46:19] The only district-wide engagement since the release of the scenarios was on
+[0:46:22] Thursday, October 15th, at Kellogg Middle School.
+[0:46:26] However, there were not adequate— there was not adequate communication, and it
+[0:46:28] was not on the calendar until the last minute.
+[0:46:31] In addition, the concerns raised by the community at that meeting are
+[0:46:34] still not reflected in the What We Heard report.
+[0:46:36] This is exactly why we released our report on October 20th.
+[0:46:40] You've all received our report.
+[0:46:44] Um, there was supposed to be a virtual engagement this Thursday, November
+[0:46:47] 12th, which is key for disabled students and families to be able
+[0:46:50] to participate, but the district did not plan this and it's not
+[0:46:53] taking place. SEPSA has finally been successful in pushing the district to
+[0:46:56] commit to host a virtual engagement, engagement on November 18th at 6
+[0:47:00] PM, but as of right now, this is still not on the
+[0:47:03] district calendar. Thank you. Hi, my name is Gabby Mendez, M-E-N-D-E-Z, and
+[0:47:15] I'm a parent in the Spanish DLI program at Atkinson Elementary.
+[0:47:19] When our community's concerns for transportation come up, the district nods and
+[0:47:22] tells us that a transportation plan is coming for the southeast area.
+[0:47:26] The logistical piece on how to get students to school isn't the
+[0:47:29] only concern with transportation. The other is the actual time multi-language students
+[0:47:34] have to sacrifice to get to school.
+[0:47:37] This is not a trivial issue.
+[0:47:39] At last week's meeting, the district highlighted for another focal group the
+[0:47:42] importance that all students should be able to achieve 8,000 enrichment hours
+[0:47:47] by 8th grade. This is amazing work in addressing academic achievement gaps,
+[0:47:52] but doesn't the district see that for 42% of the Spanish K-5
+[0:47:56] multi-language learners, that this goal of 8,000 enrichment hours will now be
+[0:48:01] harder to achieve Since these students will now have longer transit times.
+[0:48:05] We gathered data at Atkinson based on where multi-language families currently live,
+[0:48:10] and we found that the average student would spend 136 hours a
+[0:48:14] year commuting to school. That's roughly 21 school days worth of time
+[0:48:18] spent in transit instead of learning, playing, or sleeping.
+[0:48:22] This puts them at a bigger disadvantage academically and at the same
+[0:48:26] time will impact attendance. Why is this acceptable for one of the
+[0:48:31] district's focal groups? These 8,000 enrichment hours are important.
+[0:48:36] Why make it harder for multi-language learners to achieve this?
+[0:48:40] As of last year, there was 731 ML learners in Spanish K-5
+[0:48:44] DLI. Losing— using last year's numbers, 307 of these ML learners would
+[0:48:50] be heading to a new school under the proposed plans.
+[0:48:53] How many of these students will leave the DLI program?
+[0:48:57] What is an acceptable number for the district?
+[0:48:59] Again, we're talking about your focal students.
+[0:49:02] Please don't just say these students are important, but show us.
+[0:49:06] Please don't burden these students further by taking away their neighborhood DLI
+[0:49:10] programs. Thank you. Thank you, everyone.
+[0:49:19] And before we move on, I want to welcome Superintendent Armstrong.
+[0:49:22] Thank you so much for for, for being here.
+[0:49:24] It means a lot to, I know, to me and to the
+[0:49:26] families and students that, that are here that you're with us tonight.
+[0:49:29] And, um, is there anything you want to say before we get
+[0:49:31] started, or do you want to get us started?
+[0:49:34] Don't want to put you on the spot, sorry.
+[0:49:37] Thank you. And also our senior legal counsel being here.
+[0:49:41] You want to introduce yourself?
+[0:49:43] Yeah, sure. Oops, I just unmuted myself.
+[0:49:46] Sorry, I'm Andrea, senior legal counsel.
+[0:49:50] Thank you for being here.
+[0:49:51] Um, just that we appreciate the testimony.
+[0:49:55] I know that we are taking all comment and comments and feedback
+[0:50:00] seriously, and I think most of the things that were brought up
+[0:50:04] will be addressed through the 2 presentations.
+[0:50:08] So look forward to that.
+[0:50:09] Thank you. Director [La Forte], we had one person sign up for virtual
+[0:50:14] public comment. I'm just doing really terrible job of running this meeting
+[0:50:17] tonight. So I'm just gonna have you do it, Rosanna.
+[0:50:20] Okay, so we'll go ahead and wrap up public comment.
+[0:50:22] I'm sorry, I thought that was the last one.
+[0:50:26] Hi, um, I'm Kelly Hutchison, H-U-T-C-H-I-S-O-N.
+[0:50:31] Um, today the district will tell you students with disabilities do better
+[0:50:35] at comprehensive middle schools, um, as if they were a monolith.
+[0:50:40] I'm asking the board to interrogate that because the OSAS data says
+[0:50:44] otherwise. Last week's review showed that no single model was the silver
+[0:50:49] bullet for our focal groups, but rather individual schools and teachers were
+[0:50:53] making meaningful progress, and that belonging, rapport, and strong teacher retention mattered.
+[0:51:00] That is exactly what this plan puts at risk.
+[0:51:03] SPED Director Sabrina Wood's goals included strengthening programming for autistic students and
+[0:51:09] decreasing exclusionary discipline. Yet neither is prioritized in the current scenarios.
+[0:51:15] I see schools that serve autistic children being dismantled that do so
+[0:51:19] well, and inclusive schools moved just after being established.
+[0:51:25] Please ask whether there are any meaningful attempts to replicate what is
+[0:51:29] working and expand it rather than simply consolidate students into fewer buildings.
+[0:51:35] Safety is also a guiding principle, so I'd like to hear the
+[0:51:38] board ask What happens to the mental health of students with IEPs
+[0:51:43] who lose the staff whose trust and rapport made learning possible?
+[0:51:47] Will exclusionary discipline rise when they land in larger schools with little
+[0:51:52] connection to their new educators?
+[0:51:55] Is it reasonable to expect students with sensory needs to manage schools
+[0:51:59] over 100% capacity? Until we commit to a plan centered on growth,
+[0:52:06] retention, and investment in what already works, We will keep asking why
+[0:52:10] we fail these students. We are not mourning buildings, as is often
+[0:52:15] implied— is implied. What matters most is relationships with highly qualified educators,
+[0:52:22] and those ties will be severed if this plan is approved.
+[0:52:26] Thank you. Okay, am I definitely ready to move on?
+[0:52:37] I'm good. Okay, um, so Christina, my script says J, but it
+[0:52:43] looks like— who you want to see?
+[0:52:49] Thanks, uh, good evening, and I also want to echo, uh, Dr.
+[0:52:52] Armstrong and appreciate the public comment tonight.
+[0:52:55] Um, we will begin with special education, and we will follow with
+[0:52:59] a brief presentation on DLI.
+[0:53:01] Where we will answer questions that have been asked since our last
+[0:53:04] Teaching, Learning, and Enrollment Committee meeting.
+[0:53:07] Most of the questions from the public comment will be answered, and
+[0:53:09] if we miss a question, we will continue to work to answer
+[0:53:12] questions and update our FAQs.
+[0:53:15] In the special education presentation tonight, we will provide an overview of
+[0:53:18] our current programming, projected scenarios, and transition planning to ensure we continue
+[0:53:25] meeting the needs of students receiving special education services.
+[0:53:28] When we initially shared the proposed scenarios on October 6th, we outlined
+[0:53:34] potential programmatic changes by region, including DLI, dual language immersion shifts, and
+[0:53:40] grade reconfigurations. I want to acknowledge that we did not include potential
+[0:53:46] special education program moves in those regional overviews, and this was a
+[0:53:51] misstep. We did include those in the individual school profiles.
+[0:53:56] So they were online in the individual school profiles, and you had
+[0:53:59] to dig deeper into that information to be able to get that.
+[0:54:02] That was along with the October 6th presentation.
+[0:54:06] We know that our communities, our school communities, have worked hard to
+[0:54:09] create inclusive environments, and as we consider potential changes, our commitment to
+[0:54:14] inclusive practices and ensuring students receiving special education services have access to
+[0:54:19] high-quality educational experiences remains central to our planning.
+[0:54:23] I also want to address several questions we have received regarding special
+[0:54:27] education enrollment, caseloads, and student counts.
+[0:54:31] It is important to understand the data presented tonight represents a snapshot
+[0:54:35] in time. The special education team developed these projections using actual student
+[0:54:39] enrollment and service data from approximately 2 weeks ago when the presentation
+[0:54:44] was being prepared. This includes student counts, projected caseloads and representation across
+[0:54:51] schools, as well as direct certification rates.
+[0:54:54] Unlike some other enrollment measures, special education student counts can fluctuate significantly
+[0:55:00] throughout the school year, sometimes by hundreds of students from one month
+[0:55:04] to the next, as students enter or exit services, transfer between schools,
+[0:55:09] or enroll in or leave the district.
+[0:55:12] For that reason, the numbers shared tonight should be understood as a
+[0:55:15] planning estimate based on the best available data at that time, rather
+[0:55:19] than the final staffing placement or decisions, and that's again because of
+[0:55:22] the fluctuation in enrollment. As we move forward, we will continue to
+[0:55:27] refine these projections using updated student information and various points in time
+[0:55:32] and individual student needs to inform the transition planning.
+[0:55:35] I'm going to kick the presentation over to the team, starting with,
+[0:55:39] um, Chief Jay Buno, who is our Chief of Educational Services.
+[0:55:43] Thank you. So good afternoon, or I guess good evening, uh, directors,
+[0:55:48] uh, superintendent, uh, student representatives, uh, and, and committee members.
+[0:55:54] I'm here with our senior director, uh, Sabrina Wood, and our intention
+[0:55:58] this evening is to provide an update related to special education and
+[0:56:02] the right-sizing process. But in addition to that, we are looking to—
+[0:56:06] and much of these materials are focused on answering questions brought to
+[0:56:10] us by the special Special Education PTA.
+[0:56:13] Um, I'm going to interrupt really quick.
+[0:56:14] I'm going to stay within earshot to go get some water, and
+[0:56:16] I'll be right back, but I didn't want to get up and
+[0:56:18] leave while you were talking.
+[0:56:19] Oh, no worries. Like, what do you do in these moments?
+[0:56:21] You just have to interrupt.
+[0:56:22] Go on, and I will be listening.
+[0:56:23] Thank you. Um, before we start, uh, I want to say this.
+[0:56:28] Um, every day special educators partner with families and students in our
+[0:56:31] schools, right in the classroom where special education is delivered.
+[0:56:35] This is the true heart of special education.
+[0:56:38] I want to ground us in that reality before we dive in
+[0:56:41] today. While much of our conversation will focus on technical numbers, data,
+[0:56:46] systems, and plans, we must remember that this work is deeply human.
+[0:56:51] The numbers and the personal connections are both essential, and neither diminishes
+[0:56:55] the importance of the other.
+[0:56:57] Additionally, I did want to speak towards the data that's been presented
+[0:57:01] because I've received a lot of questions related to that.
+[0:57:04] Senior Director or Senior Chief Howard already did that.
+[0:57:08] Um, the thing that I will emphasize through this process is that
+[0:57:11] much of what you are going to see here is actual student
+[0:57:15] counts. So we actually counted students that we have in our system
+[0:57:18] as of 2 weeks ago, and that is what we do to
+[0:57:22] project our staffing and our budgetary process from year to year.
+[0:57:26] And what we've done to get information ready so that we have
+[0:57:29] an understanding of what this story is, it was to accelerate that
+[0:57:35] and do it in the in the month of November.
+[0:57:37] Typically, that's— this is done throughout January and February, um, and so
+[0:57:41] there will be, uh, changes, um, potentially as we move forward based
+[0:57:46] on the number of students we have to serve and, and the
+[0:57:49] staff that are required to do that.
+[0:57:51] So with that, I'll hand it to, um, Sabrina to get us
+[0:57:54] started. Great, thank you. Good afternoon.
+[0:57:58] We're going to walk through, um, a rhythm of information that I'm
+[0:58:02] hoping is helpful, um, to Um, everyone here, as well as, uh,
+[0:58:06] those here in the audience and those listening online.
+[0:58:11] I think it's important to state upfront that, um, I have been
+[0:58:15] in conversations with families, whether that is through our SPIAC committee, um,
+[0:58:19] with members of families that come to our office who have called
+[0:58:23] and talked to us, as well as conversations that our staff have
+[0:58:26] with families, and not once have I heard a question or a
+[0:58:31] concern that seemed outlandish or inappropriate.
+[0:58:34] These are the right questions to be asking about what's happening, and
+[0:58:38] these are the right questions to be answering when we think about
+[0:58:41] impact to our students as we move forward, regardless of any decision
+[0:58:45] or plan. We will talk briefly through our current programming and status
+[0:58:51] in the presentation. You will— can see at the end of the
+[0:58:54] presentation a number of slides that again give you like point-in-time data
+[0:58:59] on programming, uh, which means it's mostly probably not accurate today because
+[0:59:04] it was 2 weeks ago and our data shifts pretty significantly, but
+[0:59:09] we will summarize that and talk through that a tiny bit.
+[0:59:12] From there, we'll pivot into a conversation about the current scenarios that
+[0:59:17] have been projected and some of the basic information and data associated
+[0:59:23] with those programs to the best of our ability with our current
+[0:59:26] information. And we'll finish by talking just briefly about transition planning and
+[0:59:31] implementation, and how we begin to start to shape something that will
+[0:59:35] help support our students, regardless of whatever shape this conversation takes.
+[0:59:41] We know that there is work to do with our students and
+[0:59:43] our families, and we'll talk a little bit about that.
+[0:59:48] So, I want to talk first about what our work is as
+[0:59:51] special education. I think to Jay's point, being grounded in what we're
+[0:59:56] doing, and what the conversation is about is important before we start
+[1:00:00] to unpack the data and the information.
+[1:00:03] When we talk about educating students with disabilities as general education students
+[1:00:08] first, that is never meant to dismiss the significance of special education,
+[1:00:13] or the potential area of impact or services that a student might
+[1:00:18] have. In fact, we know that there are students who receive special
+[1:00:22] education services for a very genuinely large part of their day, but
+[1:00:27] that never negates that students come to our schools first as general
+[1:00:31] education students, and the reason that that becomes important as we talk
+[1:00:35] about rightsizing is when we start to talk about impact.
+[1:00:40] When we think about our role in special education, it is our
+[1:00:43] legal obligation, as well as, I would argue, moral obligation to be
+[1:00:46] providing the full continuum of services for our students with disabilities, That
+[1:00:51] means that we are considering how to provide the greatest amount of
+[1:00:55] access to their general education opportunities, as well as whatever amount of
+[1:01:00] services their IEP dictates that they need.
+[1:01:03] And it is critical as a program in special education that we
+[1:01:07] are meeting the individual needs of each IEP, regardless of what location
+[1:01:13] a student is at. Before I start to talk about the impact
+[1:01:17] of right-sizing for students with disabilities, I want to acknowledge a truth
+[1:01:21] that we have heard from families families that is a truth, which
+[1:01:24] is that making transitions between buildings disproportionately impacts students with disabilities.
+[1:01:31] That is correct. We know that.
+[1:01:33] We see that. Our students in Portland Public make transitions.
+[1:01:38] Many of them, students with disabilities, have to make what I call
+[1:01:42] kind of unnatural transitions, meaning movement between programs at a non-natural time
+[1:01:47] frame, right? Like, we think about making transitions for students at the
+[1:01:51] end of grade periods, like 5th grade and I'm moving on to
+[1:01:54] a middle school, or at the end of 8th grade if I
+[1:01:56] were moving to a high school.
+[1:01:58] Those are kind of natural transition periods.
+[1:02:00] With students with disabilities, we see an enormous amount of transitions that
+[1:02:05] happen outside of those time frames, often related to accessing program that
+[1:02:09] may exist in a school that is not their current school or
+[1:02:12] their current neighborhood school setting.
+[1:02:15] What we know about that is, yes, closing schools moving programs, shifting
+[1:02:20] neighborhoods will disproportionately impact students with disabilities.
+[1:02:25] It's not even something worth arguing about because it is true.
+[1:02:30] It's important in this conversation that we weigh next to that, that
+[1:02:34] not having well-resourced schools, not having schools that are adequately funded with
+[1:02:39] enough programming, also disproportionately impacts our students with disabilities.
+[1:02:45] There's 3 areas here that I wanna highlight that to, but there
+[1:02:48] are more that should be considered.
+[1:02:50] When we think about the impact to students with disabilities, if we
+[1:02:54] are talking about school programming that is not full, not full course
+[1:02:59] offerings and elective offerings, those disproportionately impact our students with disabilities.
+[1:03:05] Blended classrooms for students with complex disabilities, at times we actually see
+[1:03:11] that being a fruitful setting, and there's plenty of research to that,
+[1:03:14] but on a whole, we don't consider blended classrooms as the best
+[1:03:18] way to serve our students with disabilities, and having a high rate
+[1:03:21] of blended spaces can disproportionately harm our students with disabilities.
+[1:03:27] I want to talk specifically about the piece around the 7 or
+[1:03:30] 8 period day because I think that has been misunderstood, rightfully, because
+[1:03:35] it's a bullet point and not a narrative.
+[1:03:38] I would not advocate that all of our students need a 7
+[1:03:41] or 8 period comprehensive school day.
+[1:03:44] In fact, IEP teams specifically are expected to determine at every IEP
+[1:03:49] meeting that they have how much time a student needs to spend
+[1:03:53] in general education that is appropriate for the level of service that
+[1:03:56] they need. And there are many students in our school district who
+[1:04:00] do not benefit from a large-scale 8-period day.
+[1:04:05] But I also want to say that when we cannot offer 7
+[1:04:08] or 8-period days in our middle schools and high schools, our students
+[1:04:12] in special education, and often ELD, are disproportionately impacted by the lack
+[1:04:18] of options by not having enough periods in their school day.
+[1:04:22] So for example, if I'm a special education student and I need
+[1:04:26] to receive special education services outside the general ed setting in a
+[1:04:30] class period, or maybe even 2 class periods, and my school day
+[1:04:34] only has 6 periods offered to me, I'm now cut down to
+[1:04:38] 4 periods to access my core academics and nothing left to access
+[1:04:42] electives. So, it is not an argument for all students needing 7
+[1:04:47] or 8-period days, but it is something that we have to think
+[1:04:50] about when we think about what the programming at our secondary schools
+[1:04:54] look like. That will disproportionately impact our students with disabilities, and to
+[1:04:58] be fair, also our English language learners.
+[1:05:06] So, for, for this, I want to double down on what Sabrina
+[1:05:09] identified related to students with disabilities first being general education students or
+[1:05:14] general education students first. In data, when you look at data or
+[1:05:20] when you talk about special education, unless you understand or live within
+[1:05:23] that world, you might think that students receive special education outside of
+[1:05:29] general education or they do not participate in the general education program.
+[1:05:36] The reality is, is that over 84%, 83% last year of our
+[1:05:41] children who receive special education services, they're educated in the general education
+[1:05:45] program more than 80% of the school day.
+[1:05:48] So a vast majority of our students are not served in segregated
+[1:05:53] or separate or focused or, or flexible learning spaces.
+[1:05:58] I apologize. Um, most of them are part and in general education
+[1:06:03] most of their school day.
+[1:06:05] Why? Because our—. Can I ask a clarifying question about that?
+[1:06:08] Just while we're just, just on the numbers.
+[1:06:11] Do you mean to say that of all of our students on
+[1:06:13] an IEP, I think roughly 80% are not assigned to like a
+[1:06:17] focus classroom, or is that including focus classroom students who are out
+[1:06:22] in their general education population?
+[1:06:23] Including all students that receive special education.
+[1:06:25] Thank you, that's great. Thank you so much.
+[1:06:27] So, um, so this is why focusing on, and, and, and much
+[1:06:33] of the work of special educators and our general education teachers is
+[1:06:37] working to ensure students have access to general education curriculum, inclusive placements.
+[1:06:43] Why? Part because we know that's the most effective way to serve
+[1:06:47] students in the way in which they're going to make the most
+[1:06:49] progress and have the most positive outcomes.
+[1:06:51] Some of that was referred to in our presentation that Sabrina and
+[1:06:56] team provided last week, and it's also been what I've shared before.
+[1:07:01] Additionally, we do have staffing needs in special education and spreading special
+[1:07:08] education resources. The number of students that we are serving is, is
+[1:07:13] next year right now is pretty much the same.
+[1:07:18] We are projected to decline a little bit, and, and the resources
+[1:07:22] that we will allocate and to support our students with disabilities will
+[1:07:26] be pretty commensurate. And at the same time, it is also one
+[1:07:31] of the spaces where we have the most challenges with filling positions
+[1:07:36] and ensuring that we have highly qualified folks in those positions to
+[1:07:41] serve students. Back to the point that students with disabilities, students that
+[1:07:47] receive special education as a supplemental service, are first and foremost general
+[1:07:51] ed students. Students, and what that program provides is significantly important to
+[1:07:55] them. When we think about what we've been hearing in our conversations,
+[1:08:00] I think it's important to highlight again that the, the questions, the
+[1:08:04] concerns— I point to my, my parents that I work with over
+[1:08:08] here, but all of our families have expressed— are important and, um,
+[1:08:13] the right questions to be asking.
+[1:08:16] I highlighted here some of those questions that we have been hearing.
+[1:08:20] Such as how will services for students be protected in school closures
+[1:08:23] and program changes? Will we lose programming and/or access to services such
+[1:08:28] as regulation sensory spaces or other building-wide options?
+[1:08:33] I think there has been really good conversation and pointed out by
+[1:08:36] some of our parents today that when we think about students accessing
+[1:08:41] services in the building, we're not just talking about classrooms, we're talking
+[1:08:45] about other spaces that provide the more robust experience for our students?
+[1:08:50] And is right-sizing disproportionately harming students with disabilities?
+[1:08:54] I've heard other really important questions about how we might be protecting
+[1:08:59] our neuroaffirming spaces and school programming.
+[1:09:02] How are we honoring school and neighborhood communities?
+[1:09:05] And how will we transition students who must change in a student-centered
+[1:09:10] way that minimizes the amount of impact it might have?
+[1:09:14] All of these feel like important questions that need to be considered
+[1:09:18] and have been as we start to think about moving forward and
+[1:09:21] what the superintendent will bring forward, as well as our planning for
+[1:09:25] next steps. So, what a— an area of focus that we've received
+[1:09:33] feedback is, uh, on is understanding our current landscape or how it
+[1:09:36] is we, uh, go about serving students disabilities, or students that receive
+[1:09:41] special education services. So, so right now, and so this is our
+[1:09:44] November 1st count, um, we, we are serving 7,283 students, which is
+[1:09:50] approximately 17% of our enrollment.
+[1:09:53] Um, oh, apologize. Overall, um, we're in a decline, um, in that
+[1:10:00] we've lost about 260 students since '24-'25, where we were around 7,600
+[1:10:07] students, and I'm not doing the math so amazingly, but, but, um,
+[1:10:11] around that point. So coming out of the pandemic, we, we saw
+[1:10:16] a unique, um, phenomenon where the numbers of students we were serving
+[1:10:20] in special education was increasing as overall student enrollment was decreasing.
+[1:10:25] In the last 3 years, that shifted to where special education numbers
+[1:10:30] are also decreasing. Within special education, In general education, we serve students
+[1:10:35] in our program in what we call a learning center space through
+[1:10:40] receiving speech-only services or in our specialized focus classrooms, and I've given
+[1:10:44] the breakdown of what that looks like.
+[1:10:47] But to Director [Splitt]'s point, this does not dictate what it is
+[1:10:51] that students receive for services and/or the amount of time that they
+[1:10:55] receive service in general education.
+[1:11:01] So, currently, right now, today, we serve students in what we call
+[1:11:09] communication behavior programming, which is— it's focused on social communication and neuroaffirming
+[1:11:16] service, serving students primarily but not exclusively on the autism spectrum.
+[1:11:23] And, and so this is where our programming is currently located.
+[1:11:26] We We have, um, in places, uh, 2 staff members where we
+[1:11:32] break up K-2 and 3-5, and then in some of our schools
+[1:11:37] it's a, it's a K-5 program.
+[1:11:39] Additionally, we have a couple unique circumstances, for example, where [Stephenson] is
+[1:11:44] only a 3-5 classroom and Lewis is a, is a K-2 classroom.
+[1:11:51] So, um, in addition to that, we have our intensive classrooms.
+[1:11:55] These are, these are services or focuses for students that are more
+[1:11:59] significantly impacted by their disability, and these are located at Atkinson being
+[1:12:06] a K-2 and 3-5. Beverly Clear right now is a 6-8.
+[1:12:11] Markham is the 3-5. Maplewood is the K-2 that feeds into the
+[1:12:15] 3-5 at Markham, and then we have Scott, which is a K-5
+[1:12:19] and then Vestal, which is, is 2 spaces.
+[1:12:23] Um, our social-emotional skills classrooms is primarily behavioral focused.
+[1:12:27] Buckman, Hayhurst, and Sabin both have K-2 and 3-5 classrooms, or both,
+[1:12:32] all 3, I apologize. And then our Lita is, uh, 3-5 focus.
+[1:12:36] Um, these classrooms shift, not, not in where they're located, but the
+[1:12:42] numbers of these classrooms that we need every year depend upon the
+[1:12:46] number of students that we have to serve.
+[1:12:49] And so there are shifts.
+[1:12:51] And then there's been a lot of conversation about our inclusive school
+[1:12:55] communities. I've been with you presenting before, and those currently are located
+[1:13:00] at Astor, Cesar Chavez, James John, Marysville Peninsula, [Sitton]', and Whitman.
+[1:13:04] Rosa Parks. And Rosa Parks.
+[1:13:06] It's, um, This is our middle school specialized programming with intensive skills
+[1:13:16] classrooms at Beaumont, Brentwood, George, Harriet Tubman, Jackson, Kellogg, Mount Tabor, West
+[1:13:21] Sylvan, and Beverly. Clearly, uh, the, the numbers in parentheses next to
+[1:13:27] them are, uh, the number of FTE that they're the classrooms.
+[1:13:31] So it's 1 at Kellogg, 2 at Beaumont, 1 at Brentwood, 1
+[1:13:34] at Mount Tabor. Social-emotional skills classrooms, middle school broken out there.
+[1:13:40] And then of course we have a specialized school at Pioneer.
+[1:13:47] I did not include high school programming.
+[1:13:49] Every one of these programs are reflected at high school programming.
+[1:13:54] As— I apologize for going back— as you notice, when we shift
+[1:13:57] to middle school, we don't have communication behavior programming, right?
+[1:14:03] What IEP teams make decisions decisions as students transition out of 5th
+[1:14:07] grade if students are best served in a learning center, an intensive
+[1:14:11] skills classroom, or social-emotional skills classroom right now within the model or
+[1:14:16] the program that we provide.
+[1:14:20] So we are providing a little bit of information on how we
+[1:14:25] staff the— and what the focus of the classrooms are.
+[1:14:29] I've already identified that. Intensive skills classrooms, we have them K-12.
+[1:14:34] We staff, uh, there's one teacher, um, with a caseload around 13
+[1:14:40] students and 3 paras. That, that, that's the student-to-staff ratio in those
+[1:14:45] classrooms. Communication behavior, um, autism spectrum disorder, typically, uh, staff 1 to
+[1:14:53] 13, 3 paras. Um, it's K-12, but like I said we do
+[1:14:58] have, um, a void in CB programming at middle school right now.
+[1:15:03] And then social-emotional learning is K-12 again.
+[1:15:06] Um, it's staffed a little differently.
+[1:15:09] It's, it's 1 to 13 with 2 to 3 paras depending upon
+[1:15:12] grade band because there's additional staff that push into that, which are
+[1:15:16] therapeutic intervention coaches and QMHPs.
+[1:15:21] In addition to that, of course, I'm I identified for social-emotional, we
+[1:15:24] have a special school and then day and residential programming, which is
+[1:15:28] outside of the district. Our staffing ratios for learning center is, it's
+[1:15:34] about 1 to 30, so 0.5 FTE to 15 students.
+[1:15:39] Many of our caseloads fluctuate from a staff member having— one full-time
+[1:15:47] staff member having 15 up to 33.
+[1:15:50] School psychs, we staff at a ratio of 1 to 135 students
+[1:15:55] with disabilities, and our SLPs are 1 to 50.
+[1:16:03] So a little bit more on the focus specialized programs.
+[1:16:09] They are allocated and, and, and, and located in schools in a
+[1:16:14] regional focus. And so what I mean by that is, for example,
+[1:16:18] I, I identified that our Leda has a 3-5 social-emotional skills classroom.
+[1:16:24] The students in that classroom are from all over Southeast and Northeast,
+[1:16:29] so they're, they, they are, they are assigned by an IEP team
+[1:16:32] outside of their neighborhood school to this program, um, where they would
+[1:16:37] have otherwise attended K-2 somewhere else.
+[1:16:42] That's the similar thing for other programming with our CB programming, which
+[1:16:48] as you saw in our previous slide is there, there are more
+[1:16:52] of those, but every classroom is capacity-driven and in addition to that
+[1:16:59] designed to serve a region.
+[1:17:02] There, there, that's not to say that there aren't students from that
+[1:17:04] neighborhood school in, in those classrooms, but a vast majority of the
+[1:17:09] students come from other places.
+[1:17:11] Like I just said before, our caseloads span from 9 to 14
+[1:17:15] students per module. Every year we have hundreds of students transition in
+[1:17:22] and out of our focus programs, and so what Sabrina was talking
+[1:17:26] about earlier was students that transition in and out due to moving
+[1:17:31] in and out of PPS, but then this other factor is IEP
+[1:17:35] teams making decisions on students needing more restrictive programming or needing less
+[1:17:40] restrictive programming. Both happen, and they happen, um, all, all year long.
+[1:17:47] Um, in addition to that, every year we open and close classrooms.
+[1:17:52] This year we had to open an additional CB classroom to address
+[1:17:55] the need, and we closed 2 ISC classrooms because we didn't have
+[1:17:59] enough students to support that level of need.
+[1:18:01] So last year we opened 5— 4 CB classrooms.
+[1:18:07] And so as the need is identified for students, we have to
+[1:18:13] work with our schools, with the facilities, and, and, and work to
+[1:18:19] place students and open up new classrooms.
+[1:18:22] Added to that, every summer we work with our families on where
+[1:18:27] services are provided. So at some point we may have had to
+[1:18:32] place a student who lives in northeast at a southeast school.
+[1:18:37] We will work with them over the summer to say, hey, we
+[1:18:39] have available service in a school that's closer to your neighborhood school,
+[1:18:44] and that's a, that's a real thing that happens every year.
+[1:18:50] So we're going to go in and talk specifically about special education
+[1:18:55] programming in, in the various scenarios.
+[1:18:59] And, and this is looking— should recommendations go forward, understanding that a
+[1:19:05] recommendation hasn't been met, and of course we're not even to the
+[1:19:08] place of vote, but we are, we are looking for and planning
+[1:19:12] what might or could potentially potentially happen.
+[1:19:14] Like I, like I identified before, we used real count data right
+[1:19:20] now to project what student numbers and space might look like in
+[1:19:23] order to get an indication of staffing required to support that based
+[1:19:28] upon the ratios I just shared with you.
+[1:19:30] And then in addition, looking at what facility requirements are based on
+[1:19:35] our program models. I presented a little bit about that at last
+[1:19:39] night at the, um, facilities, FIO, whatever that stands for, um, facility
+[1:19:44] something and something operation. Yeah, uh, I apologize.
+[1:19:48] Before you dig in on this, can I ask a clarifying question
+[1:19:51] so I can understand why we're tracking this?
+[1:19:53] Does this just count— now I feel like I'm going to say
+[1:19:56] licensed and maybe there's licensing I'm not aware of, but are these
+[1:20:00] like teachers or— because like I know that there's Way more, for
+[1:20:06] example, a K-5 SES classroom is going to have way more than
+[1:20:10] 1 FTE per class because there's paraeducators and—.
+[1:20:14] So, the staffing ratios I was talking about before, yeah, that would
+[1:20:16] be teacher to student, case manager to student.
+[1:20:19] Okay, great, thank you. And then the standard staffing ratio for an
+[1:20:23] SES, for example, since you identified that, would be at elementary would
+[1:20:27] be 1 teacher somewhere between You know, 7 to 13 students, 3
+[1:20:34] paras, uh, and a QMHP.
+[1:20:39] So the FTE on this slide should just be interpreted as case
+[1:20:43] managers/teachers? Yeah. Great. So, uh, one of the things that I think
+[1:20:48] is important to think about when we look at the staffing moving
+[1:20:52] forward is when you look at the amount of, uh, specialized programming,
+[1:20:57] so we're talking about CB, SES, or ISC, we don't see a
+[1:21:01] change in the number of classrooms because that programming isn't dictated by
+[1:21:08] right-sizing, to be honest. It's the amount of students and programming that
+[1:21:12] we need, and to Jay's point, that could change very likely.
+[1:21:17] September is a long time away for us in special education, and
+[1:21:20] the number of students needing programming could change dramatically between now and
+[1:21:24] then. So, if those numbers changed, it would be a result of
+[1:21:27] student need and student programming requirements.
+[1:21:30] When you look at Learning Center, you can see some fluctuation there,
+[1:21:34] and that really is only because currently we have some spaces that
+[1:21:39] have full-time FTE for Learning Center and very low numbers.
+[1:21:44] So, if you thought about 2 campuses coming together, you could actually
+[1:21:47] still be below that 30 mark to capture one learning center teacher
+[1:21:52] for one learning center class, where right now maybe it's 2 learning
+[1:21:56] center teachers, but they might both be below 15 at this time.
+[1:22:00] And that means that that impacts some of that staffing.
+[1:22:04] That is not, I want to be clear, an indication of wanting
+[1:22:09] to cut learning center teachers or those classes, but it would be
+[1:22:14] staffing that we would just be looking at how it's allocated within
+[1:22:18] special education. I think the joke I have been making to Jay,
+[1:22:22] funny, not funny, is like, in special education, we round up.
+[1:22:26] We never round down, because rounding down always gets us in trouble.
+[1:22:31] And so, we chronically round up beyond the math principles of rounding
+[1:22:35] from 3rd grade. So, when I think about how we do our
+[1:22:39] staffing, you should have that in mind, that we work on a
+[1:22:42] round-up philosophy. So, uh, but I think this gives a good map,
+[1:22:47] um, to the, to the justified question, which is like, what does
+[1:22:50] this look like when we think about programming and moving forward by
+[1:22:54] scenario? What may disappear or not disappear?
+[1:22:57] This at least kind of gives us a sense of classroom spaces
+[1:22:59] and FTE related to those programming.
+[1:23:03] So before I switch slides and, and bring up a school with
+[1:23:06] a projection and a staffing thing, I want to first emphasize Our
+[1:23:11] first focus when we're looking specifically at these specialized classrooms, so I'm
+[1:23:15] talking about CB classrooms, ISC classrooms, SES classrooms that could be impacted
+[1:23:21] by a school closure, is for those students to go to the
+[1:23:26] same space or same location that is recommended for, for the neighborhood
+[1:23:32] community. In addition to that, our intention, and this is going to
+[1:23:37] happen regardless is we will work with each family through the IEP
+[1:23:42] process to discuss whether or not that is an appropriate pathway or
+[1:23:50] placement. I think I want to identify, and I've already said this,
+[1:23:54] these programs are regional, and sometimes we have students because of need
+[1:24:00] and capacity travel past 3 schools before they get to, um, the,
+[1:24:06] the school where they've been placed.
+[1:24:08] And every summer we work with families to identify if there's a
+[1:24:12] way to rectify that and get them closer to neighborhood school, and
+[1:24:15] that is what we will do through this process also.
+[1:24:20] So first we're looking at, um, James John and, and Sitton.
+[1:24:24] Um, so should there be a decision to move forward, um, and,
+[1:24:30] and close James John. Both James John and Sitton are spaces where
+[1:24:35] we are implementing an inclusive school model or the neighborhood school model.
+[1:24:40] Um, currently, uh, based on projected numbers, um, there, there are— there
+[1:24:47] will be about 95 students that receive special education services, or 24
+[1:24:52] that are speech only. Um, that based on our level of need
+[1:24:58] staffing model that we use in our neighborhood schools, that would, that
+[1:25:02] would generate 6 special education teachers, 1.4 speech SLP, FT, and, and,
+[1:25:09] and a full-time school psychologist.
+[1:25:12] Um, to Director [Splitt]'s point, um, that also would generate 16 paraeducators.
+[1:25:18] Um, our neighborhood school model identifies the we, I, we use a
+[1:25:24] K-2 flexible learning space and a 3-5 flexible learning space.
+[1:25:31] Currently at Sitton, they have one flexible learning space.
+[1:25:35] However, looking at the numbers of students, we are giving space for
+[1:25:39] 3, and then we do— and Sitton currently has an identified sensory
+[1:25:45] space, and, and we would continue to support that.
+[1:25:48] In addition to that, um, learning space or therapy space for our
+[1:25:52] SLP and our school psych.
+[1:26:01] When we look at Rosa Parks, um, there is in essence 3
+[1:26:06] different campuses that potentially could be, uh, moving into the Rosa Parks
+[1:26:11] School. Again, similar to Sitton and James John, we're talking about 3
+[1:26:15] schools that currently operate under the inclusive school community model, and when
+[1:26:20] we say that, I think it's important to note that that is
+[1:26:23] both like a programming model, like how we think about students receiving
+[1:26:26] the continuum of services, but also a staffing model.
+[1:26:29] Jay alluded to the kind of level of need staffing model we
+[1:26:34] use when we sort out how many staff.
+[1:26:37] That is a little bit different than we think about the staffing
+[1:26:40] model in school schools that don't have an inclusive school community.
+[1:26:43] When we think about these 3 communities coming together, you can see
+[1:26:47] that we would end up with approximately 152 students with disabilities, 43
+[1:26:53] of those being speech only.
+[1:26:55] I think it's important to clarify what that means for people that
+[1:26:58] don't live and breathe special education lingo.
+[1:27:01] When we talk about students as speech only, what that means is
+[1:27:04] their only area of eligibility in special education is in speech, which
+[1:27:08] means they're only accessing services through their speech and language pathologist, and
+[1:27:12] likely that means their, their programming is the majority, if not fully,
+[1:27:18] in the gen ed setting.
+[1:27:20] They may have a small amount of pull-out for speech services if
+[1:27:23] that's what the team decides, but that just gives you a sense
+[1:27:25] of what that means in terms of context.
+[1:27:27] And again, you can see the 6.5 FTE for special education And
+[1:27:32] 1.8 FTE for speech, a full-time school psychologist, and 15 paraprofessionals.
+[1:27:38] I think Jay did a nice job of explaining the dedicated flexible
+[1:27:41] learning spaces. I really appreciated the question about flexible learning spaces.
+[1:27:46] I think it's important to note that if you think about that,
+[1:27:48] that goes back to the same conversation as any kind of programming,
+[1:27:52] which is that over 80% of the population of students with disabilities
+[1:27:58] spend over 80% of their time in gen ed.
+[1:28:01] What that means is we would not expect every student with disability
+[1:28:05] in a campus to be accessing the dedicated flexible learning space because
+[1:28:09] that would be a disproportionate amount of students who are outside of
+[1:28:12] the gen ed setting for their learning.
+[1:28:14] So we expect that space to match the need in the building.
+[1:28:18] There is sensory space and SLP and school psych space.
+[1:28:22] Again, I think I would like to point point out, I think
+[1:28:24] there's a really reasonable and appropriate conversation about access to sensory spaces.
+[1:28:28] I would agree that one sensory space for hundreds of students is
+[1:28:33] not optimal. I think my understanding in working with the facilities conversation
+[1:28:38] is that when they counted classrooms, these sensory spaces were considered outside
+[1:28:44] of flex spaces, which actually were not counted.
+[1:28:47] So in reality, I'm anticipating campuses to have main sensory and regulation
+[1:28:52] spaces, but also continuing to develop smaller accessible spaces throughout the building.
+[1:28:57] We also know that these flexible learning spaces also create sensory spaces
+[1:29:03] within those learning spaces, creating additional areas for students to access that
+[1:29:08] within the building beyond the one classroom.
+[1:29:12] So, what we do in working with facilities and actually the local
+[1:29:17] building principal for special education services is we go and specifically identify
+[1:29:23] this space is for this, this space is for this, and it
+[1:29:26] gets identified as a special education space.
+[1:29:30] So if you remember the presentation last night, we identified— and so
+[1:29:34] we identified 3 sensory, 3 flexible learning spaces here in the sensory
+[1:29:38] space. But with facilities we've allocated, or I guess, cordoned off or
+[1:29:44] whatever the— on the map, 6 specific spaces to address this level
+[1:29:48] of need. So, um, and Director LaFord, I'm very cognizant of time.
+[1:29:53] I'm going to identify, if it's okay with you, identify highlights because
+[1:29:58] I'm realizing if we spend this much time on each thing, we're
+[1:30:01] going to be here until 7:30.
+[1:30:02] Or breakfast. I think that sounds— I think that sounds great.
+[1:30:06] I trust you to Okay, um, anyone who has any specific questions
+[1:30:11] can definitely email us. We'll definitely get answers.
+[1:30:13] Okay, um, Marysville and Arlita.
+[1:30:16] Marysville is another one of our neighborhood school model or our inclusive
+[1:30:19] school communities, and Arlita is not currently.
+[1:30:23] What we are looking at doing, and as you will see should
+[1:30:27] this decision be made, is we'll continue to operate the social-emotional learning
+[1:30:31] space at Arlita at the same time as we working with the
+[1:30:34] Arleta community and the Marysville community to work into the inclusive school
+[1:30:40] community process. And we have a plan, and it's called the Blueprint,
+[1:30:44] and an agreement with our association related to how that all happens.
+[1:30:50] This one is unique, so I will talk about it.
+[1:30:54] So Whitman also is a neighborhood school or inclusive school community school.
+[1:31:00] Woodmere currently is not and, and has CB programming.
+[1:31:04] Our focus is for the students in CB programming at Woodmere to
+[1:31:08] move with the community to Whitman.
+[1:31:11] And Whitman, in, in their work that they're doing, has dedicated flexible
+[1:31:17] or focus type spaces which will meet the needs of the, the
+[1:31:22] students that are currently served in CB.
+[1:31:24] They currently serve students that would otherwise be served at Woodmere.
+[1:31:29] What we will do, as I identified through this process, is we
+[1:31:33] will connect with every family that is served in the CB classroom
+[1:31:36] at Woodmere, and we'll have a conversation with them about what this
+[1:31:40] transition looks like. And that'll be done through an IEP process to
+[1:31:44] ensure that services or supports are done.
+[1:31:46] Students who may not reside in the Woodmere-Whitman boundary and reside in
+[1:31:52] other space in, in Southeast or even Northeast in some cases here,
+[1:31:57] we will also work with them to see if there might be
+[1:31:59] another program closer to their residence that they— that we can help
+[1:32:05] facilitate connection for them with.
+[1:32:07] Can I ask a clarifying question on that?
+[1:32:09] So what about the kids that are— they don't live in the
+[1:32:14] Whitman or Woodmere catchments They're in currently CB.
+[1:32:20] Could they be given the ability to stay with their peers and
+[1:32:23] move into Whitman whether or not they live in that neighborhood?
+[1:32:25] Okay, great. I just wanted to check because I think that seems
+[1:32:28] totally reasonable. Great, thanks. Yeah, um, same thing with Sabine, King, uh,
+[1:32:34] Vernon's been brought into this conversation.
+[1:32:36] I want to be adamant in what I'm saying, um, in, in
+[1:32:39] how we will support our SDS family that are currently at Sabin,
+[1:32:44] should a decision be made related to Sabin, they will go with
+[1:32:48] the SES programming to MLK Jr.
+[1:32:52] Additionally, Sabin serves students right now from the entire north-northeast area, and
+[1:33:00] very same thing I just described for, for Woodmere and Whitman will
+[1:33:04] apply here should this decision be made, and we'll have IEP meetings
+[1:33:08] and conversations with families, but the default plan— and I know it
+[1:33:12] doesn't— isn't reflected on this slide entirely— this is based on projections
+[1:33:16] related to where kids live, but the default plan and, and how
+[1:33:21] it will roll out is students will go with the neighborhood community
+[1:33:26] from Sabin to King that are in the SES program, and of
+[1:33:29] course Learning Center will go also.
+[1:33:32] Um, this, uh, we Initially, this, this has shifted as a result
+[1:33:38] of feedback and, and the work that I just described with our
+[1:33:42] intention to keep specialized programming or students accessing specialized programming with their
+[1:33:47] neighborhood communities. So initially in the individual school reports that we published
+[1:33:53] when the scenarios were first dropped, we identified Lewis CB classroom going
+[1:34:00] to Wood Woodstock. The reason for that is because the Lewis CB
+[1:34:06] program is a K-1, Woodstock is K-5, and so there's no continuity
+[1:34:11] for kids. Like, the students leave Lewis right now and go to
+[1:34:14] Woodstock, or they go to other, other CB programs when they, when
+[1:34:19] they get into the 3rd grade.
+[1:34:21] However, in an effort and due to feedback, Lewis is going to
+[1:34:26] [Duniway] and the CME program will join, um, the community at [Duniway],
+[1:34:32] um, and, and then we'll work through how it is that we're
+[1:34:36] supporting transitions, including looking at, rather than it being a K-1 classroom
+[1:34:40] or K-2 classroom, I apologize, maybe a K-5 space so students have
+[1:34:44] continuity of service and support throughout their experience.
+[1:34:49] Um, this is unique too.
+[1:34:52] I alluded to it earlier.
+[1:34:54] Right now, our ISC classroom at Maplewood actually used to be at
+[1:34:59] Markham, and during the ice storm, when the Markham students joined Maplewood,
+[1:35:07] we moved the K-2 classroom to Maplewood, and then we never— we
+[1:35:11] just left it when, when students returned.
+[1:35:16] Students currently attend Maplewood for K-2, and then they transfer to Markham
+[1:35:22] for 3, 5. And so should there be a decision made in
+[1:35:27] this realm involving all these schools, our focus would be to have
+[1:35:36] the ISC classrooms reconnect at Markham.
+[1:35:41] The reason Hayhurst isn't considered is because Hayhurst currently houses a focus
+[1:35:47] classroom program already. Already, which is 2 SES classrooms.
+[1:35:50] And, and, and, and the uniqueness of students and families already being
+[1:35:56] connected in the ISC program from Maplewood to Markham makes sense.
+[1:36:01] And so that's the rationale around this particular recommendation and the various
+[1:36:06] staffing that it would look like.
+[1:36:08] All of our schools have learning center classrooms, all of our schools
+[1:36:12] have learning center teacher allocations, and so that's not completely reflected here
+[1:36:17] because we were trying to capture the, the ISC experience.
+[1:36:24] Currently, we serve or support our Columbia Regional Inclusive Service Program, which
+[1:36:30] is actually not a PPS program.
+[1:36:33] It is supported by PPS or, or led through PPS, but it
+[1:36:39] is not a PPS special education program.
+[1:36:42] Um, we—. That, that elementary program is currently at Creston.
+[1:36:45] Um, the middle school program is currently at Mount Tabor.
+[1:36:49] Um, in— within recommendation, um, Creston students are moving and should— this
+[1:36:55] sort of— should a vote move forward, um, to Atkinson.
+[1:36:59] Um, Atkinson currently houses, um, an I— a K-2 and a 3-5
+[1:37:05] ISC-focused program. And so because of that and the fact that the
+[1:37:12] students in PPS that transition to middle school, which is only 1
+[1:37:18] or 2 students a year, because in, in the Deaf and Hard
+[1:37:22] of Hearing Program there's only 7 PPS students total, there's 32 students
+[1:37:27] overall, but we serve students from all over the region.
+[1:37:30] So students from Corbett, students from West Wind-Lilsonville, students from, um, other,
+[1:37:37] other places in the region.
+[1:37:39] Um, but that would be their neighborhood middle school, and transitioning with
+[1:37:44] that community, um, as you move into middle school makes sense.
+[1:37:48] Um, and so we're focused— our proposal, should these decisions move forward,
+[1:37:53] is to have the deaf and hard of hearing program at Glencoe
+[1:37:56] join Glencoe. Um, The, uh, there's learning center programming offered at both
+[1:38:02] spaces, or all 3 spaces.
+[1:38:08] Um, within this, this work, we're looking at SES programming out of
+[1:38:16] Buckman. Um, our, our focus would be for the SES program to
+[1:38:21] join neighborhood students going to Sunnyside from Buckman.
+[1:38:24] Should this decision go forward.
+[1:38:29] So Beverly Cleary 6-8 program currently serves an ISC classroom, and this
+[1:38:36] is only middle school focus, it's not K-5 focus.
+[1:38:40] Beverly Cleary Community 6-8 is recommended to go to Beaumont.
+[1:38:47] So the students that, uh, in Beverly Cleary ISC classroom that are
+[1:38:53] served through the grant pathway will join the ISC program that is
+[1:38:57] already at Beaumont. The students at Beverly clearly also are going in
+[1:39:06] the Jeff pathway, and so our focus would be first to keep
+[1:39:11] students together, and then, and then following working with individual IEP teams
+[1:39:16] and families on joining, uh, the, the Tubman, um, ISC classroom.
+[1:39:22] Both Tubman and Beaumont have ISC spaces.
+[1:39:25] And so—. Can I ask you a quick question?
+[1:39:27] Yeah. How—. Because BCS is slated to go entirely to Beaumont, so
+[1:39:33] which students would be going to Tubman?
+[1:39:35] So students that, um— so we'll work with the, the, the parent
+[1:39:40] and the IEP team, but it's students in the ISC classroom who—
+[1:39:47] so in, in the middle school grades— who are, who are part
+[1:39:51] of the, the Jeff pathway.
+[1:39:54] So in high school, they would go to Jefferson, not Grant, because
+[1:39:59] right now—. We're having a hard time wrapping our heads around this
+[1:40:02] one. So do you mean kids that are currently at BCS because
+[1:40:05] that's where the closest ISC program is, but they live in a
+[1:40:09] different area. So is it a way of basically— I don't want
+[1:40:14] to say splitting those kids up because that's not what I mean,
+[1:40:16] but then segmenting out the students that would go to— I'm having
+[1:40:24] a hard time with this.
+[1:40:25] What our focus is, our focus in special education always is to
+[1:40:29] try and ensure students are in, in and around their neighborhood school.
+[1:40:34] Including in a pathway to their middle school and into their high
+[1:40:38] school. So right now what we have at Beverly, clearly in the
+[1:40:43] ISC classroom due to capacity, is students that are in both pathways.
+[1:40:50] And so again, our— I want to emphasize this because I don't
+[1:40:54] know that I'm being clear enough.
+[1:40:57] Our—. The first focus will be for them to move with the
+[1:41:00] rest of their classmates to Beaumont.
+[1:41:04] We will connect with each individual family and identify the space for
+[1:41:11] them in the pathway to Jefferson, because either way, when those students
+[1:41:14] leave the 8th grade, they're going to Jeff, they're not going to
+[1:41:17] Grant. I think the thing I would say about that that's probably
+[1:41:21] noteworthy is that, you know, Jefferson will also be opening an ISC
+[1:41:25] classroom for the first time in some time.
+[1:41:28] Coming up next year. So that is, as we think about planning
+[1:41:31] for that feeder, those would be students who go in that direction.
+[1:41:34] I think it's important to say that we plan to talk with
+[1:41:37] families, and there may be families who say, like, we'd actually rather
+[1:41:41] stay with the cohort and go to Beaumont.
+[1:41:42] Fine. I think it's important to note that overwhelmingly we process hundreds
+[1:41:48] of requests every summer from families asking for their child's specialized program
+[1:41:53] to be moved back to their— where they live.
+[1:41:55] Because of all the reasons families want services where they live.
+[1:41:59] And so I think our intention is to provide that wherever possible.
+[1:42:04] So what this slide outlines is it's projection.
+[1:42:07] It's not how it's going to go, but it's if, if what
+[1:42:10] we know, because we know where families live, if that pathway was
+[1:42:14] decided what it would look like and what staffing it would require.
+[1:42:17] I was just confused because, because if we were to move forward
+[1:42:20] with either of the plans Irvington and BCS are consolidating, which would
+[1:42:24] mean all those students would go to Beaumont.
+[1:42:27] So I'm still not— is this giving students the option to stay
+[1:42:31] at Tubman? Future students? It's current students in the ISC.
+[1:42:38] Got it. There are a very small handful.
+[1:42:42] I, I, I'm reserving saying the number because we're going to get
+[1:42:45] to a place where we're like identifying people It's a very small
+[1:42:48] number of students who are in the current Bev Cleary ISC who,
+[1:42:52] who live regionally in the Jefferson pathway and, and are afforded now
+[1:42:57] the opportunity to go to Tubman for ISC and join their neighborhood
+[1:43:03] on their way to Jefferson.
+[1:43:04] That—. I get it now.
+[1:43:05] Thank you. No worries. It's all right.
+[1:43:09] It's all good. Um, [Stephenson] and Capitol Hill, should this decision move
+[1:43:16] forward, there is a CB classroom.
+[1:43:19] It is a 3-5 CB classroom at [Stephenson].
+[1:43:21] They will move with the neighborhood to Capitol Hill.
+[1:43:27] So this is complex and it is going to take a minute.
+[1:43:33] So we have received questions related to Title I, Title I status
+[1:43:42] and representation of special education, and how Title resources are used, how
+[1:43:48] special education resources are used, and whether or not there are more
+[1:43:54] schools with higher percentages of special education being impacted that also happen
+[1:44:01] to be Title I. And so, so what we are presenting here,
+[1:44:05] and this is in response to questions that we've been asked is
+[1:44:10] what our representation is, what current enrollment is, how many students with
+[1:44:17] disabilities there are in that space, and then what the direct certification
+[1:44:21] percentage is. And so Title I— and I've been in space explaining
+[1:44:25] this, of course— Title I is, you know, it's out of the
+[1:44:28] Elementary and Secondary Education Act.
+[1:44:30] It's focused on supporting poverty.
+[1:44:32] Um, Districts allocate resources through Title I based upon formulas which include
+[1:44:39] poverty rate and includes the number of students in that school being
+[1:44:41] served. The federal focus for school-wide Title I is 40%.
+[1:44:48] The Oregon ODE's focus for Title I is 35%.
+[1:44:55] PPS has a waiver for 33%, so we serve more students or
+[1:44:59] serve more schools than, um, by choice than is within recommendations because
+[1:45:06] districts get to set that percentage.
+[1:45:08] The whole focus is to ensure that there's enough resource to enable
+[1:45:11] schools to implement a program.
+[1:45:13] So every green student is, is a current Title school.
+[1:45:17] The yellow is a bridged school, so they've fallen out of Title
+[1:45:22] status and we can bridge them for a year.
+[1:45:25] Here, um, and, and so that, that's how it's broken down.
+[1:45:28] And so there are schools that are on the recommended, um, in
+[1:45:33] the recommendation for closure that, that are Title schools, um, and, and,
+[1:45:38] and when you're looking at the representation of students with disabilities as
+[1:45:44] a district, we serve 17%.
+[1:45:46] When you're starting to get into 35%, that is a lot.
+[1:45:50] That is a significant representation.
+[1:45:52] When you're at 20%, that is a significant representation.
+[1:45:58] Um, to— there, there, there are a multitude of factors that impact
+[1:46:02] this. One factor that impacts representation both for poverty and, and, and
+[1:46:09] representation of students with disabilities is, is the very, um, the low
+[1:46:14] enrollment. When you're looking at a school of 156 students and the
+[1:46:20] public school is where you receive your special education services, that is,
+[1:46:25] that is where you get your special education services at.
+[1:46:28] So as we're looking at school, the neighborhood schools, our inclusive school
+[1:46:33] communities, and, and we outline how we would work in special education
+[1:46:37] should a decision be made to, to join them, they are serving
+[1:46:41] students in their neighborhood. So this data also represents what the neighborhood
+[1:46:46] of the various schools is.
+[1:46:50] And here are, um, it's the one continuous list starting— Creston would
+[1:46:55] be the next one down, moving down to Forest Park.
+[1:47:01] Can I just ask where these numbers came from?
+[1:47:04] Because at least I see something that seems quite off, but I'm
+[1:47:07] just curious if you— if it maybe is just Just pulling the
+[1:47:10] data over. I'm just curious where the data came from for this.
+[1:47:14] Uh, uh, percentage— the enrollment is, um, from our, uh, October 1st
+[1:47:20] count. Uh, the special education count is from our November 1st special
+[1:47:25] education count. The percentage is whatever that is.
+[1:47:29] Um, then the direct certification is directly out of our, um, title
+[1:47:33] plan. Um, So, this is the percentages.
+[1:47:36] So, you, you do, you have to set a point in time
+[1:47:39] where you identify what your title rate is to do your rank
+[1:47:44] order, and so that's what that percentage is from.
+[1:47:48] It's taking me forever. I'm glad we have a new data website.
+[1:47:53] It's really nice, but now I can't find everything as fast as
+[1:47:55] I used to, but I just feel like I have to correct
+[1:47:59] the record because I just can't not, but Hayhurst is like off
+[1:48:03] by half. We're almost always right around 30, and it's— everybody knows
+[1:48:07] it, and it's wrong. So I just have to say it's wrong.
+[1:48:11] So maybe we could update it, um, on the other side.
+[1:48:13] For DC? No, yeah, for DC.
+[1:48:16] It's generally around 30. I think it's 27 last year.
+[1:48:20] Okay. So it's just really off.
+[1:48:22] So I just wanted to make sure that—.
+[1:48:23] Yeah, we can look at that.
+[1:48:24] Maybe we just double-check them.
+[1:48:25] I understand the point you're trying make, it's not a big deal.
+[1:48:27] But I think given the one, it just seems like the only
+[1:48:33] school I know about— I keep seeing things, but, um, that I
+[1:48:36] know— well, not the only school I know about, but the one
+[1:48:38] I know best. But then also it speaks to like an issue
+[1:48:41] that we're hearing quite a bit about with things like this with
+[1:48:43] the numbers. So I just really want to flag it when I
+[1:48:45] see it. Can I ask a question?
+[1:48:47] And make sure we get it fixed.
+[1:48:49] Thanks. Is, is the direct certification number Related to the number of
+[1:48:53] students with disabilities, or is it the school as a whole?
+[1:48:56] School as a whole. Okay.
+[1:49:01] So yeah, I mean, this— these numbers came— I'm not going to
+[1:49:04] say I'm looking at it right now and I see 14.8, 14.8,
+[1:49:07] 14.8. I'm sure somebody accidentally grabbed that same number by accident because
+[1:49:11] it's in line. I think Irvington might be the next— the one
+[1:49:14] next to it on that list.
+[1:49:16] No big deal, but I just want to make sure we When
+[1:49:18] we see things, we name it and get them fixed.
+[1:49:22] Thanks. So, um, I— so neuro— neurodiversity, and specifically neuroaffirming practices, has
+[1:49:28] been a, um, a topic of discussion pretty consistently, both in, uh,
+[1:49:34] the feedback that we're receiving from families in, in public comment tonight,
+[1:49:38] um, and, and it's, it's a specific area.
+[1:49:41] Sabrina addressed much of this already.
+[1:49:44] Um, um, and I want to acknowledge what families— what we're hearing
+[1:49:49] from families related to their experience, related to relationship, related to the
+[1:49:53] things that are working for their student, um, are all very true.
+[1:49:58] Also, when we're talking about neurodiversity, um, we're talking about a, a
+[1:50:03] wide spectrum of student and student need, uh, everywhere from students with
+[1:50:10] autism students that receive specific learning disabilities and students that we identify
+[1:50:15] as other health impaired, but it's due to executive attention and executive
+[1:50:19] functioning needs. What you do and how you serve these students is
+[1:50:24] very different. Additionally, the percentages— and, and this data, this specific data
+[1:50:32] is based off of our most recent state count Um, and so
+[1:50:38] it varies a little bit from the current November 1st count that
+[1:50:41] I provide, but what it does is gives an idea of what
+[1:50:44] the percentage or representation in our special education programming is of students
+[1:50:49] that, that experience or demonstrate these experiences.
+[1:50:53] I think the thing that's important and to understand, and, and my—
+[1:50:57] in the focus that we're working on, is serving students with— that
+[1:51:02] experience neurodiversity or with affirming practices is highly, um, focused on what
+[1:51:08] services are provided. It's both in the gen ed classroom and the
+[1:51:12] special education space, and we serve students in this system in, in
+[1:51:16] every environment across our entire district.
+[1:51:21] I think the important thing about that that comes up here too,
+[1:51:24] that I think we hear from families as we're processing changes at
+[1:51:28] the middle school level, as we look at the proposal around K-8s
+[1:51:32] and some of our other campuses is a gap in services, particularly
+[1:51:37] when we think about students with neurodivergence at middle school.
+[1:51:41] So we are looking at what it would look like to open
+[1:51:45] 2 CB classrooms at the middle school level, one specifically at Hosford,
+[1:51:50] as we think about the potential of students from Sunnyside transitioning to
+[1:51:54] Hosford and how we can just make sure we're tending to, I
+[1:51:58] think, really warranted conversation about how are students finding success in different
+[1:52:03] spaces and making sure that IEPs reflect that and programming options also
+[1:52:08] reflect that. I think this, again, this is OSAS data from last
+[1:52:16] spring, and really the intention here is to kind of look at
+[1:52:21] what do we see for our students with disabilities and different areas
+[1:52:25] of success. I want to be really careful that OSAS isn't the
+[1:52:29] one measure of how we see success for our students with disabilities.
+[1:52:32] I think there's really warranted conversation about not just their sense of
+[1:52:36] academic success, but their sense of belonging and community and connection to
+[1:52:40] schools. Attendance becomes as much a part of that conversation as anything
+[1:52:45] else, and we know that students who find belonging and community attend
+[1:52:48] at a higher rate. So, I want to be careful that OSAS
+[1:52:51] doesn't dictate for us the only measure of success, particularly when we
+[1:52:55] think about students with disabilities and accessing programming.
+[1:52:58] And I do think it's important that we're also looking at this
+[1:53:01] data at the same time.
+[1:53:06] So, I think that brings us, I'm sure many of you gratefully,
+[1:53:09] to the last slide. Everybody can be like, good God, it's 6
+[1:53:14] We still have another presentation.
+[1:53:17] I know, I know. I see Kelly right here.
+[1:53:19] She's like, girl, what are you doing?
+[1:53:22] Um, one of the things that I think is important is that,
+[1:53:26] you know, there's this fine line between managing possible scenarios and implementation
+[1:53:31] planning for something that's not voted on yet but could be voted
+[1:53:35] on, and what would that look like.
+[1:53:37] And one of the things that I think we owe our families
+[1:53:39] is that We are already thinking about what the pacing of that
+[1:53:43] would look like and what are the kind of guideposts we would
+[1:53:46] need to have in place as we think about programming shifting and
+[1:53:51] as we think about students shifting and school closures and boundary changes,
+[1:53:55] right? All of those elicit these things.
+[1:53:57] I think the one thing I would say here is that special
+[1:54:00] education is constantly transitioning students between buildings.
+[1:54:05] Whether that's related to grade-level changes or programming changes.
+[1:54:09] I would not claim that special education is doing that well all
+[1:54:12] the time, so I want to be clear that just because we're
+[1:54:14] doing it doesn't mean that we've actually been doing it well, but
+[1:54:18] alas, there is multiple opportunities to improve, and one is upon us.
+[1:54:22] When I think about kind of 4 guideposts, I want to just
+[1:54:26] briefly name what we anticipate that looking like, and the pacing for
+[1:54:29] this is really meant to be How do we be prepared in
+[1:54:36] a way that allows people to process the grief and emotions that
+[1:54:40] naturally come with these processes and have to do the technical pieces
+[1:54:44] as well? So what we anticipate is that as soon as a
+[1:54:48] vote goes through and we have a sense of what's actually happening
+[1:54:51] in January and February, we expect that current sites will be building
+[1:54:57] individual individual plans based on input from families and IEP teams, which,
+[1:55:01] of course, involve families, and really laying out, by the time we
+[1:55:07] are all ready to spring break, that we have really individualized plans
+[1:55:10] built for every student in special education who's going to be making
+[1:55:14] one of these transitions. It's important to acknowledge that for lots of
+[1:55:18] those students, that could be everything up to an IEP meeting, and
+[1:55:22] for some students, it may not be an IEP meeting.
+[1:55:24] There may be other supports necessary for a successful transition that don't
+[1:55:28] require that. What's important is that every student has an individualized plan
+[1:55:33] that supports whatever changes this will mean for them, and that the
+[1:55:36] team is prepared to support that transition.
+[1:55:39] I think the bottom 2 boxes name that there are also these
+[1:55:42] 2 other pathways that happen at the same time.
+[1:55:45] There is meaningful facilities conversations, like where will the sensory spaces be?
+[1:55:50] Is that the same? Maybe that's the same, but does it— is
+[1:55:53] it set up to support more students or different students than are
+[1:55:56] currently there? And then there is just critical programming conversations.
+[1:56:01] We have buildings who might be opening a program for the first
+[1:56:04] time. That's not new for us in special education.
+[1:56:06] We're currently doing that right now, but it's important that we're investing
+[1:56:10] the time and energy to make sure that schools receiving programming feel
+[1:56:15] adequately supported to to set up whatever programming they need, in addition
+[1:56:20] to all of the facilities or operational pieces.
+[1:56:23] This is a really kind of guidepost pacing at this point to
+[1:56:27] say, like, this feels like the first sense of a rhythm that
+[1:56:31] we would need to go through to really successfully transition and implement
+[1:56:34] this for students and families.
+[1:56:42] Thank you. That was impressive and detailed.
+[1:56:45] I really appreciate it. Thank you very much.
+[1:56:48] Committee members, do you have any questions?
+[1:56:50] You want to start with Mel?
+[1:56:53] Put you on the spot.
+[1:56:55] I don't think I have any questions.
+[1:56:58] I'm kind of curious what you said about the sensory spaces.
+[1:57:02] I think that was something that really stuck out to me during
+[1:57:04] one of the public comments, is that there won't be— that there
+[1:57:07] will be a lot more students condensed condensed into a lot fewer
+[1:57:09] sensory spaces. And so I'm curious if you could go over one
+[1:57:13] more time exactly how you're kind of planning to make sure that
+[1:57:16] there are sensory spaces for all of these students who are in
+[1:57:20] new buildings. Yeah, I think that's a good question.
+[1:57:23] Let me talk about that in 3 layers briefly.
+[1:57:26] I'm making Kristen nervous already.
+[1:57:29] Can I just say something about time?
+[1:57:31] Okay, so I'm sorry, I just can't help it.
+[1:57:33] This is all so important, right, people in the audience?
+[1:57:35] Feel like we're disrespecting you, but also if we don't ask questions,
+[1:57:39] I also feel like that will be disrespecting you.
+[1:57:42] So I hope that everyone can just tolerate us running over.
+[1:57:45] I think that this presentation was great.
+[1:57:48] It took over an hour, which I'm sure wasn't your expectation.
+[1:57:52] Um, and so if people are comfortable— I mean, we're supposed to
+[1:57:55] end 9 minutes ago. We still have a whole other presentation.
+[1:57:57] Am I wrong? Do you want us to not ask questions, or
+[1:58:00] do you want us to ask questions?
+[1:58:01] Questions? Okay, let me talk about this in 3 layers.
+[1:58:06] So when we think about regulation and sensory spaces in schools, there
+[1:58:10] is just gen ed access to regulation and sensory spaces, because students
+[1:58:14] needing those kinds of spaces aren't just students in special education, right?
+[1:58:18] And so what that looks like in a general education way is
+[1:58:20] that classrooms build out break spaces, some of them better than others,
+[1:58:24] again, learning opportunities, and often schools develop a break space space that's
+[1:58:29] just for like the general population, right?
+[1:58:31] Kids who need a place to go get a quiet break, access
+[1:58:35] maybe some time, downtime, a connection with an adult.
+[1:58:38] These spaces exist in schools and should continue to do that.
+[1:58:42] Those things were considered when they looked at school counselor spaces or
+[1:58:45] other staff who might support that kind of regulation or opportunity.
+[1:58:49] The next layer of that is when we think about kind of
+[1:58:52] a dedicated sensory or regulation space that often supports a specialized program,
+[1:58:58] like a CB classroom or an SES room.
+[1:59:01] When we think about SES programming, there's usually a QMHP attached to
+[1:59:05] that, which is a mental health professional, and they have their own
+[1:59:08] space where they work with students who maybe need to regulate or
+[1:59:11] actually have one-on-one kind of therapy.
+[1:59:14] And so programming has spaces attached to them, and then often learning
+[1:59:19] center spaces become their own additional sensory spaces or regulation spaces for
+[1:59:24] students who are in special education, but maybe don't need that level
+[1:59:28] of intensity. When facilities looked at that, we identified very specifically, like,
+[1:59:34] this is how many rooms you need to set aside.
+[1:59:37] What we also know is that when facilities did those counts, they
+[1:59:41] didn't count smaller flex spaces that often end up being additional sensory
+[1:59:46] and regulation spaces for kind of smaller areas of the school or
+[1:59:49] smaller groups of students. Students.
+[1:59:51] We don't intend to have those 3 layers disappear, because they're important
+[1:59:56] for students with disabilities, and they're important for all students who need
+[1:59:59] those kinds of opportunities in their schools.
+[2:00:03] Yeah. Yeah, you mentioned a few times how you were making, you
+[2:00:09] would make individual plans with the families of the students in special
+[2:00:12] education, and I was wondering if you could go over that again,
+[2:00:16] because I want to like get super specific on it.
+[2:00:18] And I guess I wonder like about the time that that would
+[2:00:22] take and the parents that are parents of special education kids and
+[2:00:28] might not have the time.
+[2:00:29] Or I know of kids that go to my school that don't
+[2:00:33] even have the parents that care.
+[2:00:34] And so I wonder like what your accommodations will be for that.
+[2:00:38] Let's address those separately. So the first one is, the thing I
+[2:00:42] would keep in mind just calendar-wise is that approximately 70% of our
+[2:00:48] annual IEP meetings, so all students with IEPs have an annual IEP
+[2:00:52] meeting every year where the IEP team comes together and reviews the
+[2:00:56] IEP. Just under 70% of those meetings happen after January.
+[2:01:01] There's a couple of reasons for that.
+[2:01:02] One of those is that teams try not to have annual IEP
+[2:01:06] meetings in September. Parents who have those, I'm sorry, we're still learning.
+[2:01:10] And it means that it's reasonable to assume that the majority of
+[2:01:16] kids that will be making these changes will actually have a regularly
+[2:01:19] scheduled IEP meeting already happening in the timeframe where we're planning.
+[2:01:24] And so what that will mean is that we will roll out
+[2:01:26] a process to those teams, not unlike what we did during COVID
+[2:01:30] when we laid in additional supports into IEP meetings to say, you
+[2:01:34] now, as a part of your annual, need to discuss discuss this
+[2:01:37] whole set of things that has to do with implementation related to
+[2:01:40] right-sizing. There will be students who've already had their annual meeting this
+[2:01:45] year where they may need to have an additional IEP meeting.
+[2:01:49] Not all of them. That's why we ask people to look at
+[2:01:51] each individual case. But yes, I think if we didn't have a
+[2:01:55] process for that, it would be an outrageous request to think that
+[2:01:59] we could have this whole other layer of meetings.
+[2:02:02] I think it's important to know that the majority of those are
+[2:02:04] already regularly scheduled meetings. And on top of that, there'll be some
+[2:02:08] additional meetings that need to happen, and we will work to cover
+[2:02:12] that the best that we can.
+[2:02:14] Your second question was about what does it look like when we
+[2:02:16] support students who maybe have less engagement from home?
+[2:02:20] My general thinking about that is like all home partners always wanna
+[2:02:24] support their kids, and there are things that get in the way,
+[2:02:27] and we understand that, and we expect school teams to really pay
+[2:02:31] careful attention to those transition plans and do everything they can to
+[2:02:35] involve families to the level they can be involved and to make
+[2:02:38] sure to implement those plans.
+[2:02:40] I appreciate the question. Thanks.
+[2:02:45] Um, okay, uh, first of all, I want to ask— well, I
+[2:02:53] guess just as an anecdote, I think it was when Kelly's SES
+[2:02:57] program closed, um, or some— maybe I can't remember which program.
+[2:03:02] The kids that couldn't go into gen ed came to a different
+[2:03:08] SES program, and they didn't come with any staff they knew, and
+[2:03:11] it was like an unmitigated disaster completely.
+[2:03:14] This was like 3 years ago.
+[2:03:16] So I'm just curious, so we've been asking a lot about staffing,
+[2:03:21] and I know that we still still have yet to have a
+[2:03:24] real— my understanding is we have still not sat down and had
+[2:03:27] that conversation with PAT the way that it needs to happen so
+[2:03:30] that we can figure out how to deal with our PAT members.
+[2:03:36] But I know for our paras, they're in a different union.
+[2:03:40] So I'm just curious if we've had conversations yet about paras.
+[2:03:44] Are they subject to that same contract situation where— they wouldn't necessarily
+[2:03:49] be able to move with students unless we agree to some sort
+[2:03:52] of change. Um, I just know from firsthand watching that experience play
+[2:03:58] out, sending just one para that these kids knew might have been
+[2:04:01] a game changer, but they were sent with nobody they knew into
+[2:04:06] a setting where they didn't know anybody and where nobody knew them.
+[2:04:09] Yeah. Um, so I just want to know what the plan is
+[2:04:12] to make sure that we're ready for that, and then also ready
+[2:04:16] to, um, like, what's the plan for making sure we have additional
+[2:04:22] support for mental health and transition and the fact that that's just
+[2:04:26] going to be extra? So, um, a couple things.
+[2:04:31] So yeah, PFSP also has a staff assignment process allocated or identified
+[2:04:37] in, in their contract, um, and, and so Some of the same
+[2:04:42] response, or we will follow that process in, in whatever agreement is
+[2:04:46] outlined to us, you know, assign special education support.
+[2:04:51] I think the important thing, um, in that, because we also agree
+[2:04:56] that the knowledgeable, skilled adults, um, are important in, in serving, um,
+[2:05:03] our students that receive special education services The important thing I think
+[2:05:08] that we can put in place as a system to address that
+[2:05:14] service as those specific things are getting figured out outside of the
+[2:05:18] special education department is what are our— what are the transition services
+[2:05:24] and transition supports look like through that IEP process, and actually there
+[2:05:30] was several factors that the special education PTA identified in their recommendations
+[2:05:38] that we are in agreement with.
+[2:05:40] Things like decisions getting made soon enough so we have enough time
+[2:05:44] to implement transition services such as visits, meetings at sites, other things
+[2:05:51] that we can do to help students with the potential change, including
+[2:05:56] what—. What's the timeline? Social-emotional services might look like as outlined in
+[2:06:00] an IEP. And of course, that is all in addition to the
+[2:06:04] services and supports that are going to be described in just the
+[2:06:08] transition plans for the school in the general education environment in general,
+[2:06:13] which is, is a little more than this discussion.
+[2:06:17] One thing I'd add, um, that I think is helpful is like
+[2:06:23] We actually have a model for this already.
+[2:06:25] So, we have designated paras who work specifically with, you know, maybe
+[2:06:30] just 1 or 2 students.
+[2:06:32] This last year, we had just under 30.
+[2:06:34] I think we had 28 students who transitioned because of a grade
+[2:06:37] change, right? Moving to a middle school, moving to a high school,
+[2:06:40] who have worked with a designated para.
+[2:06:43] We work with our PFSP partners and HR to have conversations at
+[2:06:49] building sites where Typically, you know, patterns of seniority might dictate who
+[2:06:53] does or doesn't get to move or choose and those kinds of
+[2:06:56] things, and we've worked really well with them to be able to
+[2:06:59] say, potentially, like, to that para, would you like to move with
+[2:07:02] that student? Most of the time they say yes, right, for all
+[2:07:05] the reasons you could imagine, and then we work with teams to
+[2:07:09] make those things happen, and so I don't think it's unprecedented that
+[2:07:12] we have those kinds of really personal conversations about, keeping adults and
+[2:07:17] students connected and working with our partners to make that happen to
+[2:07:20] the best of our ability.
+[2:07:24] Um, otherwise, I, I'm trying to be really respectful of time.
+[2:07:27] Um, I did have one just tiny question.
+[2:07:31] Um, it looked like under scenarios A and B, the district would
+[2:07:35] go from having 6 K-5 SES classrooms to having 7.
+[2:07:41] Can you explain explain why that is?
+[2:07:43] I'd have to see it in front of me.
+[2:07:45] It's because we are proposing through this process to allocate SES programming
+[2:07:51] to Vernon because we're looking at where we have need across the
+[2:07:56] system, and, and it's a place where we aren't addressing it right
+[2:08:00] now. Not, not specifically that space.
+[2:08:02] I'm not trying to say Vernon itself, but in and around that
+[2:08:05] neighborhood or that region. And, and so So we were looking to
+[2:08:10] expand services, recognizing we need more.
+[2:08:14] Okay, and then in the name of keeping it short, I'll just
+[2:08:17] try to make the shortest possible comments, but I did wanna just
+[2:08:20] put it out there that, well, I guess I do have one
+[2:08:23] other question. How are you reviewing, responding to, and implementing the recommendations
+[2:08:31] from the, PTSA, the SEPTSA, SEPTSA, how do you pronounce your acronym?
+[2:08:37] SEPTSA. How are you integrating the recommendations there, reviewing them, all of
+[2:08:44] that? I'm just curious how that's being used by you all.
+[2:08:49] I can start. I've read it, true story, top to bottom.
+[2:08:55] And I think that informed a lot of our conversation today.
+[2:08:58] I have the advantage of like also meeting with these people.
+[2:09:01] And so, I've been in conversation and had the opportunity to not
+[2:09:04] just read it, but like actually hear from them, which I really
+[2:09:07] value. And I think there are small ways where that has informed
+[2:09:12] shifts that we're already proposing.
+[2:09:14] And I think one of the things that I have valued about
+[2:09:17] that conversation with them is it has not been, you know, defend
+[2:09:22] why you're doing this, it's a bad thing.
+[2:09:24] I think there have been just meaningful questions.
+[2:09:27] That led to a lot of what we presented tonight, like help
+[2:09:30] us understand how this would work, help us understand how this is
+[2:09:34] addressing or harming students. I think it is important for us to
+[2:09:38] again always acknowledge like there are, there are inherent negative impacts potentially,
+[2:09:44] but here are the ways that we are trying to mitigate that
+[2:09:46] or prevent, you know, unnecessary impact, and I think that showed up
+[2:09:52] in a lot of our work here today.
+[2:09:53] It does not mean Renee won't have more questions for me, which
+[2:09:56] I'm all for. It just means that I think it gave us
+[2:09:58] a good starting spot to start to think about things that we
+[2:10:01] could unpack further. Great, thank you.
+[2:10:05] I wanted to make sure it's considered because I know I read
+[2:10:07] it and found it really helpful and informative.
+[2:10:09] A couple of just things I just want to throw out there.
+[2:10:13] Um, one is the slide on like looking at OSAS.
+[2:10:16] I appreciated you saying how it's just one metric.
+[2:10:20] I also wonder how many of the students on IEPs that end
+[2:10:25] up choosing to go to a focus option are choosing to go
+[2:10:28] there because they have higher needs or struggle more.
+[2:10:34] So I just wanted to name that, um, because I think it's
+[2:10:38] important that we, um, just honor that dynamic because I think that's
+[2:10:42] very real. We've heard a lot from families who feel like they
+[2:10:45] have moved to those schools because it's like the only, the only
+[2:10:49] way they feel like their student can fit in or succeed academically,
+[2:10:53] or insert their individual experience.
+[2:10:56] Um, I've raised many times, it's no secret that I would support
+[2:11:02] a significantly smaller number of mergers and changes, and in part today's
+[2:11:08] conversation illustrated why. Another reason why I feel that way, I think
+[2:11:12] that it would It takes so much work to give these special
+[2:11:15] education students the support they need to successfully transition, and I want
+[2:11:19] to make sure that our district office has capacity to, to land
+[2:11:23] that, stick that landing. So fingers crossed.
+[2:11:26] I'll just keep saying it.
+[2:11:28] Um, and then, um, I really worry— I, I did, um, I'm
+[2:11:34] trying really hard not to bring up the school I know best,
+[2:11:37] but it's just surreal. Um, I know, I know that when I
+[2:11:41] looked at the facility plans, at least the school I'm most familiar
+[2:11:45] with would lose the sensory room that serves the gen ed population
+[2:11:50] that has the kids that also need it.
+[2:11:53] And I think, um, that was just something I noticed there.
+[2:11:56] And then this conversation today, it does worry me that we're not
+[2:12:01] going to have enough of those spaces in certain places.
+[2:12:04] And so even though I hear what you're saying about getting creative,
+[2:12:08] it occurred to me that, you know, in the school I know
+[2:12:11] best, we would lose the QMHP's dedicated space under the analysis I
+[2:12:17] saw yesterday of facilities. So I worry that there's this assumption that
+[2:12:21] we're protecting those spaces when maybe they're not protected in certain schools.
+[2:12:26] I know there's a lot of schools with plenty of classrooms, but
+[2:12:28] I think there's some that are tight and we should be really
+[2:12:30] making sure that we look at, like, the diagram and make sure
+[2:12:33] it works before we decide to do it.
+[2:12:38] I also just want to kind of end with the thought that
+[2:12:47] you talked about how there's just always this churn for special education
+[2:12:51] students. It's funny, because, like, I asked about the number of kids
+[2:12:55] at the school I know best, I try not to name it
+[2:12:57] anymore because I just feel like a broken record, but it's just,
+[2:13:00] just what I know. Um, and that population has already gone up
+[2:13:04] by 50% in 2 weeks since what it was when you did
+[2:13:08] the count. Um, and so that happens, right?
+[2:13:11] Like, I see it happen all the time where kids come and
+[2:13:13] go. Um, and so, um, just again, with considering that And, and
+[2:13:22] the thing you said about making sure that we're rounding up instead
+[2:13:28] of rounding down, I just wanted to make sure that that also
+[2:13:32] applies in facilities conversations. So I hope you'll bring that point and
+[2:13:37] that expertise and just really double-checking that we are getting that right.
+[2:13:42] It would mean a lot to me if you would just touch
+[2:13:44] in with them and make sure, is that QMHP space there?
+[2:13:47] Because I really was planning on it, and if it's not, that's
+[2:13:49] a problem. So thank you for, um, for thinking of that, and
+[2:13:52] thank you for listening to me.
+[2:13:55] I appreciate, appreciate all the information.
+[2:13:58] Um, this is a, a really important part of this to get
+[2:14:02] right, and I appreciate hearing you say a lot of the things
+[2:14:05] about the risks along the way here and not, um, being rosy
+[2:14:08] about it, being honest. Okay, we've got Vice Chair Chase Miller online.
+[2:14:14] She has her hand up.
+[2:14:18] Oops. Thank you. I have 4 questions.
+[2:14:23] And thank you for a very, very thorough and informative presentation.
+[2:14:30] I know that this answered a lot of the questions that I
+[2:14:32] had. So just a few more.
+[2:14:35] My first question is, have you accounted for the weighted model?
+[2:14:41] For the inclusive school community schools?
+[2:14:45] My understanding is that these are done by educators and admin in
+[2:14:49] collaboration, so just wondering how that fits in.
+[2:14:52] Yeah, so yeah, to do the projections that we presented tonight, we
+[2:14:56] did, um, use the weighted model to allocate that staffing.
+[2:15:01] We do have a process.
+[2:15:03] It's all based in what the student's IEP says.
+[2:15:07] And then we have a matrix that connects that to the amount
+[2:15:10] of teacher time and amount of paraeducator time that a school gets
+[2:15:14] assigned based upon that and add it all up.
+[2:15:17] Um, and so preliminarily, yes, we've done that.
+[2:15:22] We will have a process as we enter staffing season where we,
+[2:15:25] we get educators more involved in that discussion, but to be able
+[2:15:30] to present scenarios and understand space needs and and look at what
+[2:15:33] staffing might look like. We, we initiated that early, um, this year,
+[2:15:38] but we'll— there will be follow-up.
+[2:15:42] Okay, thank you. Um, next question: why is James John and Sitton
+[2:15:47] getting 16 paras with 95 students, and Peninsula, Chavez, and Rosa Park
+[2:15:54] have 152 kids with 15 paras?
+[2:15:57] It just has to to do with the weighted model and students
+[2:16:01] who may or may not require additional staffing.
+[2:16:03] So those equations don't just include para allocations based on programming, but
+[2:16:09] they also include para allocations based on individual student needs at those
+[2:16:13] sites currently. Okay, got it.
+[2:16:15] Thank you. Um, do we have a plan to support the CRIS
+[2:16:21] students with physical disabilities that can't access the second floor of their
+[2:16:27] new building? Yeah, we are working right now, um, to— on accessibility
+[2:16:34] specifically related to that, but it's not just physical accessibility, it's the
+[2:16:38] various other components needed in a deaf and hard of hearing space
+[2:16:43] to support student understanding, awareness, everything from fire alarms to reader boards
+[2:16:48] to There's a variety of things, carpeted spaces, and that includes looking
+[2:16:55] at lifts and other things to be able to address stairs.
+[2:17:01] Thank you. And last question, who will be leading the transition planning,
+[2:17:07] and will this be a workload issue for our case managers?
+[2:17:13] I think the leadership for that will be a little bit spread
+[2:17:17] out, so I think what I would say about that that's important
+[2:17:20] to understand is the staffing model from the central office for schools
+[2:17:23] is that every school has at least one, and in a lot
+[2:17:27] of cases now, a couple of TOSAs who work with their teams,
+[2:17:30] and those are teachers, special education teachers who work out of the
+[2:17:33] central office. We have assistant directors that are also assigned to campuses,
+[2:17:38] and they will work with those teams to help do that.
+[2:17:41] I think your question ties nicely to our, our student question, which
+[2:17:45] is like, what— how will this show up in meetings?
+[2:17:48] My goal will be that we will do everything we can to
+[2:17:51] partner with staff to give them tools so that, um, in those
+[2:17:56] meetings and conversations, they're not kind of generating everything on their own,
+[2:18:00] but we're setting them up with scaffolding to be able to lead
+[2:18:03] those conversations there, and that our staff are walking alongside them for
+[2:18:06] those conversations and planning. Awesome, thank you.
+[2:18:14] Okay, I've just got a couple questions.
+[2:18:18] Do you know, at the beginning of the presentation on slide 4,
+[2:18:21] you had a graph that talked about a study that said that
+[2:18:27] 80%— the students with disabilities, they're best served when 80% of their
+[2:18:31] day is in a general education classroom.
+[2:18:35] Do you know what percentage of PPS students currently spend 80% of
+[2:18:38] their day in a general ed classroom?
+[2:18:40] Is it the same, or—.
+[2:18:41] 83%. Higher than the state at large, notably.
+[2:18:46] That's a good segue into my next question about the state.
+[2:18:50] Do you know if the state removed the SPED cap and funded
+[2:18:54] our gap between the 11% cap and the 17% of SPED students
+[2:18:59] that we serve, how much funding would that generate for PPS?
+[2:19:03] So, and, and so this is— we've had— we— I did a
+[2:19:07] presentation to y'all on this last year, so I'm— this is me
+[2:19:11] recalling, so the, the figures may be slightly off, but, um, based
+[2:19:16] upon, um, what I recall of calculations, um, right now we encroach
+[2:19:21] into— for special education, encroach into the general fund by $70-something million,
+[2:19:27] $70 million. And so basically that's the shortfall of the funding from
+[2:19:34] the CAP, but also more importantly the High Cost Disability Fund.
+[2:19:40] So the CAP itself, I— and again, I'm giving you what I
+[2:19:45] recall as figures. I could go back and figure out what it
+[2:19:48] was, at least based on my calculations last year.
+[2:19:51] The cap would be another $10-ish million, around that number.
+[2:19:58] The place where we really are underfunded in Oregon is in the
+[2:20:02] high-cost disability, and so there is a finite budget for that, which
+[2:20:08] is $55 million. Our submission for high-cost disability last year was $63
+[2:20:14] million. So we, if this was, moved through, or if it was
+[2:20:20] allowed for us to take, we'd just take it all and still
+[2:20:24] wouldn't receive what is required to educate our students with disabilities.
+[2:20:29] But what— how it works is there's a percentage that each district
+[2:20:32] gets, and, and it's, it's somewhere— for PPS, it's somewhere around 8%,
+[2:20:37] but because of the way that the fund is right now, we
+[2:20:40] actually get a fraction of that.
+[2:20:42] So, so I think it's 3%.
+[2:20:45] So don't quote me on that, even though I understand I just
+[2:20:47] said that in a public meeting.
+[2:20:50] But that is the area where— and this is not just for
+[2:20:56] PPS— that is the area across the state of Oregon that addressing
+[2:21:01] that would create significant funding that would just pay for the programs
+[2:21:08] that we're already delivering. And then, and the cap also has an
+[2:21:12] impact. I'm not saying it doesn't, but it— and I'm not saying
+[2:21:15] $10 million isn't a lot of money.
+[2:21:16] It is, and it provides a lot of service.
+[2:21:19] So it's, it's both those things though.
+[2:21:21] It's not one or the other.
+[2:21:23] It's an incredible amount of money.
+[2:21:25] Um, slide 10, focused specialized programs.
+[2:21:29] The slide says placement is based on space.
+[2:21:32] Is the district saying that the IEP team determines the appropriate program
+[2:21:37] and the district identifies the available location, or that the availability of
+[2:21:41] space influences which program or placement that the student receives?
+[2:21:45] The first one. I thought that was the case.
+[2:21:47] I just wanted to confirm.
+[2:21:49] That's good news. Okay, slides 25— 24 and 25, SPED representation and
+[2:21:55] direct certification. Why is direct certification included and how is it being
+[2:22:00] used? And I'm asking because, you know, for example, Rosa Parks reports
+[2:22:04] 36% of students with disabilities and 79.4% direct certification, but then on
+[2:22:09] the converse, you have a school like Alameda who has 19.84% students
+[2:22:13] with disabilities and 3.4% direct certification.
+[2:22:16] They're very different school populations.
+[2:22:19] So how are those needs accounted for, and how does that factor
+[2:22:22] in? So, uh, 2 reasons.
+[2:22:26] One of the primary reasons we include That data is it was
+[2:22:30] it's been a question. It's specific.
+[2:22:32] It's a question of SEPSA is like what is what is the
+[2:22:35] actual what is the percentage and what is the the relationship of
+[2:22:39] that for direct certification? Additionally, every engagement session I've been involved in,
+[2:22:44] we've had a conversation of title and what title services look like.
+[2:22:48] And title services and supports are focused on students with disabilities as
+[2:22:52] well as non eligible students.
+[2:22:54] And so as we look at the entire picture of not just
+[2:22:58] the impacts, but how we go about serving and supporting students, specifically
+[2:23:03] students with disabilities, yes, they're general education students first, yes, they also
+[2:23:08] benefit from supplemental services such as Title and Equity monies, In-State Investment
+[2:23:13] Act dollars, but then in addition to that, we have special ed
+[2:23:16] resource that supports it. And so the focus for that slide was
+[2:23:19] to outline what that looks like, um, as far as representation when
+[2:23:23] you look at students currently in, in, in those spaces.
+[2:23:27] I think the second part to your question though is like, what
+[2:23:30] should that mean for us?
+[2:23:31] And I think the reason SEPSA highlighted that had to do with
+[2:23:36] thinking about proportionality of impact.
+[2:23:38] And I think that, you know, however that moves forward in a
+[2:23:42] vote and a proposal, I think it should inform When we think
+[2:23:46] about making unexpected transitions in spaces where maybe students have higher levels
+[2:23:52] of economic stability, we might anticipate lower levels of kind of associated
+[2:23:57] trauma or mental health concerns.
+[2:23:59] And I want to be clear that that actually doesn't mean there
+[2:24:02] aren't significant trauma or mental health concerns that happen in high-income spaces,
+[2:24:06] because we know that there are, and we know that mental health
+[2:24:09] actually doesn't discriminate. Like, it doesn't discern economy, but I do think
+[2:24:15] it should inform as we think about spaces where we see higher
+[2:24:19] rates of impact across multiple areas— race, economic status, disability— that should
+[2:24:25] inform our implementation plan, and it should be thought about in terms
+[2:24:29] of thinking about where mental health supports might be most important or
+[2:24:33] critical when we think about students who are navigating multiple complexities that
+[2:24:37] intersect. Great. Thank you. I've sent a few extra.
+[2:24:42] I don't have to go through all my questions.
+[2:24:44] The rest, some of them were already answered in the meeting today.
+[2:24:46] So thank you. Just before the team leaves, I just wanted to
+[2:24:49] say I know that on one of my visits to, I believe
+[2:24:55] it was Sabin, I sit in that community and I know I've
+[2:24:58] been quoted in papers and in videos of acknowledging I was just
+[2:25:02] saying that when we first pushed out Scenario A and B, it
+[2:25:06] didn't have a lot of descriptive information for special education, and I
+[2:25:10] know that, that, that was heavy for a lot of people in
+[2:25:16] our community, especially those who support students with IEPs.
+[2:25:20] But I was incorrectly quoted in the newspaper that said that special
+[2:25:25] education, or alluded to special education being an afterthought.
+[2:25:29] So I just want to acknowledge the team for their work and
+[2:25:32] their presentation, because as you can see, even from going through IEPs,
+[2:25:37] the dates, the programming needs, the facility constraints, there's been a lot
+[2:25:45] of work happening on behalf of students with IEPs from the beginning.
+[2:25:51] So they— it's, it's never been a question question about afterthought.
+[2:25:54] It's more acknowledging how all of this information wasn't front-loaded into the
+[2:26:02] scenarios, and it will be in the final recommendation.
+[2:26:07] Thank you. Thank you. It was a great presentation.
+[2:26:10] I appreciate everyone's patience. We're covering a lot of ground tonight, but
+[2:26:14] I definitely think it's worth the time.
+[2:26:16] So with that, our next next item is a follow-up on working
+[2:26:22] on dual language immersion, um, the dual lang— the dual language immersion
+[2:26:27] presentation that we had on October 13th.
+[2:26:28] Senior Chief Howard, do you want to introduce this item?
+[2:26:32] Yes, um, and so during the dual language immersion presentation October 13th,
+[2:26:37] there were additional questions the team was not able to answer during
+[2:26:41] the presentation due to time.
+[2:26:43] Um, the team is here tonight to answer the additional questions, and
+[2:26:46] I'm going to turn it over to Uh, Dr.
+[2:26:49] Charles, who's the interim chief equity, accountability, and continuous improvement officer, to
+[2:26:55] introduce the team. Thank you for being here, and thank you for
+[2:26:57] staying. Appreciate you all. Yes, absolutely.
+[2:27:01] Good evening, directors, student representatives, and Superintendent Armstrong.
+[2:27:07] We are here to follow up on the last presentation related to
+[2:27:13] DLI. Specific to the questions that were raised.
+[2:27:17] I want to introduce my colleagues who lead PPS's dual language immersion
+[2:27:23] and multilingual learner work. Tonight I have with me Director Will Flores,
+[2:27:29] Assistant Director of Secondary ML Services Angela Yee, and finally our Assistant
+[2:27:36] Director for K-5 ML Services Elena Papea-Cobu.
+[2:27:43] So I want to acknowledge that DLI and right-sizing are important and
+[2:27:48] deeply felt topics for students, families, staff, and our community.
+[2:27:53] Questions have come forward about how DLI relates to right-sizing, how students'
+[2:28:00] language pathways will continue, and what program changes could mean for communities
+[2:28:06] involved. So that today the team is here to share not only
+[2:28:10] their expertise but to respond to DLI and multilingual learning— learner programming.
+[2:28:16] So I'm grateful for their leadership and for the opportunity for us
+[2:28:19] to have this conversation. Good evening, uh, TLE board members, uh, Dr.
+[2:28:28] Armstrong, and everyone who's here tonight.
+[2:28:32] We want to start, and if we go to the next slide,
+[2:28:34] we want to start by just do a quick— doing a quick
+[2:28:37] review of what the national data and research tells us about effectively
+[2:28:43] implemented dual language programs. And we do this to ground ourselves in
+[2:28:48] where we want to be as dual language programs in PPS.
+[2:28:53] We also want to reaffirm our purpose and goals of not only
+[2:28:57] implementing but continuing to our commitment to dual language immersion, which is
+[2:29:03] rooted in high academic achievement for all students who participate in the
+[2:29:07] program, bilingualism and biliteracy, as well as that cross-cultural piece that is
+[2:29:13] crucial for the groups that participate in the program.
+[2:29:17] We also want to highlight and repeat and reiterate again that in
+[2:29:21] dual language we center our multilingual learners, and then everyone else in
+[2:29:26] the program benefits from a world-class education.
+[2:29:30] What you see on the left in this graph is over 40
+[2:29:34] years of research indicating the types of programs that a multilingual learner
+[2:29:40] could enter any place in the U.S.
+[2:29:43] Uh, has also been replicated, uh, every few years, and the results
+[2:29:50] are the same. When dual language programs are well implemented, well-resourced and
+[2:29:55] well-staffed, we see the students in dual language program, particularly dual language
+[2:30:01] ML students, outperform their peers.
+[2:30:04] And I, I recognize that we're not there in PPS, but it
+[2:30:09] is our goal to continue to improve our practice regardless of where
+[2:30:15] we go with the scenarios.
+[2:30:17] We do believe that a whole school model Has the promise of
+[2:30:22] providing these outcomes for our multilingual learners and the benefits for all
+[2:30:27] of the students who participate in the program.
+[2:30:30] And we'll talk more about this throughout the presentation as we link
+[2:30:33] that. As you— as Dr.
+[2:30:42] Charles already mentioned, we are here today to address the questions that
+[2:30:48] came up at the last meeting when we had the pleasure of
+[2:30:50] being with you. So we're going to go one by one and
+[2:30:53] then try to make sure that we go through any— we have
+[2:30:56] also additional data that we can— that has been linked if we
+[2:31:00] need to connect to that.
+[2:31:02] But our team is here to help us understand and really go
+[2:31:07] into in-depth into those questions.
+[2:31:11] So one question we received was, how does dual language influence the
+[2:31:15] scenarios in the north? If you go to the next slide, please.
+[2:31:22] So DLI was one of several considerations in examining school configurations in
+[2:31:26] North Portland, particularly given the concentration of co-located DLI programs in that
+[2:31:31] part of the district. The right-sizing work is focused on responding to
+[2:31:36] declining enrollment, addressing and sustain— and addressing the sustainability of our school
+[2:31:41] configurations, and creating the conditions for stronger educational experiences for students.
+[2:31:47] As part of that work, we're examining opportunities to strengthen dual language
+[2:31:50] immersion programming through more coherent instructional models, more effective use of staffing
+[2:31:56] and resources, and greater continuity for students.
+[2:31:59] Ultimately, PPS is committed to dual language programming, and our goal is
+[2:32:04] to ensure that students have access to high-quality, sustainable educational programs, including
+[2:32:09] dual language immersion. So if you go to the next slide.
+[2:32:13] So we— these tables here show the current enrollment of the 4
+[2:32:17] schools that are potentially— would potentially be affected if we were to
+[2:32:23] move to the whole school model at Chavez.
+[2:32:25] And you can see that there are multiple sections that are— have
+[2:32:29] a really low class size, and that triggered the need for blends
+[2:32:34] across mostly the English Scholar Program, which is not ideal.
+[2:32:39] When you have— when you have classes with one section of Spanish
+[2:32:43] dual language, for example, at a grade level, the teacher doesn't have
+[2:32:45] the opportunity to collaborate with their— with other teachers at that grade
+[2:32:50] level. And so teacher collaboration has a high impact on student achievement.
+[2:32:58] So if you could go to the next.
+[2:33:02] This would—. If all the students in the dual language program from
+[2:33:06] the 4 schools were to go to Chavez in the fall, this
+[2:33:10] would be— this is the proposed enrollment.
+[2:33:13] And we're hoping that with these numbers, we would be able to
+[2:33:17] have 3 to 4 sections per grade level.
+[2:33:21] Of Spanish dual language immersion.
+[2:33:25] Um, more opportunities for, you know, professional learning within the school focused
+[2:33:32] on dual language and strengthening dual language, what's best practice around dual
+[2:33:36] language, and obviously teacher collaboration with multiple teachers at the same grade
+[2:33:41] level. I also want to— excuse me— I also want to acknowledge
+[2:33:49] that we— a lot of the questions related to Spanish DLI programming,
+[2:33:54] so that's why you're seeing that we're highlighting that here today just
+[2:33:57] for the public and so that they know that we're focusing on
+[2:34:00] the questions that were asked.
+[2:34:03] One highlight that we want to re-emphasize is Lent Elementary is one
+[2:34:08] of those schools that about 4 years ago became a whole DLI
+[2:34:11] program. The trends that we're seeing with the data are very positive,
+[2:34:16] and we wanted to highlight that again.
+[2:34:20] We see— and if we go to the next slide— we see
+[2:34:23] that the English language proficiency— and this all relates to multilingual learners—
+[2:34:29] the English language proficiency results that we're seeing over the last 4
+[2:34:34] years since becoming a whole school program have increased for MLs.
+[2:34:38] 17% of MLs have increased their proficiency in the target language for
+[2:34:45] them, which is English. We also see that this— in the state
+[2:34:50] assessment data, ELA data in particular, 8% of our MLs has, you
+[2:34:57] know, the percentage has increased in meeting or exceeding proficiency.
+[2:35:01] And math data as well is showing 4% increase of the last,
+[2:35:07] uh, from '23 to '24.
+[2:35:13] This graph highlights the English language proficiency assessment that every multilingual learner,
+[2:35:20] learner in the district takes.
+[2:35:23] And so we're seeing that at LENT, about 25% of students are
+[2:35:27] either proficient or nearly proficient.
+[2:35:34] When we compare that to co-located programs, co-located Spanish dual language programs,
+[2:35:40] we see that there's a slight decrease in the number of students
+[2:35:44] that are actually becoming proficient over the same period of time.
+[2:35:50] I think, well, we can attribute that in just to some respects
+[2:35:53] and the fact that we have integrated ELD that takes place as
+[2:35:58] well in these programs, in all of our programs.
+[2:36:00] And when you have a co-located program, you have to make sure
+[2:36:04] the principal has to share the resources, if you will.
+[2:36:07] So an ELD teacher would be shared between the neighborhood program and
+[2:36:11] the DLI program, whereas at LENT, the principal is able to concentrate
+[2:36:16] services within the whole school.
+[2:36:22] We also included— it's here, thank you.
+[2:36:25] Achievement data for multilingual learners again that I spoke to before.
+[2:36:31] And you see here that LENT has remained steadily increasing except for
+[2:36:39] a gap. And I think this is a follow-up question that could
+[2:36:43] come up. We see in '24-'25 there's a dip that happens in,
+[2:36:49] uh, in year '23-'24 and '24-'25.
+[2:36:54] We saw an increase in an influx in newcomers throughout not only
+[2:36:59] Portland but throughout the state and the nation.
+[2:37:03] And so that accounts for— obviously they were not proficient enough to
+[2:37:07] either take the test or to, or to, to see any, any
+[2:37:13] achievement or, or higher achievements.
+[2:37:21] When we see math, I think we see a little better, you
+[2:37:24] know, results as well. And you're seeing that LENT is actually consistently—
+[2:37:30] has increased over the last few years.
+[2:37:33] And so that's another area that I think holds a lot of
+[2:37:36] promise as well. Before I answer the next question, one thing that
+[2:37:44] I thought of that I wanted to add on as Will was
+[2:37:46] speaking, Specifically, when we think about ELD supports in our K-5 classrooms
+[2:37:52] at co-located schools, is oftentimes we are asking an ELD teacher, sometimes
+[2:37:57] one teacher serving students in both programs, and then through our integrated
+[2:38:02] model are supporting different language arts curriculum and then needing to become
+[2:38:07] very masterful in both. And so there was an extra ask there
+[2:38:12] and workload. That I think sometimes can attribute to us not seeing
+[2:38:17] the outcomes that we would like.
+[2:38:21] So another question that was asked was, what is the data showing
+[2:38:26] when we look at our multilingual learners that are in DLI programs
+[2:38:30] in comparison to our multilingual learners that are not in DLI programs?
+[2:38:35] And if we can show the next slide, please.
+[2:38:38] So interestingly, we actually don't see a very large difference.
+[2:38:43] So when we look at Um, how our multilingual learners are, are
+[2:38:47] performing on the English proficiency assessment.
+[2:38:50] Um, there's not a comparable difference between— when we look at K-12,
+[2:38:54] not a comparable difference between our students that are in DLI and
+[2:38:57] not in DLI. Um, similarly, there's not a comparable difference when we
+[2:39:02] look at ELA achievement. Um, I do want to note, and I,
+[2:39:06] I actually really appreciate— I think this was something that was noted
+[2:39:10] by board member [Splitt] last week is that when we're, we're looking
+[2:39:14] at, um, state assessment data for students who have not yet demonstrated
+[2:39:18] English proficiency, and it's really important to, to keep that in mind
+[2:39:22] and to be recognizing that, um, it's also important to look at
+[2:39:25] other data points such as curriculum-embedded assessments and, um, other diagnostic assessments
+[2:39:30] that we are giving our students.
+[2:39:33] Um, there is a glimmer of hope when we look at our
+[2:39:35] math achievement. Um, our students Our multilingual learners that are in DLI
+[2:39:39] programs are scoring about 3 percentage points higher than our students that
+[2:39:43] are not in DLI. And we recognize that this data does not
+[2:39:48] therefore coincide with the research that, that we know is out there
+[2:39:52] as a nation, right? So Director Flores shared that graph at the
+[2:39:55] very beginning. And so I think that leaves us having to ask
+[2:39:59] some questions and recognizing that there is lots of room for improvement
+[2:40:03] and growth. Growth when we talk about our dual language programs, and
+[2:40:07] our multilingual learners especially deserve that attention.
+[2:40:10] And so regardless of what happens with the scenarios and right-sizing, that,
+[2:40:16] that need exists, and I know that our department is very committed
+[2:40:19] to that. The next question that we've heard several times is, will
+[2:40:28] whole school models result in the segregation of our Latino students?
+[2:40:32] And families? And this is a really tough question.
+[2:40:36] I think this is a really hard question.
+[2:40:38] It's a personal question. As a Latino man myself, this is something
+[2:40:43] I have to think about daily, and it doesn't lessen the fear
+[2:40:47] that our families have. I think I, I just want to acknowledge
+[2:40:51] and, and recognize our Latino families in particular in Portland and throughout
+[2:40:56] the region. Have been under attack.
+[2:41:01] I think our ML families overall have been, um, you know, have
+[2:41:06] to live in fear and in the shadows.
+[2:41:08] So one note that I think that I— that it's important to
+[2:41:12] highlight is in, in dual language, and when we look at Latino
+[2:41:18] students, Latino students or MLs, only about 28% of our kids are
+[2:41:23] in dual language programs. So the proposed scenarios A and B are
+[2:41:28] proposing 4 hubs in every corner of our district.
+[2:41:33] We will have Latino families there.
+[2:41:37] 72% of our Latino ML students who qualify for services are throughout
+[2:41:42] the rest of, of this, of this, of the city.
+[2:41:46] So I think that every principal, every staff every school has been,
+[2:41:52] uh, you know, rallying around our communities, really forming, you know, chains
+[2:41:59] and chain, you know, forming human chains to protect our families and
+[2:42:03] to, and to do what they can.
+[2:42:04] And I, I would hope that we continue.
+[2:42:06] I know that we will continue to do that.
+[2:42:09] And I also want to highlight, if we go to the, uh,
+[2:42:12] to the— well, this is the slide that I spoke about.
+[2:42:15] Sorry, I didn't prompt you to go forward.
+[2:42:17] If you go to the next one, in dual language programs specifically,
+[2:42:22] it is our intent and it's a national norm to create a
+[2:42:26] program that is diverse by nature.
+[2:42:29] So we have spots— one-third of our spots are native Spanish speakers,
+[2:42:34] one-third of those are what we call heritage speakers or bilingual students,
+[2:42:38] and we also have one-third of those spots for native English speakers.
+[2:42:42] That doesn't change in any scenario or in the way that we
+[2:42:45] currently allocate our lotteries and, and, and the spots in, in our
+[2:42:51] programs. So I think this is important for our, for our English-speaking,
+[2:42:57] native English-speaking community to, to know that they're part of our program.
+[2:43:01] And by them joining our programs, it actually sends the message that
+[2:43:07] we are a community that is really committed to equity.
+[2:43:11] And equity means that we have to stand together.
+[2:43:14] And that's true whether you're in a dual language program or in
+[2:43:17] a non-dual language program. So, so I don't have a, a, I
+[2:43:21] don't have an answer. I think it's a, it's more of a
+[2:43:24] current, uh, you know, the current administration that can answer that question
+[2:43:30] better. But, uh, we feel that our schools are the safest place
+[2:43:34] for our kids. Regardless of where you are in the city.
+[2:43:42] Um, additionally, a question that was proposed and asked is what, um,
+[2:43:46] as, as families are considering if, if the proposal goes forward, whether
+[2:43:51] or not they would remain in their DLI program or choose to
+[2:43:55] not move, move with it and change schools, why should they, why
+[2:44:00] should they stay in the program?
+[2:44:01] What do they gain and benefit from staying in that program.
+[2:44:04] Um, if we could show the next slide, please.
+[2:44:06] Sorry about that. No worries.
+[2:44:09] Um, so we recognize that anytime that we are asking students and
+[2:44:14] families to leave a school that they know and love, it's a
+[2:44:18] very significant ask. Um, schools are far more than buildings.
+[2:44:23] They are places where students develop relationships, friends, families build community and
+[2:44:29] children experience a sense of belonging.
+[2:44:32] We in no way want to minimize that or minimize what families
+[2:44:36] may be feeling that they are losing as we go through this
+[2:44:39] process. We also recognize and see the opportunities and benefits of consolidating
+[2:44:46] some of our dual language programs.
+[2:44:49] It's an opportunity to provide students with a stronger, a more stable,
+[2:44:53] and more sustainable bilingual educational experience for years to come.
+[2:44:59] Um, ultimately, I think the question when, when families ask what do
+[2:45:04] they gain, they— the gain for families is not simply a different
+[2:45:08] school building, but it's the opportunity for their children to remain in
+[2:45:12] a strong, sustainable dual language program that can deliver on that promise
+[2:45:17] of bilingualism, biliteracy, academic excellence, and cross-cultural understanding.
+[2:45:23] What they gain is the ability for their kindergartner to be in
+[2:45:27] a classroom at Chavez where they continue to receive instruction in Spanish
+[2:45:32] for 90% of their day, or in 5th grade for 50% of
+[2:45:35] their day. And, and as a parent who actually wanted their child
+[2:45:39] to go into DLI and did not get a lottery spot, there's
+[2:45:44] a high value in that.
+[2:45:45] And I think that, as we've said before, of course our focus
+[2:45:49] is always on on serving our multilingual learners.
+[2:45:52] That is the center of our DLI programs, and recognizing that all
+[2:45:56] of our students that participate and families also reap the benefits.
+[2:46:07] So this next question, how will PPS support the transition of a
+[2:46:12] fully enrolled DLI program from Dr.
+[2:46:16] Martin Luther King Um, to [Boise-Eliot].
+[2:46:18] So I will say that, um, we are a part of the
+[2:46:25] district team that is working through the transition plans.
+[2:46:29] Um, the multilingual department recommends engaging the community, staff, and families in
+[2:46:36] this process. When you move to a fully enrolled DLI program to
+[2:46:42] another site We believe that there should be a focus on building
+[2:46:47] one school community and not 2 separate schools, establishing a shared identity
+[2:46:54] with new school-wide systems, intentional opportunities for relationship building across the programs.
+[2:47:02] We also believe that a successful DLI transition will honor culture, it
+[2:47:07] will honor relationships and traditions built by the students and families and
+[2:47:13] staff. We believe that DLI families and school teams should identify the
+[2:47:19] traditions, legacy, and whole-wide school— whole school activities that they want to
+[2:47:25] provide. And so planning should be a part of this department, this
+[2:47:33] district office, as well as working with Um, the, the question, um,
+[2:47:46] that I'm addressing is North Portland—.
+[2:47:49] Is the North Portland model that was shared based on the actual
+[2:47:52] model and need, and will actual routes and costs of routes be
+[2:47:56] provided? Um, what we can say— you can go to the next
+[2:48:01] one, Dr. Thank you. Um, the current framework is still building— being
+[2:48:06] built, and the model is based around a successful hub-style model similar
+[2:48:11] to Access Schools Transportation. Once we input all, um, the data, we
+[2:48:17] will reevaluate the routes based on the data provided.
+[2:48:25] The next question is forecasting How do you forecast when you do
+[2:48:30] not know if students or families will go to the schools when
+[2:48:33] they're farther away? The implementation plan to be submitted with the superintendent's
+[2:48:40] recommendation will include a process and timeline for impacted families to indicate
+[2:48:44] their plans for the fall.
+[2:48:53] Finally, staffing, um, at Chavez.
+[2:48:57] What would be— what would staffing be with projected enrollment?
+[2:49:01] Um, again, it will come with the recommendation that we don't have
+[2:49:04] a lot to share with that question as well because we, we
+[2:49:08] don't know. And those were the— those were the questions.
+[2:49:23] Yep. Okay, I'm gonna— Director [Splitt] has an obligation that she needs
+[2:49:30] to get to, so I would love to give you a chance
+[2:49:31] to go first. I got 2 kids to pick up from a
+[2:49:33] basketball practice. Oh yeah, she made the team, for those who are
+[2:49:38] watching. She made the team.
+[2:49:41] First practice is tonight. We had to quit Ariel because the practice
+[2:49:43] is on a different night.
+[2:49:44] We survived. Okay, so I think the— I think the biggest concern
+[2:49:59] that I have, and then I'm gonna try to make it into
+[2:50:01] a question, is that we're hearing that the parents don't want to
+[2:50:10] do this. And, um, and we're also struggling at times to hear
+[2:50:19] from the parents of our students of color.
+[2:50:25] I was really glad to see a letter from Rose City signed
+[2:50:28] by a bunch of Vietnamese families today, for example, so thank you
+[2:50:32] for that. Um, and I also heard last night was maybe a
+[2:50:37] little rough, which was a Spanish engagement meeting.
+[2:50:44] I would have been there.
+[2:50:46] It's like hard to say like I didn't know about it, but
+[2:50:48] like you all, it's hard to keep track of everything.
+[2:50:53] And we had a facilities meeting.
+[2:50:56] I was there. I was online.
+[2:50:57] I was in the waiting room.
+[2:50:58] I never got promoted, which is totally fine.
+[2:51:00] I didn't have any questions.
+[2:51:00] So it was fine. But, um, but that's— I felt like I
+[2:51:04] needed to be watching that.
+[2:51:06] But if I'd known, I would have gone, because I heard one
+[2:51:09] of the concerns was that there weren't senior leadership or board there.
+[2:51:14] And I just wanted the community to hear that, um, like, at
+[2:51:17] least I'm sure many of us wish we had been there or
+[2:51:20] known that it would be a gap that we could have filled.
+[2:51:24] I could have filled it, and I just didn't.
+[2:51:26] Thank you. Know that there was a gap, right?
+[2:51:27] So I, I don't— I just want to put that out there.
+[2:51:30] But knowing that we are not hearing from families the way that
+[2:51:36] we may want to, what would be the harm in doing something
+[2:51:42] like doing— taking a year to have more engagement and get these
+[2:51:47] questions and figure it out?
+[2:51:50] What would be the harm in just in this one situation, just
+[2:51:54] the DLI realm, um, taking time to do that deeper engagement that
+[2:51:59] it takes to do with our immigrant families specifically?
+[2:52:04] Yeah, I'd love to start off, and then I'm sure the team
+[2:52:07] will jump in. And I think I've said this a couple of
+[2:52:10] times now, I think the way in which we started to talk
+[2:52:13] about the whole language or whole school DLI immersion missed the mark
+[2:52:20] in many of our communities.
+[2:52:22] And so what I want to say is, I, I guess I
+[2:52:25] would, would ask you, Director [Splitt], to keep in mind 5 numbers:
+[2:52:31] 4, 2, 1, 1, and 1.
+[2:52:36] And what that represents is the consolidation of programs or the support
+[2:52:41] and continuation for some languages.
+[2:52:43] So we have 5 languages where we have an immersion program across
+[2:52:49] our elementary schools. Prior to the scenarios coming out, or if we
+[2:52:54] just think of them as proposals, currently we have 9 strands of
+[2:52:59] DLI across 9 different schools.
+[2:53:05] For Mandarin, we have 3, and the others are single, so Russian
+[2:53:12] Japanese and Vietnamese. Vietnamese. Right.
+[2:53:18] So when we think of like the whole model, it's not— I
+[2:53:22] think what's been really frustrating, I think, for many communities is that
+[2:53:29] they hear us saying we're pushing you to a corner of the
+[2:53:32] district, like we don't value you, we're segregating you out of the
+[2:53:36] population. And there isn't a place for you.
+[2:53:40] And where I wish if we were to go back in time,
+[2:53:42] the way in which we would talk about it would start with
+[2:53:46] our ability to support and sustain— speaking specifically of Spanish DLI— 9
+[2:53:54] different programs across our city in light of the reductions that we
+[2:53:58] see coming, in light of, as you saw on the slide, enrollment
+[2:54:03] being lopsided on some sites.
+[2:54:05] And so for our families, what I, what I would want our
+[2:54:07] families to know is that there's 4 locations where we will have
+[2:54:13] the support needed to continue dual language immersion with bilingual intervention, you
+[2:54:20] know, bilingual support outside of the classroom, and that other families who
+[2:54:26] are in DLI in a school where that program is closed they
+[2:54:31] will have the first choice because these are lottery choice programs.
+[2:54:35] They would have first choice, like first right of refusal if you
+[2:54:38] will, into that DLI program.
+[2:54:40] If they choose not to continue along the DLI pathway, then they
+[2:54:45] would continue in their neighborhood school.
+[2:54:47] But I think the way that many community members heard it was
+[2:54:50] you're moving no matter what, and it's, you know, because we said
+[2:54:54] so, and not really centered on our problem of practice.
+[2:54:58] And so I just wanted to lift that up.
+[2:55:01] And I really think even getting to a place to say that
+[2:55:05] we'll have 4 dual language immersion whole language schools is pretty significant
+[2:55:10] for any school district in Oregon or outside of it.
+[2:55:15] Like, that's a full stop.
+[2:55:17] And we know that we have to resource those schools to be
+[2:55:21] able to be the powerful engine that, um, they will be.
+[2:55:28] Okay, I think— thank you for that, um, and I appreciate the
+[2:55:32] explanation. Um, I basically have to go, um, I don't want kids
+[2:55:38] waiting for me, but I— the final thing that I just want
+[2:55:42] to put out there on this is we were talking a lot
+[2:55:44] about the Spanish language, um, consolidation piece tonight.
+[2:55:50] Um, I still feel like for those programs that are moving for
+[2:55:56] more like consolidation reasons, um, I— and also this is true of
+[2:56:02] the Spanish ones— I think one thing that I've really learned is
+[2:56:06] that these are not 2 schools housed in one building.
+[2:56:12] And so I think that's And I feel like maybe there's like
+[2:56:19] a phased or gradual approach or something like that here that, that
+[2:56:23] could work better maybe, but we'll see what comes.
+[2:56:27] But I just wanted to acknowledge what I'm hearing from community and
+[2:56:32] thank you all for continuing to show up and help us all
+[2:56:37] learn about how it feels to be in community where we're not
+[2:56:41] in control. Thank you. Where you have neighborhood and, and DLI programs
+[2:56:45] side by side and how you all remain connected in our one
+[2:56:48] school together. Um, I also, by the way, got an email from
+[2:56:51] a school that's not actually one of the ones subject to this
+[2:56:53] conversation that had a very different experience that was telling me about
+[2:56:56] that. So we have work to do in some places there.
+[2:56:59] Um, but, um, we're getting ready to head into the home stretch
+[2:57:03] on this, and it just remains a really big concern for me.
+[2:57:06] Um, so I'm just putting that out there, um, and I really
+[2:57:10] appreciate all the information. I think you're all doing such good work,
+[2:57:13] and I think both things can be true.
+[2:57:15] Like, the hub model might work really well, and at the same
+[2:57:18] time, people want to be in their neighborhood schools.
+[2:57:21] So, um, I know it's a really tough place to be as
+[2:57:23] staff navigating that. Um, and so that will be my mic drop.
+[2:57:30] I'm sorry I didn't have more questions.
+[2:57:31] I feel discombobulated. And, uh, I'm gonna go now.
+[2:57:35] Can I add something on co-location model?
+[2:57:37] Just, um, I think that would be helpful.
+[2:57:40] And I think I shared this at the, um, press conference as
+[2:57:43] well, if folks watched that.
+[2:57:44] But I think as we're spreading our resources very thinly and we're
+[2:57:48] thinking about a $65 million budget deficit, when we are maintaining a
+[2:57:54] co-located program with English Scholar side, as well as if we're looking
+[2:57:58] at for example, the Spanish DLI program, and we have inconsistencies in
+[2:58:04] class sizes and we have very low numbers in class sizes, that
+[2:58:09] creates a big strain on our resources.
+[2:58:12] And things that we've been able to do previously around maintaining, um,
+[2:58:16] models like a 90/10 model in kindergarten and a 50/50 model in
+[2:58:20] 5th grade becomes really, really challenging when we're looking at a $65
+[2:58:24] million million deficit. And that's really the reality that we're facing.
+[2:58:29] And I think, I think what peop— what folks are sharing, and
+[2:58:32] that I've personally heard in sessions as well, is really valid.
+[2:58:35] And I think we could get there with transitioning and thinking about
+[2:58:39] what people value and what they want to bring to spaces.
+[2:58:42] And I know that change is really hard, but our resources are
+[2:58:46] a big constraint. And if we're going to maintain a co-located program
+[2:58:49] with as small as 6-student classroom on an English Scholar side, that's
+[2:58:54] going to be extremely difficult to do with a $65 million deficit.
+[2:58:59] And I just want to name that, um, and that doesn't take
+[2:59:02] away the impact that folks are feeling.
+[2:59:04] And I've talked to many of you and had many conversations, and
+[2:59:07] I, um, I think that's really the reality that we're facing.
+[2:59:11] And that feedback will be reflected.
+[2:59:13] I had a really good conversation this morning.
+[2:59:16] It's It's changed my thinking on some things.
+[2:59:19] And so also just to put out that we are listening and
+[2:59:22] hearing and responding. Okay, got me all fired up, Christina.
+[2:59:33] Okay, I've got a— I'm gonna— I've got a list of questions.
+[2:59:36] I'm not gonna ask all of them.
+[2:59:40] Chronic absenteeism. Have chronic absenteeism rates among our multilingual learners increased over
+[2:59:47] the past 3 years, and if so, what are the contributing factors?
+[2:59:54] I'm asking because I have concerns that the hub model would have
+[2:59:57] a detrimental impact on student attendance.
+[3:00:00] Do we have that data?
+[3:00:05] I, I think in what we're seeing, and, and we Thank you
+[3:00:09] for the question. We didn't have enough time to prepare for that
+[3:00:13] question necessarily, but I— what we know from the data that we
+[3:00:16] see is that the absenteeism across the district for MLs is slightly,
+[3:00:26] uh, better in some places and it has decreased in others.
+[3:00:30] And a lot of the— what I can attribute to— attributed it
+[3:00:34] to is, you know, what we know, and it's the big question
+[3:00:38] that everyone has. ICE has really scared families from going to school,
+[3:00:44] from going to church, from going to the places that they frequent.
+[3:00:47] So, so we know from anecdotal data that that's one place where
+[3:00:51] families are, are not feeling safe to send their kids to school.
+[3:00:56] And so we can get the actual data to, you know, to
+[3:01:00] give you and then send it to you tomorrow.
+[3:01:02] But I think we're seeing that there's a slight decrease, and, and,
+[3:01:07] and I don't know that I would call it chronic absenteeism, but
+[3:01:09] it's, uh, it's, uh, it's, it's more pronounced in high schools and
+[3:01:13] in areas where, you know, kids can also decide that they may
+[3:01:16] not go, uh, because they are— yeah, so, and the regular attenders
+[3:01:22] have, has gone up as well.
+[3:01:23] So yeah, I worry that it will make it worse, and I
+[3:01:27] just knowing that— was there ever, um, know, none of this is
+[3:01:29] ideal, and I hear you when you've got 9, 9 programs across
+[3:01:33] the district. Was for the north, was any consideration ever given to
+[3:01:38] consolidating the programs at James John and Sitton and Chavez and Beach
+[3:01:42] into 2 co-located programs versus one hub model?
+[3:01:50] I think we would have to go back to the data and
+[3:01:52] methodology, and we can get that answer for you.
+[3:01:57] I'm asking, I'm asking because what we're hearing from families is that
+[3:02:02] they're not going to make the change, that they're going to stay
+[3:02:05] with their neighborhood schools, which isn't too surprising.
+[3:02:09] And if they do, how are we going to support them?
+[3:02:12] Oh, that— so, so let me just say that the way in
+[3:02:17] which we modeled the dual language immersion was always as a choice
+[3:02:23] and an option that families can make to continue in, knowing that
+[3:02:27] they would have first right of refusal, bypass the application process that
+[3:02:32] typically exists for families that want to start their students off in
+[3:02:37] dual language immersion. Neighborhood schools of the, the families will be available
+[3:02:46] should they choose to not apply or go into a dual language
+[3:02:53] immersion program at a hub site.
+[3:02:56] So that we, we've modeled space and we know those numbers.
+[3:03:03] And also the other— only other thing that I'll add is that
+[3:03:06] we're really clear in public about how closing schools isn't a significant
+[3:03:13] cost savings. Um, but it's a different story when we talk about
+[3:03:18] program consolidation, program reconfigurations, and program moves and consolidations in that, or
+[3:03:26] reconfigurations. So I just, I want to note that there is a
+[3:03:30] significant cost savings that we're able to reinvest back into the schools
+[3:03:35] that are going through significant change.
+[3:03:39] Um, I I did quickly look at chronic absenteeism for just K-12,
+[3:03:44] all students that are identified as English language learners, and it has
+[3:03:51] not really changed. It was—.
+[3:03:52] Slightly. 26% in '23-'24, 25% in '24-'25, 24% in '25-'26, and it
+[3:04:02] is currently at 20%. Um, I want to talk about Lent for
+[3:04:09] a second. I brought this up at a couple other meetings that
+[3:04:13] its location is a significant red flag for me.
+[3:04:17] Not only is it on the, you know, basically the perimeter of
+[3:04:22] the neighborhoods that it would be serving, it backs up to a
+[3:04:25] freeway, which raises serious concerns about student health and environmental impacts.
+[3:04:31] And this is an opportunity in my mind to take Lent out
+[3:04:37] of our building inventory. It's not a good place.
+[3:04:40] It's not a good location for a school.
+[3:04:42] So I guess I'm wondering why we're doubling down on it.
+[3:04:51] I don't know. I mean, I don't know that this team has
+[3:04:56] an answer directly for that.
+[3:04:58] I mean, someone from our data modeling Margaret Calvert, who is happy
+[3:05:04] to join and speak to it.
+[3:05:06] And also, it's a question that I heard after visiting in community
+[3:05:11] at a school site and went back to the operations team and
+[3:05:17] asked about air quality and different things like that.
+[3:05:20] And so I will invite Margaret into the conversation to respond.
+[3:05:25] Thank you for being here.
+[3:05:26] Hi. Available? You bet, you bet.
+[3:05:28] Good evening, um, thanks for the question, uh, Director LaForte.
+[3:05:32] Uh, a couple of pieces.
+[3:05:33] One, when we are looking at location and locating where we are
+[3:05:39] looking at dual language immersion in general, I think part of what
+[3:05:45] we consider is where families live.
+[3:05:48] So that's one of the pieces.
+[3:05:49] And when we look at where we have concentration of our Latino
+[3:05:55] families as well as our multilingual learners.
+[3:05:59] So that's one piece is that we're looking at— excuse me— location.
+[3:06:04] I think the other piece, I know there was a question about
+[3:06:07] air quality. We circled back.
+[3:06:10] We have—. If you have not received reports back about air quality
+[3:06:15] at Lentz, we can forward those to you.
+[3:06:17] The questions that we've seen is that there's not a concern about
+[3:06:19] air quality at Lent. And so I'm sorry, I have such a
+[3:06:22] hard time believing that. We know that there have been lots of
+[3:06:25] studies done in that neighborhood about the diesel pollution.
+[3:06:28] There's no way that we can have a school that's practically on
+[3:06:31] a freeway and not have the air quality impacted.
+[3:06:33] I'm sorry, I'm just— I know we have the one that's posted
+[3:06:36] online, but that was during COVID.
+[3:06:41] It's— so air quality is monitored close to schools.
+[3:06:44] On a regular basis, so we can— we'll follow up.
+[3:06:47] We can follow up and do that.
+[3:06:49] I think the other—. The—.
+[3:06:50] So I think the piece of location of schools, where, where schools
+[3:06:55] are, where the hubs are, various other pieces, I understand that question.
+[3:06:59] I think that, you know, the, the piece that we were looking
+[3:07:02] at coming out of the Southeast Guiding Coalition, the Southeast Enrollment Balancing,
+[3:07:06] part of it was around quite a bit of Work was done
+[3:07:10] around the location of where some of our Spanish-speaking families were, and
+[3:07:15] that was— we were—. That—.
+[3:07:16] So that was part of the decision at that time.
+[3:07:19] The heat map in the presentation shows that the bulk of the
+[3:07:25] students that Lent will serve are west of Lent.
+[3:07:29] So I just want to keep calling that out because I'm not—
+[3:07:31] I'm not hearing a compelling case for why Lent.
+[3:07:39] So I, I think there's a part of, um, one— there are
+[3:07:43] a couple things. I mean, I think there's disagreement, so I appreciate
+[3:07:46] the question, but the, the piece around, um, Lent was— it was
+[3:07:51] part of it was it was established when we looked at, um,
+[3:07:55] part of the pieces from Southeast Guiding Coalition at that time.
+[3:07:59] The students from Bridger were also, uh, were joined at the, at
+[3:08:05] Lentz, the strands. It was a consolidation of the program at that
+[3:08:08] time. And then it's one of the pieces of, um, location.
+[3:08:13] So you can— we can disagree about the location and whatnot.
+[3:08:16] I hear what you're saying, and I think that part of what,
+[3:08:19] um, the, the where it is and, and the piece around sort
+[3:08:24] of where students attend from Lentz as well, I mean, I think
+[3:08:27] that's That's what we see when we look at the, the pieces
+[3:08:31] of it developing as a whole school model over the last few
+[3:08:34] years. And can you answer how long Lint has been a whole
+[3:08:39] language model school? Yeah, I mean, it was part of the— it
+[3:08:43] was one of the pieces that came out of the Southeast enrollment
+[3:08:46] balancing process. So, Lint was— had there been a number of co-located
+[3:08:53] DLI programs in Southeast, very similar to what we're seeing in north.
+[3:08:57] And the decision was to, at the time, was to expand LENT
+[3:09:02] to being a whole school model.
+[3:09:04] It came out of the Southeast Gotting Coalition, which would be in—
+[3:09:07] which have been in around 2023.
+[3:09:10] So what that basically means is that if we took a whole
+[3:09:15] school language model that was created, you know, just a few years
+[3:09:20] ago and moved that whole program to another school, some of those
+[3:09:25] kiddos would be going through a second move in their K-5 journey
+[3:09:30] on in the immersion program.
+[3:09:32] And so hearing that there's things about location and heat map and
+[3:09:36] number of students, there's also some of those programmatic pieces and changes
+[3:09:42] that happened prior to us coming into the conversation, but but still
+[3:09:48] embracing the history and the changes that were made and seeing how
+[3:09:52] we can lessen the impact to students.
+[3:09:58] I hear that. Um, I guess I don't think anything could compel
+[3:10:01] me to change my mind over doubling down on a decision that,
+[3:10:05] that has that much of an environmental impact on our— the health
+[3:10:08] of our students. Okay, so slide 15.
+[3:10:15] Um, could whole school dual language models unintentionally contribute to the segregation
+[3:10:19] of Latino students and families?
+[3:10:21] So my question is specifically about Latino MLs, and I want to
+[3:10:25] ask, by structuring programs this way, we are creating buildings with large
+[3:10:29] concentrations of native Spanish-speaking Latino students.
+[3:10:34] Um, is this a healthier and safer environment for our Latino MLs
+[3:10:40] than a co-located model. I guess I'm wondering why we're not doubling
+[3:10:45] down on a larger co-located model.
+[3:10:48] Why the hub? Because I'm hearing families do not want it across
+[3:10:52] the board. I haven't had one Spanish-speaking family tell me, and I
+[3:10:56] have been out a lot.
+[3:10:57] I have been to— I went to Roosevelt, I'm going to James
+[3:10:59] John, I've been to Scott, I've been to Atkinson.
+[3:11:01] No one wants this, and I'm wondering why we're not— why are
+[3:11:03] we doubling down on this and not doing it, uh, co-located.
+[3:11:06] Same idea in a co-located model.
+[3:11:08] Kids want to be in their neighborhood schools, or at least close
+[3:11:10] to their neighborhood school. I think I, I would say— sorry, I'm
+[3:11:14] just jumping in. I'll turn it back over to you all.
+[3:11:17] But I think I would say the same reason why Access families
+[3:11:22] didn't want a co-located program, the same reason why other focus option
+[3:11:27] programs wanted to have a whole school program.
+[3:11:31] I would say the reason why we have Benson as a focus
+[3:11:34] option high school, that's a whole school model.
+[3:11:37] I think that it would be wonderful if we can afford to
+[3:11:41] have an immersion strand in every single one of our schools, and
+[3:11:45] we're not able to. And I think the key part in what
+[3:11:49] Chief Howard said was about the budget.
+[3:11:52] And I imagine that people assume that if if there was a
+[3:11:57] pause or not a favorable vote, that they would just continue in
+[3:12:02] their programs the way they are now with the co-location, and that's
+[3:12:07] just not going to happen.
+[3:12:10] Those programs will be dismantled.
+[3:12:13] And so when I think of the regional hub and trying to
+[3:12:17] stand up an option for families to choose to continue in, that
+[3:12:25] this is where we're at.
+[3:12:28] I, I hear you. I—.
+[3:12:29] What I was asking is, let's say— I, I'm wondering, and what
+[3:12:33] I'm hearing from families is that they want to be co-located.
+[3:12:37] I don't think it's comparable to an Access or a Benson.
+[3:12:40] It's different. We're talking about families who want to integrate, not separate
+[3:12:45] or do something special. So I'm just— I, I think I think
+[3:12:48] we would have had a different response, or not quite as visceral
+[3:12:52] of a response, if we had consolidated some of the strands into
+[3:12:59] a co-located model. That's what I'm saying.
+[3:13:02] Director [La Forte], if I could, I think part of the challenge is
+[3:13:05] that— so the history of sort of the development of DLI programs
+[3:13:14] and Portland, there's a long story and, you know, a very celebrated
+[3:13:19] history of the programs. And one of— so there's a variety so
+[3:13:22] that we see them in a variety of ways.
+[3:13:24] So Richmond has been a whole school Japanese DLI program for its
+[3:13:29] entirety almost. And I think that— so there's a variety of ways
+[3:13:32] that we've, that we have done modeling over the years.
+[3:13:35] So that's one example. You know, we have Wrigley as another example
+[3:13:40] of a whole school DLI model.
+[3:13:42] We have— we've had, you know, various other pieces with co-located programs.
+[3:13:48] So the challenge is, and when we go back to the design,
+[3:13:52] the program design of the 1/3, 1/3, 1/3, when you're in small
+[3:13:56] elementaries with small student populations and you're trying to balance enrollment and
+[3:14:03] to adhere to the model, it becomes challenging to do so.
+[3:14:07] So when we're in small elementaries and there may be 2 strands
+[3:14:11] at a grade level, where it's one that is DLI and there's
+[3:14:14] one— an English scholar, it's very hard to continue and maintain the
+[3:14:19] makeup of the model. And so we see varieties across the system
+[3:14:24] of how that shows up based on location.
+[3:14:27] Some are about 50/50, some are slightly more, some are less.
+[3:14:31] So we would tend to that.
+[3:14:33] I think the other piece that I would say is if you're
+[3:14:34] going to have a co-located model, you would have to have at
+[3:14:37] least 4 strands, 4 homerooms at a school, which means we have
+[3:14:42] much larger elementaries. So this again, as we've gone through this process,
+[3:14:47] we're trying to highlight tensions about what are some of the things
+[3:14:50] that happen when we are— when we're trying to co-locate programs.
+[3:14:53] What does that mean? What does it mean when we're— that people
+[3:14:57] say they're valuing neighborhood schools?
+[3:14:59] That often means the schools are smaller, which means that co-locating programs
+[3:15:02] becomes more difficult. So part of what this is, as we've gone
+[3:15:06] through the process, we're just highlighting what the tensions are, what the
+[3:15:09] decision points have to be in order to serve the needs of
+[3:15:13] the students and the desires of the families.
+[3:15:16] I think what we've heard from the DLI team here very clearly
+[3:15:20] is that the intent of DLI in coming into the system was
+[3:15:24] to support our multilingual learners.
+[3:15:27] And I think that that's one of the pieces.
+[3:15:29] Are we doing that well?
+[3:15:30] And I think that what we're— has been presented at times, and
+[3:15:33] today again, is that what we've seen is in, in some of
+[3:15:36] our whole school DLI models, we're seeing slightly different results.
+[3:15:41] And I, I just to, just to, to add to that, thank
+[3:15:43] you so much for that.
+[3:15:44] But also to add, and I, I heard the snickers and the
+[3:15:48] eye rolls when talking about other focus option programs, and I just
+[3:15:53] want to emphasize that our dual language immersion are focus option programs.
+[3:15:57] They do have an application.
+[3:15:59] It is a lottery process.
+[3:16:01] So I think I would just respectfully disagree that, um, it isn't
+[3:16:04] a different, um, focus option because it's focused on language serving, uh,
+[3:16:10] more kiddos of color than perhaps another school.
+[3:16:13] It's a focus option because there's an application and there's a lottery
+[3:16:17] and there's a whole school approach.
+[3:16:20] Um, if I just may add to what Margaret was sharing.
+[3:16:24] I actually have the experience of— I was the assistant principal at
+[3:16:27] Bridger when it was a co-located program, and through the Southeast Guiding
+[3:16:31] Coalition, and when that program moved to, to Lent, and we spoke
+[3:16:36] a little bit about it, there are some serious challenges to having
+[3:16:41] co-located programs because of the size of our buildings and resulting in
+[3:16:44] single strands. So you either end up with a single strand of
+[3:16:48] Scholar neighborhood or a single strand of, of DLI.
+[3:16:53] And as we highlighted before, you then have, um, one, students that
+[3:16:58] are together from K to 5.
+[3:16:59] They never get to change with a different group of students, which
+[3:17:04] can have its benefits and can also have its extreme challenges.
+[3:17:09] Additionally, we know one of the great things that have effect size
+[3:17:14] on student outcomes is teacher collaboration.
+[3:17:17] And you don't have anyone to collaborate, to have a PLC with,
+[3:17:21] when you are the only teacher teaching that curriculum at that grade
+[3:17:26] level. We also spoke about how you then have resources and additional
+[3:17:32] staff such as ELD teachers, interventionists, coaches, counselors are split across the
+[3:17:37] 2 programs. For some of our teachers such as interventionists and ELD
+[3:17:41] teachers, that means they're trying to to learn and support 2 different
+[3:17:45] curriculums and 2 different language support models.
+[3:17:49] So rather— while I 100% value and understand and hear the feedback
+[3:17:54] from families that they want to remain in their co-located programs, I
+[3:17:59] don't doubt for one moment that there is strong community across those
+[3:18:03] programs, that those students play with each other on the playground and
+[3:18:06] have playdates, and those families are connected.
+[3:18:08] I saw it at Bridger as well.
+[3:18:10] It does not change the fact that in the end, we are
+[3:18:13] not getting the educational outcomes that we should be getting specifically for
+[3:18:18] our multilingual learners when we continue to have that model.
+[3:18:22] And it's, it's a hard truth, but it is the truth.
+[3:18:29] Okay, so I'm going to move on.
+[3:18:30] I'm almost done, uh, to King.
+[3:18:33] So I spent a considerable amount of time at King over the
+[3:18:37] last couple of weeks listening to families and staff, and they've been
+[3:18:41] very clear that the majority do not intend to follow the Mandarin
+[3:18:45] DLI program to [Boise-Eliot] because of their connection to the neighborhood
+[3:18:49] school and their roots at King.
+[3:18:52] And I've requested data comparing the academic outcomes of our Black students
+[3:18:59] at King, both within and outside of the Mandarin program.
+[3:19:03] With our Black students at other PPS schools.
+[3:19:05] And I just wanted to say, if the data demonstrates that our
+[3:19:08] Black students are making strong academic gains at King, we need to
+[3:19:13] seriously consider whether the risks of moving the program outweigh the benefits.
+[3:19:20] Um, I actually tried— I pulled some of that data, um, while
+[3:19:23] we were sitting in the last presentation, so it's not on a,
+[3:19:27] on a slide or a visual that I— that we can show
+[3:19:29] share. Um, but what I, I can kind of summarize, um, last
+[3:19:33] year in '25-'26, um, specifically our Black students in the immersion program
+[3:19:37] at MLK, um, 8%, um, demonstrated proficiency or scored a passing rate
+[3:19:43] on the OSAS ELA, and sadly a 0% in math.
+[3:19:47] Um, that compares to, uh, Black students that are at MLK and
+[3:19:52] not in the immersion program who scored 17% in ELA and 7%
+[3:19:56] in math. And district-wide, when just looking at all of our Black
+[3:20:00] students who are not in an immersion program, uh, 20% ELA and
+[3:20:05] 15% in math for last year.
+[3:20:08] Can you send me that data?
+[3:20:10] And then also—. We can, we can put it on a, on
+[3:20:12] a chart so it's not my scribble on the back of a
+[3:20:14] page. And also like whether or not it's statistically significant.
+[3:20:19] Is it, you know, 2 kids 5 kids throwing off all, all
+[3:20:23] of the numbers. Um, I think, yeah, just, just that point.
+[3:20:31] I, I do want to emphasize that, um, when we are dealing
+[3:20:35] with small numbers, there could be, uh, personal identification things that we
+[3:20:40] have to tend to. So I'm not sure what we'll be able
+[3:20:43] to share or, or make public.
+[3:20:45] So just to note that Um, but I encourage the team to
+[3:20:50] share what, what came up.
+[3:20:52] Yeah, I also just want to say that it's— while these like
+[3:20:56] numbers, um, coming from math and English are significant, I believe the
+[3:21:01] actual benefits that come from these programs are the self-affirmation that you
+[3:21:07] can get from learning about your own culture when you're that young,
+[3:21:11] as well as if you're not in that culture, the sympathy and
+[3:21:14] growth that a young mind can get from learning about another culture.
+[3:21:18] I think the, like, political impact and benefits from that is so
+[3:21:22] important, and it sucks that we're talking about making it so much
+[3:21:26] less accessible. Well said. Do you have anything else you'd like to
+[3:21:33] add or ask? Uh, no, I, I don't think I have any
+[3:21:37] questions, but yes, thank you.
+[3:21:40] I just have a comment before I wrap up.
+[3:21:42] I just have been really frustrated, um, as we've moved through this
+[3:21:47] process because I think a lot of board members have visited a
+[3:21:53] lot of schools, and this idea, this narrative that we have too
+[3:22:00] many schools really for a city our size, I don't think that
+[3:22:05] it's true. If you compare us to, say, you know, neighboring districts
+[3:22:08] like Beaverton— this isn't— this is— no, this is a— this is
+[3:22:11] directed to our, our state and our legislature.
+[3:22:15] If you look at the square miles, and this is extremely crude,
+[3:22:17] you'd have to actually do, you know, go measure every school.
+[3:22:20] But if you look at the square miles per school building, per
+[3:22:23] K-8 middle school, whatever, in PPS, the square mile, you know, landmass
+[3:22:27] that we have for each building is 2.2 miles.
+[3:22:30] It's like 1.3 3 in Beaverton.
+[3:22:32] So it's just not an apples-to-apples comparison.
+[3:22:35] And when we pull this many people live in the cities because
+[3:22:39] it's convenient, we want to be able to walk and bike and
+[3:22:42] do those things. We're not doing it so that we have to
+[3:22:44] drive. You know, we can— that's what we move to the suburbs
+[3:22:46] for, right? We don't care about it.
+[3:22:47] We get in our cars and we drive.
+[3:22:50] So when we are underfunded and we can't sustain the inventory that
+[3:22:55] we need to live that way, you know, it fundamentally changes our
+[3:23:00] city. And I don't think that our legislators understand that that is
+[3:23:04] what's happening. It's going to be 2.7, you know, if we did
+[3:23:07] Scenario A. Like, it's—. It just gets farther and farther.
+[3:23:10] So when families are talking about distance to school, it matters because
+[3:23:13] it's literally why they live in the city.
+[3:23:15] It shouldn't be, um, a privilege to be able to, you know,
+[3:23:19] easily get to your school when you live in a metro area.
+[3:23:22] So I'm just real frustrated, not at you, in general, because we
+[3:23:27] should have fun— we should have the funding for the— from the
+[3:23:30] state to maintain that kind of infrastructure for our families in Portland
+[3:23:33] because we are the economic engine for the state.
+[3:23:37] That's the end of my rant, and I'll be talking more about
+[3:23:39] it. But I'm pissed off because we need all these buildings.
+[3:23:43] We don't have too many buildings, and we don't have enough money.
+[3:23:49] And with that, is there anything else that anybody up here would
+[3:23:52] like to add? I think we share that frustration.
+[3:23:59] Well, you sit up there and you see the governor talking about
+[3:24:02] how we need to cut administration and we've got too many buildings.
+[3:24:04] It's like, we don't. We have, we have the right amount of
+[3:24:06] buildings. We've closed buildings before.
+[3:24:08] We've got just the right amount, maybe a couple, but it's definitely
+[3:24:11] not 14 and it's definitely not 11.
+[3:24:13] So So with that, I guess, is there a— Director Chase Miller,
+[3:24:26] I can see you online.
+[3:24:27] I don't know if you are in a place where you're listening,
+[3:24:29] or is there any other topics that anyone would like to consider
+[3:24:32] for future meetings? I've got a list.
+[3:24:35] Okay, I've got a list, and Christina has it, and if anything
+[3:24:39] else comes up, y'all can email me, and our next Teaching, Learning,
+[3:24:43] and Enrollment Committee will take place on December 2nd.
+[3:24:46] And with that, this meeting is adjourned.
+[3:24:48] Thank you. Thank you.
