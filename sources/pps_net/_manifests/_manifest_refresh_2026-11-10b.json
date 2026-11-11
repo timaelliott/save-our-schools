@@ -1,21 +1,28 @@
 {
- "note": "Refresh 2026-11-10 (second pass): two files linked on media.pps.net and the rightsize scenarios page that were not yet archived. Drive file fetched via drive.google.com/uc?export=download&id=15W1ytLErDcHRkxtA8cwTWYVPIkrq2GAs.",
+ "note": "Evening refresh 2026-11-10: Nov 3-9 What We Heard recap found by the scheduled check; page snapshots. Still no superintendent recommendation.",
  "files": [
   {
-   "file": "sources/pps_net/media/press_releases/2027-28_budget_press_release_2026-11-02.pdf",
-   "url": "https://resources.finalsite.net/images/v1794237644/ppsnet/iiexzydjrjl9twj961ru/2027-28BudgetPressRelease.pdf",
-   "found_on": "https://media.pps.net/",
-   "title": "2027-28 Budget Press Release: 'Portland Public Schools Faces $65 Million Deficit' (dated Nov 2, 2026)",
-   "fetched_at": "2026-11-10",
-   "sha256": "ad7ffa7da864b1620bc2d38a169f1e5cafc95c3dcd5eae6e07cd5da1ef69119d"
+   "file": "sources/pps_net/rightsizing/engagement/2026-11-03_to_11-09_engagement_recap_what_we_heard.pdf",
+   "url": "https://drive.google.com/file/d/1U3UW9UpemJ9gL7Tc9FvMaAgoHUqvje_m/view",
+   "download_url": "https://drive.google.com/uc?export=download&id=1U3UW9UpemJ9gL7Tc9FvMaAgoHUqvje_m",
+   "title": "November 3-9, 2026 Rightsizing Engagement Recap: What We Heard",
+   "linked_from": "https://www.pps.net/about/portland-public-schools-information/rightsize/what-we-heard",
+   "fetched_at": "2026-11-11T02:11:06+00:00",
+   "sha256": "fd385b5fa54a6eed6b1e432a416e1d14d02799c731c9a9007a44feef73a9f583"
   },
   {
-   "file": "sources/pps_net/rightsizing/methodology/k8_scenario_modeling_technical_guide_2026-10.pdf",
-   "url": "https://drive.google.com/file/d/15W1ytLErDcHRkxtA8cwTWYVPIkrq2GAs/view?usp=sharing",
-   "found_on": "https://www.pps.net/about/portland-public-schools-information/rightsize/scenarios",
-   "title": "K-8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation (PPS Data and Accountability, October 2026); linked as 'View K8 Modeling Technical Guide (PDF)'",
-   "fetched_at": "2026-11-10",
-   "sha256": "dea937bd43dc6800304a914db1ad44cb44b85f7d01c137a5738bafeeb3bc5c74"
+   "file": "sources/pps_net/rightsizing/what_we_heard_2026-11-10b.html",
+   "url": "https://www.pps.net/about/portland-public-schools-information/rightsize/what-we-heard",
+   "title": "What We Heard page (evening snapshot; adds Nov 3-9 recap link)",
+   "fetched_at": "2026-11-11T02:11:06+00:00",
+   "sha256": "7802957e2c41cdae77a65eb9082f9700407768d45371339c5285fa5cb5f6c058"
+  },
+  {
+   "file": "sources/pps_net/rightsizing/calendar_2026-11-10b.html",
+   "url": "https://www.pps.net/about/portland-public-schools-information/rightsize/calendar",
+   "title": "Rightsize calendar (evening snapshot; adds Nov 18 Disability Voice Engagement, 6-8 PM, Zoom)",
+   "fetched_at": "2026-11-11T02:11:06+00:00",
+   "sha256": "74fa3a3d74e89d2a93aee2fa98f21078a551a5ab1f7c5fe180b72949a5e86c24"
   }
  ]
 }

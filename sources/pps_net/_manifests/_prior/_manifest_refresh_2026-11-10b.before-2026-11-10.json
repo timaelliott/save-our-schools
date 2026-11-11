@@ -1,0 +1,21 @@
+{
+ "note": "Refresh 2026-11-10 (second pass): two files linked on media.pps.net and the rightsize scenarios page that were not yet archived. Drive file fetched via drive.google.com/uc?export=download&id=15W1ytLErDcHRkxtA8cwTWYVPIkrq2GAs.",
+ "files": [
+  {
+   "file": "sources/pps_net/media/press_releases/2027-28_budget_press_release_2026-11-02.pdf",
+   "url": "https://resources.finalsite.net/images/v1794237644/ppsnet/iiexzydjrjl9twj961ru/2027-28BudgetPressRelease.pdf",
+   "found_on": "https://media.pps.net/",
+   "title": "2027-28 Budget Press Release: 'Portland Public Schools Faces $65 Million Deficit' (dated Nov 2, 2026)",
+   "fetched_at": "2026-11-10",
+   "sha256": "ad7ffa7da864b1620bc2d38a169f1e5cafc95c3dcd5eae6e07cd5da1ef69119d"
+  },
+  {
+   "file": "sources/pps_net/rightsizing/methodology/k8_scenario_modeling_technical_guide_2026-10.pdf",
+   "url": "https://drive.google.com/file/d/15W1ytLErDcHRkxtA8cwTWYVPIkrq2GAs/view?usp=sharing",
+   "found_on": "https://www.pps.net/about/portland-public-schools-information/rightsize/scenarios",
+   "title": "K-8 Rightsizing & Consolidation Scenario Modeling: Technical Documentation (PPS Data and Accountability, October 2026); linked as 'View K8 Modeling Technical Guide (PDF)'",
+   "fetched_at": "2026-11-10",
+   "sha256": "dea937bd43dc6800304a914db1ad44cb44b85f7d01c137a5738bafeeb3bc5c74"
+  }
+ ]
+}
