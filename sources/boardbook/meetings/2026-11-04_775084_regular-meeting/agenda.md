@@ -87,5 +87,12 @@ Attachments:
 )
 Audit Committee Report to the Board_ 10_27_2026
 Intergovernmental Affairs Committee Report
+13. 8:30 pm - GenAI Systems Inventory and Policy Update
+Attachments:
+(
+2
+)
+Board Memo - GenAI Systems Inventory and Policy Update
+Presentation: Update on AI Pause resolution
 Web Viewer
 << Back to the Public Page for Portland Public Schools

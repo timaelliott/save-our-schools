@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T21:00:19Z",
+ "generated": "2026-11-12T19:00:53Z",
  "source": "https://meetings.boardbook.org/public/Organization/915",
  "meetings": [
   {
@@ -198,6 +198,16 @@
      "file": "14639799",
      "name": "Intergovernmental Affairs Committee Report",
      "item": "12. Board Committee and Conference Reports Audit Committee Facilities Improvement Oversight Committee Policy Committee Teaching, Learning, & Enrollment Committee Intergovernmental Committee"
+    },
+    {
+     "file": "14685511",
+     "name": "Board Memo - GenAI Systems Inventory and Policy Update",
+     "item": "13. 8:30 pm - GenAI Systems Inventory and Policy Update"
+    },
+    {
+     "file": "14685513",
+     "name": "Presentation: Update on AI Pause resolution",
+     "item": "13. 8:30 pm - GenAI Systems Inventory and Policy Update"
     }
    ]
   },
