@@ -148,3 +148,99 @@ Analysis:
 - Changing the survey years doesn't move the detached per-home yield anywhere near 0.10.
 - Dividing by residents instead lands on PSU's numbers under nearly every year choice.
 - The "built 2020 or later" 5-year result for detached 3-4 BR (0.45 in 2020-2024) matches PSU's published 0.45 for single-family homes under 5 years old.
+
+## PSU's Nov 12 explanation, re-run (Raleigh Crest)
+
+**Source.** An email from Ethan Sharygin (PSU Population Research Center), Nov 12, 2026, shared with us as a screenshot. It is not archived in `sources/`. PSU describes three definitions:
+
+1. **"~0.10 per single family detached unit."**
+   - Ages 5-17 in public school, tri-county, observation period 2020-24.
+   - Housing "built 0-2 years before the household was surveyed".
+   - Divided by "the total number of units that were built 0-2 years before the year of the survey". This includes vacant units and all bedroom counts.
+2. **New preferred approach, "~0.2 for single family detached units".**
+   - Numerator: grades K-12, persons in housing built 2020-24.
+   - Denominator: the regional housing inventory of units built 2020-24, instead of the ACS.
+3. **Last year's 0.45.**
+   - ACS 2015-2024, geography approximating the City of Portland.
+   - Includes mobile homes; per occupied unit.
+
+**Code and data.** `analysis/topics/_build/acs_yield_raleigh_crest.py` → `analysis/data/acs_yield_raleigh_crest.csv`.
+- Data: the 2020-2024 5-year PUMS and the 1-year 2019 and 2021-24 files.
+- Margins are 90%, from replicate weights.
+- In the 2021-24 files and the 5-year file, single build years exist only for 2020 onward (2010-2019 is one group). So the 0-2 year window is fully identifiable only for surveys 2022-24; the 2019 file gives single years from 2005.
+
+### PSU's ~0.10 definition reproduced as written
+
+| Specification (single-family detached, all bedrooms, public students 5-17) | Per unit incl. vacant |
+|---|---|
+| 5-year 2020-24 file, built 0-2 years before each record's survey year | **0.49 ± 0.11** (207 sampled homes) |
+| Same, surveys 2022-24 only | 0.50 ± 0.12 |
+| 1-year 2021-24 files pooled | 0.47 ± 0.11 |
+| Homes 0 / 1 / 2 years old at survey | 0.29 / 0.39 / 0.69 |
+| Per resident instead of per unit | 0.17 |
+| **5-year numerator ÷ denominator summed over the five survey years** | **0.097** |
+| 5-year numerator ÷ sum of the 1-year counts of 0-2-year-old units, 2021-24 | **0.103** |
+
+**What reaches PSU's figure.** As described, the definition gives about 0.49, five times PSU's figure. Two choices reach 0.10 instead:
+- dividing the 5-year file's student count by a unit count added up across the five years;
+- dividing it by the yearly 1-year unit counts added together.
+
+The 5-year file's weights already produce a period average, so summing the denominator over five years divides the result by five. Analysis: this is the only specification found that reproduces 0.10. The per-resident version from the earlier diagnostic no longer matches (0.17) once the window is 0-2 years and all bedroom sizes are included. PSU's code isn't available, so this remains a hypothesis.
+
+### PSU's new ~0.2 definition
+
+| Specification (detached, built 2020-24, public K-12) | Per unit |
+|---|---|
+| Numerator and denominator both from the 5-year file | **0.52 ± 0.09** |
+| 5-year (period-average) numerator ÷ end-2024 stock of detached homes built 2020-24 (2024 1-year ACS, standing in for the regional inventory) | **0.27** |
+| 2024 survey only, both end-of-period | 0.55 ± 0.17 |
+
+Analysis: the 5-year numerator averages 2020-24. It includes years when most of the 2020-24 homes did not exist yet; the 2020 survey sees only homes built in 2020. Dividing that average by the full end-of-period inventory roughly halves the yield, which matches PSU's "~0.2". A consistent numerator and denominator give about 0.52.
+
+### Last year's 0.45 (approximation; our files start in 2019)
+
+| Specification (detached + mobile homes, under 5 years old, public 5-17, per occupied unit) | Result |
+|---|---|
+| Tri-county | 0.54 ± 0.08 |
+| Multnomah PUMAs (proxy for the city) | 0.16 ± 0.09 (89 sampled homes) |
+
+### K-5 public students per unit, by home age (1-year 2019 and 2022-24, tri-county)
+
+| Home type | Age 0-1 | Age 2-4 | Age 0-4 | Age 5-9 | Age 10-14 |
+|---|---|---|---|---|---|
+| Detached, 3+ BR | 0.30 ± 0.14 | 0.32 ± 0.08 | **0.31 ± 0.07** | 0.31 ± 0.12 | 0.33 ± 0.10 |
+| Attached (townhouse) | 0.02 (22 homes) | 0.33 ± 0.21 | **0.25 ± 0.16** | 0.37 ± 0.40 | 0.15 ± 0.12 |
+
+**By county, detached 3+ BR, age 0-4:**
+
+| County | K-5 public per unit | Public share of K-5 students |
+|---|---|---|
+| Washington | 0.32 ± 0.10 | 88% |
+| Clackamas | 0.38 ± 0.12 | 90% |
+| Multnomah | 0.14 ± 0.10 (65 sampled homes) | 50% |
+
+**Home value** (owner-occupied detached 3+ BR, age 0-9, K-5 public per occupied unit, 2024 dollars):
+
+| Value | Yield |
+|---|---|
+| Under $700K | 0.24 ± 0.08 |
+| $700K and over | 0.41 ± 0.10 |
+| $700K-$1.5M | 0.38 ± 0.11 |
+
+### Raleigh Crest at full buildout (133 detached + 130 townhouse lots), PPS K-5 students
+
+| Basis | K-5 students |
+|---|---|
+| PSU ~0.10 (5-17) applied to all 263 homes, K-5 share 56% (this data) | about 15 |
+| PSU ~0.2 (K-12), K-5 share 52% | about 27 |
+| PSU's own definition computed consistently (0.27 K-5 per detached unit) | about 71 |
+| Tri-county, home age 0-4: 133 × 0.31 + 130 × 0.25 | **about 74 ± 23** |
+| Phased buildout (five annual phases, homes aged 0-4 at completion; new townhouses near zero in year 0-1) | about 68 |
+| Washington County yields | about 75 |
+| Multnomah County yields (infill-dominated, half of K-5 children in private school) | about 52 |
+
+Analysis:
+1. The central estimate is **about 70 K-5 public-school students at full buildout**, with a plausible range of about 45-100. Detached yields are flat with home age (0.30-0.33 from new to 14 years old), so the figure should hold after buildout rather than fade.
+2. In the PPS attendance zone, public K-5 students are PPS students. The main local uncertainty is private-school use: Multnomah's small sample shows a much lower public share than the suburban counties.
+3. The staff claim that $700K-$1.5M homes yield fewer students isn't supported here. In the tri-county ACS, new owner-occupied detached homes worth $700K or more hold more K-5 public students per home than cheaper ones (0.41 vs 0.24).
+4. PSU's own definitions, computed with consistent numerators and denominators, land near PSU's published 0.45-0.5 single-family rate, not 0.10 or 0.2.

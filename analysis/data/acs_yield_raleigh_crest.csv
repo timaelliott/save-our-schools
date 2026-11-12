@@ -1,0 +1,74 @@
+section,spec,numerator,per,note,n,est,moe90,units,num
+A. PSU ~0.10 definition,"5-yr 2020-24 file, built 0-2 yrs before each record's survey year (2020-21 surveys: only 2020+ builds identifiable)",s517,unit incl. vacant,,207,0.485,0.107,5107,2478
+A. PSU ~0.10 definition,"same, surveys 2022-24 only (window fully identifiable)",s517,unit incl. vacant,,166,0.498,0.118,4298,2141
+A. PSU ~0.10 definition,"1-yr 2021-24 files pooled, built 0-2 yrs before survey",s517,unit incl. vacant,,199,0.465,0.108,24151,11240
+A. PSU ~0.10 definition,"5-yr file, survey year 2020 only",s517,unit incl. vacant,,8,0.293,0.487,242,71
+A. PSU ~0.10 definition,"5-yr file, survey year 2021 only",s517,unit incl. vacant,,33,0.469,0.279,567,266
+A. PSU ~0.10 definition,"5-yr file, survey year 2022 only",s517,unit incl. vacant,,64,0.464,0.164,1579,732
+A. PSU ~0.10 definition,"5-yr file, survey year 2023 only",s517,unit incl. vacant,,52,0.494,0.231,1299,642
+A. PSU ~0.10 definition,"5-yr file, survey year 2024 only",s517,unit incl. vacant,,50,0.54,0.281,1420,767
+A. PSU ~0.10 definition,"same as first row, per resident instead of per unit",s517,person,,207,0.168,0.03,14732,2478
+A. PSU ~0.10 definition,"same as first row, per occupied unit",s517,occupied unit,,197,0.527,0.114,4703,2478
+A. PSU ~0.10 definition,5-yr numerator / denominator summed over the 5 survey years (= 5 x period average),s517,"unit, summed over years",mixed periods,207,0.097,,25535,2478
+A. PSU ~0.10 definition,"5-yr numerator / sum of 1-yr ACS counts of 0-2-yr-old SFD units, surveys 2021-24",s517,"unit, summed over years",mixed periods,,0.103,,24151,2478
+A. PSU ~0.10 definition,"same as first row, grades K-5 only",k5,unit incl. vacant,,207,0.27,0.09,5107,1378
+A. PSU ~0.10 definition,"5-yr file, homes exactly 0 yr old at survey",s517,unit incl. vacant,,45,0.293,0.161,1326,388
+A. PSU ~0.10 definition,"5-yr file, homes exactly 1 yr old at survey",s517,unit incl. vacant,,80,0.392,0.241,1766,693
+A. PSU ~0.10 definition,"5-yr file, homes exactly 2 yr old at survey",s517,unit incl. vacant,,82,0.693,0.195,2015,1397
+B. PSU ~0.2 definition,numerator and denominator both from the 5-yr 2020-24 file (consistent period average),k12,unit incl. vacant,,302,0.524,0.087,7285,3818
+B. PSU ~0.2 definition,"5-yr period-average numerator / end-2024 stock of SFD built 2020-24 (2024 1-yr ACS, proxy for the regional housing inventory)",k12,unit in end-2024 inventory,mixed periods,,0.269,,14183,3818
+B. PSU ~0.2 definition,"consistent 5-yr version, grades K-5 only",k5,unit incl. vacant,,302,0.271,0.072,7285,1973
+B. PSU ~0.2 definition,2024 survey only: K-12 public in SFD built 2020-24 / SFD built 2020-24 (both end-of-period),k12,unit incl. vacant,,113,0.547,0.165,14183,7758
+C. Last year's 0.45 definition (approximation),"1-yr 2019+2022-24, tri-county, SFD + mobile, < 5 yrs old",s517,occupied unit,,395,0.542,0.078,45253,24526
+C. Last year's 0.45 definition (approximation),"1-yr 2019+2022-24, tri-county, SFD, < 5 yrs old, per unit incl. vacant",s517,unit incl. vacant,,392,0.529,0.076,46215,24426
+C. Last year's 0.45 definition (approximation),"1-yr 2019+2022-24, Multnomah PUMAs (City of Portland approx.), SFD + mobile, < 5 yrs old",s517,occupied unit,,89,0.16,0.088,9536,1527
+C. Last year's 0.45 definition (approximation),"1-yr 2019+2022-24, Multnomah PUMAs (City of Portland approx.), SFD, < 5 yrs old, per unit incl. vacant",s517,unit incl. vacant,,90,0.153,0.086,9950,1527
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","detached 3+ BR, age 0-1",k5,unit incl. vacant,,94,0.297,0.137,12424,3689
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","detached 3+ BR, age 0-1",k5,occupied unit,,88,0.335,0.151,11018,3689
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","detached 3+ BR, age 0-1 (any school K-5, for public share)",k5all,unit incl. vacant,,94,0.406,0.178,12424,5045
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","detached 3+ BR, age 2-4",k5,unit incl. vacant,,255,0.317,0.078,28945,9171
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","detached 3+ BR, age 2-4",k5,occupied unit,,254,0.32,0.079,28681,9171
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","detached 3+ BR, age 2-4 (any school K-5, for public share)",k5all,unit incl. vacant,,255,0.356,0.078,28945,10298
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","detached 3+ BR, age 0-4",k5,unit incl. vacant,,349,0.311,0.067,41369,12860
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","detached 3+ BR, age 0-4",k5,occupied unit,,342,0.324,0.068,39699,12860
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","detached 3+ BR, age 0-4 (any school K-5, for public share)",k5all,unit incl. vacant,,349,0.371,0.075,41369,15343
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","detached 3+ BR, age 5-9",k5,unit incl. vacant,,123,0.307,0.116,12059,3705
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","detached 3+ BR, age 5-9",k5,occupied unit,,122,0.309,0.116,11973,3705
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","detached 3+ BR, age 5-9 (any school K-5, for public share)",k5all,unit incl. vacant,,123,0.366,0.122,12059,4412
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","detached 3+ BR, age 10-14",k5,unit incl. vacant,,213,0.331,0.097,22694,7518
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","detached 3+ BR, age 10-14",k5,occupied unit,,209,0.344,0.1,21880,7518
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","detached 3+ BR, age 10-14 (any school K-5, for public share)",k5all,unit incl. vacant,,213,0.361,0.101,22694,8184
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","detached all, age 0-1",k5,unit incl. vacant,,115,0.247,0.117,14963,3689
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","detached all, age 2-4",k5,unit incl. vacant,,277,0.293,0.074,31252,9171
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","detached all, age 0-4",k5,unit incl. vacant,,392,0.278,0.06,46215,12860
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","detached all, age 5-9",k5,unit incl. vacant,,127,0.297,0.111,12464,3705
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","detached all, age 10-14",k5,unit incl. vacant,,230,0.304,0.087,24948,7575
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","attached (townhouse) all, age 0-1",k5,unit incl. vacant,,22,0.022,0.04,2668,58
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","attached (townhouse) all, age 0-1",k5,occupied unit,,19,0.028,0.051,2052,58
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","attached (townhouse) all, age 0-1 (any school K-5, for public share)",k5all,unit incl. vacant,,22,0.022,0.04,2668,58
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","attached (townhouse) all, age 2-4",k5,unit incl. vacant,,58,0.334,0.208,7819,2610
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","attached (townhouse) all, age 2-4",k5,occupied unit,,58,0.334,0.208,7819,2610
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","attached (townhouse) all, age 2-4 (any school K-5, for public share)",k5all,unit incl. vacant,,58,0.334,0.208,7819,2610
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","attached (townhouse) all, age 0-4",k5,unit incl. vacant,,80,0.254,0.16,10487,2668
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","attached (townhouse) all, age 0-4",k5,occupied unit,,77,0.27,0.17,9871,2668
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","attached (townhouse) all, age 0-4 (any school K-5, for public share)",k5all,unit incl. vacant,,80,0.254,0.16,10487,2668
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","attached (townhouse) all, age 5-9",k5,unit incl. vacant,,20,0.371,0.404,2240,830
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","attached (townhouse) all, age 5-9",k5,occupied unit,,20,0.371,0.404,2240,830
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","attached (townhouse) all, age 5-9 (any school K-5, for public share)",k5all,unit incl. vacant,,20,0.371,0.404,2240,830
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","attached (townhouse) all, age 10-14",k5,unit incl. vacant,,64,0.153,0.123,6376,974
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","attached (townhouse) all, age 10-14",k5,occupied unit,,63,0.154,0.124,6335,974
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","attached (townhouse) all, age 10-14 (any school K-5, for public share)",k5all,unit incl. vacant,,64,0.168,0.124,6376,1073
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","attached 3+ BR, age 0-1",k5,unit incl. vacant,,14,0.035,0.066,1647,58
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","attached 3+ BR, age 2-4",k5,unit incl. vacant,,41,0.455,0.29,5271,2400
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","attached 3+ BR, age 0-4",k5,unit incl. vacant,,55,0.355,0.233,6918,2458
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","attached 3+ BR, age 5-9",k5,unit incl. vacant,,13,0.601,0.643,1380,830
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","attached 3+ BR, age 10-14",k5,unit incl. vacant,,34,0.275,0.217,3145,864
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","detached 3+ BR, age 0-4, Washington County only",k5,unit incl. vacant,,159,0.319,0.099,19102,6094
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","detached 3+ BR, age 0-4, owner-occupied",k5,occupied unit,,325,0.322,0.07,37790,12182
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","detached 3+ BR, age 0-4, K-12",k12,unit incl. vacant,,349,0.578,0.084,41369,23906
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","attached (townhouse) all, age 0-4, Washington County only",k5,unit incl. vacant,,38,0.25,0.245,5372,1344
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","attached (townhouse) all, age 0-4, owner-occupied",k5,occupied unit,,57,0.365,0.249,6601,2411
+"D. K-5 public yield by home age (1-yr 2019, 2022-24; tri-county)","attached (townhouse) all, age 0-4, K-12",k12,unit incl. vacant,,80,0.419,0.217,10487,4390
+"E. Value test (owner-occupied detached 3+ BR, age 0-9, K-5 public per occupied unit)",< $700K,k5,occupied unit,,256,0.235,0.077,28415,6673
+"E. Value test (owner-occupied detached 3+ BR, age 0-9, K-5 public per occupied unit)",>= $700K,k5,occupied unit,,180,0.407,0.104,19878,8099
+"E. Value test (owner-occupied detached 3+ BR, age 0-9, K-5 public per occupied unit)",$700K-$1.5M,k5,occupied unit,,158,0.379,0.105,17764,6730
