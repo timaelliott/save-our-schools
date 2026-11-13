@@ -1,0 +1,83 @@
+[
+ {
+  "path": "boardbook/meetings/2026-11-13_777890_special-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=777890",
+  "final_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=777890",
+  "status": 200,
+  "content_type": "text/html",
+  "bytes": 41848,
+  "error": "",
+  "fetched_at": "2026-11-13T23:00:47Z",
+  "title": "agenda"
+ },
+ {
+  "path": "boardbook/meetings/2026-11-13_777890_special-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=777890",
+  "final_url": "https://meetings.boardbook.org/Documents/CustomPublicNoticeForMeeting/915?meeting=777890",
+  "status": 200,
+  "content_type": "text/html",
+  "bytes": 32790,
+  "error": "",
+  "fetched_at": "2026-11-13T23:00:48Z",
+  "title": "public_notice"
+ },
+ {
+  "path": "boardbook/meetings/2026-11-13_777890_special-meeting/public_notice_14678310.pdf",
+  "url": "/Documents/DownloadPDF/14678310?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14678310?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 202693,
+  "error": "",
+  "fetched_at": "2026-11-13T23:00:49Z",
+  "title": "public_notice pdf"
+ },
+ {
+  "path": "boardbook/meetings/2026-11-13_777890_special-meeting/attachments/14695004_FINAL_Resolution_No._7397_Resolution_to_Authorize_Independent_Fact-Finding_Regarding_the_Use_of_Non-PPS-Approved_Messagi.pdf",
+  "url": "/Documents/DownloadPDF/14695004?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14695004?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 67501,
+  "error": "",
+  "fetched_at": "2026-11-13T23:00:50Z",
+  "title": "FINAL Resolution No. 7397   Resolution to Authorize Independent Fact-Finding Regarding the Use of Non-PPS-Approved Messaging Platforms  (Adopted by th",
+  "found_on": "2. Resolution to Authorize Fact-finding Related to Use of Certain Non-PPS-approved Messaging Platforms (Resolution 7397)"
+ },
+ {
+  "path": "boardbook/meetings/2026-11-13_777890_special-meeting/attachments/14678231_Reso_7397_-_Resolution_to_Authorize_Fact-finding_Related_to_Use_of_Certain_Non-PPS-approved_Messaging_Platforms.pdf",
+  "url": "/Documents/DownloadPDF/14678231?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14678231?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 54283,
+  "error": "",
+  "fetched_at": "2026-11-13T23:00:51Z",
+  "title": "Reso 7397 - Resolution to Authorize Fact-finding Related to Use of Certain Non-PPS-approved Messaging Platforms",
+  "found_on": "2. Resolution to Authorize Fact-finding Related to Use of Certain Non-PPS-approved Messaging Platforms (Resolution 7397)"
+ },
+ {
+  "path": "boardbook/meetings/2026-11-13_777890_special-meeting/attachments/14686893_Amendment_Clean_to_Resolution_to_Authorize_Independent_Fact-Finding_Regarding_the_Use_of_Non-PPS-Approved_Messaging_Plat.pdf",
+  "url": "/Documents/DownloadPDF/14686893?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14686893?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 63147,
+  "error": "",
+  "fetched_at": "2026-11-13T23:00:52Z",
+  "title": "Amendment_Clean_to Resolution to Authorize Independent Fact-Finding Regarding the Use of Non-PPS-Approved Messaging Platforms_La Forte Engelsman",
+  "found_on": "2. Resolution to Authorize Fact-finding Related to Use of Certain Non-PPS-approved Messaging Platforms (Resolution 7397)"
+ },
+ {
+  "path": "boardbook/meetings/2026-11-13_777890_special-meeting/attachments/14686894_Amendment_Markup_to_Reso_7397_-_Resolution_to_Authorize_Fact-finding_Related_to_Use_of_Certain_Non-PPS-approved_Messagin.pdf",
+  "url": "/Documents/DownloadPDF/14686894?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14686894?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 39641,
+  "error": "",
+  "fetched_at": "2026-11-13T23:00:53Z",
+  "title": "Amendment_Markup_to Reso 7397 - Resolution to Authorize Fact-finding Related to Use of Certain Non-PPS-approved Messaging Platforms_Engelsman La Forte",
+  "found_on": "2. Resolution to Authorize Fact-finding Related to Use of Certain Non-PPS-approved Messaging Platforms (Resolution 7397)"
+ }
+]

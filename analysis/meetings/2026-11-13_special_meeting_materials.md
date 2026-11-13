@@ -48,3 +48,21 @@ Analysis: Still not a rightsizing item. If the amendment passes, the Board would
 ## Related pps.net change found the same run
 
 The rightsize Documents & Presentations page added a "November 4, 2026" panel (Board work session). It links only to the Nov 4 BoardBook agenda [MTG:2026-11-04/775084], which is already archived [PPS:pps_net/rightsizing/presentations_2026-11-12.html].
+
+## Update 2026-11-13 (evening): final adopted resolution posted
+
+The scheduled refresh of 2026-11-13 23:00 UTC found one more attachment under item 2 (manifest `sources/boardbook/_manifests/_manifest_bb_777890_2026-11-13.json`; agenda.html and public_notice.html refreshed, priors kept in `_prior/`).
+
+| Doc | Title | Pages |
+|---|---|---|
+| BB:14695004 | FINAL Resolution No. 7397 Resolution to Authorize Independent Fact-Finding Regarding the Use of Non-PPS-Approved Messaging Platforms (Adopted by th[e Board; BoardBook title truncated]) | 2 |
+
+The BoardBook title says the resolution was adopted; the PDF itself carries no vote count or adoption date [BB:14695004 p.1–2]. The final text follows the Engelsman–La Forte amendment's structure (independent counsel for the Board, four-part scope, Dec 11 deadline) with these differences from the amendment's clean text [BB:14686893 p.1–2]:
+
+- **The Superintendent is no longer named.** The recital now refers to a Willamette Week report alleging that District "leaders" used Signal, and to images of Signal conversations "with District leadership and contractors or vendors" [BB:14695004 p.1]. The scope items cover "District leadership employees, or entities acting on behalf of the District" [BB:14695004 p.1]; the amendment's "the Superintendent and/or" wording is gone.
+- **Staff role.** "District personnel shall provide necessary records, information, and logistical assistance but will not have authority to direct independent counsel or the fact-finding process" [BB:14695004 p.1] (the amendment said "General Counsel and District personnel").
+- **No confidential channel.** Instead, outside counsel "will provide confidentiality to persons in appropriate circumstances and to the extent possible within the bounds of the law" and will tell people they are protected from retaliation [BB:14695004 p.2].
+- **New: public report.** "The Board will release a report on its fact-finding to the public following completion of the Board’s fact-finding" [BB:14695004 p.2].
+- Unchanged: findings "directly and solely to the full Board by December 11, 2026", or an interim report by that date [BB:14695004 p.1–2]; immediate preservation of records [BB:14695004 p.2].
+
+Analysis: Still not a rightsizing item, and nothing in the final text mentions schools, closures or the Southwest package. The Dec 11 findings date and the promised public report fall inside the window between the expected superintendent recommendation and a Board closure vote.
