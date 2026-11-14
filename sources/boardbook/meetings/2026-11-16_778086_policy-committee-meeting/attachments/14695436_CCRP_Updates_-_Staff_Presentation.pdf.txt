@@ -1,0 +1,116 @@
+Indoor Air Quality
+Policy Subcommittee Meeting
+
+
+
+
+                              11.16.26
+Recommendation on Proposed
+Indoor Air Quality (IAQ) Policy Additions
+
+●   Core Recommendation: Pause adoption of IAQ additions to
+    the Climate Crisis Response Policy (CCRP).
+
+
+●   Policy Separation: If desired, establish Indoor Air Quality (IAQ)
+    as a standalone policy with dedicated leadership (IAQ
+    Coordinator).
+
+
+●   Primary Objective: Protect the current scope of the CCRP
+    goals while defining a separate and rigorous indoor
+    environmental health policy, if needed.
+Core Policy Misalignment:
+Why IAQ & CCRP Should Remain Separate
+●   Scope & Focus Shift:
+     ○ CCRP Focus: Global emissions mitigation, decarbonization, and
+         long-term climate action (net-zero by 2040).
+     ○ IAQ Focus: Micro-environmental public health and occupational
+         safety protocols, which historically exist as internal Standard
+         Operating Procedures (SOPs).
+●   Risk of Policy Dilution:
+     ○ Combining daily occupational health mandates and global
+         decarbonization in one policy dilutes core CCRP objectives.
+     ○ Pivots Climate Justice, Energy & Sustainability (CJES) team priority
+         from structural carbon reduction to routine maintenance.
+●   Governance Alignment:
+     ○ Operational metrics evolve rapidly; standard operating procedures
+         (SOPs) and Environmental Health & Safety (EH&S) frameworks
+         provide proper flexibility compared to rigid policy language.
+Energy & Emissions Impact
+Conﬂict Between IAQ & CCRP
+
+●   Ventilation vs. Carbon Goals:
+     ○ Targeting 6 to 12 Air Changes per Hour (ACH) requires
+         continuous HVAC operation and high intake of unconditioned
+         outdoor air.
+●   Increased Energy Consumption:
+     ○ HVAC energy usage would increase by 10% to 40% per site.
+     ○ Directly conflicts with CCRP mandate to prioritize investments
+         achieving the greatest emissions reduction.
+●   Impact on CCRP Targets:
+     ○ Higher energy demand creates significant headwinds against
+         reaching district-wide net-zero targets.
+Financial & Resource Constraints
+●   Estimated Annual Operating Cost Increase (per site):
+     ○ Elementary School (e.g., Atkinson): +$15,000 to $30,000 / year
+●   Capital Construction Costs:
+     ○ Estimated 1% to 5% increase in total project costs.
+●   Capital Diversion:
+     ○ Mandating continuous in-room sensors, 5-year airflow rebalancing,
+        and rapid filter turnover diverts limited capital from primary climate
+        initiatives:
+          ■ Solar installs
+          ■ Building envelope sealing
+          ■ Fleet electrification
+     ○   Increasing ventilation rates above codes and standards could
+         risk the longevity of our aging systems and increased failure
+         rates of our building systems.
+3rd-Party Technical Evaluation
+Industry Expert Findings & Standards Baseline
+
+ ●   About Apex Companies: 38 years of experience, ~2,000 expert
+     consultants in ESG, environment, compliance, and health & safety.
+ ●   Regulatory Code vs. Voluntary Guidance:
+      ○ Oregon Mechanical Specialty Code (OMSC) / ASHRAE
+         62.1-2022: Legally adopted, peer-reviewed engineering standards
+         balancing air quality, energy efficiency, and cost.
+      ○ Harvard Healthy Buildings Program: Voluntary pandemic
+         mitigation research framework; not a regulatory design standard
+         (targets are 50%–200% higher than code minimums).
+ ●   Key Finding: Air Change Rates (ACH) alone are not a universally
+     accepted benchmark for ventilation safety or system efficacy.
+Climate Crisis Response Committee
+Involvement
+ ●    Climate Crisis Response Committee (CCRC):
+       ○ Charter: 9 members (2 students, 7 adults) advising the Board on
+           CCRP implementation.
+       ○ Current Status: Not consulted on the proposed policy expansion.
+ ●    Governance Concerns:
+       ○ Alters committee oversight scope without committee member input.
+       ○ Risks setting a precedent for rushed policy modifications that could
+           compromise long-term climate targets.
+ ●    Best Practice: Have the IAQ policy exist independent of the CCRC, or,
+      at minimum, engage the CCRC to ensure policy stability and alignment
+      with original charter goals.
+
+     “The mission of the Climate Crisis Response Committee is to monitor effective
+     implementation, provide transparency, and to track and report progress or
+     challenges of the Portland Public Schools’s Climate Crisis Response, Climate
+     Justice and Sustainable Practices Policy and the goals in it.”
+Staff Recommendation & Next Steps
+
+ ●   Pause Policy Adoption: Pause embedding IAQ additions into the CCRP
+     to allow thorough Board review of 3rd-party data.
+ ●   Maintain Policy Boundaries: Keep CCRP focused on emissions
+     reduction, net-zero goals, and structural climate action.
+ ●   If Establishing a Standalone Policy: Draft a separate, dedicated IAQ
+     policy supported by an IAQ Coordinator and tailored operational
+     procedures and non-conflicting goals of CCRP.
+ ●   Review Supporting Materials:
+       ○ April 2026 FIOC Committee Air Quality Presentation
+       ○ November 2026 Policy Committee Air Quality Presentation
+       ○ November 2026 Air Quality Policy Staff Memo
+       ○ Third-Party Evaluation Report (Apex) for Atkinson Elementary
+Thank You
+

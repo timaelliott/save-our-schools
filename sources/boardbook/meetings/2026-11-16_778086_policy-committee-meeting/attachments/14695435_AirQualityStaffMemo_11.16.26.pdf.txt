@@ -1,0 +1,114 @@
+Memo
+To: Board of Education
+From: Jon Franco, Senior Chief of Operations​
+​      Frank Leavitt, Sr. Director of Operations​
+       Curtis Leonard, Sr. Manager of CJES​
+       Brett Borgeson, Sr. Manager of EH&S
+Date: November 16, 2026​
+Subject: Staff Response to the Community Proposed Indoor Air Quality (IAQ) Policy
+
+Dear Board Members,
+
+ The District appreciates the thought and energy put into the proposed policy changes, however, the language from the
+ Community Proposed Indoor Air Quality additions should not be attached to the existing Climate Crisis Response Policy.
+ There are concerns that a blanket commitment to higher ventilation rates above ASHRAE 62.1 and the Oregon
+ Mechanical Specialty Code would put the District in misalignment with the Climate Crisis Response Policy’s energy and
+ emissions targets. By consolidating this under one policy, we risk an expansion of the policy’s scope that would dilute
+ the existing language, (seeing a pivot from global emissions mitigation and climate action to localized public health) and
+ implementation of the existing CCRP’s climate goals.
+
+ If the Board decides that an Air Quality policy should exist, it should exist as a stand-alone policy, with the potential
+ for a broader focus on public and environmental health. We recommend a collaborative staff-and-community-driven
+ reporting structure, a timeline of goal implementation independent from the CCRPs timelines, and a clearly identified
+ IAQ management team of existing staff members tasked with responding to the goals under the direction of a
+ to-be-hired IAQ Coordinator position. The motivations behind this are to ultimately protect the current scope of the
+ Climate Crisis Response Policy and to make the financial and operational impact of this proposed policy more
+ apparent.
+
+Core Policy Misalignment: Why IAQ & CCRP Should Remain Separate
+  The overarching objective of the CCRP is to mitigate global emissions and reduce our reliance on fossil fuels. Given
+  IAQs focuses on micro-environmental public health parameters, targets like these would be better suited in a different
+  policy with a focus on compliance with existing occupational health mandates. The combining of standard indoor
+  occupational health mandates with global decarbonization policy dilutes the core focus of the CCRP and risks making it
+  harder to reach net-zero by 2040.
+
+  In its current state, the CCRP explicitly states that district investments should prioritize those that achieve the “greatest
+  emissions reduction.” By elevating IAQ monitoring within the CCRP, the priority of the Climate Justice, Energy &
+  Sustainability team would pivot from policy fulfillment to ongoing facilities operational maintenance, further hindering
+  the pursuance of environmental and sustainability education gains as well as structural and multi-year carbon
+  reduction projects. Additionally, the Climate Justice, Energy & Sustainability team has concerns about the lack of
+  involvement of the Climate Crisis Response Committee in this policy decision.
+
+  The Climate Crisis Response Committee is a group of nine individuals (two students and seven adults), who are tasked
+  with advising the PPS Board of Education on implementation of the CCRP. The committee has not been involved in this
+  decision-making process or had the chance to formally provide input to the board on what they think about this
+   proposal. This proposed policy change would drastically alter the scope of what the CCRC oversees, without asking the
+   individual committee members for their input on this decision. The CCRC’s goal is to ensure the strength and relevance
+   of the CCRP, and by not consulting them, they are not being utilized as the committee charter intends. This is another
+   major driver in the desire for policy separation, establishing Air Quality as a standalone policy with a topical focus on
+   public and environmental health.
+
+   Lastly, it is important to highlight that IAQ standards and HVAC operations are traditionally regulated under facilities
+   management plans, standard operating procedures, occupational health and safety protocols (OSHA/ASHRAE), or
+   public health guidelines. Many of these frameworks already inform the mission of the Environmental Health & Safety
+   team in their pursuance of clean air in our schools. There is a hesitancy to lock in this level of detail in the Climate Crisis
+   Response Policy, knowing that operational target metrics have the potential to rapidly evolve. As it stands, the CCRP
+   has taken a more broad approach with its regulatory rigidity, so the Climate Justice, Energy & Sustainability team can
+   adapt as the science and industry adapts. We believe any Air Quality targets should take the same approach with policy
+   and take a more granular approach in the creation of operating procedures.
+
+3rd-Party Technical Evaluation: Industry Expert Findings
+   Apex Companies is an environmental consulting firm that has been in business for 38 years and has a staff of almost
+   2,000 individuals, known for their technical excellence and commitment to quality. They were tasked with providing a
+   report on the impact of changing the Ventilation Rates at Atkinson Elementary (chosen because it reflects an average
+   Elementary School in terms of size within PPS). Schools in the District are built to industry standards using best
+   practices, specifically compliance with legally adopted building codes. The emphasis on air changes per hour (ACH) in
+   the proposed policy alone is not a widely-accepted industry benchmark for air ventilation systems.
+   The use of ASHRAE 62.1-2022 within the Oregon Mechanical Specialty Code represents the legally adopted,
+   peer-reviewed, and balanced engineering standards for ventilation design. ASHRAE standards are developed
+   through a multi-year consensus process involving engineers, public health experts, and regulators. It provides
+   acceptable indoor air quality while maintaining reasonable construction costs, energy consumption, and
+   environmental impact. Designing schools in compliance with OMSC and ASHRAE 62.1 therefore represents
+   appropriate professional engineering practice and regulatory compliance.
+
+Financial & Resource Constraints: Impact & Resource Allocation
+   Meeting aggressive ventilation goals like targeting 6 to 12 effective air changes per hour (ACH) requires running HVAC
+   systems continuously and drawing in significantly larger volumes of unconditioned outdoor air. Increasing ventilation
+   rates above codes and standards risks the longevity of our building systems and has the potential to overwork and
+   ultimately increase the failure rate of building systems. Pursuing a target of 6 - 12 ACH would lead to ventilation rates
+   at 50% to 200% higher than code minimums. Before a policy commitment of this caliber is made by this Committee, a
+   larger conversation must happen, outside of the Climate Crisis Response Policy, to determine how existing Standard
+   Operating Procedures and compliance with the CCRP can be balanced to meet additional goals.
+
+   The APEX report on ventilation rates to target 4 - 6 ACH suggests that we could see an annual increase of HVAC energy
+   costs of $15,000-$30,000 at Atkinson Elementary. Pursuing rates of 6 - 12 ACH would see an even higher cost impact in
+   our utility bill portfolio. Designing schools for higher ventilation rates requires larger mechanical equipment. Since
+   HVAC systems typically represent 10% to 20% of total school construction cost, this translates to 1% to 5% increase in
+   total building construction cost. In addition to the cost impact of pushing our air ventilation systems beyond existing
+   standards and codes, we would see an increase to our HVAC’s energy usage by 10-40% at each site, which will make
+  our emissions reduction targets harder to meet. Before adopting ventilations standards that are more robust than
+  current ASHRAE 62.1 and OMSC recommendations, a larger conversation needs to happen around the conflict
+  between pushing our building systems to work harder and the emissions that would accompany this policy decision.
+
+  The financial impacts of the proposed language are significant for the District. The proposed language would require
+  the District to purchase sensors for each classroom at a (low end) cost of $1,500 per classroom. This cost does not
+  include the hardwiring needed for each classroom from IT and Maintenance and the required maintenance and
+  monitoring. With research from our HVAC partners, the estimated cost (low end) to increase air changes per hour
+  (ACH) from 3 to 6 would be approximately $500,000 a year for the entire District. That is the basic operating costs of
+  increased energy usage. This cost does not include the initial investment required by the District and the need for an
+  additional FTE to monitor this program.
+
+In conclusion, we recommend the following next steps:
+
+ ●​ Pause the Policy Adoption: Do not include the IAQ additions into the CCRP to allow a more thorough board review
+    of 3rd party findings.
+ ●​ Maintain CCRP Policy Boundaries: Keep the Climate Crisis Response Policy focused on emissions reduction, net-zero
+    goals, and structural climate action.
+ ●​ If establishing a Standalone Policy: Draft a separate, dedicated IAQ policy supported by an IAQ Coordinator and
+    tailored operational procedures and non-conflicting goals of CCRP.
+ ●​ Review Supporting Materials
+          ○​ April 2026 FIOC Committee Air Quality Presentation
+          ○​ November 2026 Policy Committee Air Quality Presentation
+          ○​ November 2026 Air Quality Policy Staff Memo
+          ○​ Third-Party Evaluation Report (Apex) for Atkinson Elementary
+

@@ -1,0 +1,240 @@
+{
+ "meeting_id": "777711",
+ "date": "2026-11-17",
+ "slug": "work-session",
+ "heading": "November 17, 2026 at 6:00 PM - Work Session",
+ "meeting_type": "Regular",
+ "location": "Benson High School",
+ "cancelled": false,
+ "videos": [],
+ "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=777711",
+ "minutes_url": null,
+ "supplementals_url": null,
+ "folder": "sources/boardbook/meetings/2026-11-17_777711_work-session",
+ "agenda_items": [
+  {
+   "agenda_item_id": "19113492",
+   "title": "1. 6:00 pm - Call to Order / Opening",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "19113495",
+   "title": "2. 6:05 pm - Student and Public Comment",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "19113496",
+   "title": "3. 6:35 pm - Comments from our Union Partners",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "19113558",
+   "title": "4. 6:45 pm - Resolution to Adopt the 2027 Legislative Agenda (Resolution 7400) Vote - Public Comment Accepted",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "14692812",
+     "name": "Reso 7400 - 2027 Legislative Agenda Resolution",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14692812",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14692812?org=915"
+    },
+    {
+     "document_id": "14673756",
+     "name": "2027 Legislative Agenda",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14673756",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14673756?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "19113556",
+   "title": "5. 7:00 pm - Financial Update",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "14692843",
+     "name": "26_11_17 PPS BOE Financial Update",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14692843",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14692843?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "19114009",
+   "title": "6. 7:30 pm - Superintendent's Recommendation for Rightsizing",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "14695483",
+     "name": "11.13.26 Superintendent's Recommendation_Board Memo",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14695483",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14695483?org=915"
+    },
+    {
+     "document_id": "14695407",
+     "name": "A. Resolution 7307 May 26, 2026",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14695407",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14695407?org=915"
+    },
+    {
+     "document_id": "14695408",
+     "name": "B. Resolution 7296 April 14, 2026",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14695408",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14695408?org=915"
+    },
+    {
+     "document_id": "14695482",
+     "name": "C. School Closure Reports",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14695482",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14695482?org=915"
+    },
+    {
+     "document_id": "14695445",
+     "name": "D. School Impact Summaries",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14695445",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14695445?org=915"
+    },
+    {
+     "document_id": "14695409",
+     "name": "E. Equity Audit Evaluation of PPS Southeast Enrollment and Program Balancing Initiative",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14695409",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14695409?org=915"
+    },
+    {
+     "document_id": "14695410",
+     "name": "F. PPS_Rightsizing_Methodology",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14695410",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14695410?org=915"
+    },
+    {
+     "document_id": "14695411",
+     "name": "H. 2.10.010-P Racial Educational Equity Policy",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14695411",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14695411?org=915"
+    },
+    {
+     "document_id": "14695412",
+     "name": "I. 4.10.045-P Student Assignment to Neighborhood Schools",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14695412",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14695412?org=915"
+    },
+    {
+     "document_id": "14695413",
+     "name": "J. 4.10.051-P Student Enrollment and Transfers",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14695413",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14695413?org=915"
+    },
+    {
+     "document_id": "14695414",
+     "name": "K. 6.10.022-P Educational Options Policy",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14695414",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14695414?org=915"
+    },
+    {
+     "document_id": "14695416",
+     "name": "M. 8.70.040-P Preservation, Maintenance, and Disposition of District Real Property",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14695416",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14695416?org=915"
+    },
+    {
+     "document_id": "14695417",
+     "name": "N. Lottery Demand Report",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14695417",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14695417?org=915"
+    },
+    {
+     "document_id": "14695499",
+     "name": "O. Sample Transportation Routes",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14695499",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14695499?org=915"
+    },
+    {
+     "document_id": "14695419",
+     "name": "P. Rightsizing_KPIs",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14695419",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14695419?org=915"
+    },
+    {
+     "document_id": "14695420",
+     "name": "Q. 6.10.030-P School Initiation and Closure Policy",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14695420",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14695420?org=915"
+    },
+    {
+     "document_id": "14695421",
+     "name": "R. PPS Comms Tactics",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14695421",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14695421?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "19113498",
+   "title": "7. 9:00 pm - Consent Agenda: Resolutions 7398 through 7399 Vote- Public Comment Accepted",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "19114017",
+   "title": "7.(a) Resolution 7398 - Expenditure Contracts",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "14673767",
+     "name": "Reso 7398 - Expenditure Contracts",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14673767",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14673767?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "19121879",
+   "title": "7.(b) Resolution 7399 - Approving the Bylaws of the District Student Council",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "14682062",
+     "name": "Reso 7399 - Approving the Bylaws of the District Student Council",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14682062",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14682062?org=915"
+    },
+    {
+     "document_id": "14682089",
+     "name": "Exhibit A-DSC Bylaws",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14682089",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14682089?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "19113499",
+   "title": "8. 9:05 pm - Other Business, Committee Referrals, and Future Agenda Items",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "19113500",
+   "title": "9. 9:10 pm - Adjourn",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  }
+ ],
+ "public_notice_files": [],
+ "public_notice_document_id": "14692916",
+ "public_notice_pdf": "sources/boardbook/meetings/2026-11-17_777711_work-session/public_notice_14692916.pdf",
+ "public_notice_download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14692916?org=915"
+}

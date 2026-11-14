@@ -1,0 +1,625 @@
+                                                                                                        ​
+                                                                                      Version 11.11.2026
+
+
+
+
+              DIGITAL DEVICE AND SCREEN USE POLICY​
+                          SCHOOLS BEYOND SCREENS PORTLAND DRAFT
+
+
+
+I. PURPOSE
+ This Policy establishes rules for the evaluation, deployment, and use of digital technologies and
+ screen-based devices within Portland Public Schools. It supports PPS’s Graduate Portrait and
+ Portland Public Schools’ mission to provide an equitable, high-quality education by
+ safeguarding students' physical, social-emotional, and cognitive development, and by ensuring
+ that adopted technologies enhance, rather than diminish learning outcomes and instructional
+ time.
+
+ Through clear, consistent, age-appropriate expectations, this Policy reflects a shared
+ responsibility among schools, families, and students to promote academic focus, critical
+ thinking, and healthy, lifelong learning habits, preparing students to be responsible digital
+ citizens throughout their school years and beyond.
+
+II. DEFINITIONS
+ A. Personal data: Any information that identifies or could reasonably identify a student. This
+ includes the categories listed in Section IV.L and data generated through a student’s use of a
+ digital tool, such as usage, location, and behavioral data.
+
+ B. Device: As used in this policy, a device means any PPS-owned, PPS-issued, or PPS-managed
+ laptop, desktop computer, tablet, mobile phone, wearable device, virtual or augmented reality
+ equipment, or other internet-connected hardware used to access PPS systems or instructional
+ content.
+
+ C. Digital tool: Any software, application, website, online platform, browser extension, or
+ online service accessed on a digital device, including learning management systems and
+ assessment platforms.
+
+ D. Educational Technology: Educational Technology means software, digital applications,
+ online services, websites, platforms, and other digital tools used for instructional, assessment,
+ accessibility, safety, communication, or administrative purposes.
+
+ E. Technology Education” or “TechEd: Instruction in which the technology itself is the
+ learning objective, including computer literacy, keyboarding, research skills, and computer
+ science.
+
+ F. Approved Educational Technology: Approved Educational Technology means Educational
+ Technology that PPS has reviewed and authorized under its educational technology approval
+ process.
+
+ G. PPS Digital Toolkit means the District’s published list of approved digital tools, including
+ the approved grade levels and uses for each tool and any features the District has disabled.
+
+ H. Core Digital Curriculum Product: A District-adopted or District-licensed instructional
+ program that students use on a device for instruction, practice, or assessment as part of a
+ structured curriculum, such as i-Ready.
+
+ I. Screen Time: Screen Time refers to the amount of time a student is expected to view or
+ interact with device displays, including structured educational technology used for instruction
+ and unstructured or non-instructional media. Screen Time does not include use of assistive
+ technology required to provide a student with access to instruction or PPS services.
+
+ J. Independent Evidence: means at least one study that:
+
+   1.​ Was conducted or validated by a party with no financial interest in the product
+   2.​ Meets at least Tier 3 (“promising”) of the ESSA evidence standards
+   3.​ Measures retention or application of the targeted skill outside the tool, ideally at least one
+       week after use
+   4.​ Included students comparable in grade level and learning needs to those who will use the
+       tool
+
+K. Generative artificial intelligence” or “generative AI: Software that produces text, images,
+audio, video, or code in response to user prompts. This includes large language model (LLM)
+chatbots and generative AI features embedded within other digital tools.
+
+III. STANDARDS FOR SCREEN USE IN INSTRUCTION
+ A. Proven Benefit Standard. Digital tools will be used when they offer a clear, evidence-based
+ advantage over non-digital methods in meeting curricular objectives.
+
+ B. Multi-Sensory Learning Priority. Screens will be used only for specific, approved purposes
+ and will not replace hands-on, experiential learning.
+
+ C. Paper-Based Materials. Paper-based materials will be the primary medium for instruction
+ and assignments in reading, writing, and mathematics. Students will complete written drafts and
+ revisions by hand, particularly in the early grades. As students advance and demonstrate mastery
+ of these foundational skills, digital tools may be introduced gradually to supplement, rather than
+ replace, paper-based learning.
+
+IV. GENERAL RULES AND RESTRICTIONS
+
+ The following rules will apply to all digital device and screen use, except as dictated by
+ Individualized education plans (IEPs), 504 plans, or Personalized education plans (PEPs):
+
+ A. Centralized Device Use for K-8. Devices will be used to support specific in-class
+ curriculum and learning activities and will not serve as the primary instructional medium, unless
+ the student is participating in an online school or class approved or delivered by PPS. PPS will
+
+
+                                                                                                        2
+     not operate a standard one-to-one take-home Device program for students in Pre-K through
+     Grade 8.
+
+     B. K-8 Screen-Free Periods. Recess, lunch, and passing periods will be screen- and device-free
+     for grades K-8 by default.
+
+     C. Screen-Free Lunch for Grade 9-12. The use of computers during high school lunch periods
+     will be restricted to specific classrooms or library areas specifically designated as study halls.
+
+     D. Instructional Flexibility. PPS recognizes that some courses and learning experiences may
+     require greater use of technology to achieve their instructional objectives. Screen time
+     guidance should be applied with consideration for the unique requirements of courses such as
+     computer science, graphic design, digital media arts, yearbook, engineering, career technical
+     education pathways, film studies, and other technology-intensive programs. In these courses
+     and programs, technology use may exceed general screen time recommendations when it is
+     directly connected to curriculum, student creation, design, programming, production,
+     research, or other active learning experiences. Such use should remain purposeful,
+     instructionally aligned, and consistent with the goals of this policy.
+
+     E. Offline Homework. Homework assignments will be offered in a paper format whenever
+     possible. Internet connectivity will not be required for the completion of homework
+     assignments. This does not prohibit the use of a learning management system in grades 6-12.
+
+     F. Use only PPS approved digital tools and apps. PPS-approved digital tools/apps will be
+     vetted as detailed in this policy and approved to ensure they are safe, effective, and legal.. When
+     students are using devices, all teachers, including substitutes, will utilize PPS-approved
+     monitoring tools (ie Securly, etc.) to monitor student screen use for appropriateness.
+
+     Staff may not require or direct students to create accounts, disclose personal information, upload
+     student work, or use an educational technology service unless the service has been approved
+     through the PPS educational technology review process. Staff may not accept click-though
+     terms on behalf of PPS or use free applications, browser extensions, pilot programs, or artificial
+     intelligence tools unless authorized under that process.
+
+     G. Prohibition on Advertisement and Sales. No advertisements will appear on any computer
+     device or projected screen at school. Any device used at school, including those used by
+     teachers or administrators, must be installed with premium ad blockers. Furthermore, students
+     and families will not be required to use any app or website that pushes “paid upgrades,”
+     “premium services,” “in-app purchases,” or similar features.1
+
+     H. Educational Use of Video, Visual Media, and Other Content. PPS digital devices will
+
+1
+    American Psychological Association. (2026). Children’s and adolescents’ learning with educational technology.
+
+                                                                                                                    3
+    only be used for curriculum-aligned educational purposes that promote active student
+    engagement. This applies in all instructional settings, including specials such as music, art,
+    physical education, and library. Video and device use should not be used as a substitute for
+    teacher-led instruction, classroom engagement, or active learning experiences, and should be
+    followed by opportunities for discussion, reflection, application, or other forms of student
+    interaction. Instructional video content should be presented by the teacher on a shared display
+    for whole-class viewing rather than viewed on individual student devices whenever possible.
+    Non-educational use including passive consumption for entertainment, gaming, or video
+    streaming, will be prohibited and blocked without administrator approval.2 Background video or
+    visual media not aligned to active instruction should not be used. When not in active use,
+    devices and projection screens should be off and away. Exceptions for specific disability related
+    needs as outlined in an IEP or 504 plan are allowed.
+
+    I. Gamified Learning Applications. Game mechanics can shift students’ attention from
+    understanding content to earning rewards and reduce their interest in learning once rewards are
+    removed.
+
+     1.​ The following features will be disabled in any approved digital tool or app, and tools that
+         cannot disable them will not be approved:
+            a.​ Chance-based or unpredictable rewards, such as spins, mystery boxes, or random
+                prizes
+            b.​ Non-instructional games, videos, or play time as a reward for academic work
+            c.​ Streaks or other features that pressure students to return or penalize missed sessions
+            d.​ Public leaderboards or student rankings
+            e.​ Notifications drawing students back to the platform outside assigned use.​
+
+     2.​ This provision does not apply to non-digital classroom games or displays showing which
+         skills a student has mastered.
+
+    J. Prohibition on Screen-Time as Reward. Individual digital device use or screen time will not
+    be used as a reward, incentive, or behavioral reinforcement for students.3
+
+    K. Data Collection. Students' personal data (including, but not limited to, health records,
+    grades, behavior, test scores, immigration status, birth location, household income, and SSNs)
+    will not be harvested, packaged, or sold by apps or learning management systems.4 Any apps
+    accessible to students must publish their complete terms of service and privacy policies.
+
+    L. Platform and Content Restrictions.
+
+2
+  Wall Street Journal, Screens Have Taken Over Classrooms. Even Students Have Had Enough. Educators question whether the rapid
+shift toward more technology has benefited learning; New York Times, How Much Screen Time Is Your Child Getting at School? We
+Asked 350 Teachers.
+3
+  Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta analytic review of experiments examining the effects of extrinsic rewards on
+intrinsic motivation. Psychological Bulletin, 125(6), 627–668.
+4
+  NBC News, Google's work in schools aims to create a 'pipeline of future users'
+
+                                                                                                                                     4
+1.​ Content Filtering. Students should be able to use District technology safely and stay focused
+    on learning. The District will use two tiers of content filtering on District student devices and
+    accounts.
+        a.​ Global Filtering: The District will filter all District student devices and accounts, on
+            and off campus, consistent with Board Policy 8.60.040-P and the Children’s Internet
+            Protection Act, including the restrictions in Section IV.L.2.
+        b.​ Classroom Allow Lists: For each Core Digital Curriculum product, the District will
+            provide a Classroom Allow List that limits student access to that product and the sites
+            it needs to work.
+        c.​ Educator Use: When students use a Core Digital Curriculum product in class,
+            educators shall apply the District-provided Classroom Allow List for that product.
+            Classroom Allow Lists do not apply to research, creation, or other activities outside a
+            Core Digital Curriculum product. Global Filtering stays in effect at all times.
+        d.​ Individual Access: Classroom Allow Lists shall not block assistive technology,
+            translation tools, or other resources required by a student’s IEP, 504 plan, or language
+            access needs.
+        e.​ Implementation: The annual report, as specified elsewhere in this policy, shall list
+            each Core Digital Curriculum product, whether it has a Classroom Allow List, and, if
+            not, why.
+
+2.​ Administrative Directive | Implements Content Filtering
+      a.​ Purpose​
+          This Administrative Directive implements Section IV.L.1 of this Policy. Classroom
+          Allow Lists keep students inside the curriculum product they are using during class.
+          They are built once per product and run on the District’s existing classroom
+          management tool, currently Securly Classroom, so no new software purchase is
+          required.
+      b.​ Developing Classroom Allow Lists
+             i.​ The Office of Technology and Information Services (OTIS), working with the
+                 Office of Teaching and Learning, shall keep a list of Core Digital Curriculum
+                 products. It shall publish a Classroom Allow List for each product to all
+                 educators as a shared, District-approved collection.
+            ii.​ Timelines: Classroom Allow Lists for Core Digital Curriculum in use when
+                 this directive is adopted shall be available by [the start of the 2027–28 school
+                 year]. For products adopted later, the list shall be available before classroom
+                 use begins.
+           iii.​ Exceptions: If OTIS determines that a product cannot work under a Classroom
+                 Allow List, OTIS shall record the reason. The product will be reported as an
+                 exception in the annual report to the Board.
+      c.​ Procurement and Renewal
+             i.​ When the District adopts, purchases, or renews Core Digital Curriculum, it
+                 shall confirm that the product can work under a Classroom Allow List.
+
+                                                                                                    5
+                      ii.​Contracts and renewals should require the vendor to provide a current list of
+                          required domains and to notify the District when that list changes.
+               d.​ Educator Use
+                      i.​ When students use a Core Digital Curriculum product in class, educators shall
+                          start a classroom management session and apply that product’s Classroom
+                          Allow List.
+                     ii.​ If the product doesn’t work while the Classroom Allow List is applied, the
+                          educator may remove it for the rest of the session and report the problem to the
+                          OTIS Help Desk. OTIS shall update the list.
+                    iii.​ Classroom Allow Lists are not meant for open-ended research, creation, or
+                          exploratory learning. For those activities, Global Filtering applies, and
+                          educators use professional judgment to keep students on task and supervise
+                          device use under Section IV.F.
+               e.​ Individual Access
+                      i.​ OTIS shall set assistive technology and translation tools to remain available
+                          whenever a Classroom Allow List is applied. A student’s IEP or 504 team may
+                          request that additional resources be added.
+               f.​ Training
+                      i.​ Educators who use Core Digital Curriculum shall be trained to apply
+                          Classroom Allow Lists. This training should be part of existing training on the
+                          product or on the classroom management tool, supported by a one-page
+                          quick-reference guide.
+
+     3.​ Student Blocked Access. PPS will block access to student-led use of YouTube, social media,
+         and streaming platforms, AI/LLM chatbot platforms (ie ChatGPT, Gemini, Claude, etc.),
+         along with non-approved gaming platforms.5 Exceptions may only be permitted for
+         educator-directed instructional use when a platform directly supports curriculum-aligned
+         learning objectives.
+
+    M. Generative Artificial Intelligence (AI) and Large Language Models (LLMs). Access to
+    generative AI is prohibited on student-facing, PPS-issued devices until the PPS Board/District
+    adopts an AI policy and research-backed AI literacy curriculum is implemented district wide.6
+
+
+
+V. TIME LIMITATIONS ON DEVICE USE
+    A. Maximum Limits for Screen Use for K-12 (excluding TechEd). Total in-class screen
+    time will not exceed the following and can be balanced over the course of a unit of
+
+5
+  The Conversation, The 'one chatbot per child' model for AI in classrooms conflicts with what research shows: Learning is a social
+process; Ben Williamson et al., National Education Policy Center, Time for a Pause: Without Effective Public Oversight, AI in Schools
+Will Do More Harm Than Good.
+6
+  3 reasons why ‘going slow to go fast’ is the right approach for AI in schools (Brookings Institute, Sept 2026); NPR, The risks of AI in
+schools outweigh the benefits, report says.
+
+                                                                                                                                       6
+instruction to allow for flexibility: ​
+
+Grade                    Weekly Limit             Flexibility               In Practice (Ad. Dir.)
+
+P                        0 minutes                No routine use            No routine use
+
+K–2                      0 minutes                No routine use. Up to     No routine use
+                                                  90 minutes of             outside mandated
+                                                  screen-based practice     assessments
+                                                  before each mandated
+                                                  assessment
+
+3                        100 minutes              Minutes may be            20 minutes per day
+                                                  averaged over a unit
+
+
+4-5                      150 minutes              Minutes may be            30 minutes per day
+                                                  averaged over a unit
+
+6–8                      300 minutes              Minutes may be            45 minutes per
+                                                  averaged over a unit      subject/week
+
+9–12                     480 minutes              Minutes may be            60 minutes per
+                                                  averaged over a unit      subject/week
+​
+These limits apply to students’ use of individual devices. They do not apply to static projected
+materials (e.g., a document or slideshow displayed for common reference) or to brief,
+teacher-led video shown to the whole class in support of a lesson. Extended video viewing
+should be infrequent. In grades K–2, teacher-led video should be limited to occasional short
+clips that serve a clear instructional purpose.
+
+B. Exceptions: Exceptions to the time limitations set forth in this Section may be granted
+under the following circumstances:
+
+    1.​ IEPs, 504 plans, or PEPs*
+    2.​ Emergency situations requiring immediate communication or safety measures
+    3.​ Temporary, unexpected teacher substitutions where prepared lesson plans necessitate
+        screen-based instruction
+    4.​ Special assemblies featuring guest speakers or presentations that require audiovisual
+        components
+    5.​ Other special circumstances approved in advance by the principal.
+
+*Online curriculum should not be used for specialized designed instruction (SDI) or modified
+curriculum unless there is a specific IEP goal that is being addressed.
+
+
+
+
+                                                                                                     7
+VI. PROHIBITION OF ONE-TO-ONE DEVICES
+    A. Prohibition on One-to-One Devices. PPS will not issue individual devices to K-8 students.
+    All student access to digital devices will be limited to shared devices in dedicated computer labs
+    or supervised computer carts as set forth in Section IV of this Policy.
+
+    B. Exceptions. Students may take PPS devices home to address an identified instructional,
+    accessibility, equity, or academic-support need, as approved by the principal or designee, or as
+    required by an individualized education program (“IEP”), Section 504 plan, or applicable law.
+    PPS will provide the student’s parent or guardian with notice of the take-home arrangement and
+    obtain an acknowledgment of applicable device-use requirements. Failure to return an
+    acknowledgment will not prevent PPS from providing a device when the device is required to
+    provide the student with equal access, appropriate services, or legally required
+    accommodations.
+
+VII. Digital Literacy
+PPS will integrate developmentally appropriate Digital Literacy instruction into the core
+curriculum for grades K–12.
+
+    A. Digital Literacy instruction will focus on:
+
+     1.​ Evaluating source credibility and detecting misinformation;
+     2.​ Understanding data privacy and the Responsible Use Policy;
+     3.​ The environmental and social impacts of digital technologies;
+     4.​ Safe and respectful use of digital tools;
+     5.​ Skills to critically evaluate digital content;
+     6.​ Developing critical thinking, creativity, communication, collaboration, empathy,
+         judgment, and independent problem-solving skills in a rapidly evolving technological
+         world; and
+     7.​ Maintaining healthy technology habits, including attention management, period breaks,
+         ergonomics, and awareness of persuasive or engagement-focused design.
+
+VIII. Parent and Guardian Rights
+    A. Transparency. PPS shall maintain a public, online, current listing of all digital tools
+    approved for student use and relevant information about each, updated within 30 days of any
+    addition or change and sent annually to parents and guardians7.
+
+    Administrative Directive | For each tool, the listing shall include:
+
+     1.​ Whether it incorporates generative AI
+
+7
+ ACLU, Digital Dystopia: The Danger in Buying What the EdTech Surveillance Industry is Selling.; UNESCO. (2023). Global
+education monitoring report 2023: Technology in education: A tool on whose terms?
+
+                                                                                                                          8
+     2.​ Features PPS has disabled
+     3.​ How it was vetted against district standards
+     4.​ A plain-language summary of what student data it collects, how that data is used and stored,
+         and who it is shared with
+     5.​ A link to the full privacy policy
+
+    B. Access. Parents and guardians will have access to information specific to their child, including
+    the apps, programs, and services their child’s class/school uses and their child’s estimated or actual
+    weekly device time, with the method used to calculate that time.
+
+    C. Parental Consent. PPS will obtain annual consent from a parent or guardian before a student
+    under the age of 18 may use:
+
+     1.​ Any Google Workspace for Education Additional Service, or any third-party service for
+         which consent is required by law or by the vendor’s terms.
+     2.​ Any tool or feature that uses generative AI to process student input or work, whether or
+         not the vendor classifies it as a core service.
+     3.​ Consent will be requested separately for each service, not bundled into a single blanket
+         form.
+     4.​ Students without consent for a service shall receive an equivalent alternative and will not
+         be penalized.
+
+IX. DIGITAL TOOL VETTING AND APPROVAL PROCESS
+    A. Rubric and Vetting. PPS, in collaboration with the Technology Advisory Committee, will
+    review and update the PPS Digital Technology and App Approval Process with a formal,
+    transparent rubric and vetting process to evaluate ed tech and digital tools. The rubric will consider
+    targeted learning objectives, independent evidence*, cognitive processes, student data privacy and
+    safety, attention-capturing design and game mechanics, and time bound requirements.
+
+    New student-facing digital products should only be adopted when there are proven benefits over
+    analog alternatives. A process for teachers and staff to request approval for a new tool or app
+    should also be in place.8
+
+    *Independent evidence as defined above.
+
+X. TECHNOLOGY AUDIT PROCESS
+    A. Regular Technology Audit. The Office of Internal Performance auditor will conduct annual
+    audits of all digital tools and technologies currently in use across all grade levels and programs.
+    The Technology Advisory Committee (discussed below) will review audit findings and make
+    recommendations.
+
+
+8
+American Psychological Association. (2026). Children’s and adolescents’ learning with educational technology.
+
+                                                                                                                9
+ These audits will evaluate:
+
+  1.​ Continued compliance with approval criteria
+  2.​ Actual learning outcomes achieved
+  3.​ Any reported adverse effects on student privacy, learning, physical and mental health
+  4.​ Budget impacts
+
+ C. Removal of Tools. Any digital tool found to not meet approval criteria will be removed
+ from use within ninety 90 days of such determination.
+
+XI. FACULTY AND STAFF SUPPORT
+ A. Ongoing Professional Support. PPS will provide educators and staff with ongoing training,
+ guidance, and resources to implement this policy, including:
+
+  1.​ Instructional practice: effective, curriculum-aligned use of digital tools, and
+      high-quality non-digital alternatives.
+  2.​ Platform and tool training: hands-on training on each approved platform and app before
+      staff are expected to use it with students, including privacy and data settings, how to
+      disable restricted features, and how to confirm parental consent status where it is required.
+  3.​ Consistent, equitable enforcement: clear districtwide standards and procedures so that
+      the same behavior results in the same response for every student, with an emphasis on
+      non-exclusionary responses rather than confiscation or discipline.
+  4.​ Digital literacy instruction: strategies for teaching students to regulate their own
+      technology use, evaluate information, and protect their privacy.
+  5.​ Policy procedures: using the allow list request process, and meeting accommodation
+      obligations for assistive technology and students with IEPs or 504 plans.
+
+XII. STAKEHOLDER COLLABORATION AND OVERSIGHT
+ A. Technology Advisory Committee. PPS will maintain a Technology Advisory Committee
+ that ideally includes technology personnel, educators, administrators, psychologists, students,
+ and parents to review how technology is implemented throughout the district.
+
+ B. Committee Responsibilities. The Technology Advisory Committee will:
+  1.​ Work with PPS to develop a digital tool rubric
+  2.​ Work with PPS to write administrative directive related to this policy
+  3.​ Review and recommend updates to this Policy annually
+  4.​ Evaluating impacts of digital tools and platforms on the learning and well-being of
+      students
+  5.​ Evaluate proposed new technologies prior to adoption
+  6.​ Monitor research and developments in educational technology and child health
+  7.​ Collect information from parents, faculty, and staff regarding technology use
+  8.​ Evaluate outcomes of digital literacy curriculum and recommend changes as needed
+
+                                                                                                      10
+   9.​ Report findings and recommendations to the school board as a component in the District
+       Annual Report.
+
+XIII. MONITORING, ACCOUNTABILITY, AND CONTINUOUS
+IMPROVEMENT
+ A. Policy Review. The Technology Advisory Committee will review this Policy annually and make
+ suggestions to the board to update as necessary based on current research, stakeholder feedback,
+ and operational experience. The policy will be updated as needed to reflect new research,
+ implementation feedback, equity analyses, and emerging tools and information. The first annual
+ review will include feedback from students, educators, administrators, staff, parents, and families
+ regarding policy implementation and data on screen time usage.
+
+ B. District Annual Report to the Board
+ The District will provide an annual report to the Board, presented no later than May detailing the
+ implementation of this Policy. The report will include, at minimum:
+
+   1.​ Screen Time Data. A summary of average student screen time across the District,
+       compared against the goals and benchmarks established under this Policy.
+   2.​ Digital Tools and Platforms in Use. A current inventory of approved applications, digital
+       tools, and commonly used websites utilized for instructional purposes and associated
+       costs. Data on learning outcomes for each tool should be presented as well.
+   3.​ Digital and AI Literacy Curriculum. An update on the implementation and status of
+       digital and artificial intelligence literacy curricula, including progress made, instructional
+       outcomes, and consistency of implementation across schools.
+   4.​ Data Privacy Incidents. A summary of any student data privacy issues or incidents that
+       arose during the school year, including the nature of each issue and the steps taken to
+       address or mitigate it.
+   5.​ Monitoring and Filtering Systems. An update on the effectiveness of device monitoring
+       and content-filtering systems, including efforts to ensure device use remains educational,
+       minimizes access to distracting or non-instructional content, and maintains a safe digital
+       environment for students. Include filtering mishaps and mitigation strategies.
+   6.​ Emerging Research. A summary of relevant, current research on educational technology,
+       screen use, and child development, and how such research may inform future updates to
+       this Policy.
+   7.​ Disaggregation of Data. Wherever possible, data provided under this section will be
+       disaggregated by classroom, grade band, individual school, and historically underserved
+       student groups, to allow the Board to identify disparities in implementation, access, or
+       outcomes.
+   8.​ Technology Advisory Committee Findings and Recommendations.
+
+
+Note:
+
+
+
+                                                                                                        11
+For further reading and supporting materials, please visit our recommended reading list here:
+https://schoolsbeyondscreens.com/c/portland/learn-more
+
+                            APPENDIX A: GUIDING PRINCIPLES
+These guiding principles were conceived with the whole child in mind, centering around the
+question of what is truly best for all children's learning and development.
+
+    A. Research-backed Pedagogy. Neuroscientific research shows that effective learning requires
+    sustained focus, deliberate effort, and emotional, and relational connection.9 Students require a
+    balance of direct instruction, social interaction and collaboration, physical activity, and
+    hands-on learning. Technology use should not replace these essential experiences. Reading
+    comprehension is often lower when on a screen rather than paper.10 Multitasking and
+    gamification can diminish learning.11 Whenever possible, independent research should be used
+    to evaluate the efficacy of digital tools.
+
+    B. Teacher-led Instruction First: Learning is the most effective when directed and guided by
+    skilled educators and meaningful human interaction.12 Technology should support and enhance
+    teacher-led instruction, not replace the essential role of educators in fostering engagement,
+    relationships, and learning.
+
+    C. Adaptability. Cognitive skills and habits of mind enable students to adapt to evolving
+    circumstances and future technological trends. Teaching students to think deeply enables them
+    to use any tool; teaching students to use a specific tool limits them to that tool.
+
+    D. Real-life and Multi-sensory Practices. Analog learning methods–including whole book
+    reading and handwriting as well as paper based math and use of manipulatives–reliably produce
+    stronger comprehension and retention than digital methods.13
+
+    E. Student Health and Well-Being. Excessive device use has been shown to be correlated with
+    poor attention, distraction, anxiety, depression, myopia, and sleep disruption among children and
+    adolescents.14 Students deserve learning environments that minimize distractions and maximize
+
+9
+  Written Testimony of Dr. Jenny Radesky and Written Testimony of Dr. Jean Twenge, Hearing before the U.S. Senate
+Committee on Commerce, Science, and Transportation (Jan. 15, 2026).
+10
+   American Psychological Association. (2026). Children’s and adolescents’ learning with educational technology; Tiffany
+Munzer, et al., Digital Ecosystems, Children, and Adolescents: Policy Statement. Pediatrics February 2026; 157 (2):
+e2025075320. 10.1542/peds.2025-075320
+11
+   Michael D. Hanus, Jesse Fox, Assessing the effects of gamification in the classroom: A longitudinal study on intrinsic
+motivation, social comparison, satisfaction, effort, and academic performance, Computers & Education, Volume 80, 2015,
+Pages 152-161, ISSN 0360-1315, https://doi.org/10.1016/j.compedu.2014.08.019.
+12
+   Written Testimony of Dr. Jared Cooney Horvath, Hearing before the U.S. Senate Committee on Commerce, Science,
+and Transportation (Jan. 15, 2026).
+13
+   Dr. Jared Cooney Horvath, The Digital Delusion; New York Times, Kids Rarely Read Whole Books Anymore, Even in
+English Class.
+14
+   Meri, R., Hutton, J., Farah, R., DiFrancesco, M., Gozman, L., & Horowitz-Kraus, T. (2023). Higher access to screens is
+related to decreased functional connectivity between neural networks associated with basic attention skills and cognitive
+
+                                                                                                                      12
+     engagement. Portland Public Schools devices and systems should prioritize curriculum-aligned
+     educational resources and prohibit access to content that does not directly support learning.
+
+     F. Equity and Inclusion. Excessive reliance on edtech can reinforce inequity and widen the
+     achievement gap. The new “digital divide” will be defined by access (or lack thereof) to high
+     quality, screen-free instruction.15 However, students will need to have access to meaningful
+     opportunities to engage with technology, including for tech education, assessments,
+     differentiated learning, instructional accommodations, and accessibility supports while ensuring
+     that no group of students experiences disproportionate exposure to passive or excessive screen
+     time. Use of devices for students with diverse needs, including but not limited to students with
+     disabilities and English Learners, gifted learners, and students requiring specialized instructional
+     support, will be protected.
+
+     G: Set educators up for success. Educators need robust support, including time for professional
+     development around research-backed analog instruction and differentiation methods, use of
+     technology-based curriculum with intention and confidence to support student learning, and
+     teaching digital literacy effectively.16
+
+     H. Technology Education vs. Technology-Delivered Education. Technology Education
+     ("TechEd") is distinct from Education Technology ("EdTech"). TechEd refers to a curriculum
+     of computer literacy and may include, among other things, typing and research instruction.
+     EdTech refers to digital tools, software, platforms, and devices used to deliver core subject
+     content.
+
+     I. Transparency. Educators need clear guidelines on acceptable digital platforms, devices, and
+     screen use. Families need clear communication at the start of each school year about what to
+     expect regarding screen time, educational app and tool use, and the data privacy policies
+     governing these tools.17
+
+     J. Data privacy. Some data can help show when and why a learner is struggling, but the same
+     information can be used for marketing, product development, or other purposes that do not
+     directly benefit the learner. Policies should protect learners, only allowing vetted products and
+     tools with compliant data collection and privacy policies.18
+
+control in children. Child Neuropsychology, 29(4), 666-685; Ha A, Lee YJ, Lee M, Shim SR, Kim YK. Digital Screen
+Time and Myopia: A Systematic Review and Dose-Response Meta-Analysis. JAMA Netw Open. 2025;8(2):e2460026;
+Tiffany Munzer, et al., Digital Ecosystems, Children, and Adolescents: Policy Statement. Pediatrics February 2026, 157
+(2): e2025075320. 10.1542/peds.2025-075320.
+15
+   The Atlantic, The Best Parenting Hack Is Being Rich (Aug. 2026); UNESCO. (2023). Global education monitoring
+report 2023: Technology in education: A tool on whose terms?; Faith Bonniger et al., National Education Policy Center,
+Fit for Purpose? How Today's Commercial Digital Platforms Subvert Key Goals of Public Education.
+16
+   American Psychological Association. (2026). Children’s and adolescents’ learning with educational technology.
+17
+   UNICEF, Child Protection in Digital Education
+18
+   The Markup, This Private Equity Firm Is Amassing Companies That Collect Data on America's Children: Vista Equity Partners has
+been buying up software used in schools.; NBC News, Google's work in schools aims to create a 'pipeline of future users,' internal
+documents say.
+
+                                                                                                                                 13
+14
+

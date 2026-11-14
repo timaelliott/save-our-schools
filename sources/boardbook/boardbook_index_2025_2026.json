@@ -1,7 +1,228 @@
 {
- "generated": "2026-11-13T23:00:46Z",
+ "generated": "2026-11-14T02:00:51Z",
  "source": "https://meetings.boardbook.org/public/Organization/915",
  "meetings": [
+  {
+   "id": "778086",
+   "head": "November 16, 2026 at 4:00 PM - Policy Committee Meeting",
+   "type": "Committee (Policy Committee)",
+   "loc": "Dr. Matthew Prophet Education Center",
+   "vids": [],
+   "det": [
+    {
+     "t": "Public Notice",
+     "h": "/Public/PublicNotice/915?meeting=778086"
+    },
+    {
+     "t": "Agenda",
+     "h": "/Public/Agenda/915?meeting=778086"
+    }
+   ],
+   "items": [
+    {
+     "file": "14686142",
+     "name": "Policy Committee workplan timeline 111226",
+     "item": "3. 4:10 pm - Review Committee Work Plan"
+    },
+    {
+     "file": "14685467",
+     "name": "Complaint Policy Staff Report",
+     "item": "4. 4:15 pm - Review proposed revisions to 4.50.030-P Complaint Policy"
+    },
+    {
+     "file": "14685465",
+     "name": "4.50.030-P Complaint Policy Clean",
+     "item": "4. 4:15 pm - Review proposed revisions to 4.50.030-P Complaint Policy"
+    },
+    {
+     "file": "14685466",
+     "name": "4.50.030-P Complaint Policy Redline",
+     "item": "4. 4:15 pm - Review proposed revisions to 4.50.030-P Complaint Policy"
+    },
+    {
+     "file": "14695435",
+     "name": "AirQualityStaffMemo_11.16.26",
+     "item": "5. 4:20 pm - Discussion: 3.30.080-P PPS Climate Crisis Response, Climate Justice and Sustainable Practices Policy (2 two-minute public comment spots available on this topic)"
+    },
+    {
+     "file": "14695436",
+     "name": "CCRP Updates - Staff Presentation",
+     "item": "5. 4:20 pm - Discussion: 3.30.080-P PPS Climate Crisis Response, Climate Justice and Sustainable Practices Policy (2 two-minute public comment spots available on this topic)"
+    },
+    {
+     "file": "14695440",
+     "name": "Update on AI Pause resolution - Nov 16 2026 Policy Committee",
+     "item": "6. 4:55 pm - GenAI Systems Inventory and Policy Update (2 two-minute public comment spots available on this topic)"
+    },
+    {
+     "file": "14685494",
+     "name": "Board Memo - GenAI Systems Inventory and Policy Update",
+     "item": "6. 4:55 pm - GenAI Systems Inventory and Policy Update (2 two-minute public comment spots available on this topic)"
+    },
+    {
+     "file": "14695438",
+     "name": "SBS Portland Screen Use Policy WORKING DRAFT",
+     "item": "7. 5:25 pm - Discussion: Digital Device and Screen Use Policy (2 two-minute public comment spots available on this topic)"
+    },
+    {
+     "file": "14695471",
+     "name": "Screen Time Policy Update Board Policy Committee 11.16.2026",
+     "item": "7. 5:25 pm - Discussion: Digital Device and Screen Use Policy (2 two-minute public comment spots available on this topic)"
+    }
+   ]
+  },
+  {
+   "id": "778398",
+   "head": "November 17, 2026 at 5:00 PM - Executive Session",
+   "type": "Closed",
+   "loc": "Benson High School",
+   "vids": [],
+   "det": [
+    {
+     "t": "Public Notice",
+     "h": "/Public/PublicNotice/915?meeting=778398"
+    },
+    {
+     "t": "Agenda",
+     "h": "/Public/Agenda/915?meeting=778398"
+    }
+   ],
+   "items": []
+  },
+  {
+   "id": "777711",
+   "head": "November 17, 2026 at 6:00 PM - Work Session",
+   "type": "Regular",
+   "loc": "Benson High School",
+   "vids": [],
+   "det": [
+    {
+     "t": "Public Notice",
+     "h": "/Public/PublicNotice/915?meeting=777711"
+    },
+    {
+     "t": "Agenda",
+     "h": "/Public/Agenda/915?meeting=777711"
+    }
+   ],
+   "items": [
+    {
+     "file": "14692812",
+     "name": "Reso 7400 - 2027 Legislative Agenda Resolution",
+     "item": "4. 6:45 pm - Resolution to Adopt the 2027 Legislative Agenda (Resolution 7400) Vote - Public Comment Accepted"
+    },
+    {
+     "file": "14673756",
+     "name": "2027 Legislative Agenda",
+     "item": "4. 6:45 pm - Resolution to Adopt the 2027 Legislative Agenda (Resolution 7400) Vote - Public Comment Accepted"
+    },
+    {
+     "file": "14692843",
+     "name": "26_11_17 PPS BOE Financial Update",
+     "item": "5. 7:00 pm - Financial Update"
+    },
+    {
+     "file": "14695483",
+     "name": "11.13.26 Superintendent's Recommendation_Board Memo",
+     "item": "6. 7:30 pm - Superintendent's Recommendation for Rightsizing"
+    },
+    {
+     "file": "14695407",
+     "name": "A. Resolution 7307 May 26, 2026",
+     "item": "6. 7:30 pm - Superintendent's Recommendation for Rightsizing"
+    },
+    {
+     "file": "14695408",
+     "name": "B. Resolution 7296 April 14, 2026",
+     "item": "6. 7:30 pm - Superintendent's Recommendation for Rightsizing"
+    },
+    {
+     "file": "14695482",
+     "name": "C. School Closure Reports",
+     "item": "6. 7:30 pm - Superintendent's Recommendation for Rightsizing"
+    },
+    {
+     "file": "14695445",
+     "name": "D. School Impact Summaries",
+     "item": "6. 7:30 pm - Superintendent's Recommendation for Rightsizing"
+    },
+    {
+     "file": "14695409",
+     "name": "E. Equity Audit Evaluation of PPS Southeast Enrollment and Program Balancing Initiative",
+     "item": "6. 7:30 pm - Superintendent's Recommendation for Rightsizing"
+    },
+    {
+     "file": "14695410",
+     "name": "F. PPS_Rightsizing_Methodology",
+     "item": "6. 7:30 pm - Superintendent's Recommendation for Rightsizing"
+    },
+    {
+     "file": "14695411",
+     "name": "H. 2.10.010-P Racial Educational Equity Policy",
+     "item": "6. 7:30 pm - Superintendent's Recommendation for Rightsizing"
+    },
+    {
+     "file": "14695412",
+     "name": "I. 4.10.045-P Student Assignment to Neighborhood Schools",
+     "item": "6. 7:30 pm - Superintendent's Recommendation for Rightsizing"
+    },
+    {
+     "file": "14695413",
+     "name": "J. 4.10.051-P Student Enrollment and Transfers",
+     "item": "6. 7:30 pm - Superintendent's Recommendation for Rightsizing"
+    },
+    {
+     "file": "14695414",
+     "name": "K. 6.10.022-P Educational Options Policy",
+     "item": "6. 7:30 pm - Superintendent's Recommendation for Rightsizing"
+    },
+    {
+     "file": "14695416",
+     "name": "M. 8.70.040-P Preservation, Maintenance, and Disposition of District Real Property",
+     "item": "6. 7:30 pm - Superintendent's Recommendation for Rightsizing"
+    },
+    {
+     "file": "14695417",
+     "name": "N. Lottery Demand Report",
+     "item": "6. 7:30 pm - Superintendent's Recommendation for Rightsizing"
+    },
+    {
+     "file": "14695499",
+     "name": "O. Sample Transportation Routes",
+     "item": "6. 7:30 pm - Superintendent's Recommendation for Rightsizing"
+    },
+    {
+     "file": "14695419",
+     "name": "P. Rightsizing_KPIs",
+     "item": "6. 7:30 pm - Superintendent's Recommendation for Rightsizing"
+    },
+    {
+     "file": "14695420",
+     "name": "Q. 6.10.030-P School Initiation and Closure Policy",
+     "item": "6. 7:30 pm - Superintendent's Recommendation for Rightsizing"
+    },
+    {
+     "file": "14695421",
+     "name": "R. PPS Comms Tactics",
+     "item": "6. 7:30 pm - Superintendent's Recommendation for Rightsizing"
+    },
+    {
+     "file": "14673767",
+     "name": "Reso 7398 - Expenditure Contracts",
+     "item": "7.(a) Resolution 7398 - Expenditure Contracts"
+    },
+    {
+     "file": "14682062",
+     "name": "Reso 7399 -  Approving the Bylaws of the District Student Council",
+     "item": "7.(b) Resolution 7399 - Approving the Bylaws of the District Student Council"
+    },
+    {
+     "file": "14682089",
+     "name": "Exhibit A-DSC Bylaws",
+     "item": "7.(b) Resolution 7399 - Approving the Bylaws of the District Student Council"
+    }
+   ]
+  },
   {
    "id": "777890",
    "head": "November 13, 2026 at 12:00 PM - Special Meeting",

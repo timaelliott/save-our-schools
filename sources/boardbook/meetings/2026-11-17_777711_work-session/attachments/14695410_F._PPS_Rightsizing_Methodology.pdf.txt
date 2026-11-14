@@ -1,0 +1,236 @@
+        RIGHTSIZE. RIGHT SUPPORTS. RIGHT FOR STUDENTS.
+
+
+
+
+        Methodology
+        How Portland Public Schools developed the proposed changes:
+        the data behind the model, the criteria the district weighed, and
+        how those criteria were applied region by region.
+
+
+
+
+ Overview
+
+ The proposed changes were developed by district leaders and district planning staff, guided
+ by a set of criteria that reflect what the district is trying to achieve: schools large enough to
+ offer stable, adequately resourced programming, buildings used well, and school
+ communities kept together through change as much as possible.
+
+
+ These criteria often pull in different directions. Keeping a school community together may
+ require a larger boundary change. Consolidating a small immersion program may lengthen
+ some students' trips. For that reason, the criteria were weighed against one another rather
+ than applied as a fixed ranking, and the balance struck differs from one part of the city to
+ another, because conditions differ.
+
+
+ Two scenarios were developed, which differ mainly in how many schools they close. A
+ scenario that closes fewer schools affects fewer families and changes fewer boundaries, but
+ leaves more schools below the enrollment at which a school can offer stable, fully resourced
+ programming. A scenario that closes more schools does the reverse.
+
+
+
+
+Portland Public Schools · pps.net/rightsizing                       How the proposed changes were developed
+ Data Sets and Structure
+
+ The model uses the following data sets structured into four primary inputs and a
+ unified output.
+
+
+    DATA SOURCE              ORIGIN / FORMAT         DESCRIPTION & OPERATIONAL PURPOSE
+
+
+     1. Base                 Portland State          10-year official enrollment projections broken down
+     Projections             University Population   by school, group (program type/residency), grade
+                             Research Center         (PK–12), and year Base line year: 2025-26 (actual
+                                                     enrollment) Projections through 2031-32
+
+
+
+     2. Scenario             Portland Public         User-defined policy moves (e.g., “Merge School A into
+     Configuration           School Central Office   School B” or “Transition School C to K-5”) specifying
+                             Administration          percentage moves, grade ranges, implementation
+                                                     year, and phased vs. immediate timing
+
+
+     3. Historical           PPS 3-Year Historical   Granular matrix mapping how students enrolled in
+     Proportions             Averages                specific schools and programs naturally distribute
+                                                     back across home neighborhood boundaries,
+                                                     supporting 1-to-many closures
+
+
+     4. Facility             PPS Facility            Standardized building capacity numbers, classroom
+     Capacity Data           Operations              counts, square footage, and baseline utilization rates
+                                                     from the District Utilization model.
+
+
+     5. Unified              Result Table            Centralized storage location feeding Power BI
+     Output                                          dashboards for real-time visualization and
+                                                     comparative scenario analysis. All outputs originate
+                                                     from the same source ensuring accuracy of reporting.
+
+
+
+
+Portland Public Schools · pps.net/rightsizing                                               Data Sets and Structure
+  Methodology
+
+  Portland Public Schools (PPS) is addressing prolonged declining enrollment which has led
+  to varied educational experiences for students through this rightsizing process. The goal is
+  to create schools that are able to weather enrollment fluctuations and consistently provide
+  more equitable learning environments for students. These decisions include:
+
+
+
+             Closing schools                            Transitioning K8 schools to K5
+                                                        schools and assigning middle grades
+                                                        students to existing middle schools
+
+
+
+             Consolidating Dual Language                Redrawing neighborhood boundaries
+             Immersion (DLI) programs
+
+
+
+             Closing focus programs                     Moving programs to co-locate with
+                                                        other programs
+
+
+
+
+  To understand the scale of change required, we modeled two scenarios, one in which half
+  of our schools reach sustainable enrollment levels, and one in which seventy percent do by
+  2031-32
+
+
+
+
+Portland Public Schools · pps.net/rightsizing                                           Methodology
+  Criteria Framework
+
+  To identify which schools would be affected, PPS weighed multiple factors. While the criteria
+  considered were held across regions, different priorities emerged depending on location.
+  They are listed below.
+
+
+     CRITERIA                                   GOAL
+
+
+     Consolidate Dual Language                    No more than one same-language DLI program per region
+     Immersion Programs
+     so that each language pathway
+     is sustainable
+
+
+     Sustainable Enrollment                       By the 2031-32 school year
+     Threshold                                    Elementary Schools: 360 students
+     so that every school can offer stable        Middle schools and K8 schools: 500 students
+     and comparable learning experiences
+                                                  High schools: 1,100 students
+
+
+     Minimize the Number of                       If a school site is closed, try to keep the students moving
+     Receiving Schools from a                     together to one new site where possible and do not move
+     Closure                                      them to more than two new sites.
+
+     to keep school communities together
+
+
+     Minimize Boundary Changes                    Support maintaining cohorts of students moving through
+                                                  the system together and minimizing local neighborhood
+     to smallest number of
+                                                  disruptions
+     students possible
+
+
+     Account for Facility                         Use school buildings that have received recent
+     Improvements                                 improvements or have improvements planned as much as
+                                                  possible
+     so that students are learning in the
+     highest quality physical environment
+
+
+
+
+Portland Public Schools · pps.net/rightsizing                                                   Criteria Framework
+  Criteria Framework
+
+
+    CRITERIA                                    GOAL
+
+
+     Compact Boundaries                         To promote safer routes to schools and minimize distance
+                                                between students and their schools, identify percent of
+     so that students can access
+                                                students living within 1.0 miles of an elementary and 1.5 miles
+     schools close to where they
+                                                of a middle school.
+     live
+
+     Optimize Use of Existing                   Use buildings efficiently that support academic programming
+     Facilities                                 and long-term operational viability
+
+     so buildings can                           Between 70% and 100%
+     accommodate future growth
+     and academic programming
+
+
+     Review School                              Are the students experiencing the changes reflective of our
+     Demographics                               district demographics overall
+
+     to describe who benefits and
+     is burdened by the changes
+
+
+     Minimize Split Feeders                     Increase the number of groups of students who move together
+                                                from one grade level to the next, for example all students at one
+     so that cohorts of students
+                                                middle school moving to the same high school
+     can move through the
+
+
+
+
+Portland Public Schools · pps.net/rightsizing                                                         Criteria Framework
+  Applying Criteria
+
+  The data and modeling team included all schools and programs across the district. As
+  changes were modeled they were considered by region. Each region was formed based on
+  two adjacent high school attendance areas. The four regions include Ida B. Wells and
+  Lincoln on the west side, Jefferson and Roosevelt in the north, Grant and MacDaniel in the
+  northeast, and Cleveland and Franklin in the southeast. The primary drivers of scenario
+  development were to stabilize elementaries and middle schools, establish clear dual
+  language immersion pathways, and reduce the number of split feeder patterns. Each of
+  those schools was then compared with other schools in the same region using the criteria
+  above. The result is a set of recommendations shaped not only by how a school's current
+  enrollment compares to its sustainable threshold, but by the full set of priorities the district
+  committed to weighing.
+
+
+
+      HELD CONSTANT IN THE MODEL
+      Factors that remained the same throughout the modeling: number of
+      kindergarten seats available for dual language immersion, languages offered in dual
+      language immersion programs, seats available at ACCESS, Benson, da Vinci, and
+      Winterhaven, and schools or programs with specific entrance requirements are not
+      included such as DART.
+
+
+
+
+  Scenario Enrollment Assumptions
+
+  In each scenario the implementation begins with the 2027-2028 school year and ends with
+  all changes being completed by the beginning of the 2028-2029 school year. The scenarios
+  assume the PSU projection of students will be enrolled in PPS during all years.
+
+
+
+
+Portland Public Schools · pps.net/rightsizing               Applying Criteria · Scenario Enrollment Assumptions
+
