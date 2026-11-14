@@ -37,6 +37,8 @@
 
 ## What changed from Scenarios A and B
 
+A school-by-school table (61 rows, every school changed by the recommendation or by Scenario A or B) is in `analysis/data/recommendation_2026-11-13_vs_scenarios.csv`. Notes on attachments F, N, O, P and R, and on the 2027-28 Southwest staffing model, are in `analysis/meetings/2026-11-17_recommendation_attachments_notes.md`.
+
 Scenario A closed 14 schools and Scenario B closed 11. The recommendation closes 10 [BB:14695483 p.3](https://meetings.boardbook.org/Documents/DownloadPDF/14695483?org=915#page=3). PPS describes it as "changes primarily from Scenario A while applying the magnitude of Scenario B" [BB:14695483 p.23](https://meetings.boardbook.org/Documents/DownloadPDF/14695483?org=915#page=23). The listed changes [BB:14695483 p.3](https://meetings.boardbook.org/Documents/DownloadPDF/14695483?org=915#page=3):
 
 - **Kept open:** Sellwood MS, James John, Maplewood and Stephenson. Both earlier scenarios had closed Maplewood, James John and Sellwood MS; only Scenario A had closed Stephenson (image pages, OCR) [BB:14695483 p.18](https://meetings.boardbook.org/Documents/DownloadPDF/14695483?org=915#page=18) [BB:14695483 p.22](https://meetings.boardbook.org/Documents/DownloadPDF/14695483?org=915#page=22).
