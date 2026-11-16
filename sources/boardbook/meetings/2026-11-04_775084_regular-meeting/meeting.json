@@ -6,7 +6,9 @@
  "meeting_type": "Regular",
  "location": "Benson High School",
  "cancelled": false,
- "videos": [],
+ "videos": [
+  "https://www.youtube.com/watch?v=9kX3vnfRlvY&t=19094s"
+ ],
  "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=775084",
  "minutes_url": null,
  "supplementals_url": "https://meetings.boardbook.org/Meeting/Supplementals/915?meeting=775084",

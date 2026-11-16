@@ -37,7 +37,7 @@ Attachments:
 11.13.26 Superintendent's Recommendation_Board Memo
 A. Resolution 7307 May 26, 2026
 B. Resolution 7296 April 14, 2026
-C. School Closure Reports
+C. School Closure Reports (revised)
 D. School Impact Summaries
 E. Equity Audit Evaluation of PPS Southeast Enrollment and Program Balancing Initiative
 F. PPS_Rightsizing_Methodology
@@ -52,7 +52,7 @@ O. Sample Transportation Routes
 P. Rightsizing_KPIs
 Q. 6.10.030-P School Initiation and Closure Policy
 R. PPS Comms Tactics
-7. 9:00 pm - Consent Agenda: Resolutions 7398 through 7399
+7. 9:00 pm - Consent Agenda: Resolutions 7398 through 7399 and 7401
 Vote- Public Comment Accepted
 7.(a) Resolution 7398 - Expenditure Contracts
 Attachments:
@@ -67,6 +67,12 @@ Attachments:
 )
 Reso 7399 - Approving the Bylaws of the District Student Council
 Exhibit A-DSC Bylaws
+7.(c) Resolution 7401 - Adoption of the Minutes
+Attachments:
+(
+1
+)
+Resolution 7401 - Adoption of the Minutes
 8. 9:05 pm - Other Business, Committee Referrals, and Future Agenda Items
 9. 9:10 pm - Adjourn
 Web Viewer

@@ -92,10 +92,10 @@
      "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14695408?org=915"
     },
     {
-     "document_id": "14695482",
-     "name": "C. School Closure Reports",
-     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14695482",
-     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14695482?org=915"
+     "document_id": "14695656",
+     "name": "C. School Closure Reports (revised)",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14695656",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14695656?org=915"
     },
     {
      "document_id": "14695445",
@@ -179,7 +179,7 @@
   },
   {
    "agenda_item_id": "19113498",
-   "title": "7. 9:00 pm - Consent Agenda: Resolutions 7398 through 7399 Vote- Public Comment Accepted",
+   "title": "7. 9:00 pm - Consent Agenda: Resolutions 7398 through 7399 and 7401 Vote- Public Comment Accepted",
    "depth": 0,
    "description": "",
    "attachments": []
@@ -215,6 +215,20 @@
      "name": "Exhibit A-DSC Bylaws",
      "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14682089",
      "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14682089?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "19134085",
+   "title": "7.(c) Resolution 7401 - Adoption of the Minutes",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "14695675",
+     "name": "Resolution 7401 - Adoption of the Minutes",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14695675",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14695675?org=915"
     }
    ]
   },

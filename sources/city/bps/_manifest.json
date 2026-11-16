@@ -1,0 +1,17 @@
+{
+ "publisher": "City of Portland, Bureau of Planning and Sustainability (BPS)",
+ "note": "Internal City memo (preliminary draft) from BPS Chief Planner Patricia Diefenderfer and Principal Planner Ryan Singer to Deputy City Administrator Donnie Oliveira, dated Oct 30, 2026. Obtained and published by KATU with its Nov 4, 2026 story. Archived for research; it is a City analysis, not a PPS document, and makes no recommendation on selling or keeping sites.",
+ "files": [
+  {
+   "file": "sources/city/bps/2026-10-30_bps_potential_school_closure_sites_analysis.pdf",
+   "url": "https://katu.com/resources/pdf/665557f6-8509-41a9-bf2d-49ac25f45731-bpsschoolsitesanalysis11226.pdf",
+   "found_on": "https://katu.com/news/local/portland-study-reviews-future-uses-for-up-to-14-pps-schools-under-closure-talks-housing-development-business-community-vacant-local-students-teachers-parents-neighbors",
+   "title": "Memorandum RE: Potential School Closure Sites Analysis (BPS, Oct 30, 2026; 35 pp.)",
+   "fetch_date": "2026-11-16",
+   "sha256": "a0a3260e06ca3de53a10ea30b7d996d9f657e04ddc8daea3a114eca29d5882c6",
+   "bytes": 11363231,
+   "method": "curl from the cloud workspace",
+   "pdf_metadata": "CreationDate 2026-11-02 07:55 PST, ModDate 2026-11-03 07:36 PST"
+  }
+ ]
+}

@@ -1,0 +1,1219 @@
+                                                   Memorandum
+To:                 Donnie Oliveira, Deputy City Administrator, Community and Economic Development
+                    Service Area
+
+From:               Patricia Diefenderfer, Chief Planner, BPS
+                    Ryan Singer, Principal Planner, BPS
+
+Date:               October 30,2026
+
+RE:                 Potential School Closure Sites Analysis
+
+This memo provides basic information and context for the 14 school sites being considered for
+closure by Portland Public Schools (PPS). The first portion of the memo gives high level
+information and considerations followed by profiles for each of the school sites. The sites are
+distributed evenly throughout the PPS district, and therefore throughout the city. There are
+schools in three of the four City Council districts, with no schools slated for closure in District 1,
+which is by-and-large in a different school district. Five sites are in District 2, six in District 3,
+and three in District 4. The analysis includes:
+
+      •   current zoning;
+      •   a description of the surrounding area, roughly defined as within a half mile of the
+          school;
+      •   transit access and bicycle and pedestrian infrastructure;
+      •   a description of potential interim or longer-term uses; and
+      •   potential zoning changes that would be needed to facilitate interim or long-term reuse.
+
+Because the sites are dispersed throughout the city, they are in a variety of neighborhoods,
+with different contexts, levels of transit access, and potential for interim or longer-term reuse.
+The sites are all significant in terms of land area, with the smallest, Sabin Elementary, on over
+
+
+
+                    City of Portland, Oregon | Bureau of Planning and Sustainability | portland.gov/bps
+                    1810 Southwest Fifth Avenue, Suite 710, Portland Oregon, 97201 | Phone: 503-823-7700 | Relay: 711
+
+
+The City of Portland is committed to providing meaningful access. To request translation, interpretation, modifications, accommodations, or
+other auxiliary aids or services, contact 311, Relay: 711.
+
+Traducción e Interpretación | Biên Dịch và Thông Dịch | अनुवादन तथा �ा�ा | 口笔译服务 | Устный и письменный перевод | Turjumaad
+iyo Fasiraad | Письмовий і усний переклад | Traducere și interpretariat | Chiaku me Awewen Kapas | 翻訳または通訳 | ການແປພາສາ ຫື ຼ
+ການອະທິບາຍ | ‫ | اﻟﺘﺮﺟﻤﺔ اﻟﺘﺤﺮﯾﺮﯾﺔ أو اﻟﺸﻔﮭﯿﺔ‬Portland.gov/bps/accommodation
+3.5 acres and the largest, Stephenson Elementary on 8.8 acres. All the school sites have
+significant open areas, which should be explored for their potential for reuse or redevelopment
+by combining housing, open space, and community amenities that can create sustainable,
+multi-use sites.
+
+
+Demographics
+The decline in school enrollment is not a phenomenon unique to Portland. The 2026 Spring
+School Enrollment Report from the Oregon Department of Education shows a 7,797 reduction
+in students statewide from the prior year. School districts in other parts of the State including
+Tigard-Tualatin, Salem-Keizer, Newberg, Corvallis, Bethel and Beaverton have closed and
+consolidated schools or are actively considering doing so. The decline continues a trend
+started before the COVID 19 pandemic that has only accelerated since. The following table
+provides some context, showing that both the number of households with children and the
+children per household has been declining in the city, region and state.
+
+Figure 1. Households and Households with Children Change, 2014 to 2024
+                                                  City of     Portland
+ Year                Households                                                                         State of Oregon
+                                                 Portland       MSA
+                     Total Households             252,185      878,078                                     1,522,988
+ 2014                Households with Children     63,368       279,449                                      451,697
+                          % of Total Households    25%           32%                                          30%
+                        Children per household 1
+                                                   1.79          1.89                                         1.90
+                                  Total Households                       289,705            1,010,265      1,718,422
+    2024                          Households with Children               63,740              286,946        467,734
+                                       % of Total Households              22%                  28%            27%
+                                     Children per household               1.64                 1.79           1.81
+                                  Total Households      37,520       132,187                                195,434
+ 2014-2024 Change                 Households with Children
+                                                         372          7,497                                 16,037
+                                       % Change          1%            3%                                     4%
+Source: BPS Analysis of 5 year ACS 2024 and 2014 , Table B25003, B11005
+
+While the City of Portland grew in population from 2014 to 2024, the City has experienced a
+loss of population under the age of 18 in that period. In 2024 the City of Portland had a
+population of 641,165, 104,728 of which (16%) were under the age of 18. There were 289,705
+households in 2024, 63,740 of which (22%) had children. The analysis of each school below
+
+
+
+
+1
+    Of households with children
+
+
+City of Portland Bureau of Planning and Sustainability: School sites analysis – Preliminary draft                 Page 2 of 35
+includes a breakdown of the population in the school’s catchment area based on census tracts
+with the population under the age of 18, and population share under the age of 18. The
+profiles also include the same information for households. This information is illustrative of the
+relative share of school age population in each catchment area. Since most of the schools
+considered for closure are elementary schools the enrollment numbers are a fraction of this
+data.
+
+Figure 2. Population Under age 18 As Share of Total Population, 2024
+                                                Share of                Households Share of
+                                   Under 18
+                      Population               Population Households       with     Households
+                                  Population
+                                                Under 18                 Children w/ Children
+ City of Portland         641,165      104,728    16%          289,705       63,740    22%
+ES Closures Total         223,339       35,701    16%          102,817       21,930    21%
+Beach                      20,651        3,042    15%             9,689       1,852    19%
+Buckman                    30,488        1,839     6%            18,936       1,187     6%
+Creston                    27,431        3,822    14%            12,644       2,644    21%
+Irvington                  16,486        3,219    20%             7,142       1,812    25%
+James John                 13,110        1,926    15%             6,232       1,185    19%
+Lewis                      19,554        4,015    21%             7,704       2,494    32%
+Maplewood                  18,761        3,214    17%             8,824       2,125    24%
+Marysville                 15,569        2,985    19%             6,223       1,765    28%
+Peninsula                  10,260        1,817    18%             4,474       1,096    24%
+Rose City Park             19,050        3,624    19%             8,429       2,241    27%
+Sabin                      12,111        2,059    17%             5,143       1,229    24%
+Stephenson                 12,047        2,637    22%             4,201       1,435    34%
+Woodmere                    7,821        1,502    19%             3,176         865    27%
+Share of COP             35%          34%                     35%          34%
+Sellwood MS                33,908        6,597                   14,531       4,076
+Share of COP              5%           6%         19%          5%           6%         28%
+Note: These estimates are approximated based on majority of tract within catchment area, These numbers are unlikely to correspond directly
+to the PSU or PPS estimates based on the approximated geographies
+Note: Middle School and Elementary School are have overlapping geographies, do not sum
+
+
+Among the schools being considered for closure, Buckman Elementary stands out with a much
+lower share of the population under 18 (6%) and households with children (6%) compared to
+Portland overall. In contrast, Lewis Elementary and Stephenson Elementary have higher shares
+of households with children, at 32% and 34% respectively.
+
+
+Historic Structures
+All the school structures are potentially eligible for historic protections and national register of
+historic places listing, with the newest building, Stephenson Elementary built in 1965. Irvington
+Elementary is already a contributing structure in a historic district. In 2009 PPS conducted a
+
+
+City of Portland Bureau of Planning and Sustainability: School sites analysis – Preliminary draft                               Page 3 of 35
+Historic Building Assessment that evaluated the potential historic significance of the buildings
+in their portfolio, including an evaluation of historic integrity and association with educational
+and architectural development of Portland and its neighborhoods.
+
+Updating this evaluation for the 14 potential schools to be closed and, where appropriate
+pursuing national register of historic places listing, could provide access to greater regulatory
+flexibility and financial tools like historic tax credits and grants to facilitate reuse. Historic
+listing would also provide some assurances to Portlanders that the elementary schools they
+attended could be retained even if they are used for uses other than a school. This also can
+provide some assurances that the some notable features of the built environment can be
+retained and enlivened with housing and new uses that continue to support surrounding
+neighborhoods.
+
+
+Interim Uses, Commercial, and Housing
+It may be desirable for PPS or some other government entity to retain ownership of the closed
+school sites. Over the long-term demographic trends may shift, birthrates could go up or
+families could migrate to the city. There may be new demand for schools and having the sites,
+or even just the school buildings available for use is a prudent hedge against future needs.
+Interim uses that retain the schools’ structures fulfill this desire and can be lower cost. These
+interim uses include other educational uses, daycares, community centers, senior centers, art
+studios, exhibit spaces, and museums. While these uses present a low barrier to conversion,
+they do not typically generate a lot of revenue and may require subsidies or outright
+ownership and management by a government entity.
+
+Commercial uses present an opportunity to generate more revenue, while preserving the
+structure. Some of these uses can leverage existing facilities like commercial kitchens for
+restaurants, sports and recreational facilities (gymnasiums, locker rooms etc.) for commercial
+gyms, or auditoriums for performance venues. Others may require more extensive conversion
+work with hotels, office suites, business incubators, or workshops presenting a range of
+potential benefits and challenges depending on the school building and use. Commercial uses
+may not make sense on every site and feasibility, and market studies should be conducted to
+determine which sites present the most opportunity. The costs of conversion and the ability to
+easily convert back to school use, if necessary, should also be weighed.
+
+Some of the school structures may be appropriate for conversion to housing. This option has
+the potential to retain the existing structure while contributing to housing supply for the city.
+There are known models for this approach in other cities in the country and in contrast to
+
+City of Portland Bureau of Planning and Sustainability: School sites analysis – Preliminary draft   Page 4 of 35
+commercial uses, which usually require purpose-built space, housing conversion has a more
+formulaic approach. An architect with experience managing such a conversion can evaluate a
+structure and flag potential issues and costs. Conversion to housing does remove potential to
+use the structure for educational purposes in the future.
+
+As stated above, the school sites are relatively large and, in many cases, represent the only
+large site development potential in the neighborhood. Building new housing on a portion of
+the site allows the school structure to remain, in a strong market could provide cross-subsidies
+for less lucrative interim uses in the school structure, keeps the school structure for potential
+school use in the future, and contributes to the city’s housing supply. A balance between
+development and maintaining the open space asset that many of these sites provide would
+need to be struck. In most cases a rezoning would be needed to facilitate development at an
+appropriate density.
+
+
+Seismic
+Given the age of the school structures and the Oregon Building Code requirements for seismic
+upgrades the status of seismic improvements of each of the structures is a factor in their
+viability for reuse. Records indicate that several of the school structures have had seismic
+upgrades, some more comprehensive than others. It is recommended that PPS prioritize reuse
+of those school structures with seismic upgrades, while identifying those structures in need of
+upgrade and creating a plan for financing the upgrades.
+
+
+2035 Comprehensive Plan Urban Design Framework
+Portland's 2035 Comprehensive Plan Urban Design Framework identifies a network of centers,
+civic and neighborhood corridors, and broader neighborhood pattern areas that provide
+context for future growth and development. The sites have the following relationship to
+Comprehensive Plan designations.
+
+•   Pattern Areas: Most sites are within the Inner Neighborhoods. Maplewood and
+    Stephenson elementary schools are within the Western Neighborhoods, while Woodmere
+    Elementary is primarily within the Eastern Neighborhoods, near the Inner Neighborhoods
+    boundary.
+
+•   Designated Centers: Two sites are within or partially within designated centers. James John
+    Elementary is within the St. Johns Town Center, and Creston Elementary is partially within
+    the Powell/Creston Neighborhood Center. Sellwood Middle School is approximately one
+    block from the Sellwood/Moreland Neighborhood Center.
+
+City of Portland Bureau of Planning and Sustainability: School sites analysis – Preliminary draft   Page 5 of 35
+•     Civic and Neighborhood Corridors: Creston Elementary is located along the SE Powell
+      Boulevard Civic Corridor, while James John Elementary is adjacent to the N Lombard Street
+      Civic Corridor. Several other school sites are within ¼ or ½ mile of designated centers and
+      corridors, although most are not directly located within or along them.
+
+Inner Eastside Zoning Project
+The Inner Eastside Zoning Project study area overlaps a portion of the Inner Neighborhoods.
+The project is in its early stages and is exploring potential zoning changes to allow a greater
+diversity of housing types and neighborhood businesses. The Buckman, Creston, Irvington, and
+Rose City Park elementary schools are within the study area. Other sites, including Sabin and
+Marysville elementary schools, are located near the study area boundary. The project creates
+an opportunity to explore zoning options for these sites.
+
+
+Zoning and Land Use
+Of the 14 school sites being considered for closure, 13 are primarily zoned for single-dwelling
+residential uses. Nine sites are zoned Residential 5,000 (R5), two are zoned Residential 2,500
+(R2.5), and one each is zoned Residential 7,000 (R7) and Residential 10,000 (R10). James John
+Elementary School is the exception, with Multi-Dwelling Residential (RM2) and Commercial
+Mixed Use 2 (CM2), medium density zoning. Several sites also have additional zoning
+considerations, Beach Elementary School is within the Albina Community Plan District, James
+John Elementary School is within the St. Johns Plan District, and Irvington Elementary School
+includes an area zoned Open Space (OS) and is a contributing resource in the Irvington Historic
+District. Sabin Elementary School also has an aircraft landing overlay zone.
+
+Potential School Closure Sites by City Council District
+    City Council       School Site                             Existing Zoning               Inner Eastside Project Area
+    District 2         Beach Elementary                        R5                            No
+                       Irvington Elementary                    R5, OS                        Yes
+                       James John Elementary                   RM2, CM2                      No
+                       Peninsula Elementary                    R5                            No
+                       Sabin Elementary                        R5                            Near
+    District 3         Buckman Elementary                      R5                            Yes
+                       Creston Elementary                      R5                            Yes
+                       Lewis Elementary                        R5                            No
+                       Marysville Elementary                   R2.5                          Near
+                       Rose City Park Elementary               R5                            Yes
+
+
+City of Portland Bureau of Planning and Sustainability: School sites analysis – Preliminary draft                  Page 6 of 35
+                       Woodmere Elementary                     R2.5                          No
+ District 4            Maplewood Elementary                    R2.5                          No
+                       Sellwood Middle School                  R5                            No
+                       Stephenson Elementary                   R10                           No
+
+Source: BPS Analysis of Portland Public School (PPS) Potential School Closure Sites 2026
+
+
+
+Mobility and Access
+Transit access also varies across the sites, several are located within approximately ¼ to ½ mile
+of frequent-service transit, including Beach, Buckman, Creston, Irvington, James John, Lewis,
+Marysville, Peninsula, Rose City Park, Sabin, and Woodmere elementary schools and Sellwood
+Middle school. Transit access is more limited at Maplewood and Stephenson elementary
+schools in Southwest Portland, located within the Western Neighborhoods pattern area.
+
+Based on a 1-mile walkshed analysis conducted by Metro, Maplewood Elementary (88%) and
+Stephenson Elementary (74%) have the highest percentages of missing sidewalks, followed by
+Woodmere Elementary (37%) and Lewis Elementary (33%). In contrast, Irvington Elementary
+(2%) and Sabin Elementary (5%) have the lowest percentages of missing sidewalks. Barrier
+streets are defined as streets with more than 2 lanes, a speed limit greater than 35 miles per
+hour or peak PM traffic volume greater than 2,500. Buckman Elementary (23%) and Beach
+Elementary (20%) have the highest percentages of barrier streets in their 1-mile walksheds,
+while Lewis Elementary (0%), Sabin Elementary (2%), and James John Elementary (3%) have the
+lowest.
+
+Legend for maps in profiles below:
+
+Yellow = Single Dwelling Zoning
+Blue = Multi-dwelling Zoning
+Orange/Pink/Red = Commercial/Mixed Use Zoning
+Green = Open Space (or Environmental overlay Zone)
+
+
+
+
+City of Portland Bureau of Planning and Sustainability: School sites analysis – Preliminary draft   Page 7 of 35
+Beach Elementary
+
+
+
+
+Figure 1. Beach Elementary School. Source: Portland Public Schools (PPS).
+
+
+
+LOCATION
+Council District: District 2
+Neighborhood: Overlook
+Address: 1710 N Humbolt St
+Land Area: 5.30 acres
+Building Area: 35,906 sf
+Built: 1928, Historic School
+Comp Plan: Single-Dwelling 5,000
+Zoning: R5
+Albina Community Plan District –
+Generally, allows residential uses
+like detached houses, rowhouses,
+duplexes, triplexes, fourplexes,
+cottage clusters, and accessory
+dwelling units (ADU)
+                                                      Figure 2. Map of current zoning of site (teal boundary) in an R5z zone with
+                                                      environmental overlay zones. As well as zoning for adjacent areas (OS, RM1.
+                                                      CM3).
+
+
+
+
+City of Portland Bureau of Planning and Sustainability: School sites analysis – Preliminary draft                       Page 8 of 35
+Context
+The area within a half mile is primarily
+developed with single-family houses; some
+scattered plexes and condos.
+Pattern Area: Inner Neighborhoods
+Centers and Corridors: Within ¼ mile of the
+Killingsworth/Interstate Neighborhood Center
+and within ½ mile of the Fremont/Williams
+Neighborhood Center.
+The Interstate Avenue Civic Corridor and N
+Killingsworth Street Neighborhood Corridor are
+nearby and are characterized by a mix of uses
+including multi-family housing and retail.
+Transit: About a quarter mile walk to the MAX
+station (N Prescott St); N Going St transit street;
+                                                                  Figure 3. Map of Frequent Service Bus Lines within ¼ of a Mile.
+A little over a quarter mile to frequent bus
+                                                                  Site boundary is shown in teal rectangle, and the blue transparent
+service (72 bus line) on N Killingsworth Street; N                shaded areas are within a quarter mile of a frequent service bus line
+Concord Ave city bikeway; neighborhood                            (solid light blue and darker blue lines).
+
+walkways on N Humboldt St and N Concord Ave.
+Parks: Near Beach Community Garden
+Reuse potential: Housing, community services, daycare, park
+Rezone candidate: Given the proximity to transit a medium-density multi-dwelling or commercial
+mixed-use zone allowing buildings up to 6 to 7 stories may be appropriate.
+
+Catchment Area Demographics
+Households: 9,689
+Households with children: 1,852 (19%)
+Population under 18: 3,042 (15% of total)
+
+
+
+
+City of Portland Bureau of Planning and Sustainability: School sites analysis – Preliminary draft                         Page 9 of 35
+Buckman Elementary
+
+
+
+
+Figure 4. Buckman Elementary School. Source: Portland Public Schools (PPS).
+
+
+
+LOCATION
+Council District: District 3
+Neighborhood: Buckman
+Address: 320 SE 16th Ave
+Land Area: 4.86 acres
+Building Area: 63,916 sf
+Built: 1922, Historic School
+Comp Plan: Single-Dwelling 5,000
+Zoning: R5
+Generally, allows residential uses
+like detached houses, rowhouses,
+duplexes, triplexes, fourplexes,
+cottage clusters, and accessory
+dwelling units (ADU)
+
+
+
+
+                                                      Figure 5. Map of current zoning of site (teal boundary line) in an R5 zone. As well
+                                                      as zoning for adjacent areas (R2.5-orange; RM2 – teal; CM1d- pink; RM4-dark
+                                                      blue).
+
+
+
+City of Portland Bureau of Planning and Sustainability: School sites analysis – Preliminary draft                        Page 10 of 35
+Context
+The area within a half mile of the site is
+characterized by a mix of housing types like
+detached houses, plexes, apartments, commercial-
+mixed uses on Stark Street, near Revolution Hall
+(former Washington High School).
+Pattern Area: Inner Neighborhoods
+Centers and Corridors: Within ¼ mile of the Kerns
+Neighborhood Center and the Burnside/Stark and
+Belmont Neighborhood Corridors.
+Transit: Less than a quarter mile from frequent bus
+service on E. Burnside Street (the 20 bus line) and
+SE Morrison Street (the 15 bus line). City
+designated bikeway on SE 16th Ave (a north-south
+                                                                      Figure 6. Map of Frequent Service Bus Lines within ¼ of a Mile.
+connection); neighborhood walkways on SE Pine St                      Site boundary is shown in (teal rectangle) and the blue
+and SE 16th Ave; city walkway on SE Stark St.                         transparent shaded areas are within a quarter mile of a frequent
+                                                                      service bus line (solid light blue and darker blue lines).Site
+Parks: Buckman Community Garden onsite; near                          boundary is shown in teal rectangle and the blue transparent
+Pioneer Cemetery and Washington High School                           shaded areas are within a quarter mile of a frequent service bus
+                                                                      line (solid light blue and darker blue lines).
+green space
+Reuse potential: Housing, community services (community center), daycare, park. Adaptive reuse for
+neighborhood-serving businesses, ground-floor retail, or maker spaces. Park or open space uses. This
+site is a good candidate for onsite new housing development.
+Rezone candidate: Within the Inner Eastside Zoning Project study area, the surrounding area is likely to
+be rezoned to higher density multi-dwelling. This site may be appropriate for a mid- to high-density
+multi-dwelling zone 7 to ten stories.
+
+Catchment Area Demographics
+Households: 9,689
+Households with children: 1,852 (19%)
+Population under 18: 1,839 (63,042 (15% of total)
+
+
+
+
+City of Portland Bureau of Planning and Sustainability: School sites analysis – Preliminary draft                       Page 11 of 35
+Creston Elementary
+
+
+
+
+Figure 7. Creston Elementary School. Source: Portland Public Schools (PPS).
+
+
+
+LOCATION
+Council District: District 3
+Neighborhood: Creston-Kenilworth
+Address: 4701 SE Bush St
+Land Area: 8.09 acres
+Building Area: 70,765 sf
+Built: 1948, Historic School
+Comp Plan: Single-Dwelling 5,000
+Zoning: R5
+Generally, allows residential uses
+like detached houses, rowhouses,
+duplexes, triplexes, fourplexes,
+cottage clusters, and accessory
+dwelling units (ADU)
+
+
+                                                      Figure 8 Current zoning map with environmental overlay zones
+
+
+
+
+City of Portland Bureau of Planning and Sustainability: School sites analysis – Preliminary draft                    Page 12 of 35
+Context
+The area within a half mile is primarily developed
+with detached houses, an adjacent neighborhood
+park, some plexes and apartments nearby.
+Pattern Area: Inner Neighborhoods
+Centers and Corridors: Partially within the
+Powell/Creston neighborhood center; the SE
+Powell Blvd and Foster Rd civic corridors, SE 50th
+Ave neighborhood corridor are nearby.
+Transit: A bus stop is immediately adjacent SE
+Powell Blvd (the 9 bus line); within a quarter mile
+of frequent bus service on SE. Foster Road (the 71
+bus); city bikeways on SE Francis St and Powell
+Blvd; pedestrian district along Powell/Creston;
+major city walkway on SE Powell Blvd;
+neighborhood walkway on SE Francis St.                              Figure 9. Map of Frequent Service Bus Lines within ¼ of a Mile.
+                                                                    Site boundary is shown in (teal rectangle) and the blue transparent
+Parks: Abuts Creston Park                                           shaded areas are within a quarter mile of a frequent service bus line
+Reuse potential: Housing, community services,                       (solid light blue and darker blue lines).
+daycare, park, commercial near Powell. This site
+is a good candidate for developing new housing or commercial uses on undeveloped portions of the
+site.
+Rezone candidate: Adjacent to CM2 to north, RM1 nearby. This site is in the Inner Eastside Zoning
+Project study area, strategic zoning changes to increase housing options and support commercial uses
+in the area are likely. Given this site’s proximity to transit, major corridors, and location in a designated
+center, higher density multi-dwelling and commercial mixed-use zones should be considered, allowing
+7 or up to ten story buildings. A nuanced approach where commercial uses are concentrated along SE
+Powel Boulevard with multi-dwelling residential overlooking the park on the southern part of the lot
+may be appropriate.
+
+Catchment Area Demographics
+Households: 12,644
+Households with children: 2,644 (21%)
+Population under 18: 3,822 (14% of total)
+
+
+
+
+City of Portland Bureau of Planning and Sustainability: School sites analysis – Preliminary draft                        Page 13 of 35
+Irvington Elementary
+
+
+
+
+Figure 10. Irvington Elementary School. Source: Portland Public Schools (PPS)
+
+
+
+ LOCATION
+ Council District: District 2
+ Neighborhood: Irvington
+ Address: 1320 NE Brazee St
+ Land Area: 4.12 acres
+ Building Area: 68,616 sf
+ Built: 1932, Historic School
+ Comp Plan: Single-Dwelling 5,000,
+ Open Space
+ Zoning: R5 & OS
+ OS – R5 generally allows residential
+ uses like detached houses,
+ rowhouses, duplexes, triplexes,
+ fourplexes, cottage clusters, and
+ accessory dwelling units (ADU). OS
+ primarily allows parks and open
+ spaces.
+                                                         Figure 11. Map of current zoning of site (teal boundary) in an R5 and OS zone.
+ Contributing historic resource in
+                                                         As well as zoning for adjacent areas.
+ Irvington Historic District.
+
+
+
+
+City of Portland Bureau of Planning and Sustainability: School sites analysis – Preliminary draft                       Page 14 of 35
+Context
+The area within a half mile of the site is primarily
+developed with detached houses with some plexes
+and attached housing. There are multi-family
+apartment buildings to the south. PPS owns the OS
+zoned area.
+Pattern Area: Inner Neighborhoods
+Centers and Corridors: Near the NE
+Broadway/Weidler corridor to the south. No
+designated center.
+Transit: Near frequent transit along NE 15th Ave, city
+bikeways on NE 14th and 15th avenues, major city
+walkway on NE 15th Ave, neighborhood walkways on
+NE Brazee and NE Thompson streets.
+Parks: Irvington Park is to the northwest - further than a quarter mile from the site.
+Reuse potential: Housing, community services, daycare, park. The southeastern portion of the site is a
+potential candidate for stand-alone housing development.
+Rezone candidate: This site is in the Inner Eastside Zoning Project study area. This site may be
+appropriate for a mid-density multi-dwelling zone, allowing 4 to 7 stories. The portion of the lot zoned
+OS would need to be changed to unlock the development potential. Development would be subject to
+Historic Review.
+
+Catchment Area Demographics
+Households: 7,142
+Households with children: 1,812 (25%)
+Population under 18: 3,219 (20% of total)
+
+
+
+
+City of Portland Bureau of Planning and Sustainability: School sites analysis – Preliminary draft   Page 15 of 35
+ James John Elementary
+
+
+
+
+Figure 12. James John Elementary School. Source: Portland Public Schools (PPS).
+
+
+
+
+  LOCATION
+  Council District: District 2
+  Neighborhood: St. Johns
+  Address: 7439 N Charleston Ave
+  Land Area: 3.28 acres
+  Building Area: 58,921 sf
+  Built: 1929, Historic School
+  Comp Plan: Mixed Use - Urban
+  Center, Multi-Dwelling - Corridor
+  Zoning: RM2d, CM2dm
+  St. Johns Plan District
+  RM2d generally allows 3-4 story
+  multi-dwelling, plexes, and
+  rowhouse residential uses. CM2dm
+  generally allows mixed retail, office,
+  and residential uses. St. Johns Plan
+  District.                                              Figure 13. Map of current zoning of site (teal boundary). As well as zoning for
+                                                         adjacent areas.
+
+
+
+
+ City of Portland Bureau of Planning and Sustainability: School sites analysis – Preliminary draft                        Page 16 of 35
+Context
+Within the St. Johns Town Center and along the
+Lombard civic corridor. Wide mix of uses within a
+half mile, including housing, retail, commercial and
+community uses.
+
+
+Pattern Area: Inner Neighborhoods
+Centers and Corridors: Within the St. Johns Town
+Center and adjacent to the N Lombard Street Civic
+Corridor.
+Transit: Near frequent service transit along N
+Lombard St and multiple transit streets; major city
+bikeway on N Lombard St; city bikeway on N
+Charleston Ave; in pedestrian district; major city                     Figure 14. Map of Frequent Service Bus Lines within ¼ of a Mile.
+                                                                       Site boundary is shown in (teal rectangle) and the blue transparent
+walkway on N Lombard St; pedestrian walkway on                         shaded areas are within a quarter mile of a frequent service bus
+N John Ave                                                             line (solid light blue and darker blue lines).
+
+Parks: St Johns Park and St Johns Racquet Center
+Reuse potential: Housing, community services, daycare, park, retail, office. This site is a candidate for
+stand-alone housing development.
+Rezone candidate: The current zoning of the site would allow development up to 5 stories, with
+commercial uses allowed on the southern extension of the site. Discrete zone changes may be
+appropriate. First, to facilitate commercial uses in the school structure, extending the Commercial
+Mixed-Use Zone to cover the northern part of the site and second, applying mid-density multi-dwelling
+or commercial mixed-use zones to the paved western portion of the site to allow up to 7 story buildings
+may be appropriate and could increase the feasibility of new development. Given the proximity to
+transit and location in a designated town center, higher density zones overall may be appropriate.
+
+Catchment Area Demographics
+Households: 6,232
+Households with children: 1,852 (19%)
+Population under 18: 1,926 (15% of total)
+
+
+
+
+City of Portland Bureau of Planning and Sustainability: School sites analysis – Preliminary draft                        Page 17 of 35
+Lewis Elementary
+
+
+
+
+Figure 16. Lewis Elementary School. Source: Portland Public Schools (PPS).
+
+
+
+ LOCATION
+ Council District: District 3
+ Neighborhood: Woodstock
+ Address: 4401 SE Evergreen St
+ Land Area: 5.45 acres
+ Building Area: 47,003 sf
+ Built: 1953
+ Comp Plan: Single-Dwelling 5,000
+ Zoning: R5
+ Generally allows residential uses
+ like detached houses, rowhouses,
+ duplexes, triplexes, fourplexes,
+ cottage clusters, and accessory
+ dwelling units (ADU)
+
+
+
+
+                                                          Figure 15. Map of current zoning of site (teal boundary). As well as zoning for
+                                                          adjacent areas.
+
+
+City of Portland Bureau of Planning and Sustainability: School sites analysis – Preliminary draft                         Page 18 of 35
+Context
+The area within a half mile is primarily developed with
+houses with some scattered plexes and condos.
+Pattern Area: Inner Neighborhoods
+Centers and Corridors: Within ½ mile of the
+Woodstock Neighborhood Center, with the SE
+Woodstock Boulevard Neighborhood Corridor
+nearby.
+Transit: Near frequent service transit, the 75 bus,
+along SE 45th Ave; major city bikeway on SE 42nd
+Ave; city bikeways on SE Glenwood St and SE 45th
+Ave; major city walkway on SE 45th Ave;
+neighborhood walkways on SE 45th Ave and SE
+Evergreen St.
+                                                                          Figure 17. Map of Frequent Service Bus Lines within ¼ of a
+Parks: Berkeley Park nearby.                                              Mile. Site boundary is shown in (teal rectangle) and the blue
+Reuse potential: Housing, community services,                             transparent shaded areas are within a quarter mile of a
+                                                                          frequent service bus line (solid light blue and darker blue lines).
+daycare, park, neighborhood retail. This site is a
+potential candidate for stand-alone housing or mixed-
+use development.
+Rezone candidate: Given the proximity to transit this site may be appropriate for multi-dwelling or
+commercial mixed-use zones that allow up to 5 to 7 stories. Neighborhood serving retail may also be
+desired.
+
+Catchment Area Demographics
+Households: 7,704
+Households with children: 2,494 (32%)
+Population under 18: 4,015 (21% of total)
+
+
+
+
+City of Portland Bureau of Planning and Sustainability: School sites analysis – Preliminary draft                          Page 19 of 35
+Maplewood Elementary
+
+
+
+
+Figure 19. Maplewood Elementary School. Source: Portland Public Schools (PPS)
+
+
+
+
+ LOCATION
+ Council District: District 4
+ Neighborhood: Maplewood
+ Address: 7452 SW 52nd Ave
+ Land Area: 4.30 acres
+ Building Area: 29,155 sf
+ Built: 1949
+ Comp Plan: Single-Dwelling 7,000
+ Zoning: R7
+ Generally allows residential uses
+ like detached houses, rowhouses,
+ duplexes, triplexes, fourplexes,                       Figure 20. Map of current zoning of site (teal boundary). As well as zoning for
+                                                        adjacent areas.
+ cottage clusters, and accessory
+ dwelling units (ADU)
+
+
+
+
+City of Portland Bureau of Planning and Sustainability: School sites analysis – Preliminary draft                        Page 20 of 35
+Context
+The area within a half mile is primarily developed
+with houses with some scattered plexes and condos.
+Pattern Area: Western Neighborhoods
+Centers and Corridors: Within ½ mile of the
+Multnomah Village Neighborhood Center.
+Transit: Transit is further than a quarter of a mile
+from the site, City bikeway and neighborhood
+walkway on SW 52nd Ave.
+Parks: April Hill and Gabriel Parks nearby.
+Reuse potential: Housing, community services,
+daycare, park, neighborhood retail.
+Rezone candidate: Given the dearth of transit and
+potential for stormwater infrastructure issues in the area mid-density zoning is not recommended.
+Zones that allow neighborhood serving retail or perhaps a lower density multi-dwelling zone, that
+allows up to 3 stories may be appropriate.
+
+Catchment Area Demographics
+Households: 8,824
+Households with children: 2,125 (24%)
+Population under 18: 3,214 (17% of total)
+
+
+
+
+City of Portland Bureau of Planning and Sustainability: School sites analysis – Preliminary draft   Page 21 of 35
+Marysville Elementary
+
+
+
+
+Figure 22. Marysville Elementary School. Source: Portland Public Schools (PPS).
+
+
+
+ LOCATION
+ Council District: District 3
+ Neighborhood: Foster-Powell
+ Address: 7733 SE Raymond St
+ Land Area: 5.12 acres
+ Building Area: 53,490 sf
+ Built: 1921, Historic School
+ Comp Plan: Single-Dwelling 2,500
+ Zoning: R.25
+ Generally allows residential uses
+ like detached houses, rowhouses,
+ duplexes, triplexes, fourplexes,
+ cottage clusters, and accessory
+ dwelling units (ADU)
+                                                        Figure 18. Map of current zoning of site (teal boundary). As well as zoning for
+                                                        adjacent areas.
+
+
+
+
+City of Portland Bureau of Planning and Sustainability: School sites analysis – Preliminary draft                        Page 22 of 35
+Context
+The area within a half mile is primarily developed
+with single-family houses; some scattered plexes
+and condos SE 82nd Avenue and SE Foster Road
+are major commercial corridors with a
+concentration of goods and services.
+Pattern Area: Inner Neighborhoods
+Centers and Corridors: Within ½ mile of the
+Heart of Foster Neighborhood Center and Lents
+Town Center, with the SE Foster Road and SE 82nd
+Avenue Civic Corridors nearby.
+Transit: The site is surrounded by frequent service
+transit all just over a quarter mile away. The 17 bus
+runs on SE Holgate Boulevard to the north, the 14
+                                                                     Figure 19. Map of Frequent Service Bus Lines within ¼ of a Mile.
+bus runs on SE Foster Road to the south and the                      Site boundary is shown in (teal rectangle) and the blue
+72 bus runs along SE 82nd Avenue to the east.                        transparent shaded areas are within a quarter mile of a frequent
+                                                                     service bus line (solid light blue and darker blue lines).
+TriMet and PBOT are developing the 72 bus into
+the city’s second FX bus service. City bikeways and neighborhood walkways on SE Raymond St, 77th,
+78th, and 79th Aves.
+Parks: Multnomah Park cemetery nearby.
+Reuse potential: Housing, community services, daycare, or park. The feasibility of a stand-alone
+housing development on the site should be further explored. The wester portion of the site has the
+best access and street frontage for multi-family development.
+Rezone candidate: Given the proximity to multiple bus lines a multi-dwelling zone that allows up to 7
+stories may be appropriate.
+
+Catchment Area Demographics
+Households: 6,223
+Households with children: 1,765 (28%)
+Population under 18: 2,985 (19% of total)
+
+
+
+
+City of Portland Bureau of Planning and Sustainability: School sites analysis – Preliminary draft                       Page 23 of 35
+Peninsula Elementary
+
+
+
+
+Figure 20. Peninsula Elementary School. Source: Portland Public Schools (PPS).
+
+
+
+
+ LOCATION
+ Council District: District 2
+ Neighborhood: Kenton
+ Address: 8125 N Emerald Ave
+ Land Area: 6.73 acres
+ Building Area: 63,935 sf
+ Built: 1954, Historic School
+ Comp Plan: Single-Dwelling 5,000
+ Zoning: R5
+ Generally allows residential uses
+ like detached houses, rowhouses,
+ duplexes, triplexes, fourplexes,                       Figure 21. Map of current zoning of site (teal boundary). As well as zoning for
+ cottage clusters, and accessory                        adjacent areas.
+ dwelling units (ADU)
+
+
+
+
+City of Portland Bureau of Planning and Sustainability: School sites analysis – Preliminary draft                        Page 24 of 35
+Context
+The area within a half mile is primarily developed with
+single-family houses..
+Pattern Area: Inner Neighborhoods
+Centers and Corridors: Within ½ mile of the
+Kenton/Lombard Neighborhood Center. N Lombard
+Street corridor is nearby.
+Transit: Frequent service transit on three sides;
+Lombard corridor to south. Major city bikeway on N
+Halleck St; city bikeways on N Wabash Ave, N Terry
+St, and N Peninsular Ave; neighborhood walkways on
+N Halleck St, N Wabash Ave, and N Emerald Ave.
+Parks: Columbia Park and University Park in the area.
+                                                                         Figure 22 Map of Frequent Service Bus Lines within ¼ of a Mile.
+Reuse potential: Housing, community services,                            Site boundary is shown in (teal rectangle) and the blue
+daycare, park. Consider neighborhood retail potential.                   transparent shaded areas are within a quarter mile of a
+                                                                         frequent service bus line (solid light blue and darker blue lines).
+The site has limited unoccupied frontage, so stand-
+alone development may be difficult.
+Rezone candidate: A zone change to allow neighborhood serving retail would allow more flexibility in
+the reuse of the school structure.
+
+Catchment Area Demographics
+Households: 8,429
+Households with children: 2,241 (27%)
+Population under 18: 3,624 (19% of total)
+
+
+
+
+City of Portland Bureau of Planning and Sustainability: School sites analysis – Preliminary draft                          Page 25 of 35
+Rose City Park Elementary
+
+
+
+
+Figure 23. Rose City Park Elementary School. Source: Portland Public Schools (PPS)
+
+
+
+ LOCATION
+ Council District: District 3
+ Neighborhood: Rose City Park
+ Address: 2334 NE 57th Ave
+ Land Area: 3.70 acres
+ Building Area: 53,937 sf
+ Built: 1912, Historic School
+ Comp Plan: Single-Dwelling 5,000
+ Zoning: R5
+ Generally allows residential uses
+ like detached houses, rowhouses,
+ duplexes, triplexes, fourplexes,
+ cottage clusters, and accessory
+ dwelling units (ADU)
+
+
+                                                        Figure 24 Map of current zoning of site (teal boundary). As well as zoning for
+                                                        adjacent areas.
+
+
+
+
+City of Portland Bureau of Planning and Sustainability: School sites analysis – Preliminary draft                        Page 26 of 35
+Context
+The area within a half mile is primarily developed
+with houses; some scattered plexes and condos.
+Sandy Boulevard is characterized by commercial
+and retail uses with some multi-family and mixed-
+use apartment buildings.
+Pattern Area: Inner Neighborhoods
+Centers and Corridors: Within ¼ mile of the NE
+Sandy Boulevard Civic Corridor. Nearby designated
+centers include Roseway, Hollywood, and NE
+60th/North Tabor; confirm exact center distances.
+Transit: Frequent service transit, the 71 bus, on NE
+57th Ave, the 12 bus on NE Sandy Blvd and the 71
+and 77 buses on NE Halsey St. Major city bikeway
+and city walkway on NE 57th Ave; city bikeway and neighborhood walkway on NE Sacramento St.
+Parks: Rose City Park and golf course nearby.
+Reuse potential: Housing, community services, daycare, or park. The eastern portion of the site is a
+potential candidate for stand-alone housing or mixed-use development. The proximity to Rose City
+Park means the area is well served by open space.
+Rezone candidate: The site is in the Inner Eastside Zoning Project Study area. A mid-density multi-
+dwelling or commercial mixed-use zone allowing buildings up to 7 stories may be appropriate.
+
+Catchment Area Demographics
+Households: 8,429
+Households with children: 2,241 (27%)
+Population under 18: 3,624 (19% of total)
+
+
+
+
+City of Portland Bureau of Planning and Sustainability: School sites analysis – Preliminary draft   Page 27 of 35
+Sabin Elementary
+
+
+
+
+Figure 26. Sabin Elementary School. Source: Portland Public Schools (PPS)
+
+
+
+ LOCATION
+ Council District: District 2
+ Neighborhood: Sabin
+ Address: 4013 NE 18th Ave
+ Land Area: 3.59 acres
+ Building Area: 51,423 sf
+ Built: 1927, non-contributing
+ Historic School
+ Comp Plan: Single-Dwelling 5,000
+ Zoning: R5h
+ ‘h’ aircraft landing overlay zone.
+ Generally allows residential uses
+ like detached houses, rowhouses,
+ duplexes, triplexes, fourplexes,
+ cottage clusters, and accessory
+ dwelling units (ADU).
+
+                                                        Figure 25. Map of current zoning of site (teal boundary). As well as zoning for
+                                                        adjacent areas.
+
+
+
+City of Portland Bureau of Planning and Sustainability: School sites analysis – Preliminary draft                        Page 28 of 35
+Context
+The area within a half mile is primarily
+developed with single-family houses with some
+scattered plexes and condos. N Fremont Street
+has retail clusters around NE 15th Avenue and
+NE 24th Avenue.
+Pattern Area: Inner Neighborhoods
+Centers and Corridors: Near the Alberta/MLK
+Neighborhood Center and the NE Fremont
+Street corridor; the center appears to be
+outside the ½-mile buffer.
+Transit: Frequent service transit on NE 15th
+Ave (the 8 bus) and NE Fremont Street (the 24
+                                                                 Figure 27. Map of Frequent Service Bus Lines within ¼ of a Mile.
+bus). Major city bikeway on NE Mason St; city                    Site boundary is shown in (teal rectangle) and the blue transparent
+bikeway on NE Failing St. Pedestrian walkways                    shaded areas are within a quarter mile of a frequent service bus line
+                                                                 (solid light blue and darker blue lines).
+on NE Mason St, NE 17th Ave, NE Failing St,
+and NE 18th Ave.
+Parks: Sabin Hydropark and community garden and Irving Park nearby.
+Reuse potential: Housing, community services, daycare, park. Consider neighborhood retail. There is
+limited potential for stand-alone development on the site. The northern portion of the site has a
+community garden, and the southern portion of the site has a play field. Either one may be a potential
+development site. The need for open space in this neighborhood may be a factor in redevelopment.
+Rezone candidate: A mid-density multi-dwelling or commercial mixed-use zone allowing up to seven
+stories may be appropriate.
+
+Catchment Area Demographics
+Households: 5,143
+Households with children: 1,229 (24%)
+Population under 18: (17% of total)
+
+
+
+
+City of Portland Bureau of Planning and Sustainability: School sites analysis – Preliminary draft                        Page 29 of 35
+Sellwood Middle
+
+
+
+
+ Figure 28. Sellwood-Moreland Elementary School. Source: Portland Public Schools (PPS)
+
+
+
+
+ LOCATION
+ Council District: District 4
+ Neighborhood: Sellwood-Moreland
+ Address: 8300 SE 15th Ave
+ Land Area: 4.75 acres
+ Building Area: 67,269 sf
+ Built: 1913, Historic non-
+ contributing school
+ Comp Plan: Single-Dwelling 5,000
+ Zoning: R5
+ Generally allows residential uses
+ like detached houses, rowhouses,
+ duplexes, triplexes, fourplexes,
+ cottage clusters, and accessory
+ dwelling units (ADU)                                   Figure 29. Map of current zoning of site (teal boundary). As well as zoning for
+                                                        adjacent areas.
+
+
+
+
+City of Portland Bureau of Planning and Sustainability: School sites analysis – Preliminary draft                        Page 30 of 35
+Context
+The area within a half mile is characterized by a
+variety of uses with single-family houses, ‘plexes, on
+the side streets and multi-dwelling and mixed-use
+and commercial on the main corridors.
+Pattern Area: Inner Neighborhoods
+Centers and Corridors: Not in, but approximately
+one block from the Sellwood/Moreland
+Neighborhood Center, between the SE 13th Avenue
+and SE Milwaukie/17th Avenue Neighborhood
+Corridors.
+                                                                         Figure 30. Map of Frequent Service Bus Lines within ¼ of a Mile.
+Transit: Frequent service transit on SE 17th Ave (the
+70 bus). Transit streets on SE Tacoma St, SE 13th Ave, and SE Linn St nearby. Major city bikeway on SE
+Umatilla St; city bikeway on SE 15th Ave. Neighborhood walkways on SE 15th Ave and SE Umatilla St.
+Parks: Sellwood Community Center, Sellwood Community Garden, and Springwater Corridor.
+Reuse potential: Housing, community services, daycare, or park. The site has potential for a stand-
+alone development. Specifically, the parking lot at the southwest portion of the site could be
+redeveloped while still maintaining the playfields on the southeast portion of the site.
+Rezone candidate: Given the proximity to transit and a designated center a mid-density multi-dwelling
+zone that allows up to 7 stories may be appropriate.
+
+Catchment Area Demographics
+Households: 14,531
+Households with children: 4,076 (28%)
+Population under 18: 6,597 (19% of total)
+
+
+
+
+City of Portland Bureau of Planning and Sustainability: School sites analysis – Preliminary draft                       Page 31 of 35
+Stephenson Elementary
+
+
+
+
+Figure 32. Stephenson Elementary School. Source: Portland Public Schools (PPS).
+
+
+ LOCATION
+ Council District: District 4
+ Neighborhood: Arnold Creek
+ Address: 2627 SW Stephenson St
+ Land Area: 8.80 acres
+ Building Area: 28,206 sf
+ Built: 1965
+ Comp Plan: Single-Dwelling 10,000
+ Zoning: R10
+ Generally allows residential uses
+ like detached houses, rowhouses,
+ duplexes, triplexes, fourplexes,
+ cottage clusters, and accessory
+ dwelling units (ADU)
+
+                                                        Figure 31. Map of current zoning of site (teal boundary). As well as zoning for
+                                                        adjacent areas.
+
+
+
+
+City of Portland Bureau of Planning and Sustainability: School sites analysis – Preliminary draft                        Page 32 of 35
+Context
+The area within a half mile is primarily developed
+with single-family houses with some scattered
+plexes and condos. Environmentally sensitive areas
+with streams and wetlands are to the north of the
+site
+Pattern Area: Western Neighborhoods
+Centers and Corridors: No designated center
+identified within ½ mile of the school.
+Transit: The limited service 45 bus has a stop
+immediately in front of the school on SW
+Stephenson Street. SW Boones Ferry Rd is nearest
+transit street. City bikeways on SW 27th Ave and
+SW Stephenson St. City walkway on SW Stephenson
+St and neighborhood walkway on SW 27th Ave.
+Parks: No nearby parks and no Open Space (OS)                         Figure 33. Map of Frequent Service Bus Lines within ¼ of a Mile.
+                                                                      Site boundary is shown in (teal rectangle) and the blue transparent
+zoning within ¼ mile of the site.                                     shaded areas are within a quarter mile of a frequent service bus
+Reuse potential: Housing, community services,                         line (solid light blue and darker blue lines).
+
+daycare, park. The site has limited street frontage
+and possible stormwater and sewer infrastructure
+issues making it a poor candidate for stand-alone
+development.
+Rezone candidate: Given the dearth of transit and possible infrastructure issues, the site is not
+appropriate for mid-density zones. A possible rezoning to allow for neighborhood serving retail may
+be considered.
+
+Catchment Area Demographics
+Households: 4,201
+Households with children: 1,435 (34%)
+Population under 18: 2,637 (22% of total)
+
+
+
+
+City of Portland Bureau of Planning and Sustainability: School sites analysis – Preliminary draft                       Page 33 of 35
+Woodmere Elementary
+
+
+
+
+Figure 35. Woodmere Elementary School. Source: Portland Public Schools (PPS)
+
+
+
+ LOCATION
+ Council District: District 3
+ Neighborhood: Brentwood-
+ Darlington
+ Address: 7900 SE Duke St
+ Land Area: 5.53
+ Building Area: 55,324 sf
+ Built: 1954
+ Comp Plan: Single-Dwelling 2,500
+ Zoning: R2.5
+ Generally allows residential uses
+ like detached houses, rowhouses,
+ duplexes, triplexes, fourplexes,
+ cottage clusters, and accessory
+ dwelling units (ADU)                                  Figure 34. Map of current zoning of site (teal boundary). As well as zoning for
+                                                       adjacent areas.
+
+
+
+
+City of Portland Bureau of Planning and Sustainability: School sites analysis – Preliminary draft                        Page 34 of 35
+Context
+The area within a half mile is primarily developed
+with single-family houses; some scattered plexes and
+condos. 82nd Avenue civic corridor and Woodstock
+Blvd neighborhood corridor nearby. Some
+multifamily residential on SE 72nd Ave.
+Pattern Area: Eastern Neighborhoods, adjacent to
+the Inner Neighborhoods boundary
+Centers and Corridors: Within a half mile of Lents
+Town Center, with the SE 82nd Avenue Civic Corridor
+                                                                        Figure 36. Map of Frequent Service Bus Lines within ¼ of a Mile.
+and SE Woodstock Boulevard Neighborhood                                 Site boundary is shown in (teal rectangle) and the blue transparent
+Corridor nearby.                                                        shaded areas are within a quarter mile of a frequent service bus
+                                                                        line (solid light blue and darker blue lines).
+Transit: Close to frequent service transit on SE 82nd
+Ave (the 72 bus) and SE Duke Street (the 10 bus).
+TriMet and PBOT are developing the 72 bus into the city’s second FX bus service. City bikeways on SE
+Duke St, SE Cooper St, SE 78th and 80th Aves. City walkway on SE Duke St. Neighborhood walkways on
+SE 78th and 80th Aves and SE Cooper St.
+Parks: No nearby parks.
+Reuse potential: Housing, community services, daycare, or park. The paved area fronting on SE 80th
+Avenue is a potential site for stand-alone development.
+Rezone candidate: Given the site’s proximity to transit a mid-density multi-dwelling zone that allows
+up to 7 stories may be appropriate.
+
+Catchment Area Demographics
+Households: 3,176
+Households with children: 865 (27%)
+Population under 18: 1,502 (19% of total)
+
+
+
+
+City of Portland Bureau of Planning and Sustainability: School sites analysis – Preliminary draft                       Page 35 of 35
+

@@ -5,9 +5,9 @@
   "final_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=776248",
   "status": 200,
   "content_type": "text/html",
-  "bytes": 43394,
+  "bytes": 43428,
   "error": "",
-  "fetched_at": "2026-11-09T01:38:40Z",
+  "fetched_at": "2026-11-16T17:24:54Z",
   "title": "agenda"
  },
  {
@@ -18,7 +18,7 @@
   "content_type": "text/html",
   "bytes": 32923,
   "error": "",
-  "fetched_at": "2026-11-09T01:38:41Z",
+  "fetched_at": "2026-11-16T17:24:55Z",
   "title": "public_notice"
  },
  {
@@ -29,31 +29,31 @@
   "content_type": "application/pdf",
   "bytes": 207607,
   "error": "",
-  "fetched_at": "2026-11-09T01:38:43Z",
+  "fetched_at": "2026-11-16T17:24:56Z",
   "title": "public_notice pdf"
  },
  {
-  "path": "boardbook/meetings/2026-11-10_776248_teaching-learning-and-enrollment-committee-meeting/attachments/14654773_TLE_Presentation--Special_Education.pdf",
-  "url": "/Documents/DownloadPDF/14654773?org=915",
-  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14654773?org=915",
+  "path": "boardbook/meetings/2026-11-10_776248_teaching-learning-and-enrollment-committee-meeting/attachments/14663333_TLE_Presentation--Special_Education_v.3.pdf",
+  "url": "/Documents/DownloadPDF/14663333?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14663333?org=915",
   "status": 200,
   "content_type": "application/pdf",
-  "bytes": 893746,
+  "bytes": 896639,
   "error": "",
-  "fetched_at": "2026-11-09T01:38:44Z",
-  "title": "TLE Presentation--Special Education",
+  "fetched_at": "2026-11-16T17:24:57Z",
+  "title": "TLE Presentation--Special Education v.3",
   "found_on": "3. Rightsizing: Special Education"
  },
  {
-  "path": "boardbook/meetings/2026-11-10_776248_teaching-learning-and-enrollment-committee-meeting/attachments/14654774_TLE_Presentation_PPS_DLI_Programs.pdf",
-  "url": "/Documents/DownloadPDF/14654774?org=915",
-  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14654774?org=915",
+  "path": "boardbook/meetings/2026-11-10_776248_teaching-learning-and-enrollment-committee-meeting/attachments/14671905_Follow_Up_Board_TLE_Committee_PPS_DLI_Programs_26-11-10_v.3.pptx.pdf",
+  "url": "/Documents/DownloadPDF/14671905?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14671905?org=915",
   "status": 200,
   "content_type": "application/pdf",
-  "bytes": 2314479,
+  "bytes": 1522712,
   "error": "",
-  "fetched_at": "2026-11-09T01:38:45Z",
-  "title": "TLE Presentation_PPS_DLI Programs",
+  "fetched_at": "2026-11-16T17:24:59Z",
+  "title": "Follow Up_Board_TLE_Committee_PPS_DLI Programs 26-11-10 v.3.pptx",
   "found_on": "4. Rightsizing: Dual Language Immersion"
  }
 ]

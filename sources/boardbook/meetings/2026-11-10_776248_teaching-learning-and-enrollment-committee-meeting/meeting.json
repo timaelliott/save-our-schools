@@ -6,7 +6,9 @@
  "meeting_type": "Committee (Teaching, Learning, and Enrollment Committee)",
  "location": "Dr. Matthew Prophet Education Center",
  "cancelled": false,
- "videos": [],
+ "videos": [
+  "https://www.youtube.com/watch?v=WTaEgf6pXKI"
+ ],
  "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=776248",
  "minutes_url": null,
  "supplementals_url": null,

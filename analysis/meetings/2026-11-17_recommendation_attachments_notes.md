@@ -25,6 +25,14 @@ The school-by-school comparison with Scenarios A and B is in `analysis/data/reco
 - **14695418.** It answered 200 with no page title on the first check (~03:47 UTC), then redirected to the BoardBook home page (302) a few minutes later. It may be a superseded upload; 14695499, "O. Sample Transportation Routes", sits in that slot of the attachment list. Its content is unknown.
 - **G. Slide Deck 11.17.26 BOE.** It is named in the memo's attachment list but not posted [BB:14695483 p.63](https://meetings.boardbook.org/Documents/DownloadPDF/14695483?org=915#page=63).
 
+## Revised C. School Closure Reports (posted Nov 16) [BB:14695656](https://meetings.boardbook.org/Documents/DownloadPDF/14695656?org=915)
+
+BoardBook posted a revised Attachment C on Nov 16 and kept the original [BB:14695482](https://meetings.boardbook.org/Documents/DownloadPDF/14695482?org=915) in the archive.
+
+The only substantive change found is in the Lewis report. Lewis students moving to Duniway would now feed to "Sellwood Middle School and Cleveland High School" [BB:14695656 p.42](https://meetings.boardbook.org/Documents/DownloadPDF/14695656?org=915#page=42). The original named Brentwood.
+
+**Analysis:** the change follows from Sellwood MS staying open under the recommendation.
+
 ## F. Rightsizing Methodology [BB:14695410](https://meetings.boardbook.org/Documents/DownloadPDF/14695410?org=915)
 
 The methodology names the model's inputs [BB:14695410 p.2](https://meetings.boardbook.org/Documents/DownloadPDF/14695410?org=915#page=2):
