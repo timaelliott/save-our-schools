@@ -1,0 +1,11 @@
+{
+ "author": "Christy Splitt, PPS Board of Education (Zone 1)",
+ "note": "Scenario D, a draft framework by one Board member, shared publicly as a Google Doc. The document says it was first posted 10/23/2026, is a living document, and has not been reviewed by PPS staff; it ends with a change log. The repository owner supplied the link on 2026-11-17. Exported through Google Docs' export endpoint in three formats; the PDF is the citable version.",
+ "source_url": "https://docs.google.com/document/d/1nVRM2P4WoJeUzYiJPMZdAk5tN2gHk1OXcKavJM2ZEBM/edit",
+ "fetch_time_utc": "2026-11-17T22:39:59Z",
+ "files": [
+  {"file": "sources/board_members/splitt/2026-11-17_splitt_scenario_d_draft.pdf", "export_url": "https://docs.google.com/document/d/1nVRM2P4WoJeUzYiJPMZdAk5tN2gHk1OXcKavJM2ZEBM/export?format=pdf", "pages": 8, "sha256": "3cd86fa07eb19e4605cf5cf95bcadcb4bb0faf9ebab73d9daf47ed69388bc748"},
+  {"file": "sources/board_members/splitt/2026-11-17_splitt_scenario_d_draft.docx", "export_url": "https://docs.google.com/document/d/1nVRM2P4WoJeUzYiJPMZdAk5tN2gHk1OXcKavJM2ZEBM/export?format=docx", "sha256": "c826eef5fa0b440599acd12bbe65ce91608a7a934637a52bb9e4769498179ee6"},
+  {"file": "sources/board_members/splitt/2026-11-17_splitt_scenario_d_draft.export.txt", "export_url": "https://docs.google.com/document/d/1nVRM2P4WoJeUzYiJPMZdAk5tN2gHk1OXcKavJM2ZEBM/export?format=txt", "sha256": "c22ce6dd837bc483836f8a59672dc9bd4479e6745cd182d76bab0e2b3f72f569"}
+ ]
+}

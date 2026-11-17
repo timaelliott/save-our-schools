@@ -30,6 +30,7 @@ and how board members and senior staff think and change positions over time. Rou
    - Correspondence (letters to the Board): `[LTR:<file stem under sources/correspondence/> L<line>]`
    - Community-organization documents (PTAs, parent groups): `[COMM:<path under sources/community/> p.<page>]`; these are advocacy sources, so label their figures as the group's estimates
    - City of Portland documents not addressed to the Board: `[CITY:<path under sources/city/> p.<page>]`; label them as City analyses
+   - Documents published by an individual Board member: `[BRD:<path under sources/board_members/> p.<page>]`; label them as that director's proposal, not PPS's
 3. Quotes must be verbatim from the source text. Transcripts are auto-captions: fix nothing inside the
    quote except obvious caption artifacts, and mark any repair with [brackets]. Keep each quote short and
    relevant (1–3 sentences). Never invent or "smooth" a quote.
