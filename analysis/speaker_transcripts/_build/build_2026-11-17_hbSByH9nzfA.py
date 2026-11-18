@@ -255,7 +255,7 @@ KEYS = [  # raw turn, label, quote (as it reads after corrections)
     (443, 'Calvert: about 48 hours to model one change', 'takes to run a full analysis is about 48 hours'),
     (448, 'Wang: SEGC boundary modeling took the contractor over a week', 'took over a week to model those'),
     (454, 'Wang: individual directors cannot direct staff time to model amendments', "individual board members don't have any power"),
-    (513, 'Engelsman: assumed PPS would use outside experts; "B felt very much just like A light"', 'B felt very much just like A light.'),
+    (513, 'Engelsman: "I assumed that we would work with experts in this process"; "B felt very much just like A light"', 'I assumed that we would work with experts in this process.'),
     (515, 'Armstrong: "I stand behind my team"; the decision is now the board\'s', 'I stand behind my team and their work'),
     (517, 'Engelsman: learned of up to 20 closures from the news after the August 7-0 vote', 'to go from 5 to 10 to 20 overnight'),
     (522, 'DePass: SEGC audit lessons; 3 of the 5 first-year closures are led by principals of color', 'So of the 5 schools.'),
