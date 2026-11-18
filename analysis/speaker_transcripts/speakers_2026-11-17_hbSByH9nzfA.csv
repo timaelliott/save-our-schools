@@ -1,0 +1,40 @@
+id,label,role,kind,turns,words,first_turn
+WANG,Eddie Wang,Board Chair,board,123,5017,0:00:00
+CM,Rashelle Chase-Miller,Board Vice-Chair,board,10,677,1:53:37
+DEP,Michelle DePass,Board member,board,23,1570,0:53:30
+SPL,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",board,67,4325,0:53:52
+ENG,Stephanie Engelsman,Board member,board,35,3392,1:00:34
+LAF,Virginia La Forte,Board member,board,34,1681,1:08:29
+SUL,Patte Sullivan,Board member,board,26,945,1:07:24
+SAN,Rose Sandell,Student representative,board,5,63,1:02:21
+VOTE,Board (voice vote),"Directors answering a roll of ""all in favor""",board,3,3,1:02:17
+ARM,Kimberlee Armstrong,Superintendent,staff,44,3428,1:01:20
+FRA,Jon Franco,Senior Chief of Operations,staff,9,721,2:08:31
+CAL,Margaret Calvert,"Executive Director, School Planning and Modernization",staff,32,4264,2:11:54
+MOR,Michelle Morrison,Chief Financial Officer,staff,37,3445,1:22:39
+BUNO,Jey Buno,Chief of Student Support Services,staff,2,29,1:01:52
+GOV,Ben Gurewitz,Senior Manager of Government Relations (surname as in the Jan 27 minutes),staff,4,481,1:03:00
+LEGAL,Liz Large,Contracted senior legal counsel,staff,7,483,1:20:58
+CLERK,Rosanne Powell,Senior Board Manager,staff,14,118,0:04:05
+SEIU,Amy Sylvia,SEIU Local 140 (custodial and nutrition services); Maplewood nutrition services worker,official,2,604,0:36:11
+PFSP,Elizabeth Held,"President, Portland Federation of School Professionals (PFSP)",official,2,275,0:40:51
+PAT,Alisha Chavez,"President, Portland Association of Teachers (PAT); Atkinson K-2 special education teacher",official,8,1381,0:43:03
+STU1,Student commenter 1,Creston 2nd grader,public,1,79,0:04:41
+STU2,Student commenter 2,Lewis 4th grader,public,1,360,0:05:30
+STU3,Student commenter 3,"Beach 5th grader (introduced by her parent, Public commenter 9)",public,1,393,0:30:51
+PC1,Public commenter 1,Former Peninsula student; speaking as a private citizen and neighbor,public,1,329,0:08:03
+PC2,Public commenter 2,"Mount Tabor MS PTA president, speaking as a parent; supports the recommendation",public,4,302,0:10:19
+PC3,Public commenter 3,Sabin parent,public,2,453,0:13:49
+PC4,Public commenter 4,"Director of advocacy and engagement, Self-Enhancement Inc. (SEI); supports the recommendation",public,7,321,0:16:41
+PC5,Public commenter 5,PPS parent,public,1,329,0:20:27
+PC6,Public commenter 6,Rose City Park parent (English Scholars and Vietnamese DLI),public,1,313,0:22:30
+PC7,Public commenter 7,Rose City Park Vietnamese DLI kindergarten parent,public,1,360,0:25:37
+PC8,Public commenter 8,Creston parent; architect,public,1,273,0:27:56
+PC9,Public commenter 9,Beach parent,public,1,16,0:30:43
+PC10,Public commenter 10,Irvington and Tubman parent,public,1,307,0:33:11
+PC11,Public commenter 11,Consent-agenda comment on the RMC Research contract,public,1,235,0:54:33
+PC12,Public commenter 12,Parent; former school enrollment forecaster (consent-agenda comment),public,1,533,0:56:24
+PC13,Public commenter 13,Comment on the legislative agenda,public,2,405,1:15:47
+PC14,Public commenter 14,Duniway parent; nurse (comment on the legislative agenda),public,1,269,1:18:27
+AUD,Audience,Calls from the audience,other,4,5,0:37:11
+UNK,Unidentified,Speaker not identifiable from the recording,other,63,116,0:15:09

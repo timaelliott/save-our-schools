@@ -8,6 +8,7 @@ checked by reading the transcript**.
 | 2026-10-20 Board work session (BoardBook 772442), video [xByUlijpcnE](https://www.youtube.com/watch?v=xByUlijpcnE) | [`2026-10-20_xByUlijpcnE.txt`](2026-10-20_xByUlijpcnE.txt) | Vendor word-level export, supplied by the repository owner 2026-10-21 ([raw](../../sources/youtube/vendor_transcripts/2026-10-20_xByUlijpcnE.timestamps.json)) |
 | 2026-11-09 Facilities Improvement and Oversight Committee (BoardBook 776245), video [cyHU9UOQqvc](https://www.youtube.com/watch?v=cyHU9UOQqvc) | [`2026-11-09_cyHU9UOQqvc.txt`](2026-11-09_cyHU9UOQqvc.txt) | Vendor paragraph export, supplied by the repository owner 2026-11-09 ([raw](../../sources/youtube/vendor_transcripts/2026-11-09_cyHU9UOQqvc.paragraphs.json)); build script `_build/build_2026-11-09_cyHU9UOQqvc.py` |
 | 2026-11-10 Teaching, Learning, and Enrollment Committee (BoardBook 776248), video [V6r7UqxJ53s](https://www.youtube.com/watch?v=V6r7UqxJ53s) | [`2026-11-10_V6r7UqxJ53s.txt`](2026-11-10_V6r7UqxJ53s.txt) | Vendor paragraph export, supplied by the repository owner 2026-11-10 ([raw](../../sources/youtube/vendor_transcripts/2026-11-10_V6r7UqxJ53s.paragraphs.json)); build script `_build/build_2026-11-10_V6r7UqxJ53s.py` |
+| 2026-11-17 Board work session (BoardBook 777711), video [hbSByH9nzfA](https://www.youtube.com/watch?v=hbSByH9nzfA) | [`2026-11-17_hbSByH9nzfA.txt`](2026-11-17_hbSByH9nzfA.txt) | Vendor paragraph export, supplied by the repository owner 2026-11-18 ([raw](../../sources/youtube/vendor_transcripts/2026-11-17_hbSByH9nzfA.paragraphs.json)); build script `_build/build_2026-11-17_hbSByH9nzfA.py` |
 
 Files per meeting:
 - `<date>_<videoId>.txt`: one line per speaker turn, `[H:MM:SS] Name (role) {confidence if not high}: words`. Words are as
@@ -42,3 +43,10 @@ Engelsman is identified from her self-introduction, Franco's "Thanks, Director E
 - "H" is the first (student) public commenter, then Chief Buno, and also Chase-Miller's four questions when she spoke online; four vendor turns that mix two voices are split at the phrase where the speaker changes (`SPLIT` in the build script).
 - "A" includes the board manager telling "Director [La Forte]" about the virtual sign-up.
 The DLI presenters are identified from Dr. Charles's introduction (2:26:59) and cross-references ("as Will was speaking", "what Margaret was sharing"); Angela Yee (tag W) and Alayna Papaiacovou (tag K) are medium. The first public commenter is a high-school student: his name is replaced with [student name] by word time in every derived file, and the correction log records it as "[withheld]". The meeting summary is in `analysis/meetings/2026-11-10_tle_meeting.md`.
+
+**Re-check notes (2026-11-17 work session):** the export's speakers are letters A–Z and AA–AD, and several were reused for different people:
+- "C" is the board manager reading the sign-up list, then the PFSP president, then Director Splitt for the rest of the meeting.
+- "B" is the board manager once, a student-representative vote, and CFO Michelle Morrison.
+- "P" is a Beach parent introducing her child, then legal counsel Liz Large.
+- "A" is the chair throughout except for Chief Buno's answer on the RMC grant (1:01:55).
+The repository owner confirmed Wang as the first speaker and four other attributions: Rose Sandell's east-side question (3:45:33), Liz Large reminding the chair of the amendment (1:20:58), Buno's RMC answer (1:01:52), and Splitt on the Dec 8 calendar hold (4:01:07). Three child commenters' names are replaced with [student name] by word time. Ben's surname follows the Jan 27, 2026 minutes ("Gurewitz"); the PAT president's name follows news spelling ("Alisha Chavez"). The meeting summary is in `analysis/meetings/2026-11-17_work_session_meeting.md`.

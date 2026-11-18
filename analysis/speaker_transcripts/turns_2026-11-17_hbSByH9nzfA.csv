@@ -1,0 +1,583 @@
+start,end,seconds,speaker,role,confidence,evidence,vendor_tag,vendor_turns
+0:00:00,0:00:03,0,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,0
+0:00:13,0:00:17,13,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,1
+0:00:21,0:01:58,21,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,2
+0:02:03,0:04:05,123,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,3
+0:04:05,0:04:11,245,Rosanne Powell,Senior Board Manager,high,"answers the chair's ""Ms. Powell, can you call up the students""",B+C,4 5
+0:04:41,0:05:14,281,Student commenter 1,Creston 2nd grader,medium,student commenter self-identifies (0:04:41),D+E,6 7 8
+0:05:17,0:05:18,317,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,9
+0:05:30,0:07:21,330,Student commenter 2,Lewis 4th grader,high,self-identifies as a Lewis 4th grader,E,10
+0:07:24,0:07:25,444,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,11
+0:07:40,0:07:43,460,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,12
+0:07:47,0:07:49,467,Rosanne Powell,Senior Board Manager,high,"board manager, addressed by the chair as ""Ms. [Powell]""; reads the sign-up list",C,13
+0:07:50,0:07:51,470,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,14
+0:08:02,0:08:03,482,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,15
+0:08:03,0:10:07,483,Public commenter 1,Former Peninsula student; speaking as a private citizen and neighbor,high,public commenter self-identifies (0:08:03),F,16
+0:10:10,0:10:11,610,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,17
+0:10:19,0:10:20,619,Public commenter 2,"Mount Tabor MS PTA president, speaking as a parent; supports the recommendation",high,public commenter self-identifies (0:10:22),G,18
+0:10:21,0:10:22,621,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,19
+0:10:22,0:11:01,622,Public commenter 2,"Mount Tabor MS PTA president, speaking as a parent; supports the recommendation",high,public commenter self-identifies (0:10:22),G,20
+0:11:01,0:11:04,661,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,21
+0:11:04,0:11:20,664,Public commenter 2,"Mount Tabor MS PTA president, speaking as a parent; supports the recommendation",high,public commenter self-identifies (0:10:22),G,22
+0:11:21,0:11:22,681,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,23
+0:11:22,0:12:22,682,Public commenter 2,"Mount Tabor MS PTA president, speaking as a parent; supports the recommendation",high,public commenter self-identifies (0:10:22),G,24
+0:12:22,0:12:23,742,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,25
+0:12:30,0:12:32,750,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,26
+0:12:38,0:13:27,758,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,27
+0:13:29,0:13:32,809,Rosanne Powell,Senior Board Manager,high,"board manager, addressed by the chair as ""Ms. [Powell]""; reads the sign-up list",C,28
+0:13:49,0:15:09,829,Public commenter 3,Sabin parent,high,public commenter self-identifies (0:13:49),I,29
+0:15:09,0:15:10,909,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,H,30
+0:15:11,0:16:15,911,Public commenter 3,Sabin parent,high,public commenter self-identifies (0:13:49),I,31
+0:16:17,0:16:35,977,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,32
+0:16:41,0:17:56,1001,Public commenter 4,"Director of advocacy and engagement, Self-Enhancement Inc. (SEI); supports the recommendation",high,public commenter self-identifies (0:16:41),J,33
+0:17:56,0:17:57,1076,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,34
+0:17:57,0:18:27,1077,Public commenter 4,"Director of advocacy and engagement, Self-Enhancement Inc. (SEI); supports the recommendation",high,public commenter self-identifies (0:16:41),J,35
+0:18:27,0:18:28,1107,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,36
+0:18:28,0:18:51,1108,Public commenter 4,"Director of advocacy and engagement, Self-Enhancement Inc. (SEI); supports the recommendation",high,public commenter self-identifies (0:16:41),J,37
+0:18:52,0:18:52,1132,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,38
+0:18:52,0:18:56,1132,Public commenter 4,"Director of advocacy and engagement, Self-Enhancement Inc. (SEI); supports the recommendation",high,public commenter self-identifies (0:16:41),J,39
+0:18:56,0:18:57,1136,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,40
+0:18:57,0:18:59,1137,Public commenter 4,"Director of advocacy and engagement, Self-Enhancement Inc. (SEI); supports the recommendation",high,public commenter self-identifies (0:16:41),J,41
+0:19:00,0:19:02,1140,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,42
+0:19:03,0:19:07,1143,Public commenter 4,"Director of advocacy and engagement, Self-Enhancement Inc. (SEI); supports the recommendation",high,public commenter self-identifies (0:16:41),J,43
+0:19:07,0:19:08,1147,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,44
+0:19:08,0:19:10,1148,Public commenter 4,"Director of advocacy and engagement, Self-Enhancement Inc. (SEI); supports the recommendation",high,public commenter self-identifies (0:16:41),J,45
+0:19:11,0:19:11,1151,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,I,46
+0:19:11,0:19:12,1151,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,47
+0:19:17,0:19:19,1157,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,48
+0:19:26,0:19:50,1166,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,49
+0:19:51,0:20:02,1191,Rosanne Powell,Senior Board Manager,high,"board manager, addressed by the chair as ""Ms. [Powell]""; reads the sign-up list",C,50
+0:20:04,0:20:06,1204,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,51
+0:20:06,0:20:08,1206,Rosanne Powell,Senior Board Manager,high,"board manager, addressed by the chair as ""Ms. [Powell]""; reads the sign-up list",C,52
+0:20:27,0:22:20,1227,Public commenter 5,PPS parent,high,public commenter self-identifies (0:20:27),K,53
+0:22:20,0:22:21,1340,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,C,54
+0:22:22,0:22:23,1342,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,55
+0:22:30,0:24:48,1350,Public commenter 6,Rose City Park parent (English Scholars and Vietnamese DLI),high,public commenter self-identifies (0:22:30),L,56
+0:24:48,0:24:49,1488,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,57
+0:25:02,0:25:04,1502,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,58
+0:25:11,0:25:15,1511,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,59
+0:25:16,0:25:17,1516,Rosanne Powell,Senior Board Manager,high,"board manager, addressed by the chair as ""Ms. [Powell]""; reads the sign-up list",C,60
+0:25:17,0:25:18,1517,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,61
+0:25:18,0:25:21,1518,Rosanne Powell,Senior Board Manager,high,"board manager, addressed by the chair as ""Ms. [Powell]""; reads the sign-up list",C,62
+0:25:37,0:27:44,1537,Public commenter 7,Rose City Park Vietnamese DLI kindergarten parent,high,public commenter self-identifies (0:25:37),M,63
+0:27:46,0:27:47,1666,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,64
+0:27:56,0:30:00,1676,Public commenter 8,Creston parent; architect,high,public commenter self-identifies (0:27:56),N,65
+0:30:02,0:30:03,1802,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,66
+0:30:11,0:30:14,1811,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,67
+0:30:17,0:30:20,1817,Rosanne Powell,Senior Board Manager,high,"board manager, addressed by the chair as ""Ms. [Powell]""; reads the sign-up list",C,68
+0:30:43,0:30:50,1843,Public commenter 9,Beach parent,high,self-identifies (0:30:43),O+P,69 70
+0:30:51,0:32:55,1851,Student commenter 3,"Beach 5th grader (introduced by her parent, Public commenter 9)",high,"""I'm a 5th grader at Beach"", introduced by Public commenter 9",D,71
+0:32:55,0:32:56,1975,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,72
+0:33:11,0:35:19,1991,Public commenter 10,Irvington and Tubman parent,high,public commenter self-identifies (0:33:11),Q,73
+0:35:20,0:35:20,2120,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,74
+0:35:21,0:35:22,2121,Rosanne Powell,Senior Board Manager,medium,closing thanks at the clerk's table,C,75
+0:35:34,0:35:59,2134,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,76
+0:36:11,0:37:09,2171,Amy Sylvia,SEIU Local 140 (custodial and nutrition services); Maplewood nutrition services worker,high,self-identifies for SEIU Local 140 (0:36:11),T,77
+0:37:11,0:37:11,2231,Audience,Calls from the audience,high,shout from the audience during the meeting,O,78
+0:37:12,0:40:40,2232,Amy Sylvia,SEIU Local 140 (custodial and nutrition services); Maplewood nutrition services worker,high,self-identifies for SEIU Local 140 (0:36:11),T,79
+0:40:51,0:42:30,2451,Elizabeth Held,"President, Portland Federation of School Professionals (PFSP)",medium,greeting immediately before the PFSP president's self-introduction,C+U+V,80 81 82 83
+0:42:34,0:42:54,2554,Elizabeth Held,"President, Portland Federation of School Professionals (PFSP)",high,continues,C,84
+0:42:57,0:42:58,2577,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,85
+0:43:03,0:43:17,2583,Alisha Chavez,"President, Portland Association of Teachers (PAT); Atkinson K-2 special education teacher",high,self-introduction as PAT president,O,86
+0:43:18,0:43:19,2598,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,C,87
+0:43:20,0:44:36,2600,Alisha Chavez,"President, Portland Association of Teachers (PAT); Atkinson K-2 special education teacher",high,self-identifies as PAT president (0:43:03),O,88
+0:44:41,0:48:24,2681,Alisha Chavez,"President, Portland Association of Teachers (PAT); Atkinson K-2 special education teacher",high,self-identifies as PAT president (0:43:03),O,89
+0:48:29,0:48:46,2909,Alisha Chavez,"President, Portland Association of Teachers (PAT); Atkinson K-2 special education teacher",high,self-identifies as PAT president (0:43:03),O,90
+0:48:51,0:50:11,2931,Alisha Chavez,"President, Portland Association of Teachers (PAT); Atkinson K-2 special education teacher",high,self-identifies as PAT president (0:43:03),L+O,91 92 93
+0:50:18,0:51:41,3018,Alisha Chavez,"President, Portland Association of Teachers (PAT); Atkinson K-2 special education teacher",high,self-identifies as PAT president (0:43:03),O,94
+0:51:47,0:52:35,3107,Alisha Chavez,"President, Portland Association of Teachers (PAT); Atkinson K-2 special education teacher",high,self-identifies as PAT president (0:43:03),O,95
+0:52:40,0:52:41,3160,Alisha Chavez,"President, Portland Association of Teachers (PAT); Atkinson K-2 special education teacher",high,self-identifies as PAT president (0:43:03),O,96
+0:52:43,0:52:44,3163,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,97
+0:52:59,0:53:30,3179,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,98
+0:53:30,0:53:30,3210,Michelle DePass,Board member,high,"chair: ""Director DePass seconds"" (0:53:54) after this voice; Armstrong: ""Thank you for that question, Director DePass"" (2:01:22)",W,99
+0:53:33,0:53:46,3213,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,100
+0:53:47,0:53:48,3227,Rosanne Powell,Senior Board Manager,high,"answers the chair's ""Ms. Powell, are there any changes to consent agenda?""",C,101
+0:53:48,0:53:52,3228,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,102
+0:53:52,0:53:53,3232,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves""",C,103
+0:53:53,0:53:54,3233,Michelle DePass,Board member,high,"chair: ""Director DePass seconds"" (0:53:54) after this voice; Armstrong: ""Thank you for that question, Director DePass"" (2:01:22)",W,104
+0:53:54,0:54:04,3234,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,105
+0:54:05,0:54:08,3245,Rosanne Powell,Senior Board Manager,high,"board manager, addressed by the chair as ""Ms. [Powell]""; reads the sign-up list",C+S,106 107
+0:54:27,0:54:32,3267,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,108
+0:54:33,0:56:17,3273,Public commenter 11,Consent-agenda comment on the RMC Research contract,high,public commenter self-identifies (0:54:33),X,109
+0:56:19,0:56:20,3379,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,110
+0:56:24,0:59:34,3384,Public commenter 12,Parent; former school enrollment forecaster (consent-agenda comment),high,public commenter self-identifies (0:56:24),Y,111
+0:59:34,0:59:34,3574,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,F,112
+0:59:34,0:59:35,3574,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,113
+0:59:39,0:59:43,3579,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,114
+0:59:48,1:00:33,3588,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,115
+1:00:34,1:00:37,3634,Stephanie Engelsman,Board member,medium,director asking staff about the RMC contract; vendor tag R (Engelsman) throughout,R,116
+1:00:39,1:00:41,3639,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,117
+1:00:41,1:00:44,3641,Stephanie Engelsman,Board member,high,"Armstrong: ""Director Engelsman, that you're hoping to see"" (3:27:16) in reply to this voice; Intergovernmental Affairs member",R,118
+1:00:45,1:00:47,3645,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,119
+1:00:52,1:01:12,3652,Stephanie Engelsman,Board member,medium,continues the RMC question,R,120
+1:01:19,1:01:20,3679,Rosanne Powell,Senior Board Manager,medium,"clerk's table: ""Someone's coming up right now""",C,121
+1:01:20,1:01:23,3680,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,122
+1:01:28,1:01:51,3688,Stephanie Engelsman,Board member,medium,continues the RMC question to Chief Buno,R,123
+1:01:52,1:01:53,3712,Jey Buno,Chief of Student Support Services,high,"owner confirmed: Chief Buno answers (Armstrong: ""We have Chief Buno coming up"", 1:01:20)",Z,124
+1:01:53,1:01:55,3713,Stephanie Engelsman,Board member,medium,continues,R,125
+1:01:55,1:02:03,3715,Jey Buno,Chief of Student Support Services,high,owner confirmed: Buno answers the grant question,A,126
+1:02:03,1:02:04,3723,Stephanie Engelsman,Board member,medium,continues,R,127
+1:02:04,1:02:04,3724,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,B,128
+1:02:06,1:02:16,3726,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,129
+1:02:17,1:02:17,3737,Board (voice vote),"Directors answering a roll of ""all in favor""",medium,"answer to the chair's ""All in favor""",I,130
+1:02:17,1:02:21,3737,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,131
+1:02:21,1:02:21,3741,Rose Sandell,Student representative,medium,"answer when the chair asks ""Student representative?""",T,132
+1:02:21,1:02:46,3741,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,133
+1:02:47,1:02:55,3767,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,134
+1:03:00,1:04:58,3780,Ben Gurewitz,Senior Manager of Government Relations (surname as in the Jan 27 minutes),high,self-introduction as Senior Manager of Government Relations (1:03:00),S,135
+1:05:03,1:05:19,3903,Ben Gurewitz,Senior Manager of Government Relations (surname as in the Jan 27 minutes),high,self-introduction as Senior Manager of Government Relations (1:03:00),S,136
+1:05:24,1:06:46,3924,Ben Gurewitz,Senior Manager of Government Relations (surname as in the Jan 27 minutes),high,self-introduction as Senior Manager of Government Relations (1:03:00),S,137
+1:06:46,1:06:46,4006,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,Q,138
+1:06:46,1:07:04,4006,Ben Gurewitz,Senior Manager of Government Relations (surname as in the Jan 27 minutes),medium,self-introduction as Senior Manager of Government Relations (1:03:00),AA+S,139 140
+1:07:10,1:07:14,4030,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,141
+1:07:14,1:07:22,4034,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,142
+1:07:22,1:07:23,4042,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,143
+1:07:24,1:07:24,4044,Patte Sullivan,Board member,high,"chair: ""Director Sullivan seconds"" (1:07:25) after this voice; called on as Director Sullivan (2:47:44)",AB,144
+1:07:25,1:07:28,4045,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,145
+1:07:29,1:08:03,4049,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,146
+1:08:03,1:08:03,4083,Patte Sullivan,Board member,high,"chair: ""Director Sullivan seconds"" (1:07:25) after this voice; called on as Director Sullivan (2:47:44)",AB,147
+1:08:03,1:08:10,4083,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,148
+1:08:10,1:08:13,4090,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,149
+1:08:13,1:08:17,4093,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,150
+1:08:17,1:08:18,4097,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,151
+1:08:18,1:08:19,4098,Patte Sullivan,Board member,high,"chair: ""Director Sullivan seconds"" (1:07:25) after this voice; called on as Director Sullivan (2:47:44)",AB,152
+1:08:19,1:08:22,4099,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,153
+1:08:22,1:08:28,4102,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,154
+1:08:29,1:08:29,4109,Virginia La Forte,Board member,high,"chair: ""Director [La Forte] seconds"" (1:08:30) after this voice; called on first in the financial questions (1:41:55)",AC,155
+1:08:30,1:08:31,4110,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,156
+1:08:31,1:12:04,4111,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,157
+1:12:05,1:12:06,4325,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,158
+1:12:06,1:12:10,4326,Michelle DePass,Board member,high,"chair: ""Director DePass seconds"" (0:53:54) after this voice; Armstrong: ""Thank you for that question, Director DePass"" (2:01:22)",W,159
+1:12:10,1:12:15,4330,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,160
+1:12:17,1:12:18,4337,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,161
+1:12:19,1:12:43,4339,Michelle DePass,Board member,high,"chair: ""Director DePass seconds"" (0:53:54) after this voice; Armstrong: ""Thank you for that question, Director DePass"" (2:01:22)",W,162
+1:12:45,1:13:21,4365,Patte Sullivan,Board member,high,"chair: ""Director Sullivan seconds"" (1:07:25) after this voice; called on as Director Sullivan (2:47:44)",AB,163
+1:13:22,1:13:24,4402,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,164
+1:13:30,1:13:56,4410,Stephanie Engelsman,Board member,high,"Armstrong: ""Director Engelsman, that you're hoping to see"" (3:27:16) in reply to this voice; Intergovernmental Affairs member",R,165
+1:14:00,1:14:31,4440,Virginia La Forte,Board member,high,"chair: ""Director [La Forte] seconds"" (1:08:30) after this voice; called on first in the financial questions (1:41:55)",AC,166
+1:14:31,1:14:31,4471,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,B,167
+1:14:31,1:14:35,4471,Virginia La Forte,Board member,high,"chair: ""Director [La Forte] seconds"" (1:08:30) after this voice; called on first in the financial questions (1:41:55)",AC,168
+1:14:38,1:15:11,4478,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,169
+1:15:11,1:15:12,4511,Rosanne Powell,Senior Board Manager,high,"""We have public comment"" (reminds the chair)",C,170
+1:15:12,1:15:17,4512,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,171
+1:15:17,1:15:20,4517,Rosanne Powell,Senior Board Manager,high,"board manager, addressed by the chair as ""Ms. [Powell]""; reads the sign-up list",C,172
+1:15:47,1:17:54,4547,Public commenter 13,Comment on the legislative agenda,high,public commenter self-identifies (1:15:47),AD,173
+1:18:00,1:18:16,4680,Public commenter 13,Comment on the legislative agenda,high,public commenter self-identifies (1:15:47),AD,174
+1:18:19,1:18:20,4699,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,175
+1:18:27,1:20:29,4707,Public commenter 14,Duniway parent; nurse (comment on the legislative agenda),medium,public commenter self-identifies (1:18:27),H+W,176 177 178
+1:20:29,1:20:30,4829,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,AB,179
+1:20:33,1:20:34,4833,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,180
+1:20:39,1:20:41,4839,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,181
+1:20:46,1:20:58,4846,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,182
+1:20:58,1:21:00,4858,Liz Large,Contracted senior legal counsel,high,owner confirmed: legal counsel Liz Large reminds the chair of the amendment,P,183
+1:21:00,1:21:05,4860,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,184
+1:21:05,1:21:09,4865,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,185
+1:21:10,1:21:11,4870,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,186
+1:21:11,1:21:15,4871,Liz Large,Contracted senior legal counsel,high,owner confirmed: legal counsel,P,187
+1:21:15,1:21:19,4875,Stephanie Engelsman,Board member,high,"Armstrong: ""Director Engelsman, that you're hoping to see"" (3:27:16) in reply to this voice; Intergovernmental Affairs member",R,188
+1:21:19,1:21:30,4879,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,189
+1:21:30,1:21:31,4890,Board (voice vote),"Directors answering a roll of ""all in favor""",medium,"answer to the chair's ""All in favor""",W,190
+1:21:31,1:21:34,4891,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,191
+1:21:35,1:21:35,4895,Rose Sandell,Student representative,medium,"answer when the chair asks ""Student representative?""",K,192
+1:21:35,1:21:52,4895,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,193
+1:21:53,1:21:54,4913,Board (voice vote),"Directors answering a roll of ""all in favor""",medium,"answer to the chair's ""All in favor""",S,194
+1:21:54,1:21:56,4914,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,195
+1:21:57,1:21:57,4917,Rose Sandell,Student representative,medium,"answer when the chair asks ""Student representative?""",B,196
+1:21:57,1:22:15,4917,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,197
+1:22:17,1:22:38,4937,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,198
+1:22:39,1:24:53,4959,Michelle Morrison,Chief Financial Officer,high,"Armstrong invites ""Chief Financial Officer, Michelle Morrison"" (1:22:17); this voice presents the financial update",B,199
+1:24:58,1:26:25,5098,Michelle Morrison,Chief Financial Officer,high,"Armstrong invites ""Chief Financial Officer, Michelle Morrison"" (1:22:17); this voice presents the financial update",B,200
+1:26:29,1:27:22,5189,Michelle Morrison,Chief Financial Officer,high,"Armstrong invites ""Chief Financial Officer, Michelle Morrison"" (1:22:17); this voice presents the financial update",B,201
+1:27:27,1:27:32,5247,Michelle Morrison,Chief Financial Officer,high,"Armstrong invites ""Chief Financial Officer, Michelle Morrison"" (1:22:17); this voice presents the financial update",B,202
+1:27:34,1:27:54,5254,Michelle DePass,Board member,high,"chair: ""Director DePass seconds"" (0:53:54) after this voice; Armstrong: ""Thank you for that question, Director DePass"" (2:01:22)",W,203
+1:27:55,1:28:13,5275,Michelle Morrison,Chief Financial Officer,high,"Armstrong invites ""Chief Financial Officer, Michelle Morrison"" (1:22:17); this voice presents the financial update",B,204
+1:28:16,1:28:17,5296,Michelle DePass,Board member,high,"chair: ""Director DePass seconds"" (0:53:54) after this voice; Armstrong: ""Thank you for that question, Director DePass"" (2:01:22)",W,205
+1:28:17,1:28:30,5297,Patte Sullivan,Board member,high,"chair: ""Director Sullivan seconds"" (1:07:25) after this voice; called on as Director Sullivan (2:47:44)",AB,206
+1:28:31,1:28:37,5311,Michelle Morrison,Chief Financial Officer,high,"Armstrong invites ""Chief Financial Officer, Michelle Morrison"" (1:22:17); this voice presents the financial update",B,207
+1:28:38,1:28:39,5318,Patte Sullivan,Board member,high,"chair: ""Director Sullivan seconds"" (1:07:25) after this voice; called on as Director Sullivan (2:47:44)",AB,208
+1:28:39,1:28:43,5319,Michelle Morrison,Chief Financial Officer,high,"Armstrong invites ""Chief Financial Officer, Michelle Morrison"" (1:22:17); this voice presents the financial update",B,209
+1:28:43,1:28:44,5323,Patte Sullivan,Board member,high,"chair: ""Director Sullivan seconds"" (1:07:25) after this voice; called on as Director Sullivan (2:47:44)",AB,210
+1:28:48,1:33:08,5328,Michelle Morrison,Chief Financial Officer,high,"Armstrong invites ""Chief Financial Officer, Michelle Morrison"" (1:22:17); this voice presents the financial update",B,211
+1:33:08,1:33:11,5588,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,R,212
+1:33:12,1:34:17,5592,Michelle Morrison,Chief Financial Officer,high,"Armstrong invites ""Chief Financial Officer, Michelle Morrison"" (1:22:17); this voice presents the financial update",B,213
+1:34:22,1:35:49,5662,Michelle Morrison,Chief Financial Officer,high,"Armstrong invites ""Chief Financial Officer, Michelle Morrison"" (1:22:17); this voice presents the financial update",B,214
+1:35:54,1:36:19,5754,Michelle Morrison,Chief Financial Officer,high,"Armstrong invites ""Chief Financial Officer, Michelle Morrison"" (1:22:17); this voice presents the financial update",B,215
+1:36:23,1:36:42,5783,Michelle Morrison,Chief Financial Officer,high,"Armstrong invites ""Chief Financial Officer, Michelle Morrison"" (1:22:17); this voice presents the financial update",B,216
+1:36:49,1:36:49,5809,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,H,217
+1:36:49,1:38:29,5809,Michelle Morrison,Chief Financial Officer,high,"Armstrong invites ""Chief Financial Officer, Michelle Morrison"" (1:22:17); this voice presents the financial update",B,218
+1:38:34,1:41:07,5914,Michelle Morrison,Chief Financial Officer,high,"Armstrong invites ""Chief Financial Officer, Michelle Morrison"" (1:22:17); this voice presents the financial update",B,219
+1:41:08,1:41:54,6068,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,220
+1:41:55,1:41:57,6115,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,221
+1:41:59,1:42:19,6119,Virginia La Forte,Board member,medium,"reply to the chair calling on Director La Forte, who then asks her questions",AC+R,222 223
+1:42:20,1:43:05,6140,Michelle Morrison,Chief Financial Officer,high,"Armstrong invites ""Chief Financial Officer, Michelle Morrison"" (1:22:17); this voice presents the financial update",B,224
+1:43:05,1:43:14,6185,Virginia La Forte,Board member,high,"chair: ""Director [La Forte] seconds"" (1:08:30) after this voice; called on first in the financial questions (1:41:55)",AC,225
+1:43:16,1:43:40,6196,Michelle Morrison,Chief Financial Officer,high,"Armstrong invites ""Chief Financial Officer, Michelle Morrison"" (1:22:17); this voice presents the financial update",B,226
+1:43:42,1:44:05,6222,Virginia La Forte,Board member,high,"chair: ""Director [La Forte] seconds"" (1:08:30) after this voice; called on first in the financial questions (1:41:55)",AC,227
+1:44:05,1:44:05,6245,Michelle Morrison,Chief Financial Officer,medium,acknowledgement during La Forte's question to the CFO,U,228
+1:44:06,1:44:21,6246,Virginia La Forte,Board member,high,"chair: ""Director [La Forte] seconds"" (1:08:30) after this voice; called on first in the financial questions (1:41:55)",AC,229
+1:44:22,1:45:14,6262,Michelle Morrison,Chief Financial Officer,high,"Armstrong invites ""Chief Financial Officer, Michelle Morrison"" (1:22:17); this voice presents the financial update",B,230
+1:45:14,1:45:26,6314,Virginia La Forte,Board member,high,"chair: ""Director [La Forte] seconds"" (1:08:30) after this voice; called on first in the financial questions (1:41:55)",AC,231
+1:45:27,1:45:34,6327,Michelle Morrison,Chief Financial Officer,high,"Armstrong invites ""Chief Financial Officer, Michelle Morrison"" (1:22:17); this voice presents the financial update",B,232
+1:45:35,1:45:35,6335,Virginia La Forte,Board member,high,"chair: ""Director [La Forte] seconds"" (1:08:30) after this voice; called on first in the financial questions (1:41:55)",AC,233
+1:45:35,1:45:36,6335,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,R,234
+1:45:37,1:45:42,6337,Michelle Morrison,Chief Financial Officer,high,"Armstrong invites ""Chief Financial Officer, Michelle Morrison"" (1:22:17); this voice presents the financial update",B,235
+1:45:43,1:45:46,6343,Virginia La Forte,Board member,high,"chair: ""Director [La Forte] seconds"" (1:08:30) after this voice; called on first in the financial questions (1:41:55)",AC,236
+1:45:47,1:45:56,6347,Michelle Morrison,Chief Financial Officer,high,"Armstrong invites ""Chief Financial Officer, Michelle Morrison"" (1:22:17); this voice presents the financial update",B,237
+1:45:56,1:46:12,6356,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,238
+1:46:13,1:46:33,6373,Virginia La Forte,Board member,high,"chair: ""Director [La Forte] seconds"" (1:08:30) after this voice; called on first in the financial questions (1:41:55)",AC,239
+1:46:33,1:46:34,6393,Michelle Morrison,Chief Financial Officer,high,"Armstrong invites ""Chief Financial Officer, Michelle Morrison"" (1:22:17); this voice presents the financial update",B,240
+1:46:35,1:46:35,6395,Virginia La Forte,Board member,high,"chair: ""Director [La Forte] seconds"" (1:08:30) after this voice; called on first in the financial questions (1:41:55)",AC,241
+1:46:36,1:46:36,6396,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,M,242
+1:46:38,1:47:52,6398,Virginia La Forte,Board member,high,"chair: ""Director [La Forte] seconds"" (1:08:30) after this voice; called on first in the financial questions (1:41:55)",AC,243
+1:47:53,1:47:55,6473,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,244
+1:48:00,1:48:00,6480,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,245
+1:48:03,1:48:18,6483,Patte Sullivan,Board member,high,"chair: ""Director Sullivan seconds"" (1:07:25) after this voice; called on as Director Sullivan (2:47:44)",AB,246
+1:48:18,1:48:19,6498,Michelle Morrison,Chief Financial Officer,high,"Armstrong invites ""Chief Financial Officer, Michelle Morrison"" (1:22:17); this voice presents the financial update",B,247
+1:48:20,1:48:48,6500,Virginia La Forte,Board member,high,"chair: ""Director [La Forte] seconds"" (1:08:30) after this voice; called on first in the financial questions (1:41:55)",AC,248
+1:48:49,1:48:50,6529,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,M,249
+1:48:53,1:49:42,6533,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,250
+1:49:44,1:49:44,6584,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,251
+1:49:44,1:49:45,6584,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,P,252
+1:49:45,1:50:28,6585,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,253
+1:50:30,1:50:46,6630,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",medium,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C+R,254 255
+1:50:46,1:50:59,6646,Michelle Morrison,Chief Financial Officer,high,"Armstrong invites ""Chief Financial Officer, Michelle Morrison"" (1:22:17); this voice presents the financial update",B,256
+1:50:59,1:51:16,6659,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,257
+1:51:17,1:51:17,6677,Michelle Morrison,Chief Financial Officer,high,"Armstrong invites ""Chief Financial Officer, Michelle Morrison"" (1:22:17); this voice presents the financial update",B,258
+1:51:17,1:51:27,6677,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,259
+1:51:28,1:51:30,6688,Michelle Morrison,Chief Financial Officer,high,"Armstrong invites ""Chief Financial Officer, Michelle Morrison"" (1:22:17); this voice presents the financial update",B,260
+1:51:31,1:51:42,6691,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,261
+1:51:46,1:51:55,6706,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,262
+1:51:57,1:52:38,6717,Patte Sullivan,Board member,high,"chair: ""Director Sullivan seconds"" (1:07:25) after this voice; called on as Director Sullivan (2:47:44)",AB,263
+1:52:38,1:52:38,6758,Michelle Morrison,Chief Financial Officer,high,"Armstrong invites ""Chief Financial Officer, Michelle Morrison"" (1:22:17); this voice presents the financial update",B,264
+1:52:39,1:52:41,6759,Patte Sullivan,Board member,high,"chair: ""Director Sullivan seconds"" (1:07:25) after this voice; called on as Director Sullivan (2:47:44)",AB,265
+1:52:41,1:53:15,6761,Michelle Morrison,Chief Financial Officer,high,"Armstrong invites ""Chief Financial Officer, Michelle Morrison"" (1:22:17); this voice presents the financial update",B,266
+1:53:16,1:53:24,6796,Patte Sullivan,Board member,high,"chair: ""Director Sullivan seconds"" (1:07:25) after this voice; called on as Director Sullivan (2:47:44)",AB,267
+1:53:25,1:53:25,6805,Michelle Morrison,Chief Financial Officer,medium,agreement during Sullivan's remark to the CFO,R,268
+1:53:25,1:53:32,6805,Patte Sullivan,Board member,high,"chair: ""Director Sullivan seconds"" (1:07:25) after this voice; called on as Director Sullivan (2:47:44)",AB,269
+1:53:37,1:54:26,6817,Rashelle Chase-Miller,Board Vice-Chair,high,"Armstrong: ""the frame that um Director [Chase-Miller] put forth"" (2:59:10) after this voice's process question; asks as the only remaining director",U,270
+1:54:27,1:54:57,6867,Michelle Morrison,Chief Financial Officer,high,"Armstrong invites ""Chief Financial Officer, Michelle Morrison"" (1:22:17); this voice presents the financial update",B,271
+1:55:02,1:55:19,6902,Rashelle Chase-Miller,Board Vice-Chair,high,"Armstrong: ""the frame that um Director [Chase-Miller] put forth"" (2:59:10) after this voice's process question; asks as the only remaining director",U,272
+1:55:20,1:55:56,6920,Michelle Morrison,Chief Financial Officer,high,"Armstrong invites ""Chief Financial Officer, Michelle Morrison"" (1:22:17); this voice presents the financial update",B,273
+1:55:58,1:56:42,6958,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,274
+1:56:46,1:56:46,7006,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,O+S,275 276
+1:56:47,1:56:58,7007,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,277
+1:56:59,1:57:40,7019,Michelle Morrison,Chief Financial Officer,high,"Armstrong invites ""Chief Financial Officer, Michelle Morrison"" (1:22:17); this voice presents the financial update",B,278
+1:57:42,1:57:48,7062,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,279
+1:57:49,1:57:50,7069,Michelle Morrison,Chief Financial Officer,high,"Armstrong invites ""Chief Financial Officer, Michelle Morrison"" (1:22:17); this voice presents the financial update",B,280
+1:57:50,1:58:14,7070,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,281
+1:58:14,1:58:36,7094,Michelle Morrison,Chief Financial Officer,high,"Armstrong invites ""Chief Financial Officer, Michelle Morrison"" (1:22:17); this voice presents the financial update",B,282
+1:58:38,1:58:42,7118,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,283
+1:58:42,1:58:43,7122,Michelle Morrison,Chief Financial Officer,high,"Armstrong invites ""Chief Financial Officer, Michelle Morrison"" (1:22:17); this voice presents the financial update",B,284
+1:58:43,1:58:46,7123,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,285
+1:58:50,1:59:44,7130,Stephanie Engelsman,Board member,high,"Armstrong: ""Director Engelsman, that you're hoping to see"" (3:27:16) in reply to this voice; Intergovernmental Affairs member",R,286
+1:59:44,1:59:45,7184,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,C,287
+1:59:45,1:59:58,7185,Stephanie Engelsman,Board member,high,"Armstrong: ""Director Engelsman, that you're hoping to see"" (3:27:16) in reply to this voice; Intergovernmental Affairs member",R,288
+2:00:03,2:01:20,7203,Michelle DePass,Board member,high,"chair: ""Director DePass seconds"" (0:53:54) after this voice; Armstrong: ""Thank you for that question, Director DePass"" (2:01:22)",W,289
+2:01:22,2:02:03,7282,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,290
+2:02:03,2:02:05,7323,Michelle Morrison,Chief Financial Officer,high,"Armstrong invites ""Chief Financial Officer, Michelle Morrison"" (1:22:17); this voice presents the financial update",B,291
+2:02:10,2:02:12,7330,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,292
+2:02:12,2:02:12,7332,Rose Sandell,Student representative,medium,"answer to the chair's ""Student rep? All good?""",G,293
+2:02:13,2:02:16,7333,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,294
+2:02:17,2:02:17,7337,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,S,295
+2:02:17,2:02:19,7337,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,296
+2:02:19,2:02:20,7339,Michelle Morrison,Chief Financial Officer,high,"Armstrong invites ""Chief Financial Officer, Michelle Morrison"" (1:22:17); this voice presents the financial update",B,297
+2:02:22,2:02:38,7342,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,298
+2:02:39,2:02:44,7359,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,I+S,299 300
+2:02:44,2:04:11,7364,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,301
+2:04:12,2:08:28,7452,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,302
+2:08:28,2:08:28,7708,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,C,303
+2:08:31,2:08:32,7711,Jon Franco,Senior Chief of Operations,high,"self-introduction: ""My name is [Jon] Franco ... Senior Chief of Operations"" (2:09:10)",AA,304
+2:08:32,2:08:46,7712,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,305
+2:08:58,2:09:03,7738,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,306
+2:09:03,2:09:10,7743,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,307
+2:09:10,2:11:50,7750,Jon Franco,Senior Chief of Operations,high,"self-introduction: ""My name is [Jon] Franco ... Senior Chief of Operations"" (2:09:10)",AA,308
+2:11:52,2:11:52,7912,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,K,309
+2:11:54,2:19:11,7914,Margaret Calvert,"Executive Director, School Planning and Modernization",high,"Franco: ""with me today is Margaret Calvert ... Margaret is going to uh walk us through ... the memo"" (2:09:10); this voice then presents",Z,310
+2:19:12,2:19:12,8352,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,W,311
+2:19:14,2:22:22,8354,Margaret Calvert,"Executive Director, School Planning and Modernization",high,"Franco: ""with me today is Margaret Calvert ... Margaret is going to uh walk us through ... the memo"" (2:09:10); this voice then presents",Z,312
+2:22:23,2:22:24,8543,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,B,313
+2:22:25,2:26:17,8545,Margaret Calvert,"Executive Director, School Planning and Modernization",high,"Franco: ""with me today is Margaret Calvert ... Margaret is going to uh walk us through ... the memo"" (2:09:10); this voice then presents",Z,314
+2:26:20,2:26:23,8780,Jon Franco,Senior Chief of Operations,high,"self-introduction: ""My name is [Jon] Franco ... Senior Chief of Operations"" (2:09:10)",AA,315
+2:26:24,2:27:01,8784,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,316
+2:27:03,2:27:05,8823,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,317
+2:27:05,2:27:21,8825,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,318
+2:27:21,2:27:22,8841,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,K,319
+2:27:24,2:28:24,8844,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,320
+2:28:27,2:28:44,8907,Jon Franco,Senior Chief of Operations,high,"self-introduction: ""My name is [Jon] Franco ... Senior Chief of Operations"" (2:09:10)",AA,321
+2:28:44,2:29:52,8924,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,322
+2:29:54,2:30:48,8994,Margaret Calvert,"Executive Director, School Planning and Modernization",high,"Franco: ""with me today is Margaret Calvert ... Margaret is going to uh walk us through ... the memo"" (2:09:10); this voice then presents",Z,323
+2:30:49,2:30:49,9049,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,324
+2:30:50,2:31:12,9050,Jon Franco,Senior Chief of Operations,high,"self-introduction: ""My name is [Jon] Franco ... Senior Chief of Operations"" (2:09:10)",AA,325
+2:31:12,2:31:37,9072,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,326
+2:31:39,2:31:58,9099,Margaret Calvert,"Executive Director, School Planning and Modernization",high,"Franco: ""with me today is Margaret Calvert ... Margaret is going to uh walk us through ... the memo"" (2:09:10); this voice then presents",Z,327
+2:31:58,2:33:31,9118,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,328
+2:33:31,2:33:32,9211,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,K,329
+2:33:32,2:33:56,9212,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,330
+2:33:56,2:34:57,9236,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,331
+2:34:57,2:35:21,9297,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,332
+2:35:21,2:35:23,9321,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,333
+2:35:23,2:35:26,9323,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,334
+2:35:26,2:35:26,9326,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,335
+2:35:27,2:35:32,9327,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,336
+2:35:32,2:36:34,9332,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,337
+2:36:34,2:37:01,9394,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,338
+2:37:02,2:37:07,9422,Margaret Calvert,"Executive Director, School Planning and Modernization",high,"Franco: ""with me today is Margaret Calvert ... Margaret is going to uh walk us through ... the memo"" (2:09:10); this voice then presents",Z,339
+2:37:08,2:37:15,9428,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,340
+2:37:15,2:37:16,9435,Margaret Calvert,"Executive Director, School Planning and Modernization",medium,confirms Calvert's answer on Buckman lottery students,W,341
+2:37:16,2:37:43,9436,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,342
+2:37:45,2:38:23,9465,Margaret Calvert,"Executive Director, School Planning and Modernization",high,"Franco: ""with me today is Margaret Calvert ... Margaret is going to uh walk us through ... the memo"" (2:09:10); this voice then presents",Z,343
+2:38:24,2:38:25,9504,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,AB+L,344 345
+2:38:26,2:38:50,9506,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,346
+2:38:50,2:38:50,9530,Margaret Calvert,"Executive Director, School Planning and Modernization",high,"Franco: ""with me today is Margaret Calvert ... Margaret is going to uh walk us through ... the memo"" (2:09:10); this voice then presents",Z,347
+2:38:50,2:38:54,9530,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,348
+2:38:54,2:38:54,9534,Margaret Calvert,"Executive Director, School Planning and Modernization",high,"Franco: ""with me today is Margaret Calvert ... Margaret is going to uh walk us through ... the memo"" (2:09:10); this voice then presents",Z,349
+2:38:54,2:39:11,9534,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,350
+2:39:11,2:39:42,9551,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,351
+2:39:42,2:39:43,9582,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,K,352
+2:39:43,2:40:16,9583,Margaret Calvert,"Executive Director, School Planning and Modernization",high,"Franco: ""with me today is Margaret Calvert ... Margaret is going to uh walk us through ... the memo"" (2:09:10); this voice then presents",Z,353
+2:40:18,2:40:51,9618,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,354
+2:40:52,2:41:27,9652,Margaret Calvert,"Executive Director, School Planning and Modernization",high,"Franco: ""with me today is Margaret Calvert ... Margaret is going to uh walk us through ... the memo"" (2:09:10); this voice then presents",Z,355
+2:41:27,2:42:07,9687,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,356
+2:42:08,2:42:09,9728,Margaret Calvert,"Executive Director, School Planning and Modernization",high,"Franco: ""with me today is Margaret Calvert ... Margaret is going to uh walk us through ... the memo"" (2:09:10); this voice then presents",Z,357
+2:42:10,2:42:16,9730,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,358
+2:42:16,2:42:20,9736,Margaret Calvert,"Executive Director, School Planning and Modernization",high,"Franco: ""with me today is Margaret Calvert ... Margaret is going to uh walk us through ... the memo"" (2:09:10); this voice then presents",Z,359
+2:42:20,2:42:20,9740,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,AC,360
+2:42:20,2:42:31,9740,Margaret Calvert,"Executive Director, School Planning and Modernization",high,"Franco: ""with me today is Margaret Calvert ... Margaret is going to uh walk us through ... the memo"" (2:09:10); this voice then presents",Z,361
+2:42:32,2:42:33,9752,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,362
+2:42:34,2:42:46,9754,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,363
+2:42:46,2:42:48,9766,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,364
+2:42:48,2:42:49,9768,Stephanie Engelsman,Board member,medium,vendor tag R; short question to Splitt,R,365
+2:42:49,2:42:55,9769,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,366
+2:42:55,2:42:57,9775,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,367
+2:42:57,2:42:59,9777,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,368
+2:42:59,2:43:00,9779,Margaret Calvert,"Executive Director, School Planning and Modernization",high,"Franco: ""with me today is Margaret Calvert ... Margaret is going to uh walk us through ... the memo"" (2:09:10); this voice then presents",Z,369
+2:43:00,2:43:01,9780,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,370
+2:43:01,2:43:03,9781,Margaret Calvert,"Executive Director, School Planning and Modernization",high,"Franco: ""with me today is Margaret Calvert ... Margaret is going to uh walk us through ... the memo"" (2:09:10); this voice then presents",Z,371
+2:43:04,2:43:14,9784,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,372
+2:43:17,2:43:23,9797,Margaret Calvert,"Executive Director, School Planning and Modernization",high,"Franco: ""with me today is Margaret Calvert ... Margaret is going to uh walk us through ... the memo"" (2:09:10); this voice then presents",Z,373
+2:43:24,2:44:00,9804,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,374
+2:44:00,2:44:00,9840,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,R,375
+2:44:01,2:44:19,9841,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,376
+2:44:19,2:44:22,9859,Margaret Calvert,"Executive Director, School Planning and Modernization",high,"Franco: ""with me today is Margaret Calvert ... Margaret is going to uh walk us through ... the memo"" (2:09:10); this voice then presents",Z,377
+2:44:24,2:47:01,9864,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,378
+2:47:01,2:47:27,10021,Jon Franco,Senior Chief of Operations,high,"self-introduction: ""My name is [Jon] Franco ... Senior Chief of Operations"" (2:09:10)",AA,379
+2:47:29,2:47:38,10049,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,380
+2:47:44,2:47:47,10064,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,381
+2:47:59,2:48:01,10079,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,C+R,382 383
+2:48:01,2:48:03,10081,Patte Sullivan,Board member,high,"chair: ""Director Sullivan seconds"" (1:07:25) after this voice; called on as Director Sullivan (2:47:44)",AB,384
+2:48:05,2:48:06,10085,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,C,385
+2:48:07,2:48:33,10087,Patte Sullivan,Board member,high,"chair: ""Director Sullivan seconds"" (1:07:25) after this voice; called on as Director Sullivan (2:47:44)",AB,386
+2:48:35,2:48:43,10115,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,387
+2:48:43,2:48:47,10123,Patte Sullivan,Board member,high,"chair: ""Director Sullivan seconds"" (1:07:25) after this voice; called on as Director Sullivan (2:47:44)",AB,388
+2:48:47,2:48:47,10127,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,O,389
+2:48:47,2:51:48,10127,Patte Sullivan,Board member,high,"chair: ""Director Sullivan seconds"" (1:07:25) after this voice; called on as Director Sullivan (2:47:44)",AB,390
+2:51:48,2:51:55,10308,Michelle DePass,Board member,high,"chair: ""Director DePass seconds"" (0:53:54) after this voice; Armstrong: ""Thank you for that question, Director DePass"" (2:01:22)",W,391
+2:51:56,2:51:58,10316,Patte Sullivan,Board member,high,"chair: ""Director Sullivan seconds"" (1:07:25) after this voice; called on as Director Sullivan (2:47:44)",AB,392
+2:51:58,2:52:07,10318,Michelle DePass,Board member,high,"chair: ""Director DePass seconds"" (0:53:54) after this voice; Armstrong: ""Thank you for that question, Director DePass"" (2:01:22)",W,393
+2:52:07,2:52:07,10327,Patte Sullivan,Board member,high,"chair: ""Director Sullivan seconds"" (1:07:25) after this voice; called on as Director Sullivan (2:47:44)",AB,394
+2:52:08,2:52:14,10328,Michelle DePass,Board member,high,"chair: ""Director DePass seconds"" (0:53:54) after this voice; Armstrong: ""Thank you for that question, Director DePass"" (2:01:22)",W,395
+2:52:15,2:52:16,10335,Patte Sullivan,Board member,high,"chair: ""Director Sullivan seconds"" (1:07:25) after this voice; called on as Director Sullivan (2:47:44)",AB,396
+2:52:16,2:52:22,10336,Michelle DePass,Board member,high,"chair: ""Director DePass seconds"" (0:53:54) after this voice; Armstrong: ""Thank you for that question, Director DePass"" (2:01:22)",W,397
+2:52:22,2:53:09,10342,Patte Sullivan,Board member,high,"chair: ""Director Sullivan seconds"" (1:07:25) after this voice; called on as Director Sullivan (2:47:44)",AB,398
+2:53:12,2:53:43,10392,Margaret Calvert,"Executive Director, School Planning and Modernization",high,"Franco: ""with me today is Margaret Calvert ... Margaret is going to uh walk us through ... the memo"" (2:09:10); this voice then presents",Z,399
+2:53:44,2:53:44,10424,Patte Sullivan,Board member,high,"chair: ""Director Sullivan seconds"" (1:07:25) after this voice; called on as Director Sullivan (2:47:44)",AB,400
+2:53:47,2:55:30,10427,Rashelle Chase-Miller,Board Vice-Chair,high,"Armstrong: ""the frame that um Director [Chase-Miller] put forth"" (2:59:10) after this voice's process question; asks as the only remaining director",U,401
+2:55:31,2:57:42,10531,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,402
+2:57:42,2:58:08,10662,Rashelle Chase-Miller,Board Vice-Chair,high,"Armstrong: ""the frame that um Director [Chase-Miller] put forth"" (2:59:10) after this voice's process question; asks as the only remaining director",U,403
+2:58:09,2:58:10,10689,Audience,Calls from the audience,high,shout from the audience during the meeting,O,404
+2:58:12,2:59:10,10692,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,405
+2:59:10,3:00:01,10750,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,406
+3:00:02,3:00:05,10802,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,407
+3:00:05,3:00:05,10805,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,AB,408
+3:00:05,3:00:49,10805,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,409
+3:00:49,3:00:50,10849,Michelle DePass,Board member,high,"chair: ""Director DePass seconds"" (0:53:54) after this voice; Armstrong: ""Thank you for that question, Director DePass"" (2:01:22)",W,410
+3:00:50,3:01:22,10850,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,411
+3:01:24,3:01:45,10884,Michelle DePass,Board member,high,"chair: ""Director DePass seconds"" (0:53:54) after this voice; Armstrong: ""Thank you for that question, Director DePass"" (2:01:22)",W,412
+3:01:48,3:03:06,10908,Eddie Wang,Board Chair,medium,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A+AA,413 414 415
+3:03:07,3:03:33,10987,Michelle DePass,Board member,high,"chair: ""Director DePass seconds"" (0:53:54) after this voice; Armstrong: ""Thank you for that question, Director DePass"" (2:01:22)",W,416
+3:03:33,3:04:34,11013,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,417
+3:04:35,3:05:17,11075,Virginia La Forte,Board member,high,"chair: ""Director [La Forte] seconds"" (1:08:30) after this voice; called on first in the financial questions (1:41:55)",AC,418
+3:05:18,3:05:23,11118,Michelle DePass,Board member,high,"chair: ""Director DePass seconds"" (0:53:54) after this voice; Armstrong: ""Thank you for that question, Director DePass"" (2:01:22)",W,419
+3:05:24,3:05:24,11124,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,Z,420
+3:05:26,3:05:27,11126,Virginia La Forte,Board member,high,"chair: ""Director [La Forte] seconds"" (1:08:30) after this voice; called on first in the financial questions (1:41:55)",AC,421
+3:05:28,3:05:31,11128,Michelle DePass,Board member,high,"chair: ""Director DePass seconds"" (0:53:54) after this voice; Armstrong: ""Thank you for that question, Director DePass"" (2:01:22)",W,422
+3:05:31,3:05:48,11131,Rashelle Chase-Miller,Board Vice-Chair,high,"Armstrong: ""the frame that um Director [Chase-Miller] put forth"" (2:59:10) after this voice's process question; asks as the only remaining director",U,423
+3:05:49,3:05:53,11149,Virginia La Forte,Board member,high,"chair: ""Director [La Forte] seconds"" (1:08:30) after this voice; called on first in the financial questions (1:41:55)",AC,424
+3:05:53,3:05:54,11153,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,425
+3:05:54,3:05:57,11154,Virginia La Forte,Board member,high,"chair: ""Director [La Forte] seconds"" (1:08:30) after this voice; called on first in the financial questions (1:41:55)",AC,426
+3:05:57,3:06:15,11157,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,427
+3:06:15,3:06:29,11175,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,428
+3:06:30,3:06:30,11190,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,R,429
+3:06:31,3:06:56,11191,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,430
+3:06:56,3:06:56,11216,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,431
+3:06:56,3:06:58,11216,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,432
+3:06:58,3:07:00,11218,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,433
+3:07:00,3:07:01,11220,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,434
+3:07:02,3:07:05,11222,Patte Sullivan,Board member,high,"chair: ""Director Sullivan seconds"" (1:07:25) after this voice; called on as Director Sullivan (2:47:44)",AB,435
+3:07:05,3:07:06,11225,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,436
+3:07:09,3:07:10,11229,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,N,437
+3:07:10,3:07:31,11230,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,438
+3:07:31,3:08:12,11251,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,439
+3:08:12,3:08:12,11292,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,W,440
+3:08:13,3:08:22,11293,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,441
+3:08:22,3:08:48,11302,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,442
+3:08:49,3:09:45,11329,Margaret Calvert,"Executive Director, School Planning and Modernization",high,"Franco: ""with me today is Margaret Calvert ... Margaret is going to uh walk us through ... the memo"" (2:09:10); this voice then presents",Z,443
+3:09:45,3:09:56,11385,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,444
+3:09:56,3:10:02,11396,Patte Sullivan,Board member,high,"chair: ""Director Sullivan seconds"" (1:07:25) after this voice; called on as Director Sullivan (2:47:44)",AB,445
+3:10:02,3:10:04,11402,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,446
+3:10:06,3:10:12,11406,Patte Sullivan,Board member,high,"chair: ""Director Sullivan seconds"" (1:07:25) after this voice; called on as Director Sullivan (2:47:44)",AB,447
+3:10:12,3:10:37,11412,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,448
+3:10:38,3:11:04,11438,Michelle DePass,Board member,high,"chair: ""Director DePass seconds"" (0:53:54) after this voice; Armstrong: ""Thank you for that question, Director DePass"" (2:01:22)",W,449
+3:11:04,3:12:15,11464,Margaret Calvert,"Executive Director, School Planning and Modernization",high,"Franco: ""with me today is Margaret Calvert ... Margaret is going to uh walk us through ... the memo"" (2:09:10); this voice then presents",Z,450
+3:12:15,3:12:52,11535,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,451
+3:12:53,3:14:02,11573,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,452
+3:14:02,3:14:02,11642,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,G,453
+3:14:02,3:14:34,11642,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,454
+3:14:34,3:14:35,11674,Virginia La Forte,Board member,high,"chair: ""Director [La Forte] seconds"" (1:08:30) after this voice; called on first in the financial questions (1:41:55)",AC,455
+3:14:35,3:14:38,11675,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,456
+3:14:38,3:15:47,11678,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,457
+3:15:48,3:15:49,11748,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,Z,458
+3:15:49,3:15:50,11749,Audience,Calls from the audience,high,shout from the audience during the meeting,O,459
+3:15:50,3:15:55,11750,Rashelle Chase-Miller,Board Vice-Chair,high,"Armstrong: ""the frame that um Director [Chase-Miller] put forth"" (2:59:10) after this voice's process question; asks as the only remaining director",U,460
+3:15:55,3:15:56,11755,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,461
+3:15:56,3:15:58,11756,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,462
+3:15:59,3:15:59,11759,Audience,Calls from the audience,high,shout from the audience during the meeting,X,463
+3:16:02,3:16:04,11762,Rashelle Chase-Miller,Board Vice-Chair,high,"Armstrong: ""the frame that um Director [Chase-Miller] put forth"" (2:59:10) after this voice's process question; asks as the only remaining director",U,464
+3:16:04,3:16:05,11764,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,G,465
+3:16:05,3:16:27,11765,Rashelle Chase-Miller,Board Vice-Chair,high,"Armstrong: ""the frame that um Director [Chase-Miller] put forth"" (2:59:10) after this voice's process question; asks as the only remaining director",U,466
+3:16:27,3:16:27,11787,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,G,467
+3:16:28,3:16:32,11788,Rashelle Chase-Miller,Board Vice-Chair,high,"Armstrong: ""the frame that um Director [Chase-Miller] put forth"" (2:59:10) after this voice's process question; asks as the only remaining director",U,468
+3:16:33,3:16:56,11793,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,469
+3:16:56,3:16:58,11816,Virginia La Forte,Board member,high,"chair: ""Director [La Forte] seconds"" (1:08:30) after this voice; called on first in the financial questions (1:41:55)",AC,470
+3:16:58,3:16:58,11818,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,471
+3:16:59,3:17:03,11819,Virginia La Forte,Board member,high,"chair: ""Director [La Forte] seconds"" (1:08:30) after this voice; called on first in the financial questions (1:41:55)",AC,472
+3:17:05,3:17:55,11825,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,473
+3:17:55,3:17:56,11875,Jon Franco,Senior Chief of Operations,high,"self-introduction: ""My name is [Jon] Franco ... Senior Chief of Operations"" (2:09:10)",AA,474
+3:17:57,3:18:42,11877,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,475
+3:18:42,3:18:42,11922,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,M,476
+3:18:43,3:18:47,11923,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,477
+3:18:47,3:18:48,11927,Margaret Calvert,"Executive Director, School Planning and Modernization",high,"Franco: ""with me today is Margaret Calvert ... Margaret is going to uh walk us through ... the memo"" (2:09:10); this voice then presents",Z,478
+3:18:48,3:18:48,11928,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,G,479
+3:18:49,3:20:59,11929,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,480
+3:21:00,3:21:00,12060,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,E,481
+3:21:07,3:21:07,12067,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,C,482
+3:21:10,3:22:53,12070,Stephanie Engelsman,Board member,high,"Armstrong: ""Director Engelsman, that you're hoping to see"" (3:27:16) in reply to this voice; Intergovernmental Affairs member",R,483
+3:22:53,3:22:53,12173,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,C,484
+3:22:53,3:25:17,12173,Stephanie Engelsman,Board member,high,"Armstrong: ""Director Engelsman, that you're hoping to see"" (3:27:16) in reply to this voice; Intergovernmental Affairs member",R,485
+3:25:17,3:25:21,12317,Margaret Calvert,"Executive Director, School Planning and Modernization",high,"Franco: ""with me today is Margaret Calvert ... Margaret is going to uh walk us through ... the memo"" (2:09:10); this voice then presents",Z,486
+3:25:21,3:25:21,12321,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,Y,487
+3:25:21,3:25:45,12321,Margaret Calvert,"Executive Director, School Planning and Modernization",high,"Franco: ""with me today is Margaret Calvert ... Margaret is going to uh walk us through ... the memo"" (2:09:10); this voice then presents",Z,488
+3:25:46,3:25:56,12346,Stephanie Engelsman,Board member,high,"Armstrong: ""Director Engelsman, that you're hoping to see"" (3:27:16) in reply to this voice; Intergovernmental Affairs member",R,489
+3:25:57,3:25:57,12357,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,G,490
+3:25:58,3:26:02,12358,Stephanie Engelsman,Board member,high,"Armstrong: ""Director Engelsman, that you're hoping to see"" (3:27:16) in reply to this voice; Intergovernmental Affairs member",R,491
+3:26:02,3:26:14,12362,Margaret Calvert,"Executive Director, School Planning and Modernization",high,"Franco: ""with me today is Margaret Calvert ... Margaret is going to uh walk us through ... the memo"" (2:09:10); this voice then presents",Z,492
+3:26:15,3:26:16,12375,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,H,493
+3:26:16,3:27:16,12376,Margaret Calvert,"Executive Director, School Planning and Modernization",high,"Franco: ""with me today is Margaret Calvert ... Margaret is going to uh walk us through ... the memo"" (2:09:10); this voice then presents",Z,494
+3:27:16,3:27:30,12436,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,495
+3:27:32,3:27:43,12452,Stephanie Engelsman,Board member,high,"Armstrong: ""Director Engelsman, that you're hoping to see"" (3:27:16) in reply to this voice; Intergovernmental Affairs member",R,496
+3:27:44,3:27:46,12464,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,C,497
+3:27:46,3:27:47,12466,Margaret Calvert,"Executive Director, School Planning and Modernization",high,"Franco: ""with me today is Margaret Calvert ... Margaret is going to uh walk us through ... the memo"" (2:09:10); this voice then presents",Z,498
+3:27:47,3:27:59,12467,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,499
+3:27:59,3:28:00,12479,Stephanie Engelsman,Board member,high,"Armstrong: ""Director Engelsman, that you're hoping to see"" (3:27:16) in reply to this voice; Intergovernmental Affairs member",R,500
+3:28:00,3:28:04,12480,Margaret Calvert,"Executive Director, School Planning and Modernization",medium,"false start of Calvert's ""I'm hearing-"" (repeated in her next turn)",H+Z,501 502
+3:28:04,3:28:33,12484,Stephanie Engelsman,Board member,high,"Armstrong: ""Director Engelsman, that you're hoping to see"" (3:27:16) in reply to this voice; Intergovernmental Affairs member",R,503
+3:28:34,3:28:35,12514,Margaret Calvert,"Executive Director, School Planning and Modernization",high,"Franco: ""with me today is Margaret Calvert ... Margaret is going to uh walk us through ... the memo"" (2:09:10); this voice then presents",Z,504
+3:28:36,3:29:49,12516,Stephanie Engelsman,Board member,high,"Armstrong: ""Director Engelsman, that you're hoping to see"" (3:27:16) in reply to this voice; Intergovernmental Affairs member",R,505
+3:29:50,3:29:50,12590,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,W,506
+3:29:50,3:30:31,12590,Stephanie Engelsman,Board member,high,"Armstrong: ""Director Engelsman, that you're hoping to see"" (3:27:16) in reply to this voice; Intergovernmental Affairs member",R,507
+3:30:32,3:31:10,12632,Jon Franco,Senior Chief of Operations,high,"self-introduction: ""My name is [Jon] Franco ... Senior Chief of Operations"" (2:09:10)",AA,508
+3:31:11,3:31:12,12671,Stephanie Engelsman,Board member,high,"Armstrong: ""Director Engelsman, that you're hoping to see"" (3:27:16) in reply to this voice; Intergovernmental Affairs member",R,509
+3:31:12,3:31:32,12672,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,510
+3:31:33,3:31:45,12693,Stephanie Engelsman,Board member,high,"Armstrong: ""Director Engelsman, that you're hoping to see"" (3:27:16) in reply to this voice; Intergovernmental Affairs member",R,511
+3:31:45,3:31:46,12705,Jon Franco,Senior Chief of Operations,medium,"answer to Engelsman's readiness question about Glencoe and CRIS, addressed to Franco's facilities walkthroughs",B,512
+3:31:46,3:36:49,12706,Stephanie Engelsman,Board member,high,"Armstrong: ""Director Engelsman, that you're hoping to see"" (3:27:16) in reply to this voice; Intergovernmental Affairs member",R,513
+3:36:49,3:38:06,13009,Margaret Calvert,"Executive Director, School Planning and Modernization",high,"Franco: ""with me today is Margaret Calvert ... Margaret is going to uh walk us through ... the memo"" (2:09:10); this voice then presents",Z,514
+3:38:07,3:39:17,13087,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,515
+3:39:19,3:39:19,13159,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,B,516
+3:39:20,3:40:26,13160,Stephanie Engelsman,Board member,high,"Armstrong: ""Director Engelsman, that you're hoping to see"" (3:27:16) in reply to this voice; Intergovernmental Affairs member",R,517
+3:40:26,3:40:26,13226,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,B,518
+3:40:26,3:40:52,13226,Stephanie Engelsman,Board member,high,"Armstrong: ""Director Engelsman, that you're hoping to see"" (3:27:16) in reply to this voice; Intergovernmental Affairs member",R,519
+3:40:52,3:40:54,13252,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,AB+I,520 521
+3:40:56,3:45:28,13256,Michelle DePass,Board member,high,"chair: ""Director DePass seconds"" (0:53:54) after this voice; Armstrong: ""Thank you for that question, Director DePass"" (2:01:22)",W,522
+3:45:33,3:45:54,13533,Rose Sandell,Student representative,high,owner confirmed: student representative Rose Sandell asks her question,B+R+Z,523 524 525
+3:45:58,3:48:27,13558,Margaret Calvert,"Executive Director, School Planning and Modernization",high,"Franco: ""with me today is Margaret Calvert ... Margaret is going to uh walk us through ... the memo"" (2:09:10); this voice then presents",Z,526
+3:48:28,3:49:01,13708,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,527
+3:49:01,3:49:01,13741,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,AB,528
+3:49:02,3:49:10,13742,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,529
+3:49:16,3:49:16,13756,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,E,530
+3:49:16,3:49:23,13756,Virginia La Forte,Board member,high,"chair: ""Director [La Forte] seconds"" (1:08:30) after this voice; called on first in the financial questions (1:41:55)",AC,531
+3:49:23,3:49:24,13763,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,532
+3:49:24,3:50:43,13764,Virginia La Forte,Board member,high,"chair: ""Director [La Forte] seconds"" (1:08:30) after this voice; called on first in the financial questions (1:41:55)",AC,533
+3:50:43,3:50:44,13843,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,Q,534
+3:50:46,3:52:59,13846,Virginia La Forte,Board member,high,"chair: ""Director [La Forte] seconds"" (1:08:30) after this voice; called on first in the financial questions (1:41:55)",AC,535
+3:53:01,3:53:04,13981,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,536
+3:53:04,3:53:05,13984,Virginia La Forte,Board member,high,"chair: ""Director [La Forte] seconds"" (1:08:30) after this voice; called on first in the financial questions (1:41:55)",AC,537
+3:53:09,3:53:29,13989,Michelle DePass,Board member,high,"chair: ""Director DePass seconds"" (0:53:54) after this voice; Armstrong: ""Thank you for that question, Director DePass"" (2:01:22)",W,538
+3:53:30,3:53:31,14010,Virginia La Forte,Board member,high,"chair: ""Director [La Forte] seconds"" (1:08:30) after this voice; called on first in the financial questions (1:41:55)",AC,539
+3:53:31,3:53:57,14011,Michelle DePass,Board member,high,"chair: ""Director DePass seconds"" (0:53:54) after this voice; Armstrong: ""Thank you for that question, Director DePass"" (2:01:22)",W,540
+3:53:58,3:54:20,14038,Rashelle Chase-Miller,Board Vice-Chair,high,"Armstrong: ""the frame that um Director [Chase-Miller] put forth"" (2:59:10) after this voice's process question; asks as the only remaining director",U,541
+3:54:22,3:54:37,14062,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,542
+3:54:37,3:56:10,14077,Liz Large,Contracted senior legal counsel,high,"chair: ""I'll let Liz chime in"" (4:07:17) and this voice answers on outside counsel; same voice advises on the amendment process (3:54:37)",P,543
+3:56:10,3:56:53,14170,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,544
+3:56:54,3:56:58,14214,Liz Large,Contracted senior legal counsel,high,"chair: ""I'll let Liz chime in"" (4:07:17) and this voice answers on outside counsel; same voice advises on the amendment process (3:54:37)",P,545
+3:57:00,3:57:06,14220,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,546
+3:57:07,3:57:21,14227,Liz Large,Contracted senior legal counsel,high,"chair: ""I'll let Liz chime in"" (4:07:17) and this voice answers on outside counsel; same voice advises on the amendment process (3:54:37)",P,547
+3:57:23,3:57:32,14243,Stephanie Engelsman,Board member,high,"Armstrong: ""Director Engelsman, that you're hoping to see"" (3:27:16) in reply to this voice; Intergovernmental Affairs member",R,548
+3:57:32,3:57:53,14252,Liz Large,Contracted senior legal counsel,high,"chair: ""I'll let Liz chime in"" (4:07:17) and this voice answers on outside counsel; same voice advises on the amendment process (3:54:37)",P,549
+3:57:54,3:58:02,14274,Stephanie Engelsman,Board member,high,"Armstrong: ""Director Engelsman, that you're hoping to see"" (3:27:16) in reply to this voice; Intergovernmental Affairs member",R,550
+3:58:02,3:58:04,14282,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",medium,vendor tag C (Splitt),C,551
+3:58:04,3:58:05,14284,Stephanie Engelsman,Board member,high,"Armstrong: ""Director Engelsman, that you're hoping to see"" (3:27:16) in reply to this voice; Intergovernmental Affairs member",R,552
+3:58:05,3:58:05,14285,Virginia La Forte,Board member,high,"chair: ""Director [La Forte] seconds"" (1:08:30) after this voice; called on first in the financial questions (1:41:55)",AC,553
+3:58:06,3:58:06,14286,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,B,554
+3:58:08,3:58:27,14288,Virginia La Forte,Board member,high,"chair: ""Director [La Forte] seconds"" (1:08:30) after this voice; called on first in the financial questions (1:41:55)",AC,555
+3:58:29,3:58:59,14309,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,556
+3:59:00,3:59:01,14340,Virginia La Forte,Board member,high,"chair: ""Director [La Forte] seconds"" (1:08:30) after this voice; called on first in the financial questions (1:41:55)",AC,557
+3:59:02,3:59:14,14342,Michelle DePass,Board member,high,"chair: ""Director DePass seconds"" (0:53:54) after this voice; Armstrong: ""Thank you for that question, Director DePass"" (2:01:22)",W,558
+3:59:14,3:59:15,14354,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,559
+3:59:16,3:59:17,14356,Michelle DePass,Board member,high,"chair: ""Director DePass seconds"" (0:53:54) after this voice; Armstrong: ""Thank you for that question, Director DePass"" (2:01:22)",W,560
+3:59:18,3:59:26,14358,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,561
+3:59:27,3:59:30,14367,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,562
+3:59:30,3:59:31,14370,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,X,563
+3:59:32,3:59:38,14372,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,564
+3:59:41,3:59:42,14381,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,565
+3:59:43,4:00:33,14383,Stephanie Engelsman,Board member,high,"Armstrong: ""Director Engelsman, that you're hoping to see"" (3:27:16) in reply to this voice; Intergovernmental Affairs member",R,566
+4:00:33,4:01:06,14433,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,567
+4:01:07,4:01:10,14467,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,owner confirmed: Splitt notes the Dec 8 executive-session hold,C,568
+4:01:10,4:01:23,14470,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,569
+4:01:29,4:01:33,14489,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,570
+4:01:34,4:01:34,14494,Virginia La Forte,Board member,high,"chair: ""Director [La Forte] seconds"" (1:08:30) after this voice; called on first in the financial questions (1:41:55)",AC,571
+4:01:34,4:01:37,14494,Stephanie Engelsman,Board member,high,"Armstrong: ""Director Engelsman, that you're hoping to see"" (3:27:16) in reply to this voice; Intergovernmental Affairs member",R,572
+4:01:38,4:01:39,14498,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,573
+4:01:39,4:01:39,14499,Stephanie Engelsman,Board member,high,"Armstrong: ""Director Engelsman, that you're hoping to see"" (3:27:16) in reply to this voice; Intergovernmental Affairs member",R,574
+4:01:39,4:01:40,14499,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,575
+4:01:40,4:01:41,14500,Stephanie Engelsman,Board member,high,"Armstrong: ""Director Engelsman, that you're hoping to see"" (3:27:16) in reply to this voice; Intergovernmental Affairs member",R,576
+4:01:41,4:01:46,14501,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,577
+4:01:47,4:01:48,14507,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",medium,vendor tag C (Splitt),C,578
+4:01:49,4:02:42,14509,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,579
+4:02:42,4:02:42,14562,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,E,580
+4:02:42,4:02:51,14562,Virginia La Forte,Board member,high,"chair: ""Director [La Forte] seconds"" (1:08:30) after this voice; called on first in the financial questions (1:41:55)",AC,581
+4:02:51,4:02:58,14571,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,582
+4:02:58,4:02:59,14578,Patte Sullivan,Board member,medium,vendor tag AB,AB,583
+4:02:59,4:03:01,14579,Stephanie Engelsman,Board member,high,"Armstrong: ""Director Engelsman, that you're hoping to see"" (3:27:16) in reply to this voice; Intergovernmental Affairs member",R,584
+4:03:03,4:03:04,14583,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,585
+4:03:04,4:03:09,14584,Virginia La Forte,Board member,high,"chair: ""Director [La Forte] seconds"" (1:08:30) after this voice; called on first in the financial questions (1:41:55)",AC,586
+4:03:09,4:03:10,14589,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,T,587
+4:03:10,4:03:11,14590,Virginia La Forte,Board member,high,"chair: ""Director [La Forte] seconds"" (1:08:30) after this voice; called on first in the financial questions (1:41:55)",AC,588
+4:03:11,4:03:22,14591,Stephanie Engelsman,Board member,high,"Armstrong: ""Director Engelsman, that you're hoping to see"" (3:27:16) in reply to this voice; Intergovernmental Affairs member",R,589
+4:03:22,4:03:37,14602,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,590
+4:03:37,4:03:43,14617,Stephanie Engelsman,Board member,high,"Armstrong: ""Director Engelsman, that you're hoping to see"" (3:27:16) in reply to this voice; Intergovernmental Affairs member",R,591
+4:03:44,4:03:45,14624,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,AB,592
+4:03:46,4:04:23,14626,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,593
+4:04:23,4:04:24,14663,Patte Sullivan,Board member,high,"chair: ""Director Sullivan seconds"" (1:07:25) after this voice; called on as Director Sullivan (2:47:44)",AB,594
+4:04:25,4:04:30,14665,Kimberlee Armstrong,Superintendent,high,"chair hands items to ""Superintendent Armstrong"" and this voice introduces them; speaks as superintendent throughout",V,595
+4:04:30,4:04:36,14670,Michelle DePass,Board member,high,"chair: ""Director DePass seconds"" (0:53:54) after this voice; Armstrong: ""Thank you for that question, Director DePass"" (2:01:22)",W,596
+4:04:38,4:04:41,14678,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,597
+4:04:41,4:04:43,14681,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,598
+4:04:43,4:04:45,14683,Virginia La Forte,Board member,high,"chair: ""Director [La Forte] seconds"" (1:08:30) after this voice; called on first in the financial questions (1:41:55)",AC,599
+4:04:48,4:05:46,14688,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,600
+4:05:46,4:06:25,14746,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,601
+4:06:25,4:06:25,14785,Unidentified,Speaker not identifiable from the recording,medium,short remark; voice not identifiable,Q,602
+4:06:25,4:06:41,14785,Christy Splitt,"Board member; chair, Intergovernmental Affairs Committee",high,"chair: ""Director [Splitt] moves"" (1:07:25) after this voice; presents the legislative-agenda amendment; addressed as Director [Splitt] (2:27:03)",C,603
+4:06:41,4:07:21,14801,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,604
+4:07:23,4:07:53,14843,Liz Large,Contracted senior legal counsel,high,"chair: ""I'll let Liz chime in"" (4:07:17) and this voice answers on outside counsel; same voice advises on the amendment process (3:54:37)",P,605
+4:07:54,4:08:05,14874,Eddie Wang,Board Chair,high,"chair: opens the meeting, calls speakers and votes throughout; first speaker confirmed as Wang by the repository owner",A,606

@@ -1,0 +1,19 @@
+[
+ {
+  "file": "2026-11-17_hbSByH9nzfA.paragraphs.json",
+  "video_id": "hbSByH9nzfA",
+  "video_url": "https://www.youtube.com/watch?v=hbSByH9nzfA",
+  "video_title": "2026-11-17 Board of Education Work Session",
+  "video_length_s": 14888,
+  "boardbook_meeting": "2026-11-17|777711",
+  "format": "JSON {paragraphs:[{text,start,end,confidence,words:[{text,start,end (ms into the video),confidence,speaker}]}], id, confidence, audio_duration, speech_model_used}. 551 paragraphs, 38,300 words. Speaker tags are the vendor's automatic letters (A-Z, AA-AD), reused for different people.",
+  "provenance": "Speech-to-text paragraph export supplied by the repository owner in chat on 2026-11-18 as '0b6acb1a-paragraphs.json'. Not fetched by us; speech model 'assemblyai-stt-3-7'. Title from YouTube oEmbed 2026-11-18.",
+  "received": "2026-11-18",
+  "sha256": "123f082f6d563d0b8bf244aa10023916418d5bd9138f9e274169e32e8187831b",
+  "derived": [
+   "sources/youtube/transcripts/2026-11-17_hbSByH9nzfA.{txt,tsv,meta.json}: the same words regrouped into caption-length lines (no speaker tags)",
+   "analysis/speaker_transcripts/2026-11-17_hbSByH9nzfA.txt: speaker-labeled turns with every speaker re-checked (evidence in the CSVs next to it)"
+  ],
+  "privacy": "Three child commenters (a Creston 2nd grader, a Lewis 4th grader and a Beach 5th grader) say or are introduced by name (0:04:06-0:05:31, 0:30:46). This raw export is kept unaltered as primary material; every derived file (caption copy, speaker transcript, artifact pages, correction log) replaces their names with [student name]."
+ }
+]

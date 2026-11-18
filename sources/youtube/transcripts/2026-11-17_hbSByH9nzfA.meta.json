@@ -1,0 +1,23 @@
+{
+ "id": "hbSByH9nzfA",
+ "fetched_at": "2026-11-18T17:00:00Z",
+ "meta": {
+  "videoId": "hbSByH9nzfA",
+  "title": "2026-11-17 Board of Education Work Session",
+  "lengthSeconds": "14888",
+  "author": "PPS Board of Education",
+  "uploadDate": "2026-11-17"
+ },
+ "meetings": "2026-11-17|777711",
+ "caption_kind": "vendor_stt",
+ "caption_lang": "en",
+ "n_lines": 3664,
+ "fetch_method": "Word-level speech-to-text paragraph export with automatic speaker tags (paragraphs.json, model assemblyai-stt-3-7), supplied by the repository owner 2026-11-18; raw file archived at sources/youtube/vendor_transcripts/2026-11-17_hbSByH9nzfA.paragraphs.json. Title from YouTube oEmbed 2026-11-18; length = the export's audio_duration. Child commenters' names are redacted in this copy.",
+ "url": "https://www.youtube.com/watch?v=hbSByH9nzfA",
+ "boardbook_meetings": [
+  [
+   "2026-11-17",
+   "777711"
+  ]
+ ]
+}
