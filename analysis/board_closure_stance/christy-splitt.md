@@ -1,4 +1,4 @@
-# Christy Splitt: closure stance (Jan 2025 to Oct 2026)
+# Christy Splitt: closure stance (Jan 2025 to Nov 2026)
 
 - **Zone 1 (SW Portland).** Appointed Jan 13, 2025 to fill Andrew Scott's vacancy [BB:3996229 p.3](https://meetings.boardbook.org/Documents/DownloadPDF/3996229?org=915#page=3). Elected May 2025; the roster lists her term as 7/2025–6/2027. Former high-school civics teacher; works in state government/legislative affairs (see `analysis/people/christy-splitt.md`).
 - **Roles relevant here:**
@@ -7,7 +7,46 @@
   - Chair of the Intergovernmental Affairs Committee for 2026-27 [MTG:2026-09-01/763670](https://meetings.boardbook.org/Public/Agenda/915?meeting=763670).
 - **Leaving the board:** "I guess I'm saying you know I'm I'm not planning to run again." [YT:j9PzUvPpSVA@4:21:19](https://www.youtube.com/watch?v=j9PzUvPpSVA&t=15679s)
 
-## Bottom line
+
+## Where she stands now (updated Nov 19, 2026)
+
+**Current score: 0 (unchanged). Range −1 to +1. Likely Dec 15 vote: yes if the amendments she cares about (DLI timing, focus options, one or more schools) are taken up; otherwise no.**
+
+*Context since Oct 20:* the Nov 4 feedback meeting; the Nov 9 Facilities (FIO) and Nov 10 Teaching, Learning and Enrollment (TLE) committees; the Nov 13 special meeting on Signal use (4–3 on which draft to start from, then 7–0) [MTG:2026-11-13/777890](https://meetings.boardbook.org/Public/Agenda/915?meeting=777890); the superintendent's recommendation, posted Nov 13 (10 elementary closures over two years plus the East Sylvan building; Maplewood, Stephenson, James John and Sellwood MS dropped; net recurring savings about $10.2M) [BB:14695483 p.2](https://meetings.boardbook.org/Documents/DownloadPDF/14695483?org=915#page=2) [BB:14695483 p.3](https://meetings.boardbook.org/Documents/DownloadPDF/14695483?org=915#page=3); and the Nov 17 work session [MTG:2026-11-17/777711](https://meetings.boardbook.org/Public/Agenda/915?meeting=777711). Amendments are due Nov 30, the board discusses them Dec 1, and the vote is Dec 15 [YT:hbSByH9nzfA@4:01:49](https://www.youtube.com/watch?v=hbSByH9nzfA&t=14509s) [BB:14695483 p.4](https://meetings.boardbook.org/Documents/DownloadPDF/14695483?org=915#page=4).
+
+**Her own plan, and how the recommendation compares.** Her draft "Scenario D" merges the smallest schools. She says it cuts the number of buildings projected at 250 or fewer students from 16 to four [BRD:splitt/2026-11-17_splitt_scenario_d_draft.pdf p.1](https://github.com/timaelliott/save-our-schools/blob/main/sources/board_members/splitt/2026-11-17_splitt_scenario_d_draft.pdf). Every building in her plan is also in the recommendation (Creston, Woodmere, Peninsula, Irvington, Buckman and East Sylvan), but the recommendation adds Beach, Sabin, Lewis, Marysville and Rose City Park, and it sends Creston to Atkinson rather than Arleta (`analysis/topics/scenario_d_splitt.md`). The Oregonian editorial board backed her smaller, phased approach on Nov 1 [NEWS:NEWS-20261101-oregonian-1](https://www.oregonlive.com/opinion/2026/11/editorial-pps-must-close-schools-but-owes-families-a-clearer-vision.html).
+
+**Strongest statements for and against**
+- *For (Oct 20 memo):* "Changes are necessary now, especially given past inaction to address declining enrollment" [NEWS:NEWS-20261020-oregonian-1](https://www.oregonlive.com/education/2026/10/2-portland-public-schools-board-members-pitch-alternatives-to-closing-14-schools.html).
+- *Against the scale (Nov 10):* "it's no secret that I would support a significantly smaller number of mergers and changes, and in part today's conversation illustrated why." [YT:V6r7UqxJ53s@2:10:03](https://www.youtube.com/watch?v=V6r7UqxJ53s&t=7803s)
+- *Against the DLI timeline (Nov 10):* "what would be the harm in doing something like doing— taking a year to have more engagement and get these questions and figure it out?" [YT:V6r7UqxJ53s@2:51:26](https://www.youtube.com/watch?v=V6r7UqxJ53s&t=10286s); "maybe there's like a phased or gradual approach or something like that here that, that could work better maybe" [YT:V6r7UqxJ53s@2:55:28](https://www.youtube.com/watch?v=V6r7UqxJ53s&t=10528s); "the hub model might work really well, and at the same time, people want to be in their neighborhood schools." [YT:V6r7UqxJ53s@2:56:42](https://www.youtube.com/watch?v=V6r7UqxJ53s&t=10602s)
+- *On DLI equity (Nov 17):* "if we are over-serving affluent white families in our DLI programs instead of them being what they're supposed to be, which is serving our multilingual learners, that's a concern of mine." She plans a resolution on focus options [YT:hbSByH9nzfA@2:44:24](https://www.youtube.com/watch?v=hbSByH9nzfA&t=9864s).
+- *On fit (Nov 4):* "I think we're three classrooms short on being able to have three sections K through five." (her own school) [YT:9kX3vnfRlvY@4:01:54](https://www.youtube.com/watch?v=9kX3vnfRlvY&t=14514s). *On receiving communities:* "none of those families even knew" their students would move [YT:9kX3vnfRlvY@4:08:13](https://www.youtube.com/watch?v=9kX3vnfRlvY&t=14893s).
+- *Floor plans (Nov 17):* "I made my own floor plan of my own- of a school in my backyard to figure it out" [YT:hbSByH9nzfA@2:44:24](https://www.youtube.com/watch?v=hbSByH9nzfA&t=9864s). She asked about capacity at Chief Joseph, Atkinson and Vestal if more students arrive than expected [YT:hbSByH9nzfA@2:34:57](https://www.youtube.com/watch?v=hbSByH9nzfA&t=9297s), and about Title I class sizes [YT:hbSByH9nzfA@2:28:44](https://www.youtube.com/watch?v=hbSByH9nzfA&t=8924s).
+- *Amendment process (Nov 17):* "I don't want on the first to be restricted from talking about possible amendments." [YT:hbSByH9nzfA@3:08:13](https://www.youtube.com/watch?v=hbSByH9nzfA&t=11293s); "I just am a little worried about having a requirement that the whole board have to say that we can get that amendment vetted." [YT:hbSByH9nzfA@3:16:33](https://www.youtube.com/watch?v=hbSByH9nzfA&t=11793s); "my job tonight is to ask questions, and we'll be holding forth on thoughts and ideas, etc., on December 1st" [YT:hbSByH9nzfA@2:41:27](https://www.youtube.com/watch?v=hbSByH9nzfA&t=9687s).
+- *State funding:* her amendment strengthening the 2027 legislative agenda passed 7–0 [YT:hbSByH9nzfA@1:08:31](https://www.youtube.com/watch?v=hbSByH9nzfA&t=4111s) [YT:hbSByH9nzfA@1:21:35](https://www.youtube.com/watch?v=hbSByH9nzfA&t=4895s).
+- *Signal:* "I actually am interested to see if the board also has records that did not get protected or kept," [NEWS:NEWS-20261113-wweek-1](https://www.wweek.com/news/schools/2026/11/13/portland-school-board-unanimously-authorizes-inquiry-into-signal-usage-at-pps/). She raised adding the board to the inquiry again on Nov 17 [YT:hbSByH9nzfA@4:05:46](https://www.youtube.com/watch?v=hbSByH9nzfA&t=14746s).
+
+**What matters most to her now**
+1. Will it fit: floor plans, receiving-school capacity, class sizes at Title I schools.
+2. Focus options and DLI: lottery caps, who DLI serves, and a slower hub transition.
+3. Fewer, phased changes (her own six-building plan).
+4. State funding and transparency.
+
+**Weak points (Analysis)**
+- *The gap between her plan and the recommendation is five schools.* Her "significantly smaller" stance now means naming which of Beach, Sabin, Lewis, Marysville and Rose City Park should stay open. An earlier version of her plan merged Sabin into King [NEWS:NEWS-20261027-opb-1](https://www.opb.org/article/2026/10/27/oregon-portland-public-schools-salem-keizer/), so Sabin is a hard case for her to oppose.
+- *DLI delay conflicts with "changes are necessary now".* A one-year DLI pause would also hold back the César Chávez, Rigler and Lent hubs that the North Portland moves depend on [BB:14695483 p.24](https://meetings.boardbook.org/Documents/DownloadPDF/14695483?org=915#page=24).
+- *Home-area exposure is gone.* The recommendation makes no West-side changes [BB:14695483 p.3](https://meetings.boardbook.org/Documents/DownloadPDF/14695483?org=915#page=3). That removes her "surreal" home-school concern ("I'm trying really hard not to bring up the school I know best" [YT:V6r7UqxJ53s@2:10:03](https://www.youtube.com/watch?v=V6r7UqxJ53s&t=7803s)), and it also removes a reason she had to vote no.
+- *"Over-serving affluent white families" is a hypothesis.* She asked staff whether the 1/3, 1/3, 1/3 model is holding [YT:hbSByH9nzfA@2:44:24](https://www.youtube.com/watch?v=hbSByH9nzfA&t=9864s). The archive has no answer yet.
+
+**Contradictions (new since October)**
+1. *"Necessary now" vs "taking a year" on DLI.* The Oct 20 memo [NEWS:NEWS-20261020-oregonian-1](https://www.oregonlive.com/education/2026/10/2-portland-public-schools-board-members-pitch-alternatives-to-closing-14-schools.html) and the Nov 10 question [YT:V6r7UqxJ53s@2:51:26](https://www.youtube.com/watch?v=V6r7UqxJ53s&t=10286s) are scoped differently (whole plan vs DLI only), but they pull in opposite directions.
+2. *Smaller plan, same schools.* "Significantly smaller" (Nov 10) sits beside a recommendation that contains every school she proposed to merge.
+3. *Floor plans.* Staff said on Nov 4 that every receiving site was walked [YT:9kX3vnfRlvY@4:03:31](https://www.youtube.com/watch?v=9kX3vnfRlvY&t=14611s). She still asks for the floor plans to check it herself.
+
+**Read for Dec 15 (Analysis):** about even (50%). The recommendation moved toward her plan; her remaining objections are to DLI timing, focus options and a few schools. If the board takes up her focus-options resolution and at least one school change, a yes is plausible.
+
+## Bottom line (October 2026)
 
 **Current (Oct 2026) score: −1 (range −2 to +1).** She says some closures are needed, but she has called the A/B packages "just too much" (14 or 11 closures; 24–27% of K–8 students move). She is most likely to vote yes on a package cut toward Scenario B or below that changes the West-side plan, and most likely to vote no on Scenario A as presented.
 
@@ -76,6 +115,14 @@ Scores answer: "If the Dec 15, 2026 vote were held that day, how likely is she t
 | 2026-10-20 | Her own plan: "Really, I wanted to see like what's a neutral way that we can have a fewer number of buildings closed and a smaller number of students experiencing change at once" [YT:xByUlijpcnE@4:55:29](https://www.youtube.com/watch?v=xByUlijpcnE&t=17729s); "So the number is 6 buildings closing or merging into other schools for that particular reason." [YT:xByUlijpcnE@5:02:25](https://www.youtube.com/watch?v=xByUlijpcnE&t=18145s) | 0 | **Shift:** from objecting to authoring a smaller closure package. Yes on about 6, no on 14/11. |
 | 2026-10-20 | "I think that our smallest schools, frankly, they cost the district more. And at the same time, I don't think the students there benefit from being in the smaller schools." [YT:xByUlijpcnE@4:57:17](https://www.youtube.com/watch?v=xByUlijpcnE&t=17837s) | +1 | Endorses closing the smallest schools on cost and student grounds. |
 | 2026-10-20 | Oregonian, from her memo: closes six elementaries forecast at 250 or fewer (Creston, Buckman, Woodmere, Sabin, Irvington, Peninsula); "Changes are necessary now, especially given past inaction to address declining enrollment" [NEWS:NEWS-20261020-oregonian-1](https://www.oregonlive.com/education/2026/10/2-portland-public-schools-board-members-pitch-alternatives-to-closing-14-schools.html) | 0 | Names her six; reported as a likely no on A or B. |
+| 2026-10-27 | OPB lays out her Scenario D: five mergers plus East Sylvan, about 10% of students moving vs 27% under A; she says staff have not vetted it [NEWS:NEWS-20261027-opb-1](https://www.opb.org/article/2026/10/27/oregon-portland-public-schools-salem-keizer/) [BRD:splitt/2026-11-17_splitt_scenario_d_draft.pdf p.1](https://github.com/timaelliott/save-our-schools/blob/main/sources/board_members/splitt/2026-11-17_splitt_scenario_d_draft.pdf) | **0** | Her own smaller closure package |
+| 2026-11-01 | Oregonian editorial backs her smaller, phased approach [NEWS:NEWS-20261101-oregonian-1](https://www.oregonlive.com/opinion/2026/11/editorial-pps-must-close-schools-but-owes-families-a-clearer-vision.html) | n/s | Outside endorsement; not scored |
+| 2026-11-04 | "I think we're three classrooms short on being able to have three sections K through five." [YT:9kX3vnfRlvY@4:01:54](https://www.youtube.com/watch?v=9kX3vnfRlvY&t=14514s); receiving families: "none of those families even knew" [YT:9kX3vnfRlvY@4:08:13](https://www.youtube.com/watch?v=9kX3vnfRlvY&t=14893s) | **0** | Fit and engagement concerns |
+| 2026-11-10 | TLE: "it's no secret that I would support a significantly smaller number of mergers and changes" [YT:V6r7UqxJ53s@2:10:03](https://www.youtube.com/watch?v=V6r7UqxJ53s&t=7803s) | **−1** | Scale objection |
+| 2026-11-10 | TLE, DLI: "what would be the harm in doing something like doing— taking a year to have more engagement" [YT:V6r7UqxJ53s@2:51:26](https://www.youtube.com/watch?v=V6r7UqxJ53s&t=10286s); "phased or gradual approach" [YT:V6r7UqxJ53s@2:55:28](https://www.youtube.com/watch?v=V6r7UqxJ53s&t=10528s) | **−1** | Asks to delay the DLI piece |
+| 2026-11-13 | Signal special meeting: yes on starting from the independent draft (4–3); sought to include board records; yes on the final (7–0) [NEWS:NEWS-20261113-wweek-1](https://www.wweek.com/news/schools/2026/11/13/portland-school-board-unanimously-authorizes-inquiry-into-signal-usage-at-pps/) | n/s | Not a closure vote; not scored |
+| 2026-11-17 | "if we are over-serving affluent white families in our DLI programs instead of them being what they're supposed to be, which is serving our multilingual learners, that's a concern of mine." [YT:hbSByH9nzfA@2:44:24](https://www.youtube.com/watch?v=hbSByH9nzfA&t=9864s) | **0** | Plans a focus-options resolution |
+| 2026-11-17 | "I just am a little worried about having a requirement that the whole board have to say that we can get that amendment vetted." [YT:hbSByH9nzfA@3:16:33](https://www.youtube.com/watch?v=hbSByH9nzfA&t=11793s) | **0** | Defends the right to amend |
 
 **Unconfirmed (low-confidence attributions in `quotes_all.jsonl`; not used above):**
 - 2025-03-18: Jackson "has a surplus of space" [YT:XENAU3DUf5g@1:41:31](https://www.youtube.com/watch?v=XENAU3DUf5g&t=6091s).
@@ -226,16 +273,9 @@ Counts are on-record statements found in this review (quote file plus transcript
 
 ## Watch items before 12/15
 
-- **10/13 TLE (DLI hubs, middle grades; she is a member).** Listen for whether she pushes K-8→K-5 conversions and focus-option limits as alternatives to closures, or treats them as additions.
-- **10/20 regular meeting.** It includes an executive session on the real-estate portfolio [YT:zOUH2Jq7Owo@4:20:48](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=15648s). Listen for any public answer on Hayhurst housing yield, or a West-side early-learning site.
-- **HR/labor talks on educator placement.** Staff expect results "before the board's final vote" [YT:zOUH2Jq7Owo@3:45:19](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=13519s). Educator retention is her core pro-rightsizing reason.
-- **11/4 FIO and 11/10 TLE.** These come before the recommendation.
-- **11/17 superintendent recommendation, fiscal impact statement and staffing for impacted schools** [YT:zOUH2Jq7Owo@3:46:02](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=13562s). Listen for:
-  - whether the count moves toward B or below;
-  - whether Maplewood and Stephenson stay on the list, and what the Hayhurst, Markham and Capitol Hill capacity numbers are;
-  - whether any school is added (her red line);
-  - whether a transition-plan template is included.
-  - Her first reaction will likely signal whether she has reached "middle ground".
-- **12/15 vote.** Armstrong said the board can accept, amend, or "defer this work to a later time" [YT:zOUH2Jq7Owo@3:11:39](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11499s).
-  - Analysis: Splitt has never asked to defer; in March she wanted it closed by December. An amendment from her to remove a school, rather than a deferral motion, is the more likely form of her dissent.
-- **Release of her 'small schools' plan** after staff vet it [YT:xByUlijpcnE@4:57:57](https://www.youtube.com/watch?v=xByUlijpcnE&t=17877s). Watch whether the Nov 17 recommendation adopts any of it (6 closures, Sunnyside/Bridger strands, phasing), and whether other directors (Engelsman, La Forte) sign on.
+*(Updated Nov 19, 2026. The October items have happened; see the update above.)*
+- **Nov 30 amendments.** Her focus-options resolution [YT:hbSByH9nzfA@2:44:24](https://www.youtube.com/watch?v=hbSByH9nzfA&t=9864s), any DLI timing amendment, and whether she names a school (Beach, Sabin, Lewis, Marysville or Rose City Park) to remove.
+- **Dec 1.** She said she will be "holding forth" then [YT:hbSByH9nzfA@2:41:27](https://www.youtube.com/watch?v=hbSByH9nzfA&t=9687s). This is the first time she will state a position on the recommendation itself.
+- **Floor plans and capacity** (Chief Joseph, Atkinson, Vestal) [YT:hbSByH9nzfA@2:34:57](https://www.youtube.com/watch?v=hbSByH9nzfA&t=9297s). If staff provide them and they work, one of her main objections falls away.
+- **Dec 2 TLE** (she is a member) and the board-records addition to the Signal inquiry [YT:hbSByH9nzfA@4:05:46](https://www.youtube.com/watch?v=hbSByH9nzfA&t=14746s).
+- **Dec 15.** A yes from her would make the outcome 5–2 or better.

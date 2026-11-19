@@ -1,4 +1,4 @@
-# Michelle DePass: closure stance, Jan 2025 to Oct 2026
+# Michelle DePass: closure stance, Jan 2025 to Nov 2026
 
 - **Seat:** Zone 2 director. Her pps.net term is listed as "7/2023 - 6/2027" (`analysis/people/_roster_from_web.md`), so the seat is on the May 2027 ballot. Four seats are up then [NEWS:NEWS-20260630-wweek-1](https://www.wweek.com/news/schools/2026/06/30/a-tense-pps-budget-approval-has-divided-the-districtand-could-alter-the-school-board/).
 - **Roles:**
@@ -11,7 +11,46 @@
   - Describes herself as a Black student who "moved around a lot" [YT:3sggkeHNIVk@1:06:03](https://www.youtube.com/watch?v=3sggkeHNIVk&t=3963s) and as one of seven children [YT:uAf7l-ChjFo@4:02:27](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=14547s).
   - Works in climate and housing policy for the City (roster).
 
-## Bottom line
+
+## Where she stands now (updated Nov 19, 2026)
+
+**Current score: +2 (unchanged). Range +1.5 to +2. Likely Dec 15 vote: yes. She may bring one or two building-specific amendments.**
+
+*Context since Oct 20:* the Nov 4 feedback meeting; the Nov 9 Facilities (FIO) and Nov 10 Teaching, Learning and Enrollment (TLE) committees; the Nov 13 special meeting on Signal use (4–3 on which draft to start from, then 7–0) [MTG:2026-11-13/777890](https://meetings.boardbook.org/Public/Agenda/915?meeting=777890); the superintendent's recommendation, posted Nov 13 (10 elementary closures over two years plus the East Sylvan building; Maplewood, Stephenson, James John and Sellwood MS dropped; net recurring savings about $10.2M) [BB:14695483 p.2](https://meetings.boardbook.org/Documents/DownloadPDF/14695483?org=915#page=2) [BB:14695483 p.3](https://meetings.boardbook.org/Documents/DownloadPDF/14695483?org=915#page=3); and the Nov 17 work session [MTG:2026-11-17/777711](https://meetings.boardbook.org/Public/Agenda/915?meeting=777711). Amendments are due Nov 30, the board discusses them Dec 1, and the vote is Dec 15 [YT:hbSByH9nzfA@4:01:49](https://www.youtube.com/watch?v=hbSByH9nzfA&t=14509s) [BB:14695483 p.4](https://meetings.boardbook.org/Documents/DownloadPDF/14695483?org=915#page=4).
+
+**Strongest statements for closing schools**
+- Nov 17: "I think it's just like, morally, we have to do something different. Um, we have to do something different if we expect different results." [YT:hbSByH9nzfA@3:40:56](https://www.youtube.com/watch?v=hbSByH9nzfA&t=13256s)
+- Nov 17, on who is heard: "we generally do not hear from people who have children um that have special education needs, um people experiencing poverty." and "We hear a lot of uh we hear a lot of privileged voices" [YT:hbSByH9nzfA@3:40:56](https://www.youtube.com/watch?v=hbSByH9nzfA&t=13256s)
+- Nov 17, on the launch of a new education policy center at Lewis & Clark: "everyone that I talked to came up and said, thank you for being courageous." [YT:hbSByH9nzfA@3:40:56](https://www.youtube.com/watch?v=hbSByH9nzfA&t=13256s)
+- Nov 17, answering Engelsman's "I assumed that we would work with experts" [YT:hbSByH9nzfA@3:31:46](https://www.youtube.com/watch?v=hbSByH9nzfA&t=12706s): she found it hard to hear staff told "that you're not experts in what you do. That was kind of jarring to hear for me." [YT:hbSByH9nzfA@3:40:56](https://www.youtube.com/watch?v=hbSByH9nzfA&t=13256s)
+- Nov 9, chairing FIO, on claims that receiving schools are too small: "Yeah, I hear this a lot, like, well, there's not enough height, there's not enough classrooms at that other school. Did you walk the school, or—" [YT:cyHU9UOQqvc@0:54:57](https://www.youtube.com/watch?v=cyHU9UOQqvc&t=3297s)
+
+**Her conditions and concerns**
+- Nov 17, implementation and the Southeast Guiding Coalition equity audit: "Schools scheduled to close in the first year, 3 are um led by principals of color, so about 60%." She asked how those administrators will be supported and retained [YT:hbSByH9nzfA@3:40:56](https://www.youtube.com/watch?v=hbSByH9nzfA&t=13256s).
+- Nov 17, amendments: "you think this binder is big, a binder of amendments" [YT:hbSByH9nzfA@3:01:24](https://www.youtube.com/watch?v=hbSByH9nzfA&t=10884s); "I know that there's unintended consequences, cascading effects" [YT:hbSByH9nzfA@3:03:07](https://www.youtube.com/watch?v=hbSByH9nzfA&t=10987s). Then: "do we have an opportunity for the community to weigh in on those amendments, or are we just gonna go ahead and power through?" [YT:hbSByH9nzfA@3:59:02](https://www.youtube.com/watch?v=hbSByH9nzfA&t=14342s)
+- Nov 17, state funding: "That will get us to not enough, not enough. We need a lot more." [YT:hbSByH9nzfA@1:12:19](https://www.youtube.com/watch?v=hbSByH9nzfA&t=4339s)
+- Signal inquiry: on Nov 13 she voted against starting from the independent draft (4–3) [NEWS:NEWS-20261113-wweek-1](https://www.wweek.com/news/schools/2026/11/13/portland-school-board-unanimously-authorizes-inquiry-into-signal-usage-at-pps/). Splitt credits her with the email suggesting the board be added to the inquiry [YT:hbSByH9nzfA@4:06:25](https://www.youtube.com/watch?v=hbSByH9nzfA&t=14785s).
+- Not scored: a Lewis parent told OPB that DePass said a school visit would not be what changes her mind (the parent's recollection) [NEWS:NEWS-20261027-opb-1](https://www.opb.org/article/2026/10/27/oregon-portland-public-schools-salem-keizer/).
+
+**What matters most to her now**
+1. Focal students: poverty, special education, students of color, the "north star" she has named before.
+2. Courage against "privileged voices"; she treats delay as harm.
+3. Applying the Southeast Guiding Coalition equity audit: staffing disruption for administrators of color, and retention.
+4. An orderly amendment process, so the Dec 15 vote does not unravel.
+
+**Weak points (Analysis)**
+- *Her claim that focal families are not in the room is only partly true.* The archive records organized opposition from Spanish-speaking DLI families [NEWS:NEWS-20261031-oregonian-1](https://www.oregonlive.com/education/2026/10/plan-to-reshape-spanish-immersion-emerges-as-a-flashpoint-for-portland-school-closures.html), a 36-page special-education PTSA report [NEWS:NEWS-20261109-oregonian-1](https://www.oregonlive.com/education/2026/11/families-say-special-education-students-have-been-an-afterthought-amid-pps-school-closure-plans.html), and Armstrong's meetings with a Title I coalition [YT:9kX3vnfRlvY@5:38:55](https://www.youtube.com/watch?v=9kX3vnfRlvY&t=20335s). Much of the opposition to the DLI hubs comes from the families she says are not heard.
+- *Her principals-of-color figure is an argument about the plan she supports.* She counts five first-year closures; the recommendation lists six for fall 2027 (Beach, Peninsula, Sabin, Buckman, Creston, Irvington) [BB:14695483 p.2](https://meetings.boardbook.org/Documents/DownloadPDF/14695483?org=915#page=2).
+- *The "binder of amendments" worry and her own plans pull against each other.* She will bring "more detailed questions if about specific buildings", "understanding that when I bring a specific building into the mix, it will impact- it will have a ripple effect" [YT:hbSByH9nzfA@3:40:56](https://www.youtube.com/watch?v=hbSByH9nzfA&t=13256s).
+
+**Contradictions (new since October)**
+1. *"Don't re-harm" vs the Southeast.* Her May guardrail against harming recently disrupted communities (see Fixations) still sits against the recommendation's Southeast closures (Creston and Marysville among them) [BB:14695483 p.2](https://meetings.boardbook.org/Documents/DownloadPDF/14695483?org=915#page=2). On Nov 17 she raised the Southeast Guiding Coalition audit as a caution about implementation, not about which schools close.
+2. *Community input.* She asked whether the community can weigh in on amendments [YT:hbSByH9nzfA@3:59:02](https://www.youtube.com/watch?v=hbSByH9nzfA&t=14342s), while describing much of the input so far as "privileged voices".
+3. *Transparency.* She voted against the independent Signal draft as the starting point, then proposed adding the board to the inquiry.
+
+**Read for Dec 15 (Analysis):** a near-certain yes (about 95%). She is the most likely member to defend the plan against "privileged voices" in debate. Watch for a building-specific amendment from her in North or Northeast.
+
+## Bottom line (October 2026)
 
 **Current score (Oct 2026): +2 (range +1 to +2).** DePass is the board's most consistent and most expansive supporter of closing schools.
 - She voted to make closures a required outcome of the process (Apr 14).
@@ -77,6 +116,12 @@ Short of a scenario that plainly concentrates harm on the low-income, Black, spe
 | 2026-10-06 | "my north star is unapologetically those numbers of kids who are experiencing poverty." [YT:zOUH2Jq7Owo@4:10:32](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=15032s) (attr. medium) | +2 | medium | She also said she got through her own schools closing ("Every single school that I ever attended except for Irvington is closed.") [YT:zOUH2Jq7Owo@4:09:54](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=14994s). Irvington is on both closure lists [BB:14509719 p.2–3](https://meetings.boardbook.org/Documents/DownloadPDF/14509719?org=915#page=2). |
 | 2026-10-20 | "the Jefferson Roosevelt number of students currently not being served. And I just wonder how on earth we can be okay with that." [YT:xByUlijpcnE@6:10:36](https://www.youtube.com/watch?v=xByUlijpcnE&t=22236s); "I don't know how we cannot do something." [YT:xByUlijpcnE@6:10:59](https://www.youtube.com/watch?v=xByUlijpcnE&t=22259s) | +2 | high | Same 'we must act' stance; North Portland focus. |
 | 2026-10-20 | "And using those words to describe what's happening with these different scenarios is really misplaced and offensive on top of that." [YT:xByUlijpcnE@6:15:34](https://www.youtube.com/watch?v=xByUlijpcnE&t=22534s) | +2 | high | Rejects the redlining critique of the scenarios. |
+| 2026-11-09 | FIO (chair): "Yeah, I hear this a lot, like, well, there's not enough height, there's not enough classrooms at that other school. Did you walk the school, or—" [YT:cyHU9UOQqvc@0:54:57](https://www.youtube.com/watch?v=cyHU9UOQqvc&t=3297s) | +2 | high | Skeptical of space objections from receiving communities |
+| 2026-11-13 | Signal special meeting: no on starting from the independent draft (4–3), yes on the final (7–0) [NEWS:NEWS-20261113-wweek-1](https://www.wweek.com/news/schools/2026/11/13/portland-school-board-unanimously-authorizes-inquiry-into-signal-usage-at-pps/) | n/s | high | Not a closure vote; not scored |
+| 2026-11-17 | "morally, we have to do something different. Um, we have to do something different if we expect different results." [YT:hbSByH9nzfA@3:40:56](https://www.youtube.com/watch?v=hbSByH9nzfA&t=13256s) | +2 | high | Strongest moral case yet |
+| 2026-11-17 | "We hear a lot of uh we hear a lot of privileged voices" [YT:hbSByH9nzfA@3:40:56](https://www.youtube.com/watch?v=hbSByH9nzfA&t=13256s); staff told "that you're not experts in what you do. That was kind of jarring to hear for me." [YT:hbSByH9nzfA@3:40:56](https://www.youtube.com/watch?v=hbSByH9nzfA&t=13256s) | +2 | high | Discounts opposition; rebuts Engelsman |
+| 2026-11-17 | "Schools scheduled to close in the first year, 3 are um led by principals of color, so about 60%." [YT:hbSByH9nzfA@3:40:56](https://www.youtube.com/watch?v=hbSByH9nzfA&t=13256s) | +1 | high | Implementation condition drawn from the Southeast Guiding Coalition equity audit |
+| 2026-11-17 | "a binder of amendments" [YT:hbSByH9nzfA@3:01:24](https://www.youtube.com/watch?v=hbSByH9nzfA&t=10884s); "do we have an opportunity for the community to weigh in on those amendments, or are we just gonna go ahead and power through?" [YT:hbSByH9nzfA@3:59:02](https://www.youtube.com/watch?v=hbSByH9nzfA&t=14342s) | +2 | high | Process caution |
 
 **Attribution note for Oct 6.** The 4:09–4:17 speaker is not named in the captions, so it is rated medium. It is strongly supported:
 - By elimination: the meeting summary identifies the other six directors' turns (`analysis/meetings/2026-10-06_zOUH2Jq7Owo.md`).
@@ -211,21 +256,8 @@ Her own words suggest she can be moved only on how the package is built, not on 
 
 ## Watch items before 12/15
 
-- **10/13 TLE (DLI and middle grades) and 10/20 board meeting:**
-  - Real-estate and closed-building reuse goes to executive session on 10/20 [YT:zOUH2Jq7Owo@4:20:39](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=15639s).
-  - Listen for whether she backs a bar on charter or private reuse, and for "adaptive reuse" as a factor in which school closes.
-- **11/4 FIO (she chairs):**
-  - Does she press staff on redirecting Rose City Park's seismic money and on stopping upgrades at buildings slated to close?
-  - Does she schedule the "mapping" or transportation session she asked for?
-  - How does she frame "the future PPS footprint" item?
-- **11/17 superintendent recommendation and fiscal impact statement:**
-  - Listen for whether she again says savings are "not what we're trying to solve for".
-  - Does she ask for programming commitments by school (music, PE, library) as the "future state"?
-  - Does she ask for an impact breakdown for poverty, special-education, multilingual and Black students beyond the 27% mover rates?
-  - Does she take any position on Marysville, Creston or Irvington?
-- **Labor and staffing:** HR and union talks on how staff transfer with closures are expected before the final vote [YT:zOUH2Jq7Owo@3:45:08](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=13508s). She stresses staff workload, so watch whether she treats this as a timing risk.
-- **12/15 vote:**
-  - Is she the mover or seconder?
-  - Does she vote against amendments that drop schools from the list? Her Sep 1 "not piecemeal" stance suggests she will.
-  - Does she back an amendment adding transition supports for receiving schools? Her Oct 6 question suggests she will.
-- **May 2027 election:** her Zone 2 seat is up. Watch for an announcement before 12/15 and for whether PAT, which opposes closures and gathered more than 3,600 petition signatures [YT:zOUH2Jq7Owo@0:50:41](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=3041s), recruits an opponent. Analysis: nothing in the archive suggests electoral pressure has changed her stance so far.
+*(Updated Nov 19, 2026. The October items have happened; see the update above.)*
+- **Nov 30 amendments.** Does she file a building-specific amendment? She said she would bring building questions while mindful of the "ripple effect" [YT:hbSByH9nzfA@3:40:56](https://www.youtube.com/watch?v=hbSByH9nzfA&t=13256s).
+- **Dec 1.** Does staff answer her request to apply the equity audit to administrators of color, with a retention measure [YT:hbSByH9nzfA@3:40:56](https://www.youtube.com/watch?v=hbSByH9nzfA&t=13256s)? A thin answer would not move her vote, but she may ask for it in writing in the resolution.
+- **Dec 11 Signal report.** She voted with Wang and Chase-Miller on Nov 13. Watch her response if the report is critical of the superintendent.
+- **Dec 15.** Likely to second or speak for the main motion. Watch her votes on North and Northeast amendments (Rosa Parks, César Chávez, Sabin, Beach).

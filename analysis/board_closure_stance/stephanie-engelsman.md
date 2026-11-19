@@ -1,11 +1,58 @@
-# Stephanie Engelsman: closure stance (Jan 2025 to Oct 2026)
+# Stephanie Engelsman: closure stance (Jan 2025 to Nov 2026)
 
 - **Seat:** Zone 6 (SE Portland). Elected May 2025 with about 79–82% [NEWS:NEWS-20250520-wweek-2](https://www.wweek.com/news/schools/2025/05/20/splitt-chase-miller-la-forte-and-engelsman-lead-portland-school-board-races/) [NEWS:NEWS-20250522-mercury-1](https://www.portlandmercury.com/news/updated-may-2025-special-election-results-portland-school-bond-finds-victory-with-voters-47794957/); PAT-endorsed [NEWS:NEWS-20250324-wweek-1](https://www.wweek.com/news/schools/2025/03/24/teachers-union-endorses-four-portland-school-board-candidates/). Term 7/2025–6/2029.
 - **Background:** public defender. Parent of three PPS children: a fifth grader at Abernethy and two sixth graders at Hosford in April 2026 [YT:QV-at-0Mjzc@0:08:39](https://www.youtube.com/watch?v=QV-at-0Mjzc&t=519s).
 - **Roles:** Audit and Policy committees in 2025-26; Policy Committee chair in 2026-27 [MTG:2026-09-22/767981](https://meetings.boardbook.org/Public/Agenda/915?meeting=767981). Withdrew from the July 2026 chair race [MTG:2026-07-07/753974](https://meetings.boardbook.org/Public/Agenda/915?meeting=753974).
-- Sources: verified against transcripts, minutes and PPS documents; the profile `analysis/people/stephanie-engelsman.md` was used only as a starting point. Scores are in `stephanie-engelsman_scores.csv` (37 points).
+- Sources: verified against transcripts, minutes and PPS documents; the profile `analysis/people/stephanie-engelsman.md` was used only as a starting point. Scores are in `stephanie-engelsman_scores.csv` (51 points).
 
-## Bottom line
+
+## Where she stands now (updated Nov 19, 2026)
+
+**Current score: −2 (unchanged). Range −2 to −1. Likely Dec 15 vote: no (about 10–15% yes). She will bring amendments, and she says she would rather the plan unravel than pass with its current problems.**
+
+*Context since Oct 20:* the Nov 4 feedback meeting; the Nov 9 Facilities (FIO) and Nov 10 Teaching, Learning and Enrollment (TLE) committees; the Nov 13 special meeting on Signal use (4–3 on which draft to start from, then 7–0) [MTG:2026-11-13/777890](https://meetings.boardbook.org/Public/Agenda/915?meeting=777890); the superintendent's recommendation, posted Nov 13 (10 elementary closures over two years plus the East Sylvan building; Maplewood, Stephenson, James John and Sellwood MS dropped; net recurring savings about $10.2M) [BB:14695483 p.2](https://meetings.boardbook.org/Documents/DownloadPDF/14695483?org=915#page=2) [BB:14695483 p.3](https://meetings.boardbook.org/Documents/DownloadPDF/14695483?org=915#page=3); and the Nov 17 work session [MTG:2026-11-17/777711](https://meetings.boardbook.org/Public/Agenda/915?meeting=777711). Amendments are due Nov 30, the board discusses them Dec 1, and the vote is Dec 15 [YT:hbSByH9nzfA@4:01:49](https://www.youtube.com/watch?v=hbSByH9nzfA&t=14509s) [BB:14695483 p.4](https://meetings.boardbook.org/Documents/DownloadPDF/14695483?org=915#page=4).
+
+**Strongest statements against the plan (Nov 17)**
+- "But what I now know is that I assumed that we would work with experts in this process." [YT:hbSByH9nzfA@3:31:46](https://www.youtube.com/watch?v=hbSByH9nzfA&t=12706s)
+- "B felt very much just like A light." [YT:hbSByH9nzfA@3:31:46](https://www.youtube.com/watch?v=hbSByH9nzfA&t=12706s)
+- "You don't get to make any changes because any changes will unravel the whole thing." and "if it means that the whole thing unravels, that's better to me than moving forward with something where there are so many concerns by me, by other board members, and by our community as well." [YT:hbSByH9nzfA@3:31:46](https://www.youtube.com/watch?v=hbSByH9nzfA&t=12706s)
+- "I was very shocked when a few days, a week later, I learned from the news that we were up at 20. I don't know that if you had asked me in spring or August, can we close 20, that I would have voted the same way" [YT:hbSByH9nzfA@3:39:20](https://www.youtube.com/watch?v=hbSByH9nzfA&t=13160s)
+- Transportation: "frankly what I expect to see before December 1st, is that kind of stop-by-stop, minute-by-minute outlay of what our kids are going to be doing on a bus." She also pointed out that Buckman students would cross I-84 to reach Abernethy or Sunnyside [YT:hbSByH9nzfA@3:22:53](https://www.youtube.com/watch?v=hbSByH9nzfA&t=12173s).
+- On packing up closing schools from April: "those kids deserve to finish out the year in their schools." [YT:hbSByH9nzfA@3:28:36](https://www.youtube.com/watch?v=hbSByH9nzfA&t=12516s)
+
+**Earlier in November**
+- Nov 4: of Scenario A's six Southeast closures, "none of those six move together as an entire school. All six of them split." [YT:9kX3vnfRlvY@4:46:58](https://www.youtube.com/watch?v=9kX3vnfRlvY&t=17218s)
+- Nov 4, on schools praised for test results that are also on the list: "to highlight a school for doing good work and then to close it and disrupt everything that they're doing and move kids, it it cannot comport with highlighting them for doing good work." [YT:9kX3vnfRlvY@5:08:10](https://www.youtube.com/watch?v=9kX3vnfRlvY&t=18490s). Maplewood was one of the schools she named; it is now off the list.
+- Nov 9 FIO, on Woodmere's bond-funded roof work: "I don't consider that necessarily a departmental win if we have spent bond money on a, on a building that we are now going to look to do something different other than teach our students in." [YT:cyHU9UOQqvc@0:59:04](https://www.youtube.com/watch?v=cyHU9UOQqvc&t=3544s) *(medium)*. She also asked why Atkinson was not walked [YT:cyHU9UOQqvc@1:49:15](https://www.youtube.com/watch?v=cyHU9UOQqvc&t=6555s) and whether the CRIS spaces at Glencoe will be ready [YT:cyHU9UOQqvc@1:49:15](https://www.youtube.com/watch?v=cyHU9UOQqvc&t=6555s).
+- Signal: she co-wrote the independent inquiry, adopted as the starting draft 4–3 and passed 7–0 [NEWS:NEWS-20261113-wweek-1](https://www.wweek.com/news/schools/2026/11/13/portland-school-board-unanimously-authorizes-inquiry-into-signal-usage-at-pps/). The controversy began with a photographed Signal exchange between the chief of staff and a contractor that disparaged her [NEWS:NEWS-20261106-wweek-1](https://www.wweek.com/news/schools/2026/11/06/pps-superintendent-used-signal-to-communicate-about-district-business/).
+
+**Toward a yes**
+- "I was one of those people that voted 7-0 because, yes, I believe we have to do something. And I felt confident that we would do something." [YT:hbSByH9nzfA@3:31:46](https://www.youtube.com/watch?v=hbSByH9nzfA&t=12706s)
+- "I am going to bring amendments" [YT:hbSByH9nzfA@3:31:46](https://www.youtube.com/watch?v=hbSByH9nzfA&t=12706s); she wants an interim meeting so amendments are settled before the vote: "We have to have something in the interim to figure out what we're voting on on the 15th." [YT:hbSByH9nzfA@3:59:43](https://www.youtube.com/watch?v=hbSByH9nzfA&t=14383s)
+- Some of her Oct 20 asks are in the recommendation: Skyline stays with Lincoln and Sellwood Middle School is off the list. Sunnyside keeps its environmental curriculum for K-5 students but loses its middle grades, and Woodmere (with bond-funded roof work) still closes [NEWS:NEWS-20261113-oregonian-1](https://www.oregonlive.com/education/2026/11/after-weeks-of-uproar-pps-superintendent-will-recommend-plan-to-close-10-schools.html).
+
+**What matters most to her now**
+1. Transportation: minute-by-minute routes for every moving student, not averages.
+2. Class sizes rising at receiving schools (Abernethy) [YT:hbSByH9nzfA@3:22:53](https://www.youtube.com/watch?v=hbSByH9nzfA&t=12173s).
+3. Special-education readiness: CRIS at Glencoe (elevator), cohort splits.
+4. Process and expertise: no outside planning firm; amendments squeezed by the timeline.
+5. Bond money at closing schools (Woodmere).
+
+**Weak points (Analysis)**
+- *Outside experts.* In September her own draft resolution proposed a 10% cut to contracts [BB:14383792](https://meetings.boardbook.org/Documents/DownloadPDF/14383792?org=915). On Nov 17 she said hiring outside planners "would have been good money spent". Staff told La Forte on Nov 4 that they had "the internal capacity and expertise", with PSU reviewing the method and FLO used for the Southeast process [YT:9kX3vnfRlvY@4:17:44](https://www.youtube.com/watch?v=9kX3vnfRlvY&t=15464s). DePass called the remark "jarring" [YT:hbSByH9nzfA@3:40:56](https://www.youtube.com/watch?v=hbSByH9nzfA&t=13256s).
+- *"Unravel" is a no, stated as an amendment strategy.* If any amendment unravels the package, there is no time to rebuild before the 2027-28 budget, which must still close a $65M gap [NEWS:NEWS-20261113-oregonian-1](https://www.oregonlive.com/education/2026/11/after-weeks-of-uproar-pps-superintendent-will-recommend-plan-to-close-10-schools.html).
+- *Families leave either way.* Staff conceded some families may leave with rightsizing, and said they will leave with program cuts too [YT:9kX3vnfRlvY@5:01:16](https://www.youtube.com/watch?v=9kX3vnfRlvY&t=18076s). October enrollment fell 2.7% without any closures [NEWS:NEWS-20261031-wweek-1](https://www.wweek.com/news/schools/2026/10/31/pps-enrollment-dips-for-another-year/).
+- *Home-school focus.* Abernethy ("happens to be where my kids went") and Hosford (her children's school) recur in her examples [YT:hbSByH9nzfA@3:22:53](https://www.youtube.com/watch?v=hbSByH9nzfA&t=12173s) [YT:cyHU9UOQqvc@1:21:48](https://www.youtube.com/watch?v=cyHU9UOQqvc&t=4908s).
+
+**Contradictions (new since October)**
+1. *"I believe we have to do something" vs "if it means that the whole thing unravels, that's better to me".* Both from the same Nov 17 statement [YT:hbSByH9nzfA@3:31:46](https://www.youtube.com/watch?v=hbSByH9nzfA&t=12706s).
+2. *Distinct options.* She wanted a real alternative such as "if we close every focal option and put language in schools, which is what Denver just did" [YT:hbSByH9nzfA@3:31:46](https://www.youtube.com/watch?v=hbSByH9nzfA&t=12706s). That would be a bigger change than A, from the member who objects most to the scale of change.
+3. *Contract cuts vs outside experts* (see weak points).
+4. *Partial wins, no movement.* Several of her Oct 20 asks were met, but her stance did not move. Analysis: this suggests no package now on the table would win her vote.
+
+**Read for Dec 15 (Analysis):** a likely no. If she brings school-specific amendments (Woodmere, Buckman's I-84 crossing, CRIS, packing dates) and some pass, she could move to −1, but she has said she prefers the plan unravel to passing as is.
+
+## Bottom line (October 2026)
 
 **Current score (Oct 2026): −2. Range −2 to −1.**
 
@@ -79,6 +126,14 @@ Scores answer: "If the Dec 15 vote were held on that date, how likely is she to 
 | 2026-10-20 | "Denver 1%, Austin 5%, Houston 2%, Chicago 3%. I don't want to be known as the district that blew the numbers out of the water compared to other districts" [YT:xByUlijpcnE@5:52:47](https://www.youtube.com/watch?v=xByUlijpcnE&t=21167s) | −2 | Scale objection, citing other districts. |
 | 2026-10-20 | "this huge gap that is driving the changes, um, is about to potentially go away, or at least become much smaller slowly." [YT:xByUlijpcnE@6:06:02](https://www.youtube.com/watch?v=xByUlijpcnE&t=21962s) | −1 | Questions the budget case (PERS); Armstrong replies there are still too many schools. |
 | 2026-10-20 | Oregonian: proposes moving the vote to February or March; "If we push to February or March, communities and families can keep pushing on the legislature for a fix"; no closure of schools with more than $250,000 of bond work [NEWS:NEWS-20261020-oregonian-1](https://www.oregonlive.com/education/2026/10/2-portland-public-schools-board-members-pitch-alternatives-to-closing-14-schools.html) | −2 | Deferral plus a criterion that would exclude most buildings. |
+| 2026-11-04 | Southeast closures: "none of those six move together as an entire school. All six of them split." [YT:9kX3vnfRlvY@4:46:58](https://www.youtube.com/watch?v=9kX3vnfRlvY&t=17218s) | **−2** | Cohort splits |
+| 2026-11-04 | "to highlight a school for doing good work and then to close it ... it it cannot comport with highlighting them for doing good work." [YT:9kX3vnfRlvY@5:08:10](https://www.youtube.com/watch?v=9kX3vnfRlvY&t=18490s) | **−2** | Names Sabin, Marysville and Maplewood |
+| 2026-11-09 | FIO, Woodmere roof: "I don't consider that necessarily a departmental win if we have spent bond money on a, on a building that we are now going to look to do something different other than teach our students in." [YT:cyHU9UOQqvc@0:59:04](https://www.youtube.com/watch?v=cyHU9UOQqvc&t=3544s) *(medium)* | **−2** | Bond money at closure schools |
+| 2026-11-12 | Co-writes the independent Signal inquiry with La Forte; it is adopted as the starting draft 4–3 and passes 7–0 on Nov 13 [NEWS:NEWS-20261112-oregonian-1](https://www.oregonlive.com/education/2026/11/two-pps-board-members-push-for-independent-investigation-of-signal-use.html) [NEWS:NEWS-20261113-wweek-1](https://www.wweek.com/news/schools/2026/11/13/portland-school-board-unanimously-authorizes-inquiry-into-signal-usage-at-pps/) | n/s | Not a closure vote; not scored |
+| 2026-11-17 | "I assumed that we would work with experts in this process." and "B felt very much just like A light." [YT:hbSByH9nzfA@3:31:46](https://www.youtube.com/watch?v=hbSByH9nzfA&t=12706s) | **−2** | Process and options |
+| 2026-11-17 | "if it means that the whole thing unravels, that's better to me than moving forward with something where there are so many concerns" [YT:hbSByH9nzfA@3:31:46](https://www.youtube.com/watch?v=hbSByH9nzfA&t=12706s) | **−2** | Prefers unravelling to passage |
+| 2026-11-17 | "I learned from the news that we were up at 20. I don't know that if you had asked me in spring or August, can we close 20, that I would have voted the same way" [YT:hbSByH9nzfA@3:39:20](https://www.youtube.com/watch?v=hbSByH9nzfA&t=13160s) | **−2** | Disowns her earlier yes votes on the process |
+| 2026-11-17 | "stop-by-stop, minute-by-minute outlay of what our kids are going to be doing on a bus" before Dec 1 [YT:hbSByH9nzfA@3:22:53](https://www.youtube.com/watch?v=hbSByH9nzfA&t=12173s) | **−1** | Data condition staff could meet |
 
 **Unconfirmed (low or unclear attribution; not scored):**
 - 4/22: an unnamed member said reserves are at the 5% floor [YT:h_0YMlJnXPk@0:55:27](https://www.youtube.com/watch?v=h_0YMlJnXPk&t=3327s) and explained PERS and benefits costs [YT:h_0YMlJnXPk@1:20:40](https://www.youtube.com/watch?v=h_0YMlJnXPk&t=4840s). The summary records Engelsman or Splitt, low confidence.
@@ -214,17 +269,9 @@ Her own words suggest these conditions:
 
 ## Watch items before Dec 15
 
-- **10/13 TLE (dual language and middle grades).** She said she plans to attend TLEs virtually [YT:qiCQKmMdLr4@2:46:21](https://www.youtube.com/watch?v=qiCQKmMdLr4&t=9981s). Listen for her on middle-school size caps (Hosford, Brentwood) and on the Clark/DLI split.
-- **10/20 board meeting.** There will be an executive session on the real-estate portfolio [YT:zOUH2Jq7Owo@4:20:39](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=15639s) and the deferred Cleveland/Marshall transportation item [MTG:2026-10-06/769955](https://meetings.boardbook.org/Public/Agenda/915?meeting=769955). Listen for whether she treats the building inventory as answered, and whether she ties the Marshall swing-site bus problems to the scenarios.
-- **11/4 FIO and 11/10 TLE.** Do her roughly 20 written questions [YT:zOUH2Jq7Owo@2:56:33](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=10593s) appear in the board question tracker, and are they answered?
-- **11/17 superintendent recommendation, fiscal impact statement and staffing plan.** This is pivotal [YT:zOUH2Jq7Owo@3:52:57](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=13977s) [YT:zOUH2Jq7Owo@3:45:42](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=13542s). Listen for:
-  - a net-savings figure per closure, including transport;
-  - any class-size language;
-  - whether Sellwood, Creston, Buckman and the SE middle-school plan change.
-  - If the recommendation is "exactly the same", expect a firm no ("I'm I'm hoping it's not exactly the same" [YT:zOUH2Jq7Owo@3:12:15](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11535s)).
-- **Amendments vs. deferral.** School-specific amendments from her would signal movement toward a conditional yes (−1 or 0). A motion to defer would confirm −2 (the superintendent listed deferral as an option [YT:zOUH2Jq7Owo@3:11:30](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11490s)).
-- **Coalition.**
-  - Analysis: on 10/6 Splitt said the plan is too big and La Forte said she cannot decide without cost data [MTG:2026-10-06/769955](https://meetings.boardbook.org/Public/Agenda/915?meeting=769955). With Engelsman that makes three skeptics.
-  - Sullivan joined her on the guardrails and on "may" (Apr 14), but on Oct 6 she said "something needs to be done" [YT:zOUH2Jq7Owo@3:16:09](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11769s).
-  - Watch Sullivan to judge whether Engelsman is part of a blocking group or an isolated no.
-- **First December board meeting.** The span-of-control analysis is due [MTG:2026-09-15/766050](https://meetings.boardbook.org/Public/Agenda/915?meeting=766050). Watch whether she links central-office savings to her closure vote, as her draft resolution did [BB:14383792](https://meetings.boardbook.org/Documents/DownloadPDF/14383792?org=915).
+*(Updated Nov 19, 2026. The October items, including the Nov 17 recommendation, have happened; see the update above.)*
+- **Before Dec 1: stop-by-stop bus routes** for every moving student [YT:hbSByH9nzfA@3:22:53](https://www.youtube.com/watch?v=hbSByH9nzfA&t=12173s), an explanation of rising class sizes (Abernethy), walkthroughs of every receiving school, and CRIS readiness at Glencoe [YT:hbSByH9nzfA@3:29:50](https://www.youtube.com/watch?v=hbSByH9nzfA&t=12590s).
+- **Nov 30 amendments.** Likely topics: Woodmere (bond-funded roof), Buckman's I-84 crossing, special-education families choosing to move with their neighborhood cohort, and no packing before mid-June [YT:hbSByH9nzfA@3:28:36](https://www.youtube.com/watch?v=hbSByH9nzfA&t=12516s) [YT:hbSByH9nzfA@3:31:46](https://www.youtube.com/watch?v=hbSByH9nzfA&t=12706s).
+- **An interim amendment meeting (Dec 8?).** She asked for one [YT:hbSByH9nzfA@3:59:43](https://www.youtube.com/watch?v=hbSByH9nzfA&t=14383s). If amendments go straight to the Dec 15 floor, expect her to argue the package is not "buttoned-up".
+- **Dec 11 Signal report.** She co-wrote the inquiry.
+- **Dec 15.** A deferral motion, if anyone moves one, is most likely to come from her. A no on the main motion is the default.

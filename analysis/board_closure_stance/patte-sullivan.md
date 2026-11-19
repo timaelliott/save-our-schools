@@ -1,4 +1,4 @@
-# Patte Sullivan (Zone 3): closure stance, Jan 2025 to Oct 2026
+# Patte Sullivan (Zone 3): closure stance, Jan 2025 to Nov 2026
 
 - **Seat:** Zone 3 director. Term "7/2023 - 6/2027", so the seat is on the May 2027 ballot. The archive says nothing about whether she will run [PPS:pps_net/board/members/patte-sullivan.html](https://www.pps.net/board/board-of-education/board-members/patte-sullivan).
 - **Zone geography:** Zone 3 is on the west side. She said "I'm mostly on the west side" [YT:WPbTg28GB_o@1:09:59](https://www.youtube.com/watch?v=WPbTg28GB_o&t=4199s) and called herself "the board member in that zone" for a constituent issue on the PPS–Beaverton line [YT:S_rBf9XK-JM@1:31:00](https://www.youtube.com/watch?v=S_rBf9XK-JM&t=5460s).
@@ -6,7 +6,42 @@
 - **Background:** taught in PPS for 20 years, two years of kindergarten at Robert Gray and then grades 1–2 at MLC [PPS:pps_net/board/members/patte-sullivan.html](https://www.pps.net/board/board-of-education/board-members/patte-sullivan).
 - **Sources searched:** `quotes_all.jsonl` (61 records); news index and news quotes; every 2025–26 transcript with a name hit, read in the ±3-minute windows around each hit; minutes for the key votes; the Oct 2026 scenario documents.
 
-## Bottom line
+
+## Where she stands now (updated Nov 19, 2026)
+
+**Current score: +1 (unchanged). Range 0 to +2 (widened from +1 to +2). Likely Dec 15 vote: yes on an amended recommendation. She is now the clearest swing vote.**
+
+*Context since Oct 20:* the Nov 4 feedback meeting; the Nov 9 Facilities (FIO) and Nov 10 Teaching, Learning and Enrollment (TLE) committees; the Nov 13 special meeting on Signal use (4–3 on which draft to start from, then 7–0) [MTG:2026-11-13/777890](https://meetings.boardbook.org/Public/Agenda/915?meeting=777890); the superintendent's recommendation, posted Nov 13 (10 elementary closures over two years plus the East Sylvan building; Maplewood, Stephenson, James John and Sellwood MS dropped; net recurring savings about $10.2M) [BB:14695483 p.2](https://meetings.boardbook.org/Documents/DownloadPDF/14695483?org=915#page=2) [BB:14695483 p.3](https://meetings.boardbook.org/Documents/DownloadPDF/14695483?org=915#page=3); and the Nov 17 work session [MTG:2026-11-17/777711](https://meetings.boardbook.org/Public/Agenda/915?meeting=777711). Amendments are due Nov 30, the board discusses them Dec 1, and the vote is Dec 15 [YT:hbSByH9nzfA@4:01:49](https://www.youtube.com/watch?v=hbSByH9nzfA&t=14509s) [BB:14695483 p.4](https://meetings.boardbook.org/Documents/DownloadPDF/14695483?org=915#page=4).
+
+**Strongest statement for closing schools**
+- Nov 4, answering Engelsman's point that high-performing schools are on the list: "it's not the building that does the high achieving. So, that's going to happen wherever they go." [YT:9kX3vnfRlvY@5:41:25](https://www.youtube.com/watch?v=9kX3vnfRlvY&t=20485s)
+
+**Where she wants changes**
+- Nov 4: "like I get an email that said maybe Peninsula is better than Rosa Park for that. Are you or are you pretty secure in what you're doing?" [YT:9kX3vnfRlvY@5:38:24](https://www.youtube.com/watch?v=9kX3vnfRlvY&t=20304s)
+- Nov 17, North Portland: "one part that I've been following that that I care about a lot is the North Portland group and the uh Spanish immersion." She observed classes at César Chávez and worries that moves aimed at helping it shift problems onto Rosa Parks. She wants the six or seven North schools to work out a fix together [YT:hbSByH9nzfA@2:48:47](https://www.youtube.com/watch?v=hbSByH9nzfA&t=10127s).
+- Nov 17, Forest Park: "Forest Park was just told that they're getting a school coming in. They haven't talked about it at all." [YT:hbSByH9nzfA@2:48:47](https://www.youtube.com/watch?v=hbSByH9nzfA&t=10127s)
+- Nov 17: "But some way that we can make some changes without- well, make some changes that work." [YT:hbSByH9nzfA@2:48:47](https://www.youtube.com/watch?v=hbSByH9nzfA&t=10127s); "I think there's certainly room for some change." [YT:hbSByH9nzfA@2:52:22](https://www.youtube.com/watch?v=hbSByH9nzfA&t=10342s); "do we want to make resolutions?" [YT:hbSByH9nzfA@3:10:06](https://www.youtube.com/watch?v=hbSByH9nzfA&t=11406s)
+- Signal inquiry: on Nov 13 she voted *with* Engelsman, La Forte and Splitt to start from the independent draft (4–3) [NEWS:NEWS-20261113-wweek-1](https://www.wweek.com/news/schools/2026/11/13/portland-school-board-unanimously-authorizes-inquiry-into-signal-usage-at-pps/) and won language requiring a report back to the public [NEWS:NEWS-20261115-oregonian-1](https://www.oregonlive.com/opinion/2026/11/editorial-pps-board-needs-to-send-the-right-signal-on-public-records-mess.html).
+- The Oregonian's Nov 13 count calls her (with La Forte) harder to read [NEWS:NEWS-20261113-oregonian-1](https://www.oregonlive.com/education/2026/11/after-weeks-of-uproar-pps-superintendent-will-recommend-plan-to-close-10-schools.html).
+
+**What matters most to her now**
+1. North Portland: César Chávez, Rosa Parks and the Spanish immersion moves (she observed classes at César Chávez the day before the meeting).
+2. Fairness among schools: she wants every school to come out looking good, not to shift a problem from one to another.
+3. Communities told late: Forest Park, which receives Odyssey in 2028 [BB:14695483 p.28](https://meetings.boardbook.org/Documents/DownloadPDF/14695483?org=915#page=28).
+4. Transparency and state funding (PERS: "So whatever we can get, it will be good." [YT:hbSByH9nzfA@1:53:25](https://www.youtube.com/watch?v=hbSByH9nzfA&t=6805s)).
+
+**Weak points (Analysis)**
+- *"It's not the building" cuts both ways.* It supports moving students out of small schools, but she is now defending specific communities (César Chávez, Rosa Parks, Forest Park) whose concerns are about the building and the neighborhood.
+- *No amendment text yet.* "Room for some change" has no named school. Amendments are due Nov 30 [YT:hbSByH9nzfA@4:01:49](https://www.youtube.com/watch?v=hbSByH9nzfA&t=14509s). If her North Portland ideas need a swap (for example Peninsula for Rosa Parks), staff will warn about cascades, and she has said she trusts staff.
+- *Her Oct 20 West-side doubt was met.* The recommendation has no West closures [BB:14695483 p.3](https://meetings.boardbook.org/Documents/DownloadPDF/14695483?org=915#page=3), so one of her main reservations is gone. That should pull her toward yes.
+
+**Contradictions and shifts (new since October)**
+1. *From deference to co-design.* Earlier she said "trust staff; stop delaying" (see Fixations). Now she relays amendment ideas from her email and wants the North schools to design their own fix. Analysis: a shift, not a reversal; she still wants the plan to pass.
+2. *Breaking from the bloc.* On Signal she voted with the three skeptics against Wang, Chase-Miller and DePass. Analysis: this is the first recorded 4–3 vote in which she left the pro-closure group. It does not show how she will vote on closures, but it shows she will split from the chair.
+
+**Read for Dec 15 (Analysis):** likely yes (about 75%) if one or two North Portland or Forest Park changes are accepted or answered. She is the vote to watch: with her, the recommendation passes 4–3 or better; without her and with Splitt and La Forte opposed, it fails 3–4.
+
+## Bottom line (October 2026)
 
 **Current (Oct 2026) score: +1.5. Range +1 to +2.**
 
@@ -73,6 +108,11 @@ Scores answer the question "if the Dec 15 vote were held that day". Attribution 
 | 2026-10-20 | "Wow, I do not have a new plan, but I do have questions about this plan." [YT:xByUlijpcnE@5:04:12](https://www.youtube.com/watch?v=xByUlijpcnE&t=18252s); "could we keep the DLI in the neighborhood schools at least through 5th grade and then go into the middle schools more concentrated?" [YT:xByUlijpcnE@5:05:00](https://www.youtube.com/watch?v=xByUlijpcnE&t=18300s) | +1 | Amendment-minded questions, not opposition. |
 | 2026-10-20 | "I was really heartened to see that in both right-sizing scenarios, the number of students in a sustainable school goes up. So that's what we're trying to do." [YT:xByUlijpcnE@5:06:57](https://www.youtube.com/watch?v=xByUlijpcnE&t=18417s) | +2 | Endorses the scenarios' central goal. |
 | 2026-10-20 | "it almost seems like maybe the west side doesn't need it." [YT:xByUlijpcnE@5:07:26](https://www.youtube.com/watch?v=xByUlijpcnE&t=18446s); "And it definitely looks like parts of the east side do need it." [YT:xByUlijpcnE@5:07:35](https://www.youtube.com/watch?v=xByUlijpcnE&t=18455s) | 0 | **New:** questions West-side closures (her zone) while backing East-side change. |
+| 2026-11-04 | Peninsula vs Rosa Parks: "Are you or are you pretty secure in what you're doing?" [YT:9kX3vnfRlvY@5:38:24](https://www.youtube.com/watch?v=9kX3vnfRlvY&t=20304s) | **+1** | Amendment idea, not opposition |
+| 2026-11-04 | "it's not the building that does the high achieving. So, that's going to happen wherever they go." [YT:9kX3vnfRlvY@5:41:25](https://www.youtube.com/watch?v=9kX3vnfRlvY&t=20485s) | **+2** | Rebuts Engelsman's bright-spot argument |
+| 2026-11-13 | Signal special meeting: yes on starting from the independent draft (4–3, with Engelsman, La Forte and Splitt); added public-reporting language; yes on the final (7–0) [NEWS:NEWS-20261113-wweek-1](https://www.wweek.com/news/schools/2026/11/13/portland-school-board-unanimously-authorizes-inquiry-into-signal-usage-at-pps/) [NEWS:NEWS-20261115-oregonian-1](https://www.oregonlive.com/opinion/2026/11/editorial-pps-board-needs-to-send-the-right-signal-on-public-records-mess.html) | n/s | Not a closure vote; not scored. First 4–3 split in which she left the chair's side |
+| 2026-11-17 | North Portland and Forest Park: "Forest Park was just told that they're getting a school coming in. They haven't talked about it at all." [YT:hbSByH9nzfA@2:48:47](https://www.youtube.com/watch?v=hbSByH9nzfA&t=10127s) | **+1** | Wants changes |
+| 2026-11-17 | "I think there's certainly room for some change." [YT:hbSByH9nzfA@2:52:22](https://www.youtube.com/watch?v=hbSByH9nzfA&t=10342s) | **+1** | Expects amendments |
 
 ### Unconfirmed or excluded
 
@@ -231,20 +271,9 @@ Scores answer the question "if the Dec 15 vote were held that day". Attribution 
 
 ## Watch items before 12/15
 
-- **10/14, Village Table at Jackson MS (Tryon Creek zone)** [BB:14511742 p.46](https://meetings.boardbook.org/Documents/DownloadPDF/14511742?org=915#page=46). A west-side session with Maplewood and Stephenson families. Watch whether she repeats the Maplewood class-size argument to them.
-- **10/20 board meeting** (scenarios; real-estate portfolio in executive session) [YT:zOUH2Jq7Owo@4:20:39](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=15639s). She has floated housing partnerships for closed buildings [YT:5RMfvT-sAPU@2:01:33](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=7293s).
-- **10/27, first Audit Committee meeting** (she chairs) [YT:zOUH2Jq7Owo@4:38:22](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=16702s). Watch whether she puts any rightsizing assumption (savings, enrollment projections) on the audit agenda. That would signal independence.
-- **11/04 board meeting (feedback summary), 11/09 FIO, 11/10 TLE** [BB:14511742 p.45](https://meetings.boardbook.org/Documents/DownloadPDF/14511742?org=915#page=45).
-- **11/17 superintendent recommendation and fiscal impact statement** [YT:zOUH2Jq7Owo@3:52:28](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=13948s). Watch:
-  - (a) whether she asks about receiving-school class sizes and staffing;
-  - (b) whether she objects to the Sunnyside/Buckman focus losses or the K-8 conversions;
-  - (c) whether her "not saving money" framing collides with the numbers;
-  - (d) whether the recommendation lands nearer A or B and how she reacts.
-- **First December meeting: span-of-control report** [YT:uAf7l-ChjFo@4:44:02](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=17042s). Low salience for her; she called it management's call.
-- **Legislative signals on ESF/PERS** (November revenue forecast) [YT:YfANSrxqAMI@0:40:01](https://www.youtube.com/watch?v=YfANSrxqAMI&t=2401s). The one fiscal event that could soften her.
-- **12/15 vote:**
-  - whether she moves or seconds adoption (she often seconds staff-backed items);
-  - how she votes on amendments that drop Stephenson, Lewis or Rose City Park (the A-vs-B schools);
-  - whether she backs Splitt's "no additions" commitment;
-  - whether she separates the MLC 9–12 change (her former school) for a vote.
-- **West-side amendment.** Watch for her to move or support dropping Maplewood/Stephenson (Scenario A) or the Gray boundary change, and for the transportation/childcare analysis she asked for [YT:xByUlijpcnE@5:05:27](https://www.youtube.com/watch?v=xByUlijpcnE&t=18327s).
+*(Updated Nov 19, 2026. The October items have happened; see the update above.)*
+- **Nov 30.** Does she file a North Portland amendment (César Chávez, Rosa Parks, Peninsula) or a Forest Park item? A filed amendment that staff call workable is the likeliest path to her yes.
+- **Dec 1 and the Dec 2 TLE.** Her questions about the North schools working out a fix together [YT:hbSByH9nzfA@2:48:47](https://www.youtube.com/watch?v=hbSByH9nzfA&t=10127s).
+- **Dec 3 listening session**, which she pointed to [YT:hbSByH9nzfA@3:09:56](https://www.youtube.com/watch?v=hbSByH9nzfA&t=11396s).
+- **Dec 11 Signal report.** She secured the public-reporting language; watch whether she presses for full release.
+- **Dec 15.** She is the swing vote. A yes from her probably carries the recommendation.

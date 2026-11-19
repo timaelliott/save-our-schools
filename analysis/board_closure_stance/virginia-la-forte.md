@@ -1,4 +1,4 @@
-# Virginia La Forte: school-closure stance (Jan 2025 to Oct 2026)
+# Virginia La Forte: school-closure stance (Jan 2025 to Nov 2026)
 
 - **Seat:** Zone 5 (Northeast Portland; she describes it as "the McDaniel and Grant clusters" [YT:2bSmBVuoajw@0:14:14](https://www.youtube.com/watch?v=2bSmBVuoajw&t=854s)). Term 7/2025 to 6/2029. She won the May 2025 race by 814 votes over PAT-endorsed student Jorge Sanchez Bautista, after incumbent Gary Hollands dropped out and endorsed her [NEWS:NEWS-20250527-wweek-1](https://www.wweek.com/news/schools/2025/05/27/portland-election-results-show-the-portland-association-of-teachers-power/) [NEWS:NEWS-20250520-wweek-2](https://www.wweek.com/news/schools/2025/05/20/splitt-chase-miller-la-forte-and-engelsman-lead-portland-school-board-races/).
 - **Roles:** FIO chair 2025-26, the committee that oversaw seismic prioritization [YT:BJMsF-90V6U@0:34:39](https://www.youtube.com/watch?v=BJMsF-90V6U&t=2079s); TLE member 2025-26 [BB:3998064 p.1](https://meetings.boardbook.org/Documents/DownloadPDF/3998064?org=915#page=1); **TLE chair 2026-27** [MTG:2026-09-08/765500](https://meetings.boardbook.org/Public/Agenda/915?meeting=765500). TLE hosts the 10/13 and 11/10 rightsizing sessions [BB:14511742 p.45](https://meetings.boardbook.org/Documents/DownloadPDF/14511742?org=915#page=45). Board representative to the Fund for PPS (see `analysis/people/virginia-la-forte.md`).
@@ -7,7 +7,55 @@
   - Both scenarios close **Peninsula** (the Kenton-area school), **Sabin** and **Irvington** [BB:14511742 p.34](https://meetings.boardbook.org/Documents/DownloadPDF/14511742?org=915#page=34) [BB:14511742 p.37](https://meetings.boardbook.org/Documents/DownloadPDF/14511742?org=915#page=37).
   - She is a PPS graduate and parent and often refers to her children's ACCESS/TAG experience [YT:QV-at-0Mjzc@0:10:43](https://www.youtube.com/watch?v=QV-at-0Mjzc&t=643s) [YT:AAWpafO4vvQ@1:47:08](https://www.youtube.com/watch?v=AAWpafO4vvQ&t=6428s).
 
-## Bottom line
+
+## Where she stands now (updated Nov 19, 2026)
+
+**Current score: −1 (unchanged). Range −2 to +1 (widened). Likely Dec 15 vote: no unless her amendments on the DLI hubs, Lent or transport pass. On Nov 17 she said for the first time that she is working to "get to a yes".**
+
+*Context since Oct 20:* the Nov 4 feedback meeting; the Nov 9 Facilities (FIO) and Nov 10 Teaching, Learning and Enrollment (TLE) committees; the Nov 13 special meeting on Signal use (4–3 on which draft to start from, then 7–0) [MTG:2026-11-13/777890](https://meetings.boardbook.org/Public/Agenda/915?meeting=777890); the superintendent's recommendation, posted Nov 13 (10 elementary closures over two years plus the East Sylvan building; Maplewood, Stephenson, James John and Sellwood MS dropped; net recurring savings about $10.2M) [BB:14695483 p.2](https://meetings.boardbook.org/Documents/DownloadPDF/14695483?org=915#page=2) [BB:14695483 p.3](https://meetings.boardbook.org/Documents/DownloadPDF/14695483?org=915#page=3); and the Nov 17 work session [MTG:2026-11-17/777711](https://meetings.boardbook.org/Public/Agenda/915?meeting=777711). Amendments are due Nov 30, the board discusses them Dec 1, and the vote is Dec 15 [YT:hbSByH9nzfA@4:01:49](https://www.youtube.com/watch?v=hbSByH9nzfA&t=14509s) [BB:14695483 p.4](https://meetings.boardbook.org/Documents/DownloadPDF/14695483?org=915#page=4).
+
+**Strongest statements against closing schools (Nov 10 TLE, which she chairs)**
+- "this idea, this narrative that we have too many schools really for a city our size, I don't think that it's true." [YT:V6r7UqxJ53s@3:21:40](https://www.youtube.com/watch?v=V6r7UqxJ53s&t=12100s)
+- "We don't have too many buildings, and we don't have enough money." [YT:V6r7UqxJ53s@3:23:08](https://www.youtube.com/watch?v=V6r7UqxJ53s&t=12188s)
+- "We've got just the right amount, maybe a couple, but it's definitely not 14 and it's definitely not 11." [YT:V6r7UqxJ53s@3:23:59](https://www.youtube.com/watch?v=V6r7UqxJ53s&t=12239s)
+- On Lent as a DLI hub: "I don't think anything could compel me to change my mind over doubling down on a decision that, that has that much of an environmental impact on our— the health of our students." [YT:V6r7UqxJ53s@3:09:58](https://www.youtube.com/watch?v=V6r7UqxJ53s&t=11398s)
+- On the hub model: "No one wants this, and I'm wondering why we're not— why are we doubling down on this and not doing it, uh, co-located." [YT:V6r7UqxJ53s@3:10:13](https://www.youtube.com/watch?v=V6r7UqxJ53s&t=11413s)
+- On King's Mandarin program: "if the data demonstrates that our Black students are making strong academic gains at King, we need to seriously consider whether the risks of moving the program outweigh the benefits." [YT:V6r7UqxJ53s@3:18:29](https://www.youtube.com/watch?v=V6r7UqxJ53s&t=11909s)
+- Nov 4: "I'm just struggling with why we're leaving focus options intact that are primarily in one area of the city and closing neighborhood schools." [YT:9kX3vnfRlvY@4:17:09](https://www.youtube.com/watch?v=9kX3vnfRlvY&t=15429s) Also: "I had maple wood and almond rose on my list, but I don't have to bring that up now." [YT:9kX3vnfRlvY@4:30:45](https://www.youtube.com/watch?v=9kX3vnfRlvY&t=16245s) (caption text; probably Maplewood and Alpenrose).
+
+**Toward a yes (Nov 17)**
+- "a couple of amendments I'm considering making, actually that I will be making, so that I can get to a yes." [YT:hbSByH9nzfA@3:49:24](https://www.youtube.com/watch?v=hbSByH9nzfA&t=13764s)
+- "It sort of felt like here's your option and here's the variation on a theme versus a couple of two distinct options." [YT:hbSByH9nzfA@3:49:24](https://www.youtube.com/watch?v=hbSByH9nzfA&t=13764s)
+- "I'm really still struggling with, with the hub model ... I'm just not quite there yet." [YT:hbSByH9nzfA@3:50:46](https://www.youtube.com/watch?v=hbSByH9nzfA&t=13846s). On transport times: "when I see an average time of 30 minutes, I'm like, that means a bunch of kids are traveling an hour." She is considering boundary-exception amendments [YT:hbSByH9nzfA@3:50:46](https://www.youtube.com/watch?v=hbSByH9nzfA&t=13846s).
+- To the superintendent: "My goal is that you're supportive of whatever I bring forward" [YT:hbSByH9nzfA@3:58:08](https://www.youtube.com/watch?v=hbSByH9nzfA&t=14288s).
+- On amendment vetting: a board vote to have an amendment vetted "is not something I'm comfortable with." [YT:hbSByH9nzfA@3:16:59](https://www.youtube.com/watch?v=hbSByH9nzfA&t=11819s)
+
+**Oversight and trust**
+- Nov 17, financial reporting: "I'm I'm real frustrated with that cadence"; "I just don't want a repeat of last year where we're surprised" [YT:hbSByH9nzfA@1:46:38](https://www.youtube.com/watch?v=hbSByH9nzfA&t=6398s). A state PERS buy-down "would be 22.5 million" for PPS [YT:hbSByH9nzfA@1:48:20](https://www.youtube.com/watch?v=hbSByH9nzfA&t=6500s).
+- Signal: she co-wrote the independent version with Engelsman [NEWS:NEWS-20261112-oregonian-1](https://www.oregonlive.com/education/2026/11/two-pps-board-members-push-for-independent-investigation-of-signal-use.html). Of the chair's draft: it "felt like the purpose was to find out who had given information," [NEWS:NEWS-20261113-oregonian-2](https://www.oregonlive.com/education/2026/11/pps-board-approves-independent-investigation-into-use-of-disappearing-message-apps.html). She asked for a "demonstrably independent" process [NEWS:NEWS-20261113-opb-1](https://www.opb.org/article/2026/11/13/portland-public-schools-signal-reports-investigation/).
+- Oct 23: she and Chase-Miller jointly rejected the claims that closures serve a national privatization agenda [NEWS:NEWS-20261023-oregonian-1](https://www.oregonlive.com/education/2026/10/portlands-school-closure-plan-sparks-claims-of-a-neoliberal-national-agenda-whats-really-going-on.html).
+
+**What matters most to her now**
+1. The Spanish DLI hub model and Latino families; Lent's freeway location.
+2. King's Mandarin program and outcomes for Black students.
+3. Travel times: the longest rides, not the average.
+4. The "too many schools" premise, density, and state underfunding.
+5. Fiscal oversight: quarterly reports, reserves.
+
+**Weak points (Analysis)**
+- *Her density metric is her own rough estimate* ("this is extremely crude" [YT:V6r7UqxJ53s@3:21:40](https://www.youtube.com/watch?v=V6r7UqxJ53s&t=12100s)). It explains why walkability matters, but not why PPS can staff 81 buildings when Beaverton runs 53 for a similar enrollment [YT:9kX3vnfRlvY@4:40:57](https://www.youtube.com/watch?v=9kX3vnfRlvY&t=16857s).
+- *Lent outcomes.* The Oregonian's analysis finds Lent's Latino students' proficiency rose after it became a whole-school immersion site (math 18%→26%, ELA 18%→34%) [NEWS:NEWS-20261031-oregonian-1](https://www.oregonlive.com/education/2026/10/plan-to-reshape-spanish-immersion-emerges-as-a-flashpoint-for-portland-school-closures.html). That cuts against her hub objection. Her air-quality objection is untested in the archive: she says the posted study was done during COVID [YT:V6r7UqxJ53s@3:06:21](https://www.youtube.com/watch?v=V6r7UqxJ53s&t=11181s).
+- *"No one wants this."* The same article reports César Chávez PTA leaders supporting the move [NEWS:NEWS-20261031-oregonian-1](https://www.oregonlive.com/education/2026/10/plan-to-reshape-spanish-immersion-emerges-as-a-flashpoint-for-portland-school-closures.html).
+- *"Maybe a couple".* That count is below every option on the table and below what Res. 7296's thresholds imply. She voted against Res. 7296, so this is consistent for her, but it is a no on any realistic package.
+
+**Contradictions (new since October)**
+1. *"Definitely not 11" (Nov 10) vs "so that I can get to a yes" (Nov 17)* on a recommendation that closes 10 elementary schools plus the East Sylvan building. Either her amendments are large or her count has softened.
+2. *"I don't think anything could compel me" on Lent vs "my goal is that you're supportive of whatever I bring forward".* Removing Lent as a hub is the kind of change staff say cascades through the North Portland moves.
+3. *Hard no on "too many buildings" (Oct 25 reel) vs "we don't have too many buildings" (Nov 10).* The first objects to A's count; the second rejects the premise. Analysis: the second is the stronger position, and it is hard to square with a yes on any package.
+
+**Read for Dec 15 (Analysis):** about 30% yes. A yes needs at least the hub/Lent issue and transport-time exceptions addressed. The Nov 17 "get to a yes" line is the first sign she is looking for a way to vote for it.
+
+## Bottom line (October 2026)
 
 **Current score (Oct 11, 2026): 0. Range: −1 to +1.**
 
@@ -108,6 +156,12 @@ Scores answer the question: if the Dec 15 vote were held that day, how likely is
 | 2026-10-20 | "I think because the whole plan hinges on the Spanish DLI programs, like it basically is the anchor for moving everybody." [YT:xByUlijpcnE@6:20:03](https://www.youtube.com/watch?v=xByUlijpcnE&t=22803s); "I just feel like there's got to be a compromise. There's got to be a better way." [YT:xByUlijpcnE@6:22:50](https://www.youtube.com/watch?v=xByUlijpcnE&t=22970s) | −1 | DLI hub objection; wants a compromise. |
 | 2026-10-20 | "I have a very hard time believing that we can pull this off. I'm not saying that we can't, I'm just saying like, I'm not sold." [YT:xByUlijpcnE@6:28:33](https://www.youtube.com/watch?v=xByUlijpcnE&t=23313s) | −1 | Not sold on A/B scale. |
 | 2026-10-20 | "I want to make it with this board. I am worried that we're not going to get there with the community by December 17th" [YT:xByUlijpcnE@6:29:13](https://www.youtube.com/watch?v=xByUlijpcnE&t=23353s); "Is there any flexibility? Maybe I'm not asking for an answer right now to give ourselves just a little breathing room." [YT:xByUlijpcnE@6:29:30](https://www.youtube.com/watch?v=xByUlijpcnE&t=23370s) | −1 | **New:** asks about moving the vote date; still wants action this school year. |
+| 2026-11-04 | "I'm just struggling with why we're leaving focus options intact that are primarily in one area of the city and closing neighborhood schools." [YT:9kX3vnfRlvY@4:17:09](https://www.youtube.com/watch?v=9kX3vnfRlvY&t=15429s); "I had maple wood and almond rose on my list" [YT:9kX3vnfRlvY@4:30:45](https://www.youtube.com/watch?v=9kX3vnfRlvY&t=16245s) | **−1** | Focus options vs neighborhood schools |
+| 2026-11-10 | TLE: "I don't think anything could compel me to change my mind over doubling down on a decision that, that has that much of an environmental impact" [YT:V6r7UqxJ53s@3:09:58](https://www.youtube.com/watch?v=V6r7UqxJ53s&t=11398s); hub model: "No one wants this" [YT:V6r7UqxJ53s@3:10:13](https://www.youtube.com/watch?v=V6r7UqxJ53s&t=11413s) | **−2** | Firm no on Lent as a hub |
+| 2026-11-10 | TLE: "this narrative that we have too many schools ... I don't think that it's true." [YT:V6r7UqxJ53s@3:21:40](https://www.youtube.com/watch?v=V6r7UqxJ53s&t=12100s); "it's definitely not 14 and it's definitely not 11." [YT:V6r7UqxJ53s@3:23:59](https://www.youtube.com/watch?v=V6r7UqxJ53s&t=12239s) | **−2** | Rejects the premise |
+| 2026-11-12 | Co-writes the independent Signal inquiry with Engelsman [NEWS:NEWS-20261112-oregonian-1](https://www.oregonlive.com/education/2026/11/two-pps-board-members-push-for-independent-investigation-of-signal-use.html); on the chair's draft: "felt like the purpose was to find out who had given information," [NEWS:NEWS-20261113-oregonian-2](https://www.oregonlive.com/education/2026/11/pps-board-approves-independent-investigation-into-use-of-disappearing-message-apps.html) | n/s | Trust and transparency; not scored |
+| 2026-11-17 | "a couple of amendments I'm considering making, actually that I will be making, so that I can get to a yes." [YT:hbSByH9nzfA@3:49:24](https://www.youtube.com/watch?v=hbSByH9nzfA&t=13764s) | **0** | First explicit path to yes |
+| 2026-11-17 | "I'm really still struggling with, with the hub model ... I'm just not quite there yet." [YT:hbSByH9nzfA@3:50:46](https://www.youtube.com/watch?v=hbSByH9nzfA&t=13846s) | **−1** | Hub model still the obstacle |
 
 **Context votes (not scored; not closure-specific):**
 - 2026-06-23: no on the $13.12M school-staffing restoration (failed 1–6); yes on the 2026-27 budget [BB:3998082 p.4–5](https://meetings.boardbook.org/Documents/DownloadPDF/3998082?org=915#page=4).
@@ -251,12 +305,9 @@ Scores answer the question: if the Dec 15 vote were held that day, how likely is
 
 ## Watch items before 12/15
 
-- **10/13 TLE (she chairs): DLI and middle grades** [BB:14511742 p.45](https://meetings.boardbook.org/Documents/DownloadPDF/14511742?org=915#page=45). Watch whether she brings back the K-8 retention question [YT:5RMfvT-sAPU@2:44:38](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=9878s) or presses ACCESS/TAG data.
-- **10/20 board meeting and executive session on real estate** [YT:zOUH2Jq7Owo@4:20:39](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=15639s). Listen for questions about Peninsula and closed-building reuse, consistent with her FIO interest in what happens to empty buildings.
-- **11/4 board (feedback summary), 11/9 FIO, 11/10 TLE (she chairs)** [BB:14511742 p.45](https://meetings.boardbook.org/Documents/DownloadPDF/14511742?org=915#page=45). Watch for her North/Northeast "school desert" framing, and for whether she signals what savings level she can accept.
-- **11/17 superintendent recommendation + fiscal impact statement + staffing plan** [YT:zOUH2Jq7Owo@3:52:48](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=13968s) [YT:zOUH2Jq7Owo@3:46:14](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=13574s). This is the pivotal moment for her. Listen for:
-  - whether she calls the statement sufficient;
-  - whether Peninsula, Sabin or Irvington changed;
-  - any Tubman/new-middle-school language.
-- **12/15 vote.** She is an amendment-writer: she moved the A–F amendment on 4/14 and the OIPA and bond-audit amendments in June and September. Expect her to move or second targeted amendments (Peninsula, Skyline, ACCESS) before the final vote. Whether they pass may decide her vote.
-- **Vote date.** Watch whether she (or Engelsman) moves to postpone the Dec 15 vote, or whether staff offer a phased timeline instead [YT:xByUlijpcnE@6:29:30](https://www.youtube.com/watch?v=xByUlijpcnE&t=23370s).
+*(Updated Nov 19, 2026. The October items have happened; see the update above.)*
+- **Nov 23 (the Monday she named) and Nov 30.** She said she could have her amendments ready by Monday [YT:hbSByH9nzfA@3:50:46](https://www.youtube.com/watch?v=hbSByH9nzfA&t=13846s). Watch for a Lent or hub amendment, transport-time boundary exceptions, and King Mandarin.
+- **King data.** She requested outcomes for Black students in and outside King's Mandarin program [YT:V6r7UqxJ53s@3:18:29](https://www.youtube.com/watch?v=V6r7UqxJ53s&t=11909s).
+- **Dec 2 TLE (she chairs).** She kept the agenda light for an "amendment workshop" [YT:hbSByH9nzfA@4:03:04](https://www.youtube.com/watch?v=hbSByH9nzfA&t=14584s).
+- **Dec 11 Signal report.** She co-wrote the inquiry; a finding against leadership would harden her.
+- **Dec 15.** Her vote depends on whether her amendments pass. A no on the main motion is still the default.

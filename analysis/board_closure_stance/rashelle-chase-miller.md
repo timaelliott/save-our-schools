@@ -1,4 +1,4 @@
-# Rashelle Chase-Miller: closure stance (Jan 2025 → Oct 2026)
+# Rashelle Chase-Miller: closure stance (Jan 2025 → Nov 2026)
 
 - **Seat:** Zone 4 (North Portland). Elected May 2025, defeating incumbent Herman Greene with about 60% [NEWS:NEWS-20250527-wweek-1](https://www.wweek.com/news/schools/2025/05/27/portland-election-results-show-the-portland-association-of-teachers-power/). PAT-endorsed [NEWS:NEWS-20250324-wweek-1](https://www.wweek.com/news/schools/2025/03/24/teachers-union-endorses-four-portland-school-board-candidates/).
 - **Roles:**
@@ -16,7 +16,45 @@
   - News index.
   - Captions often render her name as "Michelle Chase Miller", "Rochelle Cizmar" or "Relle". Many 2026 go-around remarks are attributed by seat order and are marked *(medium)*.
 
-## Bottom line
+
+## Where she stands now (updated Nov 19, 2026)
+
+**Current score: +2 (unchanged). Range +1.5 to +2. Likely Dec 15 vote: yes, and she wants Dec 15 to be the final vote.**
+
+*Context since Oct 20:* the Nov 4 feedback meeting; the Nov 9 Facilities (FIO) and Nov 10 Teaching, Learning and Enrollment (TLE) committees; the Nov 13 special meeting on Signal use (4–3 on which draft to start from, then 7–0) [MTG:2026-11-13/777890](https://meetings.boardbook.org/Public/Agenda/915?meeting=777890); the superintendent's recommendation, posted Nov 13 (10 elementary closures over two years plus the East Sylvan building; Maplewood, Stephenson, James John and Sellwood MS dropped; net recurring savings about $10.2M) [BB:14695483 p.2](https://meetings.boardbook.org/Documents/DownloadPDF/14695483?org=915#page=2) [BB:14695483 p.3](https://meetings.boardbook.org/Documents/DownloadPDF/14695483?org=915#page=3); and the Nov 17 work session [MTG:2026-11-17/777711](https://meetings.boardbook.org/Public/Agenda/915?meeting=777711). Amendments are due Nov 30, the board discusses them Dec 1, and the vote is Dec 15 [YT:hbSByH9nzfA@4:01:49](https://www.youtube.com/watch?v=hbSByH9nzfA&t=14509s) [BB:14695483 p.4](https://meetings.boardbook.org/Documents/DownloadPDF/14695483?org=915#page=4).
+
+**Strongest statements for closing schools**
+- Nov 17: "it would be great if the vote on the 15th could be the vote and we don't have to come back later in December." [YT:hbSByH9nzfA@2:57:42](https://www.youtube.com/watch?v=hbSByH9nzfA&t=10662s)
+- Nov 17: "This is a business meeting. We need to do our business." [YT:hbSByH9nzfA@3:15:50](https://www.youtube.com/watch?v=hbSByH9nzfA&t=11750s); "And then, 'cause then we can vote when we need to vote and get this over with." [YT:hbSByH9nzfA@3:16:28](https://www.youtube.com/watch?v=hbSByH9nzfA&t=11788s)
+- Oct 27, KATU, at the Lincoln open house: "I think we do need significant change, but I also know that folks are really wary about too much change at one time," [NEWS:NEWS-20261027-katu-1](https://katu.com/news/local/portland-public-schools-parents-question-closure-plans-as-board-leader-says-proposals-could-change). She predicted some listed schools might stay open and hoped for phasing over two or three years. The recommendation did both.
+- Oct 30: she criticized the timing of the city councilors' letter asking for a pause, noting that several councilors were on the Nov 3 ballot [NEWS:NEWS-20261030-opb-1](https://www.opb.org/article/2026/10/30/portland-schools-closure-city-councilors-ask-paus/).
+- The Oregonian describes her as a supporter of the Spanish DLI hubs [NEWS:NEWS-20261031-oregonian-1](https://www.oregonlive.com/education/2026/10/plan-to-reshape-spanish-immersion-emerges-as-a-flashpoint-for-portland-school-closures.html) and as a strong supporter of closures [NEWS:NEWS-20261109-oregonian-1](https://www.oregonlive.com/education/2026/11/families-say-special-education-students-have-been-an-afterthought-amid-pps-school-closure-plans.html). Its Nov 13 count lists her as a yes [NEWS:NEWS-20261113-oregonian-1](https://www.oregonlive.com/education/2026/11/after-weeks-of-uproar-pps-superintendent-will-recommend-plan-to-close-10-schools.html).
+
+**Her questions and conditions**
+- Nov 4, on well-resourced schools: "if we are successful in eliminating the structural deficit, what do we forecast for the future in these newly configured well-resourced schools?" [YT:9kX3vnfRlvY@5:29:29](https://www.youtube.com/watch?v=9kX3vnfRlvY&t=19769s) *(medium)*.
+- Nov 10 TLE, special education: "do we have a plan to support the CRIS students with physical disabilities that can't access the second floor of their new building?" [YT:V6r7UqxJ53s@2:16:17](https://www.youtube.com/watch?v=V6r7UqxJ53s&t=8177s). She also asked why James John and Sitton get 16 paras for 95 students while Peninsula, César Chávez and Rosa Parks get 15 for 152 [YT:V6r7UqxJ53s@2:15:42](https://www.youtube.com/watch?v=V6r7UqxJ53s&t=8142s).
+- Nov 17, on the budget scenario in which schools still face about $42M in reductions: "Are we talking about larger class sizes or eliminating specials or cutting programs?" [YT:hbSByH9nzfA@1:53:37](https://www.youtube.com/watch?v=hbSByH9nzfA&t=6817s). And: "what does that mean if if we do move forward with right-sizing and what does it mean if we don't move forward with right-sizing?" [YT:hbSByH9nzfA@1:55:02](https://www.youtube.com/watch?v=hbSByH9nzfA&t=6902s)
+- Signal inquiry: on Nov 13 she voted against starting from the independent draft (4–3), then for the final (7–0) [NEWS:NEWS-20261113-wweek-1](https://www.wweek.com/news/schools/2026/11/13/portland-school-board-unanimously-authorizes-inquiry-into-signal-usage-at-pps/).
+- Oct 23: she and La Forte posted a joint statement rejecting the claims that the closures serve a national privatization agenda [NEWS:NEWS-20261023-oregonian-1](https://www.oregonlive.com/education/2026/10/portlands-school-closure-plan-sparks-claims-of-a-neoliberal-national-agenda-whats-really-going-on.html).
+
+**What matters most to her now**
+1. Finishing: one vote on Dec 15, with amendments filed early enough to be costed.
+2. What "well-resourced" will mean after the deficit.
+3. Special-education transitions, especially CRIS, and para staffing.
+4. The DLI hubs, and not adding burden to historically burdened North Portland communities.
+
+**Weak points (Analysis)**
+- *The 80% claim was made for Scenario A.* On Oct 21 she said A would put 80% of historically underserved students in fully resourced schools within five years [AUDIO:schmidt_show/2026-10-21_show-your-math_rashelle-chase-miller.transcript@0:41:23](https://github.com/timaelliott/save-our-schools/blob/main/sources/audio/schmidt_show/2026-10-21_show-your-math_rashelle-chase-miller.transcript.mp3). The recommendation closes fewer schools. On Nov 4, staff said "we're not going to necessarily see more" resources, only "some sustainability of program" [YT:9kX3vnfRlvY@4:40:21](https://www.youtube.com/watch?v=9kX3vnfRlvY&t=16821s). Her own Nov 17 question about a $42M school reduction shows "fully resourced" is not yet assured.
+- *CRIS at Glencoe is unresolved.* She raised second-floor access herself. On Nov 17 Engelsman said Glencoe is a two-story building, likely without an elevator [YT:hbSByH9nzfA@3:29:50](https://www.youtube.com/watch?v=hbSByH9nzfA&t=12590s). For a member who has made special education central, this is an open condition.
+- *Urgency vs open details.* Her "get this over with" comes while stop-by-stop bus routes, floor plans and special-education placements are still being requested by other members [YT:hbSByH9nzfA@3:22:53](https://www.youtube.com/watch?v=hbSByH9nzfA&t=12173s) [YT:hbSByH9nzfA@2:44:24](https://www.youtube.com/watch?v=hbSByH9nzfA&t=9864s).
+
+**Contradictions (new since October)**
+1. *Phasing vs speed.* On Oct 27 she said "folks are really wary about too much change at one time". On Nov 17 she wanted to "get this over with". Analysis: the recommendation's two-year phasing reconciles these for her: a single vote now, with change spread over time.
+2. *Pause requests.* She dismissed the city councilors' pause letter as election-timed [NEWS:NEWS-20261030-opb-1](https://www.opb.org/article/2026/10/30/portland-schools-closure-city-councilors-ask-paus/), while on Oct 27 she was telling parents the plan would change in response to them [NEWS:NEWS-20261027-katu-1](https://katu.com/news/local/portland-public-schools-parents-question-closure-plans-as-board-leader-says-proposals-could-change).
+
+**Read for Dec 15 (Analysis):** a near-certain yes (about 95%). She will support amendments that staff can cost before the vote and resist anything that pushes the decision past Dec 15.
+
+## Bottom line (October 2026)
 
 **Current score (Oct 2026): +1, range 0 to +2.** She is very likely (my estimate is about 80%) to vote to adopt an amended closure package on Dec 15. She is unlikely to adopt Scenario A or B exactly as written, and she has never argued for deferral or for no closures.
 
@@ -85,6 +123,13 @@ Scores answer the Dec-15 question as of that date (+2 strongly for adopting clos
 | 2026-10-20 | "So you guys can sit here and talk about you don't like this plan, and it's too much, and it's too soon, and it's too fast. It is over[due] for so many of our kids." [YT:xByUlijpcnE@5:13:26](https://www.youtube.com/watch?v=xByUlijpcnE&t=18806s); "The privilege in doing nothing is wild." [YT:xByUlijpcnE@5:14:08](https://www.youtube.com/watch?v=xByUlijpcnE&t=18848s) | +2 | Rejects 'too much, too fast' objections outright. |
 | 2026-10-20 | "No one is coming to save us. This is our moment to make a change for our kids." [YT:xByUlijpcnE@5:15:43](https://www.youtube.com/watch?v=xByUlijpcnE&t=18943s) | +2 | Urges acting now; no state rescue. |
 | 2026-10-20 | "Hey Virginia, um, just so you know, Oklahoma City did 15 and Tulsa did 17 school closures." [YT:xByUlijpcnE@6:31:36](https://www.youtube.com/watch?v=xByUlijpcnE&t=23496s) | +2 | Counters the 'unprecedented scale' argument. |
+| 2026-10-27 | KATU: "I think we do need significant change, but I also know that folks are really wary about too much change at one time," [NEWS:NEWS-20261027-katu-1](https://katu.com/news/local/portland-public-schools-parents-question-closure-plans-as-board-leader-says-proposals-could-change) | **+2** | Expects changes and phasing, not delay |
+| 2026-10-30 | OPB: criticizes the timing of the city councilors' pause letter [NEWS:NEWS-20261030-opb-1](https://www.opb.org/article/2026/10/30/portland-schools-closure-city-councilors-ask-paus/) | **+2** | Rejects a pause |
+| 2026-11-04 | "if we are successful in eliminating the structural deficit, what do we forecast for the future in these newly configured well-resourced schools?" [YT:9kX3vnfRlvY@5:29:29](https://www.youtube.com/watch?v=9kX3vnfRlvY&t=19769s) *(medium)* | **+2** | Asks what the payoff is; does not question the premise |
+| 2026-11-10 | TLE: "do we have a plan to support the CRIS students with physical disabilities that can't access the second floor of their new building?" [YT:V6r7UqxJ53s@2:16:17](https://www.youtube.com/watch?v=V6r7UqxJ53s&t=8177s) | **+1** | Special-education condition |
+| 2026-11-13 | Signal special meeting: no on starting from the independent draft (4–3), yes on the final (7–0) [NEWS:NEWS-20261113-wweek-1](https://www.wweek.com/news/schools/2026/11/13/portland-school-board-unanimously-authorizes-inquiry-into-signal-usage-at-pps/) | n/s | Not a closure vote; not scored |
+| 2026-11-17 | "it would be great if the vote on the 15th could be the vote" [YT:hbSByH9nzfA@2:57:42](https://www.youtube.com/watch?v=hbSByH9nzfA&t=10662s); "get this over with" [YT:hbSByH9nzfA@3:16:28](https://www.youtube.com/watch?v=hbSByH9nzfA&t=11788s) | **+2** | Urgency |
+| 2026-11-17 | "Are we talking about larger class sizes or eliminating specials or cutting programs?" [YT:hbSByH9nzfA@1:53:37](https://www.youtube.com/watch?v=hbSByH9nzfA&t=6817s) | **+2** | Budget question; consolidation still framed as the way to protect schools |
 
 Attribution note for 10/6: the 3:24–3:29 turn is medium by seat order. The content strongly matches her: Woodlawn parent, a child with a physical disability whose neighborhood school is not accessible, and an educator [YT:zOUH2Jq7Owo@3:26:21](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=12381s).
 
@@ -240,14 +285,8 @@ Analysis: nothing in her record suggests she would vote to defer outright. She v
 
 ## Watch items before 12/15
 
-- **10/13 TLE (DLI and middle grades)** [BB:14511742 p.45](https://meetings.boardbook.org/Documents/DownloadPDF/14511742?org=915#page=45). César Chávez becomes the North Spanish-DLI hub and Vernon's and Faubion's middle grades move [BB:14509719 p.3](https://meetings.boardbook.org/Documents/DownloadPDF/14509719?org=915#page=3). Watch whether she defends cohort and identity concerns for Beach and James John DLI families, or accepts the hub logic.
-- **10/20 board meeting and the executive session on the real-estate portfolio** [YT:zOUH2Jq7Owo@4:20:39](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=15639s). Listen for her privatization and reuse conditions, and whether she co-sponsors the anti-charter policy floated on 10/6 [YT:zOUH2Jq7Owo@4:24:45](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=15885s).
-- **11/4 feedback summary.** Does it disaggregate North and Northeast Portland, immigrant and SPED input, which was her April condition? Does she call it out if not?
-- **11/9 FIO and 11/10 TLE rightsizing.** Seismic or retrofit facts on Marysville and Woodmere, and building-condition rankings for receiving schools.
-- **11/17 superintendent's recommendation** [BB:14511742 p.45](https://meetings.boardbook.org/Documents/DownloadPDF/14511742?org=915#page=45):
-  1. the fiscal impact statement (does she lean on "sustainable baseline" if savings are small?);
-  2. the staffing plan ("where the adults go");
-  3. the Res. 7307 "well-resourced" descriptions and equity impact analysis;
-  4. whether all four Jefferson/Roosevelt closures survive. Any North Portland change she asks for will be the clearest sign of how she plans to amend.
-- **12/15 vote.** As Vice-Chair, does she move or second the recommendation, as she did for 7296 and 7307? Does she offer amendments ("massaging") or vote against others' amendments, as on 4/14?
-- **Outside pressure.** PAT, which endorsed her [NEWS:NEWS-20250324-wweek-1](https://www.wweek.com/news/schools/2025/03/24/teachers-union-endorses-four-portland-school-board-candidates/), whose president attacked plans "threatening to close up to 20 schools" on 9/1 (per `analysis/meetings/2026-09-01_5RMfvT-sAPU.md`). Also North Portland school communities. Watch whether she starts using "teachers' voices" as a reason to slow down.
+*(Updated Nov 19, 2026. The October items have happened; see the update above.)*
+- **CRIS at Glencoe.** Does staff confirm an elevator or another accessible plan before Dec 1 [YT:V6r7UqxJ53s@2:16:17](https://www.youtube.com/watch?v=V6r7UqxJ53s&t=8177s) [YT:hbSByH9nzfA@3:29:50](https://www.youtube.com/watch?v=hbSByH9nzfA&t=12590s)? This is the clearest special-education condition she has raised.
+- **Nov 30 and Dec 1.** She proposed a shared folder of draft amendments [YT:hbSByH9nzfA@3:53:58](https://www.youtube.com/watch?v=hbSByH9nzfA&t=14038s). Watch which amendments she supports; she is likely to back cost-neutral special-education and transport fixes.
+- **Dec 11 Signal report.** She voted with Wang and DePass on Nov 13.
+- **Dec 15.** Expect a yes and resistance to any motion that moves the vote later.
